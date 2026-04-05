@@ -1,0 +1,381 @@
+/* ============================================================
+   Menge-Bibel Annotationsprojekt — Zentrales Stylesheet
+   Farben hier ändern wirkt auf alle Seiten gleichzeitig.
+   ============================================================ */
+
+/* --- Grundfarben & Annotationen --- */
+:root {
+  --farbe-jesus:       #a0251c;
+  --farbe-jesus-bg:    rgba(160, 37, 28, 0.07);
+  --farbe-ot:          #1a6b35;
+  --farbe-ot-bg:       rgba(26, 107, 53, 0.06);
+  --farbe-seite:       #f7f5f0;
+  --farbe-header:      #2c2416;
+  --farbe-header-text: #e8e0d0;
+  --farbe-gold:        #c9a96e;
+  --farbe-text:        #1a1408;
+  --farbe-sidebar:     #f0ebe2;
+  --farbe-border:      #ddd8ce;
+  --schrift-text:      Georgia, 'Times New Roman', serif;
+  --schrift-ui:        -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+/* --- Reset --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--farbe-seite);
+  color: var(--farbe-text);
+  font-family: var(--schrift-text);
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* --- Header --- */
+.site-header {
+  background: var(--farbe-header);
+  color: var(--farbe-header-text);
+  padding: 0 2rem;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.site-title {
+  font-family: var(--schrift-text);
+  font-size: 15px;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  color: var(--farbe-header-text);
+  text-decoration: none;
+}
+.site-title em { color: var(--farbe-gold); font-style: normal; }
+.site-nav { display: flex; gap: 1.5rem; }
+.site-nav a {
+  font-family: var(--schrift-ui);
+  font-size: 12px;
+  color: #a09080;
+  text-decoration: none;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.site-nav a:hover { color: var(--farbe-header-text); }
+
+/* --- Layout --- */
+.layout {
+  display: grid;
+  grid-template-columns: 220px 1fr 200px;
+  max-width: 1140px;
+  margin: 0 auto;
+  min-height: calc(100vh - 56px - 52px);
+}
+
+/* --- Linke Sidebar (Buchnavigation) --- */
+.sidebar-nav {
+  background: var(--farbe-sidebar);
+  border-right: 1px solid var(--farbe-border);
+  padding: 2rem 1.25rem;
+  position: sticky;
+  top: 56px;
+  height: calc(100vh - 56px);
+  overflow-y: auto;
+}
+.sidebar-nav h4 {
+  font-family: var(--schrift-ui);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 0.75rem;
+  margin-top: 1.25rem;
+}
+.sidebar-nav h4:first-child { margin-top: 0; }
+.book-list { list-style: none; }
+.book-list li { margin-bottom: 1px; }
+.book-list a {
+  font-family: var(--schrift-ui);
+  font-size: 13px;
+  color: #5a4e3c;
+  text-decoration: none;
+  display: block;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+.book-list a:hover { background: #e0d8cc; }
+.book-list a.aktiv {
+  background: var(--farbe-header);
+  color: var(--farbe-header-text);
+}
+.kapitel-liste {
+  list-style: none;
+  padding-left: 12px;
+  margin: 2px 0 4px;
+}
+.kapitel-liste a {
+  font-size: 12px;
+  color: #999;
+  padding: 2px 8px;
+}
+.kapitel-liste a:hover { background: #e0d8cc; color: #5a4e3c; }
+.kapitel-liste a.aktiv {
+  background: rgba(201,169,110,0.15);
+  color: #5a4e3c;
+  font-weight: 500;
+}
+
+/* --- Hauptinhalt --- */
+.main-content {
+  background: #fff;
+  padding: 2.5rem 3rem;
+  border-right: 1px solid var(--farbe-border);
+  max-width: 720px;
+}
+
+.kapitel-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--farbe-border);
+}
+.kapitel-label {
+  font-family: var(--schrift-ui);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--farbe-gold);
+  margin-bottom: 0.4rem;
+}
+.kapitel-titel {
+  font-size: 26px;
+  font-weight: normal;
+  color: var(--farbe-text);
+  line-height: 1.3;
+  margin-bottom: 0.4rem;
+}
+.kapitel-untertitel {
+  font-family: var(--schrift-ui);
+  font-size: 13px;
+  color: #999;
+  font-style: italic;
+}
+
+/* --- Legende --- */
+.legende {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  padding: 0.5rem 0.9rem;
+  background: #faf8f4;
+  border: 1px solid var(--farbe-border);
+  border-radius: 6px;
+  margin-bottom: 2rem;
+  font-family: var(--schrift-ui);
+  font-size: 12px;
+  color: #666;
+}
+.legende span { display: flex; align-items: center; gap: 6px; }
+.punkt { width: 9px; height: 9px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+.punkt-rot   { background: var(--farbe-jesus); }
+.punkt-gruen { background: var(--farbe-ot); }
+
+/* --- Bibeltext --- */
+.bibeltext {
+  font-size: 16px;
+  line-height: 2;
+  color: var(--farbe-text);
+}
+.bibeltext p { margin-bottom: 0.9rem; }
+
+.abschnitt-kopf {
+  font-family: var(--schrift-ui);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #bbb;
+  margin: 2.5rem 0 0.6rem;
+  padding-left: 8px;
+  border-left: 2px solid var(--farbe-border);
+}
+.abschnitt-titel {
+  font-family: var(--schrift-ui);
+  font-size: 14px;
+  color: #888;
+  font-style: italic;
+  margin: 0.2rem 0 0.6rem;
+}
+
+/* --- Versnummer --- */
+.vn {
+  font-family: var(--schrift-ui);
+  font-size: 10px;
+  font-weight: 600;
+  vertical-align: super;
+  color: #ccc;
+  margin-right: 1px;
+  user-select: none;
+}
+
+/* --- Farbmarkierungen (hier zentral ändern) --- */
+.jesus {
+  color: var(--farbe-jesus);
+  background: var(--farbe-jesus-bg);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.at {
+  color: var(--farbe-ot);
+  background: var(--farbe-ot-bg);
+  border-radius: 2px;
+  padding: 0 1px;
+}
+.at a {
+  color: var(--farbe-ot);
+  font-family: var(--schrift-ui);
+  font-size: 11px;
+  text-decoration: none;
+  border-bottom: 1px dotted var(--farbe-ot);
+  margin-left: 3px;
+  white-space: nowrap;
+}
+.at a:hover { border-bottom-style: solid; }
+
+/* --- Rechte Sidebar (Inhaltsverzeichnis) --- */
+.sidebar-toc {
+  padding: 2rem 1.25rem;
+  position: sticky;
+  top: 56px;
+  height: calc(100vh - 56px);
+  overflow-y: auto;
+}
+.sidebar-toc h4 {
+  font-family: var(--schrift-ui);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 0.75rem;
+}
+.toc-liste { list-style: none; }
+.toc-liste li { margin-bottom: 4px; }
+.toc-liste a {
+  font-family: var(--schrift-ui);
+  font-size: 12px;
+  color: #999;
+  text-decoration: none;
+  display: block;
+  line-height: 1.4;
+  padding: 2px 0;
+}
+.toc-liste a:hover { color: var(--farbe-text); }
+.toc-liste a.aktiv { color: var(--farbe-gold); }
+
+.kapitel-nav {
+  display: flex;
+  gap: 8px;
+  margin-top: 1.5rem;
+}
+.kapitel-nav a {
+  font-family: var(--schrift-ui);
+  font-size: 12px;
+  color: #888;
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 1px solid var(--farbe-border);
+  border-radius: 4px;
+  background: #fff;
+}
+.kapitel-nav a:hover { background: var(--farbe-sidebar); }
+
+/* --- Footer --- */
+.site-footer {
+  background: var(--farbe-header);
+  color: #6a5e4e;
+  text-align: center;
+  padding: 1rem 2rem;
+  font-family: var(--schrift-ui);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  line-height: 1.8;
+}
+.site-footer a { color: #a09080; text-decoration: none; }
+.site-footer a:hover { color: var(--farbe-header-text); }
+
+/* --- Index-Seite --- */
+.index-content {
+  background: #fff;
+  padding: 3rem;
+  grid-column: 2 / 4;
+}
+.index-content h1 {
+  font-size: 32px;
+  font-weight: normal;
+  margin-bottom: 0.5rem;
+  color: var(--farbe-text);
+}
+.index-content .untertitel {
+  font-family: var(--schrift-ui);
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 2rem;
+}
+.index-content h2 {
+  font-family: var(--schrift-ui);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #bbb;
+  margin: 2rem 0 0.75rem;
+  padding-left: 8px;
+  border-left: 2px solid var(--farbe-border);
+}
+.index-content p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #444;
+  max-width: 640px;
+  margin-bottom: 1rem;
+}
+.index-content a { color: var(--farbe-ot); }
+.buch-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 8px;
+  margin-top: 0.75rem;
+  max-width: 640px;
+}
+.buch-karte {
+  display: block;
+  padding: 12px 14px;
+  background: var(--farbe-sidebar);
+  border: 1px solid var(--farbe-border);
+  border-radius: 6px;
+  text-decoration: none;
+  font-family: var(--schrift-ui);
+  font-size: 13px;
+  color: #5a4e3c;
+}
+.buch-karte:hover { background: #e0d8cc; }
+.buch-karte.bald {
+  color: #bbb;
+  cursor: default;
+  pointer-events: none;
+}
+.buch-karte span {
+  display: block;
+  font-size: 10px;
+  color: var(--farbe-gold);
+  margin-top: 2px;
+  letter-spacing: 0.06em;
+}
+.buch-karte.bald span { color: #ccc; }
+
+/* --- Responsive --- */
+@media (max-width: 900px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar-nav, .sidebar-toc { display: none; }
+  .main-content { padding: 1.5rem; border: none; }
+  .index-content { grid-column: 1; padding: 1.5rem; }
+}

@@ -1,0 +1,116 @@
+{
+  "buch": "Markus",
+  "kapitel": 1,
+  "titel": "Die Heilsbotschaft nach Markus",
+  "abschnitte": [
+    { "id": "einleitung", "vers_von": 1, "vers_bis": 13, "titel": "Einleitung: Die Vorbereitung" },
+    { "id": "galilaea",   "vers_von": 14, "vers_bis": 45, "titel": "I. Die Anfänge der Wirksamkeit Jesu in Galiläa" }
+  ],
+  "markierungen": [
+    {
+      "vers": 2,
+      "typ": "at",
+      "text_start": "Wie beim Propheten Jesaja geschrieben steht",
+      "text_end": "herrichten soll",
+      "referenz": "Mal 3,1",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,1"
+    },
+    {
+      "vers": 3,
+      "typ": "at",
+      "text_start": "eine Stimme ruft in der Wüste",
+      "text_end": "seine Pfade",
+      "referenz": "Jes 40,3",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,3"
+    },
+    {
+      "vers": 6,
+      "typ": "at",
+      "text_start": "Johannes trug aber ein Fell",
+      "text_end": "um seine Hüften",
+      "referenz": "2. Kön 1,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige1,8"
+    },
+    {
+      "vers": 7,
+      "typ": "jesus",
+      "text_start": "Nach mir kommt der",
+      "text_end": "Schuhriemen aufzulösen."
+    },
+    {
+      "vers": 8,
+      "typ": "jesus",
+      "text_start": "Ich habe euch",
+      "text_end": "taufen."
+    },
+    {
+      "vers": 11,
+      "typ": "at",
+      "text_start": "Du bist mein geliebter Sohn",
+      "text_end": "gefunden!",
+      "referenz": "Ps 2,7 / Jes 42,1",
+      "vgl": false,
+      "urls": [
+        { "label": "Ps 2,7",   "url": "https://www.bibleserver.com/MENG/Psalm2,7" },
+        { "label": "Jes 42,1", "url": "https://www.bibleserver.com/MENG/Jesaja42,1" }
+      ]
+    },
+    {
+      "vers": 15,
+      "typ": "jesus",
+      "text_start": "Die Zeit ist erfüllt",
+      "text_end": "Heilsbotschaft!"
+    },
+    {
+      "vers": 15,
+      "typ": "at",
+      "text_start": "Die Zeit ist erfüllt und das Reich Gottes nahe herbeigekommen",
+      "text_end": "herbeigekommen",
+      "referenz": "Dan 2,44",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,44"
+    },
+    {
+      "vers": 17,
+      "typ": "jesus",
+      "text_start": "Kommt, folgt mir nach",
+      "text_end": "machen!"
+    },
+    {
+      "vers": 25,
+      "typ": "jesus",
+      "text_start": "Verstumme und fahre aus von ihm",
+      "text_end": "ihm!"
+    },
+    {
+      "vers": 38,
+      "typ": "jesus",
+      "text_start": "Wir wollen anderswohin",
+      "text_end": "ausgezogen."
+    },
+    {
+      "vers": 41,
+      "typ": "jesus",
+      "text_start": "Ich will's: werde rein",
+      "text_end": "rein!"
+    },
+    {
+      "vers": 44,
+      "typ": "jesus",
+      "text_start": "Hüte dich, jemandem",
+      "text_end": "für sie!"
+    },
+    {
+      "vers": 44,
+      "typ": "at",
+      "text_start": "zeige dich dem Priester",
+      "text_end": "geboten hat",
+      "referenz": "3. Mo 14,2–32",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/3.Mose14,2"
+    }
+  ]
+}
