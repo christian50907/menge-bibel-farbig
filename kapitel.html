@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menge-Bibel — Annotationsprojekt</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <a class="site-title" href="index.html">Die Heilige Schrift &nbsp;·&nbsp; <em>Menge-Bibel</em></a>
+  <nav class="site-nav">
+    <a href="index.html">Übersicht</a>
+    <a href="index.html#ueber">Über das Projekt</a>
+  </nav>
+</header>
+
+<div class="layout">
+
+  <aside class="sidebar-nav" id="sidebar-nav">
+    <div style="font-family:var(--schrift-ui);font-size:13px;color:#bbb;padding:8px;">Lädt…</div>
+  </aside>
+
+  <main class="main-content" id="main-content">
+    <div style="font-family:var(--schrift-ui);font-size:14px;color:#bbb;padding:2rem;">
+      Bibeltext wird geladen…
+    </div>
+  </main>
+
+  <aside class="sidebar-toc" id="sidebar-toc">
+    <div style="font-family:var(--schrift-ui);font-size:13px;color:#bbb;">Lädt…</div>
+  </aside>
+
+</div>
+
+<footer class="site-footer">
+  Textgrundlage: <a href="https://github.com/renehamburger/Menge-Bibel" target="_blank">Menge-Bibel</a>
+  von Hermann Menge · gemeinfrei seit 2010 ·
+  <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.de" target="_blank">Public Domain Mark 1.0</a>
+  · AT-Links verweisen auf die
+  <a href="https://www.bibleserver.com/MENG" target="_blank">Menge-Version auf bibleserver.com</a>
+</footer>
+
+<script>
+// ─── Konfiguration ────────────────────────────────────────────────────────────
+const REPO_OWNER  = "christian50907";
+const REPO_NAME   = "menge-bibel";
+const QUELL_REPO  = "renehamburger/Menge-Bibel";
+
+// Mapping: Buch → Pfad im Quell-Repo und Dateipräfix für Annotationen
+const BUECHER = {
+  markus: {
+    quellpfad: "Bibel/Neues%20Testament/02%20-%20Markus.md",
+    anzeigename: "Markus",
+    kapitel: [1, 2]   // bereits annotierte Kapitel
+  }
+};
+
+// ─── URL-Parameter lesen ──────────────────────────────────────────────────────
+function getParams() {
+  const p = new URLSearchParams(location.search);
+  return {
+    buch:    p.get("buch")    || "markus",
+    kapitel: parseInt(p.get("kapitel") || "1")
+  };
+}
+
+// ─── Markdown-Vers-Extraktion ─────────────────────────────────────────────────
+// Der Menge-Bibel-Markdown hat folgendes Format pro Kapitel:
+//   **2**
+//   1Vers eins text 2Vers zwei text...
+// Wir extrahieren Verse als { nr: 1, text: "..." }
+function extrahiereKapitel(markdown, kapitelNr) {
+  // Kapitel-Marker: **N** gefolgt von Versen
+  const kapitelRegex = new RegExp(
+    `\\*\\*${kapitelNr}\\*\\*\\s*\\n([\\s\\S]*?)(?=\\n\\*\\*\\d+\\*\\*|$)`
+  );
+  const match = markdown.match(kapitelRegex);
+  if (!match) return [];
+
+  const block = match[1];
+  // Verse: Zahl direkt vor Text (ohne Leerzeichen), z.B. "1Die Heilsbotschaft..."
+  const verseRaw = block.split(/\n(?=\d+[A-ZÄÖÜ])/);
+  const verse = [];
+
+  for (const zeile of verseRaw) {
+    const vm = zeile.match(/^(\d+)([\s\S]+)/);
+    if (!vm) continue;
+    let text = vm[2]
+      .replace(/✲/g, "")           // Fußnotenzeichen entfernen
+      .replace(/\*\*/g, "")        // Markdown-Bold entfernen
+      .replace(/#{1,6}\s*/g, "")   // Markdown-Überschriften entfernen
+      .replace(/\n+/g, " ")        // Zeilenumbrüche zusammenführen
+      .trim();
+    if (text) verse.push({ nr: parseInt(vm[1]), text });
+  }
+  return verse;
+}
+
+// ─── Annotationen auf Vers-Text anwenden ─────────────────────────────────────
+function wendeMarkierungenAn(versText, markierungen) {
+  // Sortiere Markierungen: längste zuerst, um Überschneidungen zu vermeiden
+  const relevant = markierungen.slice().sort(
+    (a, b) => (b.text_end?.length || 0) - (a.text_end?.length || 0)
+  );
+
+  let html = escapeHtml(versText);
+
+  for (const m of relevant) {
+    const start = escapeHtml(m.text_start);
+    const end   = escapeHtml(m.text_end);
+
+    // Finde den Bereich von text_start bis text_end
+    const idxStart = html.indexOf(start);
+    if (idxStart === -1) continue;
+    const idxEnd = html.indexOf(end, idxStart);
+    if (idxEnd === -1) continue;
+    const idxEndFull = idxEnd + end.length;
+
+    const vorher  = html.slice(0, idxStart);
+    const inhalt  = html.slice(idxStart, idxEndFull);
+    const nachher = html.slice(idxEndFull);
+
+    // Referenz-Links bauen
+    let links = "";
+    if (m.typ === "at") {
+      if (m.urls) {
+        for (const u of m.urls) {
+          links += `<a href="${u.url}" target="_blank">(${u.label})</a> `;
+        }
+      } else if (m.url) {
+        const label = m.vgl ? `vgl. ${m.referenz}` : m.referenz;
+        links = `<a href="${m.url}" target="_blank">(${label})</a>`;
+      }
+    }
+
+    const klasse = m.typ === "jesus" ? "jesus" : "at";
+    html = vorher + `<span class="${klasse}">${inhalt}${links ? " " + links : ""}</span>` + nachher;
+  }
+  return html;
+}
+
+function escapeHtml(str) {
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+// ─── Sidebar Navigation aufbauen ─────────────────────────────────────────────
+function baueSidebar(buch, aktuellesKapitel) {
+  const info = BUECHER[buch];
+  let html = `<h4>${info.anzeigename}</h4><ul class="book-list">`;
+  for (const kap of info.kapitel) {
+    const aktiv = kap === aktuellesKapitel ? ' class="aktiv"' : '';
+    html += `<li><a href="kapitel.html?buch=${buch}&kapitel=${kap}"${aktiv}>Kapitel ${kap}</a></li>`;
+  }
+  html += `</ul><h4>Weitere Bücher</h4><ul class="book-list">`;
+  html += `<li><a href="index.html">← Zur Übersicht</a></li></ul>`;
+  return html;
+}
+
+// ─── Inhaltsverzeichnis rechts aufbauen ──────────────────────────────────────
+function baueToc(abschnitte, voriges, naechstes, buch) {
+  let html = `<h4>Abschnitte</h4><ul class="toc-liste">`;
+  for (const a of abschnitte) {
+    html += `<li><a href="#${a.id}">${a.titel}</a></li>`;
+  }
+  html += `</ul><div class="kapitel-nav">`;
+  if (voriges) html += `<a href="kapitel.html?buch=${buch}&kapitel=${voriges}">← Kap. ${voriges}</a>`;
+  if (naechstes) html += `<a href="kapitel.html?buch=${buch}&kapitel=${naechstes}">Kap. ${naechstes} →</a>`;
+  html += `</div>`;
+  return html;
+}
+
+// ─── Hauptfunktion ────────────────────────────────────────────────────────────
+async function ladeSeite() {
+  const { buch, kapitel } = getParams();
+  const info = BUECHER[buch];
+  if (!info) { document.getElementById("main-content").innerHTML = "<p>Buch nicht gefunden.</p>"; return; }
+
+  // Sidebar sofort aufbauen
+  document.getElementById("sidebar-nav").innerHTML = baueSidebar(buch, kapitel);
+
+  try {
+    // 1. Originaltext vom Quell-Repo laden (via GitHub raw)
+    const textUrl = `https://raw.githubusercontent.com/${QUELL_REPO}/master/${info.quellpfad}`;
+    const textRes = await fetch(textUrl);
+    if (!textRes.ok) throw new Error(`Text nicht ladbar: ${textRes.status}`);
+    const markdown = await textRes.text();
+
+    // 2. Annotationen vom eigenen Repo laden
+    const annoUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/annotationen/${buch}/kapitel-${kapitel}.json`;
+    const annoRes = await fetch(annoUrl);
+    if (!annoRes.ok) throw new Error(`Annotationen nicht ladbar: ${annoRes.status}`);
+    const anno = await annoRes.json();
+
+    // 3. Verse extrahieren
+    const verse = extrahiereKapitel(markdown, kapitel);
+    if (!verse.length) throw new Error(`Keine Verse gefunden für Kapitel ${kapitel}`);
+
+    // 4. HTML aufbauen
+    document.title = `${info.anzeigename} ${kapitel} — Menge-Bibel Annotationsprojekt`;
+
+    let html = `
+      <div class="kapitel-header">
+        <div class="kapitel-label">${info.anzeigename} &nbsp;·&nbsp; Kapitel ${kapitel}</div>
+        <h1 class="kapitel-titel">${anno.titel}</h1>
+        <div class="kapitel-untertitel">Übersetzt von Hermann Menge · Menge-Bibel (1926)</div>
+      </div>
+      <div class="legende">
+        <span><span class="punkt punkt-rot"></span> Worte Jesu</span>
+        <span><span class="punkt punkt-gruen"></span> Alttestamentlicher Bezug / Zitat</span>
+      </div>
+      <div class="bibeltext">`;
+
+    // Abschnitte und Verse rendern
+    let abschnittIdx = 0;
+    for (const vers of verse) {
+      // Neuen Abschnitt beginnen?
+      while (abschnittIdx < anno.abschnitte.length &&
+             vers.nr >= anno.abschnitte[abschnittIdx].vers_von) {
+        const a = anno.abschnitte[abschnittIdx];
+        html += `<div class="abschnitt-kopf" id="${a.id}">${a.titel}</div>`;
+        abschnittIdx++;
+      }
+
+      // Markierungen für diesen Vers filtern
+      const markierungen = anno.markierungen.filter(m => m.vers === vers.nr);
+
+      // Text mit Markierungen
+      const versHtml = markierungen.length
+        ? wendeMarkierungenAn(vers.text, markierungen)
+        : escapeHtml(vers.text);
+
+      html += `<p><span class="vn">${vers.nr}</span>${versHtml}</p>`;
+    }
+
+    html += `</div>`;
+    document.getElementById("main-content").innerHTML = html;
+
+    // Rechte Sidebar
+    const kapitelListe = info.kapitel;
+    const posIdx = kapitelListe.indexOf(kapitel);
+    const voriges   = posIdx > 0 ? kapitelListe[posIdx - 1] : null;
+    const naechstes = posIdx < kapitelListe.length - 1 ? kapitelListe[posIdx + 1] : null;
+    document.getElementById("sidebar-toc").innerHTML =
+      baueToc(anno.abschnitte, voriges, naechstes, buch);
+
+  } catch (err) {
+    document.getElementById("main-content").innerHTML =
+      `<div style="font-family:var(--schrift-ui);color:#c00;padding:2rem;">
+        Fehler beim Laden: ${err.message}
+      </div>`;
+    console.error(err);
+  }
+}
+
+ladeSeite();
+</script>
+</body>
+</html>

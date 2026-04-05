@@ -1,0 +1,100 @@
+{
+  "buch": "Markus",
+  "kapitel": 2,
+  "titel": "Zusammenstöße mit den Führern des Volkes",
+  "abschnitte": [
+    { "id": "gelaehmter", "vers_von": 1,  "vers_bis": 12, "titel": "1. Heilung eines Gelähmten — Jesus vergibt Sünden" },
+    { "id": "levi",       "vers_von": 13, "vers_bis": 17, "titel": "2. Berufung des Levi · Jesus bei Zöllnern" },
+    { "id": "fasten",     "vers_von": 18, "vers_bis": 22, "titel": "3. Die Fastenfrage" },
+    { "id": "sabbat",     "vers_von": 23, "vers_bis": 28, "titel": "4. Das Ährenraufen am Sabbat" }
+  ],
+  "markierungen": [
+    {
+      "vers": 5,
+      "typ": "jesus",
+      "text_start": "Mein Sohn, deine Sünden",
+      "text_end": "vergeben!"
+    },
+    {
+      "vers": 7,
+      "typ": "at",
+      "text_start": "Wie kann dieser so reden",
+      "text_end": "Gott allein?",
+      "referenz": "Jes 43,25",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,25"
+    },
+    {
+      "vers": 8,
+      "typ": "jesus",
+      "text_start": "Warum denkt ihr so",
+      "text_end": "vergeben"
+    },
+    {
+      "vers": 11,
+      "typ": "jesus",
+      "text_start": "Ich sage dir: Stehe auf",
+      "text_end": "dein Haus!"
+    },
+    {
+      "vers": 14,
+      "typ": "jesus",
+      "text_start": "Folge mir nach",
+      "text_end": "nach!"
+    },
+    {
+      "vers": 17,
+      "typ": "jesus",
+      "text_start": "Die Gesunden haben keinen Arzt nötig",
+      "text_end": "Sünder."
+    },
+    {
+      "vers": 17,
+      "typ": "at",
+      "text_start": "Die Gesunden haben keinen Arzt nötig",
+      "text_end": "die Kranken.",
+      "referenz": "Jes 61,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,1"
+    },
+    {
+      "vers": 19,
+      "typ": "jesus",
+      "text_start": "Können etwa die Hochzeitsgäste fasten",
+      "text_end": "neue Schläuche."
+    },
+    {
+      "vers": 19,
+      "typ": "at",
+      "text_start": "Bräutigam",
+      "text_end": "Bräutigam",
+      "referenz": "Jes 62,5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja62,5"
+    },
+    {
+      "vers": 25,
+      "typ": "jesus",
+      "text_start": "Habt ihr noch niemals gelesen",
+      "text_end": "über den Sabbat."
+    },
+    {
+      "vers": 25,
+      "typ": "at",
+      "text_start": "Habt ihr noch niemals gelesen, was David getan hat",
+      "text_end": "davon gab?",
+      "referenz": "1. Sam 21,2–7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel21,2"
+    },
+    {
+      "vers": 27,
+      "typ": "at",
+      "text_start": "Der Sabbat ist um des Menschen willen da",
+      "text_end": "Sabbats willen",
+      "referenz": "2. Mo 20,8–11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,8"
+    }
+  ]
+}
