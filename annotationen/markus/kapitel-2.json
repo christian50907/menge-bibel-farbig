@@ -9,92 +9,25 @@
     { "id": "sabbat",     "vers_von": 23, "vers_bis": 28, "titel": "4. Das Ährenraufen am Sabbat" }
   ],
   "markierungen": [
-    {
-      "vers": 5,
-      "typ": "jesus",
-      "text_start": "Mein Sohn, deine Sünden",
-      "text_end": "vergeben!"
-    },
-    {
-      "vers": 7,
-      "typ": "at",
-      "text_start": "Wie kann dieser so reden",
-      "text_end": "Gott allein?",
-      "referenz": "Jes 43,25",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Jesaja43,25"
-    },
-    {
-      "vers": 8,
-      "typ": "jesus",
-      "text_start": "Warum denkt ihr so",
-      "text_end": "vergeben"
-    },
-    {
-      "vers": 11,
-      "typ": "jesus",
-      "text_start": "Ich sage dir: Stehe auf",
-      "text_end": "dein Haus!"
-    },
-    {
-      "vers": 14,
-      "typ": "jesus",
-      "text_start": "Folge mir nach",
-      "text_end": "nach!"
-    },
-    {
-      "vers": 17,
-      "typ": "jesus",
-      "text_start": "Die Gesunden haben keinen Arzt nötig",
-      "text_end": "Sünder."
-    },
-    {
-      "vers": 17,
-      "typ": "at",
-      "text_start": "Die Gesunden haben keinen Arzt nötig",
-      "text_end": "die Kranken.",
-      "referenz": "Jes 61,1",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Jesaja61,1"
-    },
-    {
-      "vers": 19,
-      "typ": "jesus",
-      "text_start": "Können etwa die Hochzeitsgäste fasten",
-      "text_end": "neue Schläuche."
-    },
-    {
-      "vers": 19,
-      "typ": "at",
-      "text_start": "Bräutigam",
-      "text_end": "Bräutigam",
-      "referenz": "Jes 62,5",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Jesaja62,5"
-    },
-    {
-      "vers": 25,
-      "typ": "jesus",
-      "text_start": "Habt ihr noch niemals gelesen",
-      "text_end": "über den Sabbat."
-    },
-    {
-      "vers": 25,
-      "typ": "at",
-      "text_start": "Habt ihr noch niemals gelesen, was David getan hat",
-      "text_end": "davon gab?",
-      "referenz": "1. Sam 21,2–7",
-      "vgl": false,
-      "url": "https://www.bibleserver.com/MENG/1.Samuel21,2"
-    },
-    {
-      "vers": 27,
-      "typ": "at",
-      "text_start": "Der Sabbat ist um des Menschen willen da",
-      "text_end": "Sabbats willen",
-      "referenz": "2. Mo 20,8–11",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/2.Mose20,8"
-    }
+    { "vers": 5,  "typ": "jesus", "von": 65,  "bis": -1 },
+    { "vers": 7,  "typ": "at",    "von": 0,   "bis": -1,  "referenz": "Jes 43,25", "vgl": true, "url": "https://www.bibleserver.com/MENG/Jesaja43,25" },
+    { "vers": 8,  "typ": "jesus", "von": 97,  "bis": -1 },
+    { "vers": 9,  "typ": "jesus", "von": 0,   "bis": -1 },
+    { "vers": 10, "typ": "jesus", "von": 0,   "bis": 86 },
+    { "vers": 11, "typ": "jesus", "von": 0,   "bis": -1 },
+    { "vers": 14, "typ": "jesus", "von": 99,  "bis": 116 },
+    { "vers": 17, "typ": "jesus", "von": 40,  "bis": -1 },
+    { "vers": 17, "typ": "at",    "von": 40,  "bis": 101, "referenz": "Jes 61,1", "vgl": true, "url": "https://www.bibleserver.com/MENG/Jesaja61,1" },
+    { "vers": 19, "typ": "jesus", "von": 24,  "bis": -1 },
+    { "vers": 19, "typ": "at",    "von": 76,  "bis": 85,  "referenz": "Jes 62,5", "vgl": true, "url": "https://www.bibleserver.com/MENG/Jesaja62,5" },
+    { "vers": 20, "typ": "jesus", "von": 0,   "bis": -1 },
+    { "vers": 21, "typ": "jesus", "von": 0,   "bis": -1 },
+    { "vers": 22, "typ": "jesus", "von": 0,   "bis": -1 },
+    { "vers": 25, "typ": "jesus", "von": 21,  "bis": -1 },
+    { "vers": 25, "typ": "at",    "von": 21,  "bis": -1,  "referenz": "1. Sam 21,2–7", "vgl": false, "url": "https://www.bibleserver.com/MENG/1.Samuel21,2" },
+    { "vers": 26, "typ": "at",    "von": 0,   "bis": -1,  "referenz": "1. Sam 21,2–7", "vgl": false, "url": "https://www.bibleserver.com/MENG/1.Samuel21,2" },
+    { "vers": 27, "typ": "jesus", "von": 19,  "bis": -1 },
+    { "vers": 27, "typ": "at",    "von": 19,  "bis": 104, "referenz": "2. Mo 20,8–11", "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Mose20,8" },
+    { "vers": 28, "typ": "jesus", "von": 0,   "bis": -1 }
   ]
 }
