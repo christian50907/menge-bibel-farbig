@@ -57,34 +57,68 @@ function getParams() {
   };
 }
 
-// ─── Markdown → Verse (Python-getestet) ──────────────────────────────────────
+// ─── Markdown → Verse (getestet mit echtem Menge-Bibel-Format) ───────────────
+//
+// Tatsächliches Format der Menge-Bibel Markdown-Dateien:
+//   - Kapitelmarkierung: __1__ (Underscores) auf einer eigenen Zeile
+//   - Versnummern: <sup>1</sup> als HTML direkt im Fließtext
+//   - Fußnoten: <sup title="...">&#x2732;</sup> (werden entfernt)
+//
 function extrahiereKapitel(markdown, kapitelNr) {
-  const pat = new RegExp(`\\*\\*${kapitelNr}\\*\\*\\s*\\n([\\s\\S]*?)(?=\\n\\*\\*\\d+\\*\\*|$)`);
-  const match = markdown.match(pat);
-  if (!match) return [];
+  const lines = markdown.split('\n');
 
-  let block = match[1];
-  block = block.replace(/✲/g, '');
-  block = block.replace(/\*\*.*?\*\*/g, '');
-  block = block.replace(/#{1,6}[^\n]*\n/g, '');
+  // Schritt 1: Kapitelblock isolieren
+  let inKapitel = false;
+  const blockLines = [];
 
-  const text = block.replace(/\n+/g, ' ').trim();
-  const teile = text.split(/(?<=\s)(?=\d+[^\d\s])/);
-
-  const verse = [];
-  for (const teil of teile) {
-    const t = teil.trim();
-    if (!t) continue;
-    const m = t.match(/^(\d+)([\s\S]*)/);
-    if (!m) continue;
-    const nr = parseInt(m[1]);
-    const versText = m[2].trim();
-    if (versText) verse.push({ nr, text: versText });
+  for (const line of lines) {
+    const stripped = line.trim();
+    // Kapitelanfang: __N__ allein auf einer Zeile
+    const m = stripped.match(/^__(\d+)__\s*$/);
+    if (m) {
+      const nr = parseInt(m[1]);
+      if (nr === kapitelNr) {
+        inKapitel = true;
+        continue;
+      } else if (inKapitel) {
+        break; // nächstes Kapitel erreicht → fertig
+      }
+    }
+    if (inKapitel) blockLines.push(line);
   }
+
+  if (!blockLines.length) return [];
+
+  // Schritt 2: HTML bereinigen — Fußnoten entfernen, Versnummern behalten
+  let block = blockLines.join(' ');
+
+  // <sup title="...">...</sup> Fußnoten komplett entfernen
+  block = block.replace(/<sup\s+title=[^>]*>.*?<\/sup>/g, '');
+  // HTML-Entities (&#x2732; etc.) entfernen
+  block = block.replace(/&#x[\da-fA-F]+;/g, '');
+  // Markdown-Überschriften (### ...) entfernen
+  block = block.replace(/#{1,6}[^\n]*/g, '');
+  // __text__ entfernen
+  block = block.replace(/__.*?__/g, '');
+  // Mehrfache Leerzeichen normalisieren
+  block = block.replace(/\s+/g, ' ').trim();
+
+  // Schritt 3: Verse extrahieren
+  // Block hat jetzt die Form: <sup>1</sup>Text <sup>2</sup>Text ...
+  const parts = block.split(/<sup>(\d+)<\/sup>/);
+
+  // parts = [ vortex, "1", "text1", "2", "text2", ... ]
+  const verse = [];
+  for (let i = 1; i < parts.length - 1; i += 2) {
+    const nr = parseInt(parts[i]);
+    const text = parts[i + 1].trim();
+    if (text) verse.push({ nr, text });
+  }
+
   return verse;
 }
 
-// ─── Annotationen rendern — event-basiert, von/bis (Python-getestet) ─────────
+// ─── Annotationen rendern (unverändert, bewährt) ──────────────────────────────
 function wendeAnnotationenAn(versText, annotationen) {
   const n = versText.length;
 
