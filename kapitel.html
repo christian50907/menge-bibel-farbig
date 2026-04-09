@@ -120,7 +120,8 @@ function extrahiereKapitel(markdown, kapitelNr) {
   // Rückwärts laufen und alle Leerzeilen + Überschriften entfernen,
   // bis die erste echte Inhaltszeile (Vers-Text) gefunden wird.
   // So werden auch mehrere Überschriften mit Leerzeilen dazwischen
-  // korrekt entfernt.
+  // korrekt entfernt — sie erscheinen beim nächsten Kapitel via
+  // ueberschriftenVorKapitel.
   let ende = blockLines.length - 1;
   while (ende >= 0) {
     const s = blockLines[ende].trim();
@@ -173,6 +174,12 @@ function extrahiereKapitel(markdown, kapitelNr) {
 }
 
 // ─── Annotationen rendern ────────────────────────────────────────────────────
+//
+// Öffnende Tags werden in Reihenfolge (äußere zuerst) gesammelt.
+// Schließende Tags + Links werden umgekehrt (innerste zuerst) gesammelt,
+// damit AT-Links immer innerhalb ihres farbigen Spans landen —
+// auch wenn Jesus- und AT-Span dieselbe Position teilen.
+//
 function wendeAnnotationenAn(versText, annotationen) {
   const n = versText.length;
 
@@ -188,10 +195,16 @@ function wendeAnnotationenAn(versText, annotationen) {
 
   spans.sort((a, b) => a.von - b.von || (b.bis - b.von) - (a.bis - a.von));
 
-  const events = {};
-  function ins(pos, str) {
-    if (!events[pos]) events[pos] = [];
-    events[pos].push(str);
+  const openEvents  = {}; // pos → öffnende Tags (äußere zuerst, append)
+  const closeEvents = {}; // pos → schließende Tags+Links (innerste zuerst, prepend)
+
+  function insOpen(pos, str) {
+    if (!openEvents[pos])  openEvents[pos]  = [];
+    openEvents[pos].push(str);
+  }
+  function insClose(pos, str) {
+    if (!closeEvents[pos]) closeEvents[pos] = [];
+    closeEvents[pos].unshift(str); // prepend → innerste zuerst
   }
 
   for (const s of spans) {
@@ -206,13 +219,14 @@ function wendeAnnotationenAn(versText, annotationen) {
         link = ` <a href="${s.url}" target="_blank">(${label})</a>`;
       }
     }
-    ins(s.von, `<span class="${klasse}">`);
-    ins(s.bis, `${link}</span>`);
+    insOpen(s.von,  `<span class="${klasse}">`);
+    insClose(s.bis, `${link}</span>`);
   }
 
   let result = '';
   for (let i = 0; i <= n; i++) {
-    if (events[i]) result += events[i].join('');
+    if (closeEvents[i]) result += closeEvents[i].join('');
+    if (openEvents[i])  result += openEvents[i].join('');
     if (i < n) result += versText[i];
   }
   return result;

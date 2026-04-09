@@ -188,30 +188,35 @@ body {
 }
 .bibeltext p { margin-bottom: 0.9rem; }
 
-/* --- Abschnittsüberschriften --- */
+/* --- Abschnittsüberschriften im Bibeltext ---
+   H2 (##): Hauptabschnitt, z.B. "I. Die Anfänge der Wirksamkeit Jesu"
+   H3 (###): Unterabschnitt, z.B. "1. Auftreten und Wirksamkeit Johannes des Täufers"
+   Beide deutlich größer als der Fließtext (16px) und gut lesbar.
+   ----------------------------------------------------------------- */
 .abschnitt-kopf {
   font-family: var(--schrift-ui);
   font-size: 13px;
-  font-weight: 600;
-  letter-spacing: 0.06em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
   text-transform: uppercase;
   color: var(--farbe-header);
-  margin: 2.5rem 0 0.5rem;
-  padding: 0.5rem 0.75rem;
-  background: rgba(201, 169, 110, 0.12);
+  margin: 2.5rem 0 0.6rem;
+  padding: 0.55rem 0.85rem;
+  background: rgba(201, 169, 110, 0.13);
   border-left: 3px solid var(--farbe-gold);
   border-radius: 0 4px 4px 0;
+  line-height: 1.4;
 }
 .abschnitt-titel {
   font-family: var(--schrift-ui);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 600;
-  color: #6b5c45;
   font-style: normal;
-  margin: 1.75rem 0 0.4rem;
-  padding: 0.3rem 0 0.3rem 0.75rem;
-  border-left: 2px solid var(--farbe-border);
-  letter-spacing: 0.02em;
+  color: #4a3f2f;
+  margin: 2rem 0 0.5rem;
+  padding: 0.35rem 0 0.35rem 0.85rem;
+  border-left: 2px solid var(--farbe-gold);
+  line-height: 1.4;
 }
 
 /* --- Versnummer --- */
@@ -225,7 +230,7 @@ body {
   user-select: none;
 }
 
-/* --- Farbmarkierungen (hier zentral ändern) --- */
+/* --- Farbmarkierungen --- */
 .jesus {
   color: var(--farbe-jesus);
   background: var(--farbe-jesus-bg);
