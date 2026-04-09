@@ -5,6 +5,37 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Menge-Bibel — Annotationsprojekt</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    /* ── Überschriften im Bibeltext ── */
+
+    /* H2: Hauptabschnitt (z.B. "I. Die Anfänge der Wirksamkeit Jesu") */
+    .abschnitt-kopf {
+      font-family: var(--schrift-ui);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--farbe-header);
+      margin: 2.5rem 0 0.5rem;
+      padding: 0.5rem 0.75rem;
+      background: rgba(201, 169, 110, 0.12);
+      border-left: 3px solid var(--farbe-gold);
+      border-radius: 0 4px 4px 0;
+    }
+
+    /* H3+: Unterabschnitt (z.B. "1. Auftreten und Wirksamkeit Johannes des Täufers") */
+    .abschnitt-titel {
+      font-family: var(--schrift-ui);
+      font-size: 12px;
+      font-weight: 600;
+      color: #6b5c45;
+      font-style: normal;
+      margin: 1.75rem 0 0.4rem;
+      padding: 0.3rem 0 0.3rem 0.75rem;
+      border-left: 2px solid var(--farbe-border);
+      letter-spacing: 0.02em;
+    }
+  </style>
 </head>
 <body>
 
@@ -64,8 +95,8 @@ function getParams() {
 //   - Versnummern: <sup>N</sup> als HTML direkt im Fließtext
 //   - Fußnoten: <sup title="...">…</sup> werden entfernt
 //   - Abschnittsüberschriften: # ## ### Markdown-Headings
-//   - Die erste Überschrift eines Kapitels steht oft VOR __N__
-//     (direkt davor, nur Leerzeilen dazwischen — keine Textzeilen)
+//   - Überschriften vor __N__: alle Headings zwischen letztem Fließtext
+//     des Vorgänger-Kapitels und __N__ gehören zum neuen Kapitel
 //
 // Rückgabe: Array von Elementen:
 //   { typ: 'heading', level: 2, text: '...' }
@@ -74,20 +105,20 @@ function getParams() {
 function extrahiereKapitel(markdown, kapitelNr) {
   const lines = markdown.split('\n');
 
-  // Schritt 1: Kapitelstart finden + letzte direkt vorgelagerte Überschrift merken
-  // "Direkt vorgelagert" = nur Leerzeilen zwischen Überschrift und __N__,
-  // keine anderen Nicht-Leer-Zeilen.
+  // Schritt 1: Kapitelstart finden.
+  // Alle Überschriften sammeln, die seit dem letzten Fließtext vor __N__ stehen.
+  // Reset bei: anderem __N__ oder Fließtext-Zeile.
   let kapitelStart = null;
-  let letzteUeberschrift = null;
+  let ueberschriftenVorKapitel = [];
 
   for (let idx = 0; idx < lines.length; idx++) {
     const stripped = lines[idx].trim();
 
-    if (stripped === '') continue; // Leerzeilen ignorieren
+    if (stripped === '') continue; // Leerzeilen überspringen
 
     const hm = stripped.match(/^(#{1,6})\s+(.+)$/);
     if (hm) {
-      letzteUeberschrift = { typ: 'heading', level: hm[1].length, text: hm[2].trim() };
+      ueberschriftenVorKapitel.push({ typ: 'heading', level: hm[1].length, text: hm[2].trim() });
       continue;
     }
 
@@ -97,12 +128,12 @@ function extrahiereKapitel(markdown, kapitelNr) {
         kapitelStart = idx;
         break;
       } else {
-        letzteUeberschrift = null; // andere Kapitelmarkierung → reset
+        // Andere Kapitelmarkierung → Sammlung gehört zu einem anderen Kapitel
+        ueberschriftenVorKapitel = [];
       }
     } else {
-      // Irgendeine andere Nicht-Leer-Zeile (Vers-Text etc.)
-      // → Überschrift ist nicht mehr direkt vor unserem __N__
-      letzteUeberschrift = null;
+      // Fließtext → Überschriften-Sammlung zurücksetzen
+      ueberschriftenVorKapitel = [];
     }
   }
 
@@ -128,10 +159,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
   if (aktuell.length) absaetze.push(aktuell);
 
   // Schritt 4: Elemente aufbauen
-  const elemente = [];
-
-  // Vorgelagerte Überschrift voranstellen
-  if (letzteUeberschrift) elemente.push(letzteUeberschrift);
+  const elemente = [...ueberschriftenVorKapitel]; // alle vorgelagerten Überschriften
 
   for (const absatz of absaetze) {
     const ersteZeile = absatz[0].trim();
@@ -212,7 +240,6 @@ function renderHeading(heading) {
   if (heading.level === 1) {
     return ''; // Buchtitel: steht schon im kapitel-header, überspringen
   }
-  // Eindeutige ID für Anker-Links (TOC)
   const id = heading.text
     .toLowerCase()
     .replace(/[^a-z0-9äöüß]/g, '-')
@@ -240,7 +267,6 @@ function baueSidebar(buch, aktKap) {
 }
 
 function baueToc(elemente, voriges, naechstes, buch) {
-  // TOC aus H2-Überschriften aufbauen
   const h2s = elemente.filter(e => e.typ === 'heading' && e.level === 2);
   let html = '';
   if (h2s.length) {
