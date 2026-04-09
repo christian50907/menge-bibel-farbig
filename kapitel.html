@@ -117,23 +117,20 @@ function extrahiereKapitel(markdown, kapitelNr) {
   }
 
   // Schritt 3: Überschriften am Ende des Blocks abschneiden.
-  // Sie stehen nach dem letzten Vers und gehören zum nächsten Kapitel —
-  // dort werden sie korrekt via ueberschriftenVorKapitel aufgenommen.
-  while (blockLines.length && blockLines[blockLines.length - 1].trim() === '') {
-    blockLines.pop();
-  }
-  while (blockLines.length) {
-    const last = blockLines[blockLines.length - 1].trim();
-    if (/^#{1,6}\s+/.test(last)) {
-      blockLines.pop();
+  // Rückwärts laufen und alle Leerzeilen + Überschriften entfernen,
+  // bis die erste echte Inhaltszeile (Vers-Text) gefunden wird.
+  // So werden auch mehrere Überschriften mit Leerzeilen dazwischen
+  // korrekt entfernt.
+  let ende = blockLines.length - 1;
+  while (ende >= 0) {
+    const s = blockLines[ende].trim();
+    if (s === '' || /^#{1,6}\s+/.test(s)) {
+      ende--;
     } else {
       break;
     }
   }
-  // Erneut trailing Leerzeilen entfernen
-  while (blockLines.length && blockLines[blockLines.length - 1].trim() === '') {
-    blockLines.pop();
-  }
+  blockLines.length = ende + 1;
 
   // Schritt 4: Absätze bilden (Leerzeilen als Trenner)
   const absaetze = [];
