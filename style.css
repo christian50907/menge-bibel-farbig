@@ -188,23 +188,30 @@ body {
 }
 .bibeltext p { margin-bottom: 0.9rem; }
 
+/* --- Abschnittsüberschriften --- */
 .abschnitt-kopf {
   font-family: var(--schrift-ui);
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 600;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: #bbb;
-  margin: 2.5rem 0 0.6rem;
-  padding-left: 8px;
-  border-left: 2px solid var(--farbe-border);
+  color: var(--farbe-header);
+  margin: 2.5rem 0 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: rgba(201, 169, 110, 0.12);
+  border-left: 3px solid var(--farbe-gold);
+  border-radius: 0 4px 4px 0;
 }
 .abschnitt-titel {
   font-family: var(--schrift-ui);
-  font-size: 14px;
-  color: #888;
-  font-style: italic;
-  margin: 0.2rem 0 0.6rem;
+  font-size: 12px;
+  font-weight: 600;
+  color: #6b5c45;
+  font-style: normal;
+  margin: 1.75rem 0 0.4rem;
+  padding: 0.3rem 0 0.3rem 0.75rem;
+  border-left: 2px solid var(--farbe-border);
+  letter-spacing: 0.02em;
 }
 
 /* --- Versnummer --- */
