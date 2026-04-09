@@ -195,7 +195,7 @@ body {
    ----------------------------------------------------------------- */
 .abschnitt-kopf {
   font-family: var(--schrift-ui);
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 700;
   letter-spacing: 0.07em;
   text-transform: uppercase;
@@ -209,7 +209,7 @@ body {
 }
 .abschnitt-titel {
   font-family: var(--schrift-ui);
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 600;
   font-style: normal;
   color: #4a3f2f;
