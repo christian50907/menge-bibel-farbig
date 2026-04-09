@@ -5,37 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Menge-Bibel — Annotationsprojekt</title>
   <link rel="stylesheet" href="style.css">
-  <style>
-    /* ── Überschriften im Bibeltext ── */
-
-    /* H2: Hauptabschnitt (z.B. "I. Die Anfänge der Wirksamkeit Jesu") */
-    .abschnitt-kopf {
-      font-family: var(--schrift-ui);
-      font-size: 13px;
-      font-weight: 600;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: var(--farbe-header);
-      margin: 2.5rem 0 0.5rem;
-      padding: 0.5rem 0.75rem;
-      background: rgba(201, 169, 110, 0.12);
-      border-left: 3px solid var(--farbe-gold);
-      border-radius: 0 4px 4px 0;
-    }
-
-    /* H3+: Unterabschnitt (z.B. "1. Auftreten und Wirksamkeit Johannes des Täufers") */
-    .abschnitt-titel {
-      font-family: var(--schrift-ui);
-      font-size: 12px;
-      font-weight: 600;
-      color: #6b5c45;
-      font-style: normal;
-      margin: 1.75rem 0 0.4rem;
-      padding: 0.3rem 0 0.3rem 0.75rem;
-      border-left: 2px solid var(--farbe-border);
-      letter-spacing: 0.02em;
-    }
-  </style>
 </head>
 <body>
 
@@ -95,8 +64,11 @@ function getParams() {
 //   - Versnummern: <sup>N</sup> als HTML direkt im Fließtext
 //   - Fußnoten: <sup title="...">…</sup> werden entfernt
 //   - Abschnittsüberschriften: # ## ### Markdown-Headings
-//   - Überschriften vor __N__: alle Headings zwischen letztem Fließtext
+//   - Überschriften VOR __N__: alle Headings zwischen letztem Fließtext
 //     des Vorgänger-Kapitels und __N__ gehören zum neuen Kapitel
+//   - Überschriften AM ENDE eines Kapitelblocks (nach dem letzten Vers,
+//     vor dem nächsten __N__) gehören ebenfalls zum nächsten Kapitel
+//     und werden daher weggelassen (sie erscheinen via "Überschriften VOR __N__")
 //
 // Rückgabe: Array von Elementen:
 //   { typ: 'heading', level: 2, text: '...' }
@@ -114,7 +86,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
   for (let idx = 0; idx < lines.length; idx++) {
     const stripped = lines[idx].trim();
 
-    if (stripped === '') continue; // Leerzeilen überspringen
+    if (stripped === '') continue;
 
     const hm = stripped.match(/^(#{1,6})\s+(.+)$/);
     if (hm) {
@@ -128,11 +100,9 @@ function extrahiereKapitel(markdown, kapitelNr) {
         kapitelStart = idx;
         break;
       } else {
-        // Andere Kapitelmarkierung → Sammlung gehört zu einem anderen Kapitel
         ueberschriftenVorKapitel = [];
       }
     } else {
-      // Fließtext → Überschriften-Sammlung zurücksetzen
       ueberschriftenVorKapitel = [];
     }
   }
@@ -146,7 +116,26 @@ function extrahiereKapitel(markdown, kapitelNr) {
     blockLines.push(lines[i]);
   }
 
-  // Schritt 3: Absätze bilden (Leerzeilen als Trenner)
+  // Schritt 3: Überschriften am Ende des Blocks abschneiden.
+  // Sie stehen nach dem letzten Vers und gehören zum nächsten Kapitel —
+  // dort werden sie korrekt via ueberschriftenVorKapitel aufgenommen.
+  while (blockLines.length && blockLines[blockLines.length - 1].trim() === '') {
+    blockLines.pop();
+  }
+  while (blockLines.length) {
+    const last = blockLines[blockLines.length - 1].trim();
+    if (/^#{1,6}\s+/.test(last)) {
+      blockLines.pop();
+    } else {
+      break;
+    }
+  }
+  // Erneut trailing Leerzeilen entfernen
+  while (blockLines.length && blockLines[blockLines.length - 1].trim() === '') {
+    blockLines.pop();
+  }
+
+  // Schritt 4: Absätze bilden (Leerzeilen als Trenner)
   const absaetze = [];
   let aktuell = [];
   for (const line of blockLines) {
@@ -158,26 +147,23 @@ function extrahiereKapitel(markdown, kapitelNr) {
   }
   if (aktuell.length) absaetze.push(aktuell);
 
-  // Schritt 4: Elemente aufbauen
-  const elemente = [...ueberschriftenVorKapitel]; // alle vorgelagerten Überschriften
+  // Schritt 5: Elemente aufbauen
+  const elemente = [...ueberschriftenVorKapitel];
 
   for (const absatz of absaetze) {
     const ersteZeile = absatz[0].trim();
 
-    // Ist der Absatz eine Überschrift?
     const hm = ersteZeile.match(/^(#{1,6})\s+(.+)$/);
     if (hm) {
       elemente.push({ typ: 'heading', level: hm[1].length, text: hm[2].trim() });
       continue;
     }
 
-    // Textblock: Fußnoten entfernen, Verse extrahieren
     let block = absatz.join(' ');
-    block = block.replace(/<sup\s+title=[^>]*>.*?<\/sup>/g, ''); // Fußnoten weg
-    block = block.replace(/&#x[\da-fA-F]+;/g, '');               // HTML-Entities weg
+    block = block.replace(/<sup\s+title=[^>]*>.*?<\/sup>/g, '');
+    block = block.replace(/&#x[\da-fA-F]+;/g, '');
     block = block.replace(/\s+/g, ' ').trim();
 
-    // Split an <sup>N</sup> Versnummern
     const parts = block.split(/<sup>(\d+)<\/sup>/);
     for (let i = 1; i < parts.length - 1; i += 2) {
       const nr = parseInt(parts[i]);
