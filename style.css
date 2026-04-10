@@ -126,7 +126,7 @@ body {
   font-weight: 500;
 }
 
-/* --- Hauptinhalt --- */
+/* --- Hauptinhalt (Kapitelseite) --- */
 .main-content {
   background: #fff;
   padding: 2.5rem 3rem;
@@ -188,19 +188,18 @@ body {
 }
 .bibeltext p { margin-bottom: 0.9rem; }
 
-/* --- Abschnittsüberschriften im Bibeltext ---
-   H2 (##): Hauptabschnitt, z.B. "I. Die Anfänge der Wirksamkeit Jesu"
-   H3 (###): Unterabschnitt, z.B. "1. Auftreten und Wirksamkeit Johannes des Täufers"
-   Beide deutlich größer als der Fließtext (16px) und gut lesbar.
+/* --- Abschnittsüberschriften (Kapitel + Index, einheitlich) ---
+   Wird sowohl in kapitel.html (via JS) als auch in index.html
+   (direkt im HTML) verwendet — gleiche Klasse, gleicher Style.
    ----------------------------------------------------------------- */
 .abschnitt-kopf {
   font-family: var(--schrift-ui);
-  font-size: 16px;
+  font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.07em;
   text-transform: uppercase;
   color: var(--farbe-header);
-  margin: 2.5rem 0 0.6rem;
+  margin: 2rem 0 0.6rem;
   padding: 0.55rem 0.85rem;
   background: rgba(201, 169, 110, 0.13);
   border-left: 3px solid var(--farbe-gold);
@@ -209,7 +208,7 @@ body {
 }
 .abschnitt-titel {
   font-family: var(--schrift-ui);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 600;
   font-style: normal;
   color: #4a3f2f;
@@ -332,16 +331,6 @@ body {
   font-size: 14px;
   color: #999;
   margin-bottom: 2rem;
-}
-.index-content h2 {
-  font-family: var(--schrift-ui);
-  font-size: 11px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: #bbb;
-  margin: 2rem 0 0.75rem;
-  padding-left: 8px;
-  border-left: 2px solid var(--farbe-border);
 }
 .index-content p {
   font-size: 15px;
