@@ -155,25 +155,44 @@ function extrahiereKapitel(markdown, kapitelNr) {
 
     let block = absatz.join(' ');
 
-    // Fußnoten erhalten: <sup title="TEXT">&#x2732;</sup> oder <sup title='TEXT'>✲</sup>
-    // Das Fußnotenzeichen kann als HTML-Entity (&#x2732;) oder als UTF-8-Zeichen (✲)
-    // vorkommen, und title-Attribut mit einfachen oder doppelten Anführungszeichen.
-    //   → <span class="fn" title="TEXT">*</span>
-    block = block.replace(
-      /<sup\s+title=(["'])([^"']*)\1>\s*(?:&#x[\da-fA-F]+;|✲)\s*<\/sup>/g,
-      '<span class="fn" title="$2">*</span>'
-    );
-    // Übrige HTML-Entities entfernen
-    block = block.replace(/&#x[\da-fA-F]+;/g, '');
-    block = block.replace(/\s+/g, ' ').trim();
+    // Fußnoten ZWEISTUFIG verarbeiten:
+    // Schritt A: Fußnoten aus dem Text herausziehen und ihre Positionen im
+    //   bereinigten Text merken. Die JSON-Annotationen (von/bis) basieren auf
+    //   dem bereinigten Text — deshalb müssen Fußnoten erst NACH der
+    //   Annotation-Anwendung wieder eingefügt werden (in renderAbsatz).
+    //
+    // Das Fußnotenzeichen kann als HTML-Entity (&#x2732;) oder UTF-8 (✲) vorkommen.
+    // Das title-Attribut kann einfache oder doppelte Anführungszeichen haben.
+    const fnRegex = /<sup\s+title=(["'])([^"']*)\1>\s*(?:&#x[\da-fA-F]+;|✲)\s*<\/sup>/g;
+    const fnMap = []; // { pos, title } — Position im bereinigten Text
+    let bereinigt = '';
+    let fnCursor = 0;
+    let fnMatch;
+    while ((fnMatch = fnRegex.exec(block)) !== null) {
+      bereinigt += block.slice(fnCursor, fnMatch.index);
+      fnMap.push({ pos: bereinigt.length, title: fnMatch[2] });
+      fnCursor = fnMatch.index + fnMatch[0].length;
+    }
+    bereinigt += block.slice(fnCursor);
+    bereinigt = bereinigt.replace(/&#x[\da-fA-F]+;/g, '');
+    bereinigt = bereinigt.replace(/\s+/g, ' ').trim();
 
-    // Verse des Absatzes extrahieren
-    const parts = block.split(/<sup>(\d+)<\/sup>/);
+    // Verse des Absatzes extrahieren (auf bereinigtem Text)
+    const parts = bereinigt.split(/<sup>(\d+)<\/sup>/);
     const verseImAbsatz = [];
+    let versOffset = 0;
     for (let i = 1; i < parts.length - 1; i += 2) {
       const nr = parseInt(parts[i]);
       const text = parts[i + 1].trim();
-      if (text) verseImAbsatz.push({ nr, text });
+      if (text) {
+        const versStart = bereinigt.indexOf(text, versOffset);
+        const versEnde  = versStart + text.length;
+        const fnInVers  = fnMap
+          .filter(f => f.pos >= versStart && f.pos <= versEnde)
+          .map(f => ({ pos: f.pos - versStart, title: f.title }));
+        verseImAbsatz.push({ nr, text, fn: fnInVers });
+        versOffset = versEnde;
+      }
     }
 
     if (verseImAbsatz.length) {
@@ -243,14 +262,56 @@ function wendeAnnotationenAn(versText, annotationen) {
   return result;
 }
 
+// ─── Fußnoten in annotierten Text einfügen ───────────────────────────────────
+//
+// Fußnoten wurden beim Parsen aus dem Text extrahiert (mit Position im
+// bereinigten Text). Hier werden sie nach der Annotation-Anwendung wieder
+// eingefügt — indem wir sichtbare Zeichen zählen und HTML-Tags überspringen.
+//
+function fugeFussnnotenEin(html, fnList) {
+  if (!fnList || !fnList.length) return html;
+  let result = '';
+  let zeichenPos = 0;
+  let fnIdx = 0;
+  let i = 0;
+  while (i < html.length) {
+    // Fußnote einfügen wenn Position erreicht
+    while (fnIdx < fnList.length && zeichenPos === fnList[fnIdx].pos) {
+      const title = fnList[fnIdx].title.replace(/"/g, '&quot;');
+      result += `<span class="fn" title="${title}">*</span>`;
+      fnIdx++;
+    }
+    if (html[i] === '<') {
+      // HTML-Tag komplett übernehmen ohne Zeichenzählung
+      const end = html.indexOf('>', i) + 1;
+      result += html.slice(i, end);
+      i = end;
+    } else {
+      result += html[i];
+      zeichenPos++;
+      i++;
+    }
+  }
+  // Übrige Fußnoten am Ende anhängen
+  while (fnIdx < fnList.length) {
+    const title = fnList[fnIdx].title.replace(/"/g, '&quot;');
+    result += `<span class="fn" title="${title}">*</span>`;
+    fnIdx++;
+  }
+  return result;
+}
+
 // ─── Absatz → HTML ───────────────────────────────────────────────────────────
 function renderAbsatz(absatz, alleMarkierungen) {
   let inhalt = '';
   for (const vers of absatz.verse) {
     const markierungen = alleMarkierungen.filter(m => m.vers === vers.nr);
-    const versHtml = markierungen.length
+    // Schritt 1: Annotationen auf bereinigtem Text anwenden
+    let versHtml = markierungen.length
       ? wendeAnnotationenAn(vers.text, markierungen)
       : vers.text;
+    // Schritt 2: Fußnoten an korrekten Positionen einfügen
+    versHtml = fugeFussnnotenEin(versHtml, vers.fn);
     inhalt += `<span class="vn">${vers.nr}</span>${versHtml} `;
   }
   return `<p>${inhalt.trim()}</p>`;
