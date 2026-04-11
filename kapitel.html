@@ -210,7 +210,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
 // AT-Links außerhalb ihres Spans landen wenn Jesus- und AT-Span
 // dieselbe Endposition haben.
 //
-function wendeAnnotationenAn(versText, annotationen) {
+function wendeAnnotationenAn(versText, annotationen, fussnoten) {
   const n = versText.length;
 
   const spans = annotationen.map(a => ({
@@ -227,6 +227,7 @@ function wendeAnnotationenAn(versText, annotationen) {
 
   const openEvents  = {};
   const closeEvents = {};
+  const fnEvents    = {}; // Fußnoten als einfache Insert-Events
 
   function insOpen(pos, str) {
     if (!openEvents[pos])  openEvents[pos]  = [];
@@ -253,50 +254,21 @@ function wendeAnnotationenAn(versText, annotationen) {
     insClose(s.bis, `${link}</span>`);
   }
 
+  // Fußnoten direkt als Events auf dem Bibeltext eintragen —
+  // nach closeEvents, vor openEvents, so landen sie korrekt im Textfluss
+  // ohne dass Link-Texte die Zählung verschieben.
+  for (const fn of (fussnoten || [])) {
+    if (!fnEvents[fn.pos]) fnEvents[fn.pos] = [];
+    const title = fn.title.replace(/"/g, '&quot;');
+    fnEvents[fn.pos].push(`<span class="fn" title="${title}">*</span>`);
+  }
+
   let result = '';
   for (let i = 0; i <= n; i++) {
     if (closeEvents[i]) result += closeEvents[i].join('');
+    if (fnEvents[i])    result += fnEvents[i].join('');
     if (openEvents[i])  result += openEvents[i].join('');
     if (i < n) result += versText[i];
-  }
-  return result;
-}
-
-// ─── Fußnoten in annotierten Text einfügen ───────────────────────────────────
-//
-// Fußnoten wurden beim Parsen aus dem Text extrahiert (mit Position im
-// bereinigten Text). Hier werden sie nach der Annotation-Anwendung wieder
-// eingefügt — indem wir sichtbare Zeichen zählen und HTML-Tags überspringen.
-//
-function fugeFussnnotenEin(html, fnList) {
-  if (!fnList || !fnList.length) return html;
-  let result = '';
-  let zeichenPos = 0;
-  let fnIdx = 0;
-  let i = 0;
-  while (i < html.length) {
-    // Fußnote einfügen wenn Position erreicht
-    while (fnIdx < fnList.length && zeichenPos === fnList[fnIdx].pos) {
-      const title = fnList[fnIdx].title.replace(/"/g, '&quot;');
-      result += `<span class="fn" title="${title}">*</span>`;
-      fnIdx++;
-    }
-    if (html[i] === '<') {
-      // HTML-Tag komplett übernehmen ohne Zeichenzählung
-      const end = html.indexOf('>', i) + 1;
-      result += html.slice(i, end);
-      i = end;
-    } else {
-      result += html[i];
-      zeichenPos++;
-      i++;
-    }
-  }
-  // Übrige Fußnoten am Ende anhängen
-  while (fnIdx < fnList.length) {
-    const title = fnList[fnIdx].title.replace(/"/g, '&quot;');
-    result += `<span class="fn" title="${title}">*</span>`;
-    fnIdx++;
   }
   return result;
 }
@@ -306,12 +278,10 @@ function renderAbsatz(absatz, alleMarkierungen) {
   let inhalt = '';
   for (const vers of absatz.verse) {
     const markierungen = alleMarkierungen.filter(m => m.vers === vers.nr);
-    // Schritt 1: Annotationen auf bereinigtem Text anwenden
+    // Annotationen + Fußnoten gemeinsam anwenden (Fußnoten als Events im Bibeltext)
     let versHtml = markierungen.length
-      ? wendeAnnotationenAn(vers.text, markierungen)
-      : vers.text;
-    // Schritt 2: Fußnoten an korrekten Positionen einfügen
-    versHtml = fugeFussnnotenEin(versHtml, vers.fn);
+      ? wendeAnnotationenAn(vers.text, markierungen, vers.fn)
+      : wendeAnnotationenAn(vers.text, [], vers.fn);
     inhalt += `<span class="vn">${vers.nr}</span>${versHtml} `;
   }
   return `<p>${inhalt.trim()}</p>`;
