@@ -62,24 +62,25 @@ function getParams() {
 // Format der Menge-Bibel Markdown-Dateien (empirisch geprüft):
 //   - Kapitelmarkierung: __N__ (Underscores) auf eigener Zeile
 //   - Versnummern: <sup>N</sup> als HTML direkt im Fließtext
-//   - Fußnoten: <sup title="...">…</sup> werden entfernt
+//   - Fußnoten: <sup title="TEXT">&#x2732;</sup>
+//     → werden als <span class="fn" title="TEXT">*</span> erhalten
+//       (Hover-Tooltip im Browser via nativen title-Mechanismus)
 //   - Abschnittsüberschriften: # ## ### Markdown-Headings
 //   - Überschriften VOR __N__: alle Headings zwischen letztem Fließtext
 //     des Vorgänger-Kapitels und __N__ gehören zum neuen Kapitel
-//   - Überschriften AM ENDE eines Kapitelblocks (nach dem letzten Vers,
-//     vor dem nächsten __N__) gehören ebenfalls zum nächsten Kapitel
-//     und werden daher weggelassen (sie erscheinen via "Überschriften VOR __N__")
+//   - Überschriften AM ENDE eines Kapitelblocks gehören zum nächsten Kapitel
 //
 // Rückgabe: Array von Elementen:
 //   { typ: 'heading', level: 2, text: '...' }
-//   { typ: 'vers',    nr: 1,    text: '...' }
+//   { typ: 'absatz',  verse: [ { nr: 1, text: '...' }, ... ] }
+//
+// Verse innerhalb eines Markdown-Absatzes (keine Leerzeile dazwischen)
+// werden als ein Element zusammengefasst und in einem <p> ausgegeben.
 //
 function extrahiereKapitel(markdown, kapitelNr) {
   const lines = markdown.split('\n');
 
-  // Schritt 1: Kapitelstart finden.
-  // Alle Überschriften sammeln, die seit dem letzten Fließtext vor __N__ stehen.
-  // Reset bei: anderem __N__ oder Fließtext-Zeile.
+  // Schritt 1: Kapitelstart finden + vorgelagerte Überschriften sammeln
   let kapitelStart = null;
   let ueberschriftenVorKapitel = [];
 
@@ -109,19 +110,14 @@ function extrahiereKapitel(markdown, kapitelNr) {
 
   if (kapitelStart === null) return [];
 
-  // Schritt 2: Zeilen des Kapitels sammeln (bis zum nächsten __N__)
+  // Schritt 2: Kapitelblock sammeln
   const blockLines = [];
   for (let i = kapitelStart + 1; i < lines.length; i++) {
     if (/^__\d+__\s*$/.test(lines[i].trim())) break;
     blockLines.push(lines[i]);
   }
 
-  // Schritt 3: Überschriften am Ende des Blocks abschneiden.
-  // Rückwärts laufen und alle Leerzeilen + Überschriften entfernen,
-  // bis die erste echte Inhaltszeile (Vers-Text) gefunden wird.
-  // So werden auch mehrere Überschriften mit Leerzeilen dazwischen
-  // korrekt entfernt — sie erscheinen beim nächsten Kapitel via
-  // ueberschriftenVorKapitel.
+  // Schritt 3: Trailing Überschriften + Leerzeilen abschneiden
   let ende = blockLines.length - 1;
   while (ende >= 0) {
     const s = blockLines[ende].trim();
@@ -133,7 +129,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
   }
   blockLines.length = ende + 1;
 
-  // Schritt 4: Absätze bilden (Leerzeilen als Trenner)
+  // Schritt 4: Absätze bilden
   const absaetze = [];
   let aktuell = [];
   for (const line of blockLines) {
@@ -158,15 +154,28 @@ function extrahiereKapitel(markdown, kapitelNr) {
     }
 
     let block = absatz.join(' ');
-    block = block.replace(/<sup\s+title=[^>]*>.*?<\/sup>/g, '');
+
+    // Fußnoten erhalten: <sup title="TEXT">&#x2732;</sup>
+    //   → <span class="fn" title="TEXT">*</span>
+    block = block.replace(
+      /<sup\s+title="([^"]*)">\s*&#x2732;\s*<\/sup>/g,
+      '<span class="fn" title="$1">*</span>'
+    );
+    // Übrige HTML-Entities entfernen
     block = block.replace(/&#x[\da-fA-F]+;/g, '');
     block = block.replace(/\s+/g, ' ').trim();
 
+    // Verse des Absatzes extrahieren
     const parts = block.split(/<sup>(\d+)<\/sup>/);
+    const verseImAbsatz = [];
     for (let i = 1; i < parts.length - 1; i += 2) {
       const nr = parseInt(parts[i]);
       const text = parts[i + 1].trim();
-      if (text) elemente.push({ typ: 'vers', nr, text });
+      if (text) verseImAbsatz.push({ nr, text });
+    }
+
+    if (verseImAbsatz.length) {
+      elemente.push({ typ: 'absatz', verse: verseImAbsatz });
     }
   }
 
@@ -175,10 +184,10 @@ function extrahiereKapitel(markdown, kapitelNr) {
 
 // ─── Annotationen rendern ────────────────────────────────────────────────────
 //
-// Öffnende Tags werden in Reihenfolge (äußere zuerst) gesammelt.
-// Schließende Tags + Links werden umgekehrt (innerste zuerst) gesammelt,
-// damit AT-Links immer innerhalb ihres farbigen Spans landen —
-// auch wenn Jesus- und AT-Span dieselbe Position teilen.
+// Öffnende Tags: append (äußere zuerst)
+// Schließende Tags + Links: unshift (innerste zuerst) — verhindert dass
+// AT-Links außerhalb ihres Spans landen wenn Jesus- und AT-Span
+// dieselbe Endposition haben.
 //
 function wendeAnnotationenAn(versText, annotationen) {
   const n = versText.length;
@@ -195,8 +204,8 @@ function wendeAnnotationenAn(versText, annotationen) {
 
   spans.sort((a, b) => a.von - b.von || (b.bis - b.von) - (a.bis - a.von));
 
-  const openEvents  = {}; // pos → öffnende Tags (äußere zuerst, append)
-  const closeEvents = {}; // pos → schließende Tags+Links (innerste zuerst, prepend)
+  const openEvents  = {};
+  const closeEvents = {};
 
   function insOpen(pos, str) {
     if (!openEvents[pos])  openEvents[pos]  = [];
@@ -204,7 +213,7 @@ function wendeAnnotationenAn(versText, annotationen) {
   }
   function insClose(pos, str) {
     if (!closeEvents[pos]) closeEvents[pos] = [];
-    closeEvents[pos].unshift(str); // prepend → innerste zuerst
+    closeEvents[pos].unshift(str);
   }
 
   for (const s of spans) {
@@ -232,17 +241,27 @@ function wendeAnnotationenAn(versText, annotationen) {
   return result;
 }
 
+// ─── Absatz → HTML ───────────────────────────────────────────────────────────
+function renderAbsatz(absatz, alleMarkierungen) {
+  let inhalt = '';
+  for (const vers of absatz.verse) {
+    const markierungen = alleMarkierungen.filter(m => m.vers === vers.nr);
+    const versHtml = markierungen.length
+      ? wendeAnnotationenAn(vers.text, markierungen)
+      : vers.text;
+    inhalt += `<span class="vn">${vers.nr}</span>${versHtml} `;
+  }
+  return `<p>${inhalt.trim()}</p>`;
+}
+
 // ─── Überschrift → HTML ──────────────────────────────────────────────────────
 function renderHeading(heading) {
-  if (heading.level === 1) {
-    return ''; // Buchtitel: steht schon im kapitel-header, überspringen
-  }
+  if (heading.level === 1) return '';
   const id = heading.text
     .toLowerCase()
     .replace(/[^a-z0-9äöüß]/g, '-')
     .replace(/-+/g, '-')
     .slice(0, 50);
-
   if (heading.level === 2) {
     return `<div class="abschnitt-kopf" id="${id}">${heading.text}</div>`;
   } else {
@@ -308,8 +327,8 @@ async function ladeSeite() {
     const anno = await annoRes.json();
 
     const elemente = extrahiereKapitel(markdown, kapitel);
-    const verse = elemente.filter(e => e.typ === 'vers');
-    if (!verse.length) throw new Error(`Keine Verse gefunden für Kapitel ${kapitel}`);
+    const hatVerse = elemente.some(e => e.typ === 'absatz' && e.verse.length > 0);
+    if (!hatVerse) throw new Error(`Keine Verse gefunden für Kapitel ${kapitel}`);
 
     document.title = `${info.anzeigename} ${kapitel} — Menge-Bibel Annotationsprojekt`;
 
@@ -329,11 +348,7 @@ async function ladeSeite() {
       if (element.typ === 'heading') {
         html += renderHeading(element);
       } else {
-        const markierungen = anno.markierungen.filter(m => m.vers === element.nr);
-        const versHtml = markierungen.length
-          ? wendeAnnotationenAn(element.text, markierungen)
-          : element.text;
-        html += `<p><span class="vn">${element.nr}</span>${versHtml}</p>`;
+        html += renderAbsatz(element, anno.markierungen);
       }
     }
 
