@@ -72,7 +72,11 @@ function getParams() {
 //
 // Rückgabe: Array von Elementen:
 //   { typ: 'heading', level: 2, text: '...' }
-//   { typ: 'vers',    nr: 1,    text: '...' }
+//   { typ: 'absatz',  verse: [ { nr: 1, text: '...' }, ... ] }
+//
+// Verse innerhalb eines Markdown-Absatzes (keine Leerzeile dazwischen)
+// werden als ein Element zusammengefasst und in einem <p> ausgegeben —
+// so bleibt der Fließtext kompakt wie im Quell-Repo.
 //
 function extrahiereKapitel(markdown, kapitelNr) {
   const lines = markdown.split('\n');
@@ -119,9 +123,6 @@ function extrahiereKapitel(markdown, kapitelNr) {
   // Schritt 3: Überschriften am Ende des Blocks abschneiden.
   // Rückwärts laufen und alle Leerzeilen + Überschriften entfernen,
   // bis die erste echte Inhaltszeile (Vers-Text) gefunden wird.
-  // So werden auch mehrere Überschriften mit Leerzeilen dazwischen
-  // korrekt entfernt — sie erscheinen beim nächsten Kapitel via
-  // ueberschriftenVorKapitel.
   let ende = blockLines.length - 1;
   while (ende >= 0) {
     const s = blockLines[ende].trim();
@@ -151,29 +152,37 @@ function extrahiereKapitel(markdown, kapitelNr) {
   for (const absatz of absaetze) {
     const ersteZeile = absatz[0].trim();
 
+    // Ist der Absatz eine Überschrift?
     const hm = ersteZeile.match(/^(#{1,6})\s+(.+)$/);
     if (hm) {
       elemente.push({ typ: 'heading', level: hm[1].length, text: hm[2].trim() });
       continue;
     }
 
+    // Textblock: Fußnoten entfernen, dann alle Verse des Absatzes
+    // als eine Einheit sammeln → ein <p> im HTML
     let block = absatz.join(' ');
     block = block.replace(/<sup\s+title=[^>]*>.*?<\/sup>/g, '');
     block = block.replace(/&#x[\da-fA-F]+;/g, '');
     block = block.replace(/\s+/g, ' ').trim();
 
     const parts = block.split(/<sup>(\d+)<\/sup>/);
+    const verseImAbsatz = [];
     for (let i = 1; i < parts.length - 1; i += 2) {
       const nr = parseInt(parts[i]);
       const text = parts[i + 1].trim();
-      if (text) elemente.push({ typ: 'vers', nr, text });
+      if (text) verseImAbsatz.push({ nr, text });
+    }
+
+    if (verseImAbsatz.length) {
+      elemente.push({ typ: 'absatz', verse: verseImAbsatz });
     }
   }
 
   return elemente;
 }
 
-// ─── Annotationen rendern ────────────────────────────────────────────────────
+// ─── Annotationen auf einen Verstext anwenden ─────────────────────────────────
 //
 // Öffnende Tags werden in Reihenfolge (äußere zuerst) gesammelt.
 // Schließende Tags + Links werden umgekehrt (innerste zuerst) gesammelt,
@@ -195,8 +204,8 @@ function wendeAnnotationenAn(versText, annotationen) {
 
   spans.sort((a, b) => a.von - b.von || (b.bis - b.von) - (a.bis - a.von));
 
-  const openEvents  = {}; // pos → öffnende Tags (äußere zuerst, append)
-  const closeEvents = {}; // pos → schließende Tags+Links (innerste zuerst, prepend)
+  const openEvents  = {};
+  const closeEvents = {};
 
   function insOpen(pos, str) {
     if (!openEvents[pos])  openEvents[pos]  = [];
@@ -204,7 +213,7 @@ function wendeAnnotationenAn(versText, annotationen) {
   }
   function insClose(pos, str) {
     if (!closeEvents[pos]) closeEvents[pos] = [];
-    closeEvents[pos].unshift(str); // prepend → innerste zuerst
+    closeEvents[pos].unshift(str);
   }
 
   for (const s of spans) {
@@ -230,6 +239,19 @@ function wendeAnnotationenAn(versText, annotationen) {
     if (i < n) result += versText[i];
   }
   return result;
+}
+
+// ─── Einen Absatz (mehrere Verse) → HTML ─────────────────────────────────────
+function renderAbsatz(absatz, alleMarkierungen) {
+  let inhalt = '';
+  for (const vers of absatz.verse) {
+    const markierungen = alleMarkierungen.filter(m => m.vers === vers.nr);
+    const versHtml = markierungen.length
+      ? wendeAnnotationenAn(vers.text, markierungen)
+      : vers.text;
+    inhalt += `<span class="vn">${vers.nr}</span>${versHtml} `;
+  }
+  return `<p>${inhalt.trim()}</p>`;
 }
 
 // ─── Überschrift → HTML ──────────────────────────────────────────────────────
@@ -308,8 +330,8 @@ async function ladeSeite() {
     const anno = await annoRes.json();
 
     const elemente = extrahiereKapitel(markdown, kapitel);
-    const verse = elemente.filter(e => e.typ === 'vers');
-    if (!verse.length) throw new Error(`Keine Verse gefunden für Kapitel ${kapitel}`);
+    const hatVerse = elemente.some(e => e.typ === 'absatz' && e.verse.length > 0);
+    if (!hatVerse) throw new Error(`Keine Verse gefunden für Kapitel ${kapitel}`);
 
     document.title = `${info.anzeigename} ${kapitel} — Menge-Bibel Annotationsprojekt`;
 
@@ -329,11 +351,7 @@ async function ladeSeite() {
       if (element.typ === 'heading') {
         html += renderHeading(element);
       } else {
-        const markierungen = anno.markierungen.filter(m => m.vers === element.nr);
-        const versHtml = markierungen.length
-          ? wendeAnnotationenAn(element.text, markierungen)
-          : element.text;
-        html += `<p><span class="vn">${element.nr}</span>${versHtml}</p>`;
+        html += renderAbsatz(element, anno.markierungen);
       }
     }
 
