@@ -75,7 +75,8 @@ function getParams() {
 //   { typ: 'absatz',  verse: [ { nr: 1, text: '...' }, ... ] }
 //
 // Verse innerhalb eines Markdown-Absatzes (keine Leerzeile dazwischen)
-// werden als ein Element zusammengefasst und in einem <p> ausgegeben.
+// werden als ein Element zusammengefasst und in einem <p> ausgegeben —
+// so bleibt der Fließtext kompakt wie im Quell-Repo.
 //
 function extrahiereKapitel(markdown, kapitelNr) {
   const lines = markdown.split('\n');
@@ -117,7 +118,9 @@ function extrahiereKapitel(markdown, kapitelNr) {
     blockLines.push(lines[i]);
   }
 
-  // Schritt 3: Trailing Überschriften + Leerzeilen abschneiden
+  // Schritt 3: Überschriften am Ende des Blocks abschneiden.
+  // Rückwärts laufen und alle Leerzeilen + Überschriften entfernen,
+  // bis die erste echte Inhaltszeile (Vers-Text) gefunden wird.
   let ende = blockLines.length - 1;
   while (ende >= 0) {
     const s = blockLines[ende].trim();
@@ -147,52 +150,23 @@ function extrahiereKapitel(markdown, kapitelNr) {
   for (const absatz of absaetze) {
     const ersteZeile = absatz[0].trim();
 
+    // Ist der Absatz eine Überschrift?
     const hm = ersteZeile.match(/^(#{1,6})\s+(.+)$/);
     if (hm) {
       elemente.push({ typ: 'heading', level: hm[1].length, text: hm[2].trim() });
       continue;
     }
 
+    // Textblock: Fußnoten entfernen, dann alle Verse des Absatzes
+    // als eine Einheit sammeln → ein <p> im HTML
     let block = absatz.join(' ');
 
-    // Fußnoten ZWEISTUFIG verarbeiten:
-    // Schritt A: Fußnoten aus dem Text herausziehen und ihre Positionen im
-    //   bereinigten Text merken. Die JSON-Annotationen (von/bis) basieren auf
-    //   dem bereinigten Text — deshalb müssen Fußnoten erst NACH der
-    //   Annotation-Anwendung wieder eingefügt werden (in renderAbsatz).
-    //
-    // Das Fußnotenzeichen kann als HTML-Entity (&#x2732;) oder UTF-8 (✲) vorkommen.
-    // Das title-Attribut kann einfache oder doppelte Anführungszeichen haben.
-    const fnRegex = /<sup\s+title=(["'])([^"']*)\1>\s*(?:&#x[\da-fA-F]+;|✲)\s*<\/sup>/g;
-    const fnMap = []; // { pos, title } — Position im bereinigten Text
-    let bereinigt = '';
-    let fnCursor = 0;
-    let fnMatch;
-    while ((fnMatch = fnRegex.exec(block)) !== null) {
-      bereinigt += block.slice(fnCursor, fnMatch.index);
-      fnMap.push({ pos: bereinigt.length, title: fnMatch[2] });
-      fnCursor = fnMatch.index + fnMatch[0].length;
-    }
-    bereinigt += block.slice(fnCursor);
-    bereinigt = bereinigt.replace(/&#x[\da-fA-F]+;/g, '');
-    bereinigt = bereinigt.replace(/\s+/g, ' ').trim();
-
-    // Verse des Absatzes extrahieren (auf bereinigtem Text)
-    const parts = bereinigt.split(/<sup>(\d+)<\/sup>/);
+    const parts = block.split(/<sup>(\d+)<\/sup>/);
     const verseImAbsatz = [];
-    let versOffset = 0;
     for (let i = 1; i < parts.length - 1; i += 2) {
       const nr = parseInt(parts[i]);
       const text = parts[i + 1].trim();
-      if (text) {
-        const versStart = bereinigt.indexOf(text, versOffset);
-        const versEnde  = versStart + text.length;
-        const fnInVers  = fnMap
-          .filter(f => f.pos >= versStart && f.pos <= versEnde)
-          .map(f => ({ pos: f.pos - versStart, title: f.title }));
-        verseImAbsatz.push({ nr, text, fn: fnInVers });
-        versOffset = versEnde;
-      }
+      if (text) verseImAbsatz.push({ nr, text });
     }
 
     if (verseImAbsatz.length) {
@@ -203,7 +177,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
   return elemente;
 }
 
-// ─── Annotationen rendern ────────────────────────────────────────────────────
+// ─── Annotationen auf einen Verstext anwenden ─────────────────────────────────
 //
 // Öffnende Tags: append (äußere zuerst)
 // Schließende Tags + Links: unshift (innerste zuerst) — verhindert dass
@@ -227,7 +201,6 @@ function wendeAnnotationenAn(versText, annotationen, fussnoten) {
 
   const openEvents  = {};
   const closeEvents = {};
-  const fnEvents    = {}; // Fußnoten als einfache Insert-Events
 
   function insOpen(pos, str) {
     if (!openEvents[pos])  openEvents[pos]  = [];
@@ -273,15 +246,14 @@ function wendeAnnotationenAn(versText, annotationen, fussnoten) {
   return result;
 }
 
-// ─── Absatz → HTML ───────────────────────────────────────────────────────────
+// ─── Einen Absatz (mehrere Verse) → HTML ─────────────────────────────────────
 function renderAbsatz(absatz, alleMarkierungen) {
   let inhalt = '';
   for (const vers of absatz.verse) {
     const markierungen = alleMarkierungen.filter(m => m.vers === vers.nr);
-    // Annotationen + Fußnoten gemeinsam anwenden (Fußnoten als Events im Bibeltext)
-    let versHtml = markierungen.length
-      ? wendeAnnotationenAn(vers.text, markierungen, vers.fn)
-      : wendeAnnotationenAn(vers.text, [], vers.fn);
+    const versHtml = markierungen.length
+      ? wendeAnnotationenAn(vers.text, markierungen)
+      : vers.text;
     inhalt += `<span class="vn">${vers.nr}</span>${versHtml} `;
   }
   return `<p>${inhalt.trim()}</p>`;
