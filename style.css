@@ -188,10 +188,7 @@ body {
 }
 .bibeltext p { margin-bottom: 0.9rem; }
 
-/* --- Abschnittsüberschriften (Kapitel + Index, einheitlich) ---
-   Wird sowohl in kapitel.html (via JS) als auch in index.html
-   (direkt im HTML) verwendet — gleiche Klasse, gleicher Style.
-   ----------------------------------------------------------------- */
+/* --- Abschnittsüberschriften (Kapitel + Index, einheitlich) --- */
 .abschnitt-kopf {
   font-family: var(--schrift-ui);
   font-size: 13px;
@@ -227,6 +224,23 @@ body {
   color: #ccc;
   margin-right: 1px;
   user-select: none;
+}
+
+/* --- Fußnoten-Tooltip ---
+   Kleine hochgestellte Markierung im Text; Tooltip via title-Attribut.
+   Der Browser zeigt den title-Text beim Hover als nativen Tooltip.
+   cursor:help signalisiert dem Leser, dass hier mehr Information wartet.
+   ----------------------------------------------------------------- */
+.fn {
+  font-family: var(--schrift-ui);
+  font-size: 10px;
+  font-weight: 600;
+  vertical-align: super;
+  color: var(--farbe-gold);
+  cursor: help;
+  margin: 0 1px;
+  user-select: none;
+  border-bottom: 1px dotted var(--farbe-gold);
 }
 
 /* --- Farbmarkierungen --- */
