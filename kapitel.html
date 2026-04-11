@@ -155,11 +155,13 @@ function extrahiereKapitel(markdown, kapitelNr) {
 
     let block = absatz.join(' ');
 
-    // Fußnoten erhalten: <sup title="TEXT">&#x2732;</sup>
+    // Fußnoten erhalten: <sup title="TEXT">&#x2732;</sup> oder <sup title='TEXT'>✲</sup>
+    // Das Fußnotenzeichen kann als HTML-Entity (&#x2732;) oder als UTF-8-Zeichen (✲)
+    // vorkommen, und title-Attribut mit einfachen oder doppelten Anführungszeichen.
     //   → <span class="fn" title="TEXT">*</span>
     block = block.replace(
-      /<sup\s+title="([^"]*)">\s*&#x2732;\s*<\/sup>/g,
-      '<span class="fn" title="$1">*</span>'
+      /<sup\s+title=(["'])([^"']*)\1>\s*(?:&#x[\da-fA-F]+;|✲)\s*<\/sup>/g,
+      '<span class="fn" title="$2">*</span>'
     );
     // Übrige HTML-Entities entfernen
     block = block.replace(/&#x[\da-fA-F]+;/g, '');
