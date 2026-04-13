@@ -7,22 +7,20 @@
     { "id": "galilaea",   "vers_von": 14, "vers_bis": 45, "titel": "I. Die Anfänge der Wirksamkeit Jesu in Galiläa" }
   ],
   "markierungen": [
-    { "vers": 2,  "typ": "at",    "von": 45, "bis": 121, "referenz": "Mal 3,1",            "vgl": false, "url": "https://www.bibleserver.com/MENG/Maleachi3,1" },
-    { "vers": 3,  "typ": "at",    "von": 0,  "bis": 88,  "referenz": "Jes 40,3",            "vgl": false, "url": "https://www.bibleserver.com/MENG/Jesaja40,3" },
-    { "vers": 6,  "typ": "at",    "von": 0,  "bis": -1,  "referenz": "2. Kön 1,8",         "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Koenige1,8" },
-    { "vers": 7,  "typ": "jesus", "von": 27, "bis": -1 },
-    { "vers": 8,  "typ": "jesus", "von": 0,  "bis": -1 },
+    { "vers": 2,  "typ": "at",    "von": 45, "bis": 121, "referenz": "Mal 3,1",        "vgl": false, "url": "https://www.bibleserver.com/MENG/Maleachi3,1" },
+    { "vers": 3,  "typ": "at",    "von": 0,  "bis": 88,  "referenz": "Jes 40,3",        "vgl": false, "url": "https://www.bibleserver.com/MENG/Jesaja40,3" },
+    { "vers": 6,  "typ": "at",    "von": 0,  "bis": -1,  "referenz": "2. Kön 1,8",     "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Koenige1,8" },
     { "vers": 11, "typ": "at",    "von": 42, "bis": 111, "vgl": false, "urls": [
         { "label": "Ps 2,7",   "url": "https://www.bibleserver.com/MENG/Psalm2,7" },
         { "label": "Jes 42,1", "url": "https://www.bibleserver.com/MENG/Jesaja42,1" }
     ]},
     { "vers": 15, "typ": "jesus", "von": 16, "bis": -1 },
-    { "vers": 15, "typ": "at",    "von": 17, "bis": 78,  "referenz": "Dan 2,44",            "vgl": true,  "url": "https://www.bibleserver.com/MENG/Daniel2,44" },
+    { "vers": 15, "typ": "at",    "von": 17, "bis": 78,  "referenz": "Dan 2,44",        "vgl": true,  "url": "https://www.bibleserver.com/MENG/Daniel2,44" },
     { "vers": 17, "typ": "jesus", "von": 25, "bis": -1 },
     { "vers": 25, "typ": "jesus", "von": 35, "bis": -1 },
     { "vers": 38, "typ": "jesus", "von": 26, "bis": -1 },
     { "vers": 41, "typ": "jesus", "von": 85, "bis": -1 },
     { "vers": 44, "typ": "jesus", "von": 18, "bis": -1 },
-    { "vers": 44, "typ": "at",    "von": 80, "bis": 191, "referenz": "3. Mo 14,2–32",       "vgl": false, "url": "https://www.bibleserver.com/MENG/3.Mose14,2" }
+    { "vers": 44, "typ": "at",    "von": 80, "bis": 191, "referenz": "3. Mo 14,2–32",  "vgl": false, "url": "https://www.bibleserver.com/MENG/3.Mose14,2" }
   ]
 }
