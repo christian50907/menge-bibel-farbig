@@ -9,24 +9,18 @@
     { "id": "sabbat",     "vers_von": 23, "vers_bis": 28, "titel": "4. Das Ährenraufen am Sabbat" }
   ],
   "markierungen": [
-    { "vers": 5,  "typ": "jesus", "von": 65,  "bis": -1 },
-    { "vers": 7,  "typ": "at",    "von": 0,   "bis": -1,  "referenz": "Jes 43,25",      "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja43,25" },
-    { "vers": 8,  "typ": "jesus", "von": 97,  "bis": -1 },
-    { "vers": 9,  "typ": "jesus", "von": 0,   "bis": -1 },
-    { "vers": 10, "typ": "jesus", "von": 0,   "bis": 86 },
-    { "vers": 11, "typ": "jesus", "von": 0,   "bis": -1 },
-    { "vers": 14, "typ": "jesus", "von": 99,  "bis": 116 },
-    { "vers": 17, "typ": "jesus", "von": 40,  "bis": -1 },
-    { "vers": 17, "typ": "at",    "von": 102, "bis": 162, "referenz": "Jes 61,1",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja61,1" },
-    { "vers": 19, "typ": "jesus", "von": 24,  "bis": -1 },
-    { "vers": 19, "typ": "at",    "von": 72,  "bis": 106, "referenz": "Jes 62,5",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja62,5" },
-    { "vers": 20, "typ": "jesus", "von": 0,   "bis": -1 },
-    { "vers": 21, "typ": "jesus", "von": 0,   "bis": -1 },
-    { "vers": 22, "typ": "jesus", "von": 0,   "bis": -1 },
-    { "vers": 25, "typ": "jesus", "von": 21,  "bis": -1 },
-    { "vers": 26, "typ": "at",    "von": 71,  "bis": 137, "referenz": "1. Sam 21,2–7", "vgl": false, "url": "https://www.bibleserver.com/MENG/1.Samuel21,2" },
-    { "vers": 27, "typ": "jesus", "von": 19,  "bis": -1 },
-    { "vers": 27, "typ": "at",    "von": 20,  "bis": 103, "referenz": "2. Mo 20,8–11", "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Mose20,8" },
-    { "vers": 28, "typ": "jesus", "von": 0,   "bis": -1 }
+    { "vers_von": 5,  "vers_bis": 5,  "typ": "jesus", "von": 65,  "bis": -1 },
+    { "vers_von": 7,  "vers_bis": 7,  "typ": "at",    "von": 0,   "bis": -1,  "referenz": "Jes 43,25",      "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja43,25" },
+    { "vers_von": 8,  "vers_bis": 10, "typ": "jesus", "von": 97,  "bis": 86 },
+    { "vers_von": 11, "vers_bis": 11, "typ": "jesus", "von": 0,   "bis": -1 },
+    { "vers_von": 14, "vers_bis": 14, "typ": "jesus", "von": 99,  "bis": 116 },
+    { "vers_von": 17, "vers_bis": 17, "typ": "jesus", "von": 40,  "bis": -1 },
+    { "vers_von": 17, "vers_bis": 17, "typ": "at",    "von": 102, "bis": 162, "referenz": "Jes 61,1",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja61,1" },
+    { "vers_von": 19, "vers_bis": 22, "typ": "jesus", "von": 24,  "bis": -1 },
+    { "vers_von": 19, "vers_bis": 19, "typ": "at",    "von": 72,  "bis": 106, "referenz": "Jes 62,5",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja62,5" },
+    { "vers_von": 25, "vers_bis": 26, "typ": "jesus", "von": 21,  "bis": -1 },
+    { "vers_von": 26, "vers_bis": 26, "typ": "at",    "von": 71,  "bis": 137, "referenz": "1. Sam 21,2–7", "vgl": false, "url": "https://www.bibleserver.com/MENG/1.Samuel21,2" },
+    { "vers_von": 27, "vers_bis": 28, "typ": "jesus", "von": 19,  "bis": -1 },
+    { "vers_von": 27, "vers_bis": 27, "typ": "at",    "von": 20,  "bis": 103, "referenz": "2. Mo 20,8–11", "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Mose20,8" }
   ]
 }
