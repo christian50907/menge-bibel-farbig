@@ -203,31 +203,89 @@ function extrahiereKapitel(markdown, kapitelNr) {
   return elemente;
 }
 
-// ─── Annotationen rendern ────────────────────────────────────────────────────
+// ─── Absatz-globaler Span-Renderer ───────────────────────────────────────────
 //
-// Öffnende Tags: append (äußere zuerst)
-// Schließende Tags + Links: unshift (innerste zuerst) — verhindert dass
-// AT-Links außerhalb ihres Spans landen wenn Jesus- und AT-Span
-// dieselbe Endposition haben.
+// Neues Modell (ersetzt den versweisen wendeAnnotationenAn):
 //
-function wendeAnnotationenAn(versText, annotationen, fussnoten) {
-  const n = versText.length;
+// Ablauf:
+//   1. Absatztext zusammenbauen: Verse werden mit ihren Versnummern
+//      aneinandergereiht, dabei werden die Versstart-Offsets notiert.
+//   2. Annotationen werden in absatz-globale Zeichenpositionen übersetzt.
+//      Markierungen haben vers_von/vers_bis (für versübergreifende Spans)
+//      oder vers (für einversige, rückwärtskompatibel).
+//   3. Ein einziger Durchlauf baut das HTML mit allen Spans auf.
+//      Sortierung: längere Spans vor kürzeren (äußere vor innere),
+//      so entsteht korrekte HTML-Schachtelung ohne Fallunterscheidung.
+//   4. Versnummern und Fußnoten werden als Inline-Events eingefügt,
+//      unabhängig von den Farb-Spans.
+//
+// Regel: Grün (AT) kann innerhalb Rot (Jesus) vorkommen, nie umgekehrt.
+// Das ergibt sich automatisch aus der Sortierung — AT-Spans sind immer
+// kürzer als der sie umgebende Jesus-Span.
+//
+function renderAbsatz(absatz, alleMarkierungen) {
+  const verse = absatz.verse;
+  if (!verse.length) return '';
 
-  const spans = annotationen.map(a => ({
-    von:      a.von,
-    bis:      a.bis === -1 ? n : a.bis,
-    typ:      a.typ,
-    url:      a.url      || null,
-    referenz: a.referenz || null,
-    vgl:      a.vgl      || false,
-    urls:     a.urls     || null,
-  }));
+  // ── Schritt 1: Versoffsets im Absatztext berechnen ──
+  // Wir bauen einen virtuellen Absatztext aus den bereinigten Verstexten.
+  // Trennzeichen zwischen Versen: ein Leerzeichen (entspricht dem
+  // tatsächlichen Rendering, wo Verse im selben <p> fließen).
+  // Die Versnummer-Tags (<sup>N</sup>) sind kein Teil des bereinigten Texts,
+  // werden aber als Inline-Events gesondert eingefügt.
+
+  const versOffsets = []; // { nr, start, end, fn }
+  let absatzText = '';
+  for (const vers of verse) {
+    const start = absatzText.length;
+    absatzText += vers.text;
+    const end = absatzText.length;
+    versOffsets.push({ nr: vers.nr, start, end, fn: vers.fn || [] });
+    absatzText += ' '; // Trennzeichen zwischen Versen
+  }
+
+  const n = absatzText.length;
+
+  // ── Schritt 2: Markierungen in absatz-globale Positionen übersetzen ──
+  const spans = [];
+
+  for (const m of alleMarkierungen) {
+    // Rückwärtskompatibilität: altes Format hat "vers", neues hat "vers_von"/"vers_bis"
+    const versVon = m.vers_von !== undefined ? m.vers_von : m.vers;
+    const versBis = m.vers_bis !== undefined ? m.vers_bis : m.vers;
+
+    const startVers = versOffsets.find(v => v.nr === versVon);
+    const endVers   = versOffsets.find(v => v.nr === versBis);
+    if (!startVers || !endVers) continue;
+
+    const globalVon = startVers.start + m.von;
+    const globalBis = m.bis === -1 ? endVers.end : endVers.start + m.bis;
+
+    // AT-Link aufbauen
+    let link = '';
+    if (m.typ === 'at') {
+      if (m.urls) {
+        for (const u of m.urls)
+          link += ` <a href="${u.url}" target="_blank">(${u.label})</a>`;
+      } else if (m.url && m.referenz) {
+        const label = m.vgl ? `vgl. ${m.referenz}` : m.referenz;
+        link = ` <a href="${m.url}" target="_blank">(${label})</a>`;
+      }
+    }
+
+    spans.push({ von: globalVon, bis: globalBis, typ: m.typ, link });
+  }
+
+  // ── Schritt 3: Events aufbauen ──
+  // Öffnende Tags: äußere Spans zuerst (nach von aufsteigend,
+  // bei gleichem von: längerer Span zuerst → äußerer zuerst geöffnet)
+  // Schließende Tags + Links: innerste zuerst (unshift), damit Links
+  // korrekt innerhalb ihres Spans bleiben.
 
   spans.sort((a, b) => a.von - b.von || (b.bis - b.von) - (a.bis - a.von));
 
-  const openEvents  = {};
-  const closeEvents = {};
-  const fnEvents    = {}; // Fußnoten als einfache Insert-Events
+  const openEvents  = {}; // pos → [html]
+  const closeEvents = {}; // pos → [html]
 
   function insOpen(pos, str) {
     if (!openEvents[pos])  openEvents[pos]  = [];
@@ -240,51 +298,40 @@ function wendeAnnotationenAn(versText, annotationen, fussnoten) {
 
   for (const s of spans) {
     const klasse = s.typ === 'jesus' ? 'jesus' : 'at';
-    let link = '';
-    if (s.typ === 'at') {
-      if (s.urls) {
-        for (const u of s.urls)
-          link += ` <a href="${u.url}" target="_blank">(${u.label})</a>`;
-      } else if (s.url && s.referenz) {
-        const label = s.vgl ? `vgl. ${s.referenz}` : s.referenz;
-        link = ` <a href="${s.url}" target="_blank">(${label})</a>`;
-      }
-    }
     insOpen(s.von,  `<span class="${klasse}">`);
-    insClose(s.bis, `${link}</span>`);
+    insClose(s.bis, `${s.link}</span>`);
   }
 
-  // Fußnoten direkt als Events auf dem Bibeltext eintragen —
-  // nach closeEvents, vor openEvents, so landen sie korrekt im Textfluss
-  // ohne dass Link-Texte die Zählung verschieben.
-  for (const fn of (fussnoten || [])) {
-    if (!fnEvents[fn.pos]) fnEvents[fn.pos] = [];
-    const title = fn.title.replace(/"/g, '&quot;');
-    fnEvents[fn.pos].push(`<span class="fn" title="${title}">*</span>`);
+  // Versnummern als Open-Events (vor dem Verstext)
+  const vnEvents = {};
+  for (const v of versOffsets) {
+    if (!vnEvents[v.start]) vnEvents[v.start] = [];
+    vnEvents[v.start].push(`<span class="vn">${v.nr}</span>`);
   }
 
+  // Fußnoten als Close-then-Open-Events an ihrer absoluten Position
+  // (nach closeEvents, vor openEvents — korrekte Einbettung in Farb-Spans)
+  const fnEvents = {};
+  for (const v of versOffsets) {
+    for (const fn of v.fn) {
+      const absPos = v.start + fn.pos;
+      if (!fnEvents[absPos]) fnEvents[absPos] = [];
+      const title = fn.title.replace(/"/g, '&quot;');
+      fnEvents[absPos].push(`<span class="fn" title="${title}">*</span>`);
+    }
+  }
+
+  // ── Schritt 4: HTML zusammenbauen ──
   let result = '';
   for (let i = 0; i <= n; i++) {
     if (closeEvents[i]) result += closeEvents[i].join('');
     if (fnEvents[i])    result += fnEvents[i].join('');
+    if (vnEvents[i])    result += vnEvents[i].join('');
     if (openEvents[i])  result += openEvents[i].join('');
-    if (i < n) result += versText[i];
+    if (i < n) result += absatzText[i];
   }
-  return result;
-}
 
-// ─── Absatz → HTML ───────────────────────────────────────────────────────────
-function renderAbsatz(absatz, alleMarkierungen) {
-  let inhalt = '';
-  for (const vers of absatz.verse) {
-    const markierungen = alleMarkierungen.filter(m => m.vers === vers.nr);
-    // Annotationen + Fußnoten gemeinsam anwenden (Fußnoten als Events im Bibeltext)
-    let versHtml = markierungen.length
-      ? wendeAnnotationenAn(vers.text, markierungen, vers.fn)
-      : wendeAnnotationenAn(vers.text, [], vers.fn);
-    inhalt += `<span class="vn">${vers.nr}</span>${versHtml} `;
-  }
-  return `<p>${inhalt.trim()}</p>`;
+  return `<p>${result.trimEnd()}</p>`;
 }
 
 // ─── Überschrift → HTML ──────────────────────────────────────────────────────
