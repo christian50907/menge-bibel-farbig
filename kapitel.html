@@ -401,7 +401,7 @@ async function ladeSeite() {
     if (!textRes.ok) throw new Error(`Text nicht ladbar: ${textRes.status}`);
     const markdown = await textRes.text();
 
-    const annoUrl = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/main/annotationen/${buch}/kapitel-${kapitel}.json`;
+    const annoUrl = `annotationen/${buch}/kapitel-${kapitel}.json`;
     const annoRes = await fetch(annoUrl);
     if (!annoRes.ok) throw new Error(`Annotationen nicht ladbar: ${annoRes.status}`);
     const anno = await annoRes.json();
