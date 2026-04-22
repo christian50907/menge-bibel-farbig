@@ -37,17 +37,7 @@
 </footer>
 
 <script>
-const REPO_OWNER = "christian50907";
-const REPO_NAME  = "menge-bibel-farbig";
 const QUELL_REPO = "renehamburger/Menge-Bibel";
-
-const BUECHER = {
-  markus: {
-    quellpfad:   "Bibel/Neues%20Testament/02%20-%20Markus.md",
-    anzeigename: "Markus",
-    kapitel:     [1, 2]
-  }
-};
 
 function getParams() {
   const p = new URLSearchParams(location.search);
@@ -350,14 +340,22 @@ function renderHeading(heading) {
 }
 
 // ─── Sidebar / TOC ───────────────────────────────────────────────────────────
-function baueSidebar(buch, aktKap) {
-  const info = BUECHER[buch];
-  let html = `<h4>${info.anzeigename}</h4><ul class="book-list">`;
-  for (const k of info.kapitel) {
-    const akt = k === aktKap ? ' class="aktiv"' : '';
-    html += `<li><a href="kapitel.html?buch=${buch}&kapitel=${k}"${akt}>Kapitel ${k}</a></li>`;
+// manifest: das geladene Manifest-Objekt
+// aktBuch:  id des aktuellen Buchs
+// aktKap:   Nummer des aktuellen Kapitels
+function baueSidebar(manifest, aktBuch, aktKap) {
+  let html = '';
+  // Bücher in Manifest-Reihenfolge
+  for (const buch of manifest.buecher) {
+    const buchAktiv = buch.id === aktBuch;
+    html += `<h4>${buch.name}</h4><ul class="book-list">`;
+    for (const k of buch.kapitel) {
+      const aktiv = buchAktiv && k === aktKap ? ' class="aktiv"' : '';
+      html += `<li><a href="kapitel.html?buch=${buch.id}&kapitel=${k}"${aktiv}>Kapitel ${k}</a></li>`;
+    }
+    html += `</ul>`;
   }
-  html += `</ul><h4>Weitere Bücher</h4><ul class="book-list">`;
+  html += `<h4>Weitere</h4><ul class="book-list">`;
   html += `<li><a href="index.html">← Zur Übersicht</a></li></ul>`;
   return html;
 }
@@ -387,15 +385,21 @@ function baueToc(elemente, voriges, naechstes, buch) {
 // ─── Hauptfunktion ───────────────────────────────────────────────────────────
 async function ladeSeite() {
   const { buch, kapitel } = getParams();
-  const info = BUECHER[buch];
-  if (!info) {
-    document.getElementById("main-content").innerHTML = "<p>Buch nicht gefunden.</p>";
-    return;
-  }
-
-  document.getElementById("sidebar-nav").innerHTML = baueSidebar(buch, kapitel);
 
   try {
+    // Manifest laden — einzige Quelle für Bücher und Kapitel
+    const manifestRes = await fetch("annotationen/manifest.json");
+    if (!manifestRes.ok) throw new Error(`Manifest nicht ladbar: ${manifestRes.status}`);
+    const manifest = await manifestRes.json();
+
+    const info = manifest.buecher.find(b => b.id === buch);
+    if (!info) {
+      document.getElementById("main-content").innerHTML = "<p>Buch nicht gefunden.</p>";
+      return;
+    }
+
+    document.getElementById("sidebar-nav").innerHTML = baueSidebar(manifest, buch, kapitel);
+
     const textUrl = `https://raw.githubusercontent.com/${QUELL_REPO}/master/${info.quellpfad}`;
     const textRes = await fetch(textUrl);
     if (!textRes.ok) throw new Error(`Text nicht ladbar: ${textRes.status}`);
@@ -410,11 +414,11 @@ async function ladeSeite() {
     const hatVerse = elemente.some(e => e.typ === 'absatz' && e.verse.length > 0);
     if (!hatVerse) throw new Error(`Keine Verse gefunden für Kapitel ${kapitel}`);
 
-    document.title = `${info.anzeigename} ${kapitel} — Menge-Bibel Annotationsprojekt`;
+    document.title = `${info.name} ${kapitel} — Menge-Bibel Annotationsprojekt`;
 
     let html = `
       <div class="kapitel-header">
-        <div class="kapitel-label">${info.anzeigename} &nbsp;·&nbsp; Kapitel ${kapitel}</div>
+        <div class="kapitel-label">${info.name} &nbsp;·&nbsp; Kapitel ${kapitel}</div>
         <h1 class="kapitel-titel">${anno.titel}</h1>
         <div class="kapitel-untertitel">Übersetzt von Hermann Menge · Menge-Bibel (1926)</div>
       </div>
