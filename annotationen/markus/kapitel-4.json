@@ -1,0 +1,27 @@
+{
+  "buch": "Markus",
+  "kapitel": 4,
+  "titel": "Die Seepredigt in Gleichnissen · Der Seesturm",
+  "abschnitte": [
+    { "id": "saemann",    "vers_von":  1, "vers_bis": 20, "titel": "4. Jesu Seepredigt: Gleichnis vom Sämann und seine Deutung" },
+    { "id": "sprueche",   "vers_von": 21, "vers_bis": 25, "titel": "Sprüche über Licht und Maß" },
+    { "id": "gleichnisse","vers_von": 26, "vers_bis": 34, "titel": "Gleichnisse von der wachsenden Saat und vom Senfkorn" },
+    { "id": "seesturm",   "vers_von": 35, "vers_bis": 41, "titel": "5. Jesus beschwichtigt den Seesturm" }
+  ],
+  "markierungen": [
+    { "vers_von":  3, "vers_bis":  8, "typ": "jesus", "von":   0, "bis": -1 },
+    { "vers_von":  9, "vers_bis":  9, "typ": "jesus", "von":  26, "bis": -1 },
+    { "vers_von": 11, "vers_bis": 13, "typ": "jesus", "von":  24, "bis": -1 },
+    { "vers_von": 12, "vers_bis": 12, "typ": "at",    "von":   0, "bis": 178, "referenz": "Jes 6,9-10", "vgl": false, "url": "https://www.bibleserver.com/MENG/Jesaja6,9" },
+    { "vers_von": 14, "vers_bis": 20, "typ": "jesus", "von":   0, "bis": -1 },
+    { "vers_von": 21, "vers_bis": 23, "typ": "jesus", "von":  26, "bis":  34 },
+    { "vers_von": 24, "vers_bis": 25, "typ": "jesus", "von":  19, "bis": -1 },
+    { "vers_von": 26, "vers_bis": 29, "typ": "jesus", "von":  19, "bis": -1 },
+    { "vers_von": 29, "vers_bis": 29, "typ": "at",    "von":  32, "bis": -1,  "referenz": "Joel 3,13",  "vgl": true,  "url": "https://www.bibleserver.com/MENG/Joel3,13" },
+    { "vers_von": 30, "vers_bis": 32, "typ": "jesus", "von":  17, "bis": -1 },
+    { "vers_von": 32, "vers_bis": 32, "typ": "at",    "von": 109, "bis": -1,  "referenz": "Ez 17,23",   "vgl": true,  "url": "https://www.bibleserver.com/MENG/Hesekiel17,23" },
+    { "vers_von": 35, "vers_bis": 35, "typ": "jesus", "von":  65, "bis": -1 },
+    { "vers_von": 39, "vers_bis": 39, "typ": "jesus", "von":  54, "bis":  78 },
+    { "vers_von": 40, "vers_bis": 40, "typ": "jesus", "von":  27, "bis": -1 }
+  ]
+}
