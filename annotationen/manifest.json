@@ -1,0 +1,10 @@
+{
+  "buecher": [
+    {
+      "id":          "markus",
+      "name":        "Markus",
+      "quellpfad":   "Bibel/Neues%20Testament/02%20-%20Markus.md",
+      "kapitel":     [1, 2]
+    }
+  ]
+}
