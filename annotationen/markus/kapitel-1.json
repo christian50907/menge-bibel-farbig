@@ -9,7 +9,8 @@
   "markierungen": [
     { "vers_von": 2,  "vers_bis": 2,  "typ": "at",    "von": 45, "bis": 121, "referenz": "Mal 3,1",       "vgl": false, "url": "https://www.bibleserver.com/MENG/Maleachi3,1" },
     { "vers_von": 3,  "vers_bis": 3,  "typ": "at",    "von": 0,  "bis": 88,  "referenz": "Jes 40,3",       "vgl": false, "url": "https://www.bibleserver.com/MENG/Jesaja40,3" },
-    { "vers_von": 6,  "vers_bis": 6,  "typ": "at",    "von": 0,  "bis": -1,  "referenz": "2. Kön 1,8",    "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Koenige1,8" },
+    { "vers_von": 6,  "vers_bis": 6,  "typ": "at",    "von": 0,  "bis": 85,  "referenz": "2. Kön 1,8",    "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Koenige1,8" },
+    { "vers_von": 6,  "vers_bis": 6,  "typ": "at",    "von": 105,  "bis": 116,  "referenz": "3. Mo 11,22",    "vgl": true,  "url": "https://www.bibleserver.com/MENG/3.Mose11,22" },
     { "vers_von": 11, "vers_bis": 11, "typ": "at",    "von": 42, "bis": 111, "vgl": false, "urls": [
         { "label": "Ps 2,7",   "url": "https://www.bibleserver.com/MENG/Psalm2,7" },
         { "label": "Jes 42,1", "url": "https://www.bibleserver.com/MENG/Jesaja42,1" }
