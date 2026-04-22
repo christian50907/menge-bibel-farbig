@@ -18,14 +18,8 @@
 
 <div class="layout">
 
-  <aside class="sidebar-nav">
-    <h4>Neues Testament</h4>
-    <ul class="book-list">
-      <li><a href="kapitel.html?buch=markus&kapitel=1">Markus</a></li>
-      <li style="color:#ccc; font-family:-apple-system,sans-serif; font-size:13px; padding:4px 8px;">Matthäus <span style="font-size:10px; color:#ddd;">— folgt</span></li>
-      <li style="color:#ccc; font-family:-apple-system,sans-serif; font-size:13px; padding:4px 8px;">Lukas <span style="font-size:10px; color:#ddd;">— folgt</span></li>
-      <li style="color:#ccc; font-family:-apple-system,sans-serif; font-size:13px; padding:4px 8px;">Johannes <span style="font-size:10px; color:#ddd;">— folgt</span></li>
-    </ul>
+  <aside class="sidebar-nav" id="sidebar-nav">
+    <div style="font-family:var(--schrift-ui);font-size:13px;color:#bbb;padding:8px;">Lädt…</div>
   </aside>
 
   <main class="index-content">
@@ -73,31 +67,8 @@
 
     <div class="abschnitt-kopf" id="neues-testament">Neues Testament</div>
 
-    <div class="buch-grid">
-      <a class="buch-karte" href="kapitel.html?buch=markus&kapitel=1">
-        Markus
-        <span>Kapitel 1–2 annotiert</span>
-      </a>
-      <div class="buch-karte bald">
-        Matthäus
-        <span>In Vorbereitung</span>
-      </div>
-      <div class="buch-karte bald">
-        Lukas
-        <span>In Vorbereitung</span>
-      </div>
-      <div class="buch-karte bald">
-        Johannes
-        <span>In Vorbereitung</span>
-      </div>
-      <div class="buch-karte bald">
-        Apostelgeschichte
-        <span>In Vorbereitung</span>
-      </div>
-      <div class="buch-karte bald">
-        Römer
-        <span>In Vorbereitung</span>
-      </div>
+    <div class="buch-grid" id="buch-grid">
+      <div style="font-family:var(--schrift-ui);font-size:13px;color:#bbb;">Lädt…</div>
     </div>
 
   </main>
@@ -111,6 +82,83 @@
   · AT-Links verweisen auf die
   <a href="https://www.bibleserver.com/MENG" target="_blank">Menge-Version auf bibleserver.com</a>
 </footer>
+
+<script>
+// NT-Bücher in kanonischer Reihenfolge — alle, die noch nicht im Manifest sind,
+// erscheinen als "In Vorbereitung"-Karten im Grid (aber nicht in der Sidebar).
+const NT_KANON = [
+  "Matthäus", "Markus", "Lukas", "Johannes", "Apostelgeschichte",
+  "Römer", "1. Korinther", "2. Korinther", "Galater", "Epheser",
+  "Philipper", "Kolosser", "1. Thessalonicher", "2. Thessalonicher",
+  "1. Timotheus", "2. Timotheus", "Titus", "Philemon",
+  "Hebräer", "Jakobus", "1. Petrus", "2. Petrus",
+  "1. Johannes", "2. Johannes", "3. Johannes", "Judas", "Offenbarung"
+];
+
+async function ladeIndex() {
+  try {
+    const res = await fetch("annotationen/manifest.json");
+    if (!res.ok) throw new Error(`Manifest nicht ladbar: ${res.status}`);
+    const manifest = await res.json();
+
+    // Lookup: Buch-Name → Manifest-Eintrag (für schnellen Zugriff im Grid)
+    const verfuegbar = {};
+    for (const b of manifest.buecher) {
+      verfuegbar[b.name] = b;
+    }
+
+    // ── Sidebar: nur verfügbare Bücher, in Manifest-Reihenfolge ──
+    let sidebarHtml = '<h4>Neues Testament</h4><ul class="book-list">';
+    for (const buch of manifest.buecher) {
+      const erstesKapitel = buch.kapitel[0];
+      sidebarHtml += `<li><a href="kapitel.html?buch=${buch.id}&kapitel=${erstesKapitel}">${buch.name}</a></li>`;
+    }
+    sidebarHtml += '</ul>';
+    document.getElementById("sidebar-nav").innerHTML = sidebarHtml;
+
+    // ── Buch-Grid: verfügbare Bücher in Manifest-Reihenfolge, dann Rest als "bald" ──
+    // Reihenfolge: erst alle Manifest-Bücher, dann NT-Kanon-Rest (noch nicht im Manifest)
+    let gridHtml = '';
+
+    // Verfügbare Bücher (exakt in Manifest-Reihenfolge)
+    for (const buch of manifest.buecher) {
+      const erstesKapitel = buch.kapitel[0];
+      const letztes = buch.kapitel[buch.kapitel.length - 1];
+      const anzahl = buch.kapitel.length;
+      const label = anzahl === 1
+        ? `Kapitel ${erstesKapitel} annotiert`
+        : `Kapitel ${erstesKapitel}–${letztes} annotiert`;
+      gridHtml += `
+        <a class="buch-karte" href="kapitel.html?buch=${buch.id}&kapitel=${erstesKapitel}">
+          ${buch.name}
+          <span>${label}</span>
+        </a>`;
+    }
+
+    // Noch nicht verfügbare NT-Bücher (in kanonischer Reihenfolge)
+    for (const name of NT_KANON) {
+      if (!verfuegbar[name]) {
+        gridHtml += `
+        <div class="buch-karte bald">
+          ${name}
+          <span>In Vorbereitung</span>
+        </div>`;
+      }
+    }
+
+    document.getElementById("buch-grid").innerHTML = gridHtml;
+
+  } catch (err) {
+    document.getElementById("sidebar-nav").innerHTML =
+      `<div style="font-family:var(--schrift-ui);font-size:12px;color:#c00;padding:8px;">Fehler: ${err.message}</div>`;
+    document.getElementById("buch-grid").innerHTML =
+      `<div style="font-family:var(--schrift-ui);font-size:13px;color:#c00;">Fehler beim Laden: ${err.message}</div>`;
+    console.error(err);
+  }
+}
+
+ladeIndex();
+</script>
 
 </body>
 </html>
