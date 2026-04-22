@@ -1,0 +1,21 @@
+{
+  "buch": "Markus",
+  "kapitel": 3,
+  "titel": "Streit um den Sabbat · Die zwölf Jünger · Die wahren Verwandten",
+  "abschnitte": [
+    { "id": "sabbat-arm",   "vers_von":  1, "vers_bis":  6, "titel": "5. Heilung des Mannes mit dem gelähmten Arm am Sabbat" },
+    { "id": "zulauf",       "vers_von":  7, "vers_bis": 12, "titel": "1. Zulauf des Volkes; viele Heilungen am See" },
+    { "id": "zwoelf",       "vers_von": 13, "vers_bis": 19, "titel": "2. Berufung und Namen der zwölf Jünger" },
+    { "id": "beelzebul",    "vers_von": 20, "vers_bis": 30, "titel": "3. Auseinandersetzungen: Beelzebul-Lästerung und Sünde gegen den Heiligen Geist" },
+    { "id": "verwandte",    "vers_von": 31, "vers_bis": 35, "titel": "4. Die wahren Verwandten Jesu" }
+  ],
+  "markierungen": [
+    { "vers_von":  3, "vers_bis":  3, "typ": "jesus", "von":  55, "bis": -1 },
+    { "vers_von":  4, "vers_bis":  4, "typ": "jesus", "von":  20, "bis": 128 },
+    { "vers_von":  5, "vers_bis":  5, "typ": "jesus", "von": 110, "bis": 135 },
+    { "vers_von": 23, "vers_bis": 29, "typ": "jesus", "von":  63, "bis": 150 },
+    { "vers_von": 27, "vers_bis": 27, "typ": "at",    "von":   0, "bis": -1,  "referenz": "Jes 49,24f", "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja49,24" },
+    { "vers_von": 33, "vers_bis": 33, "typ": "jesus", "von":  26, "bis": -1 },
+    { "vers_von": 34, "vers_bis": 35, "typ": "jesus", "von":  77, "bis": -1 }
+  ]
+}
