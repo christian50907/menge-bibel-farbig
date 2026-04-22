@@ -17,7 +17,7 @@
     { "vers_von": 21, "vers_bis": 23, "typ": "jesus", "von":  26, "bis":  34 },
     { "vers_von": 24, "vers_bis": 25, "typ": "jesus", "von":  19, "bis": -1 },
     { "vers_von": 26, "vers_bis": 29, "typ": "jesus", "von":  19, "bis": -1 },
-    { "vers_von": 29, "vers_bis": 29, "typ": "at",    "von":  32, "bis": -1,  "referenz": "Joel 3,13",  "vgl": true,  "url": "https://www.bibleserver.com/MENG/Joel3,13" },
+    { "vers_von": 29, "vers_bis": 29, "typ": "at",    "von":  32, "bis": -1,  "referenz": "Joel 4,13",  "vgl": true,  "url": "https://www.bibleserver.com/MENG/Joel4,13" },
     { "vers_von": 30, "vers_bis": 32, "typ": "jesus", "von":  17, "bis": -1 },
     { "vers_von": 32, "vers_bis": 32, "typ": "at",    "von": 109, "bis": -1,  "referenz": "Ez 17,23",   "vgl": true,  "url": "https://www.bibleserver.com/MENG/Hesekiel17,23" },
     { "vers_von": 35, "vers_bis": 35, "typ": "jesus", "von":  65, "bis": -1 },
