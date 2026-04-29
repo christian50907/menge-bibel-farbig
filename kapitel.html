@@ -428,11 +428,14 @@ async function ladeSeite() {
       </div>
       <div class="bibeltext">`;
 
+    // Nur aktive Markierungen rendern — fehlendes status-Feld gilt als "aktiv"
+    const aktiveMarkierungen = anno.markierungen.filter(m => (m.status || 'aktiv') === 'aktiv');
+
     for (const element of elemente) {
       if (element.typ === 'heading') {
         html += renderHeading(element);
       } else {
-        html += renderAbsatz(element, anno.markierungen);
+        html += renderAbsatz(element, aktiveMarkierungen);
       }
     }
 
