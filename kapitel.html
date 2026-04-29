@@ -251,15 +251,27 @@ function renderAbsatz(absatz, alleMarkierungen) {
     const globalVon = startVers.start + m.von;
     const globalBis = m.bis === -1 ? endVers.end : endVers.start + m.bis;
 
-    // AT-Link aufbauen
+    // AT-Link aufbauen — mit Tooltip-Wrapper wenn begruendung vorhanden
     let link = '';
     if (m.typ === 'at') {
+      const autor = m.autor ? ` <span class="at-tooltip-autor">(${m.autor})</span>` : '';
+      const begruendung = m.begruendung
+        ? `<span class="at-tooltip-text">${m.begruendung}${autor}</span>` : '';
       if (m.urls) {
-        for (const u of m.urls)
-          link += ` <a href="${u.url}" target="_blank">(${u.label})</a>`;
+        for (const u of m.urls) {
+          if (begruendung) {
+            link += ` <span class="at-tooltip-wrap"><a href="${u.url}" target="_blank">(${u.label})</a>${begruendung}</span>`;
+          } else {
+            link += ` <a href="${u.url}" target="_blank">(${u.label})</a>`;
+          }
+        }
       } else if (m.url && m.referenz) {
         const label = m.vgl ? `vgl. ${m.referenz}` : m.referenz;
-        link = ` <a href="${m.url}" target="_blank">(${label})</a>`;
+        if (begruendung) {
+          link = ` <span class="at-tooltip-wrap"><a href="${m.url}" target="_blank">(${label})</a>${begruendung}</span>`;
+        } else {
+          link = ` <a href="${m.url}" target="_blank">(${label})</a>`;
+        }
       }
     }
 
