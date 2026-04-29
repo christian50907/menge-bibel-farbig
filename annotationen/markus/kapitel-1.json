@@ -3,25 +3,159 @@
   "kapitel": 1,
   "titel": "Die Heilsbotschaft nach Markus",
   "abschnitte": [
-    { "id": "einleitung", "vers_von": 1,  "vers_bis": 13, "titel": "Einleitung: Die Vorbereitung" },
-    { "id": "galilaea",   "vers_von": 14, "vers_bis": 45, "titel": "I. Die Anfänge der Wirksamkeit Jesu in Galiläa" }
+    {
+      "id": "einleitung",
+      "vers_von": 1,
+      "vers_bis": 13,
+      "titel": "Einleitung: Die Vorbereitung"
+    },
+    {
+      "id": "galilaea",
+      "vers_von": 14,
+      "vers_bis": 45,
+      "titel": "I. Die Anfänge der Wirksamkeit Jesu in Galiläa"
+    }
   ],
   "markierungen": [
-    { "vers_von": 2,  "vers_bis": 2,  "typ": "at",    "von": 45, "bis": 121, "referenz": "Mal 3,1",       "vgl": false, "url": "https://www.bibleserver.com/MENG/Maleachi3,1" },
-    { "vers_von": 3,  "vers_bis": 3,  "typ": "at",    "von": 0,  "bis": 88,  "referenz": "Jes 40,3",       "vgl": false, "url": "https://www.bibleserver.com/MENG/Jesaja40,3" },
-    { "vers_von": 6,  "vers_bis": 6,  "typ": "at",    "von": 0,  "bis": 84,  "referenz": "2. Kön 1,8",    "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Koenige1,8" },
-    { "vers_von": 6,  "vers_bis": 6,  "typ": "at",    "von": 104,  "bis": 116,  "referenz": "3. Mo 11,22",    "vgl": true,  "url": "https://www.bibleserver.com/MENG/3.Mose11,22" },
-    { "vers_von": 11, "vers_bis": 11, "typ": "at",    "von": 42, "bis": 111, "vgl": false, "urls": [
-        { "label": "Ps 2,7",   "url": "https://www.bibleserver.com/MENG/Psalm2,7" },
-        { "label": "Jes 42,1", "url": "https://www.bibleserver.com/MENG/Jesaja42,1" }
-    ]},
-    { "vers_von": 15, "vers_bis": 15, "typ": "jesus", "von": 16, "bis": -1 },
-    { "vers_von": 15, "vers_bis": 15, "typ": "at",    "von": 17, "bis": 78,  "referenz": "Dan 2,44",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Daniel2,44" },
-    { "vers_von": 17, "vers_bis": 17, "typ": "jesus", "von": 25, "bis": -1 },
-    { "vers_von": 25, "vers_bis": 25, "typ": "jesus", "von": 35, "bis": -1 },
-    { "vers_von": 38, "vers_bis": 38, "typ": "jesus", "von": 26, "bis": -1 },
-    { "vers_von": 41, "vers_bis": 41, "typ": "jesus", "von": 85, "bis": -1 },
-    { "vers_von": 44, "vers_bis": 44, "typ": "jesus", "von": 18, "bis": -1 },
-    { "vers_von": 44, "vers_bis": 44, "typ": "at",    "von": 80, "bis": 191, "referenz": "3. Mo 14,2–32", "vgl": false, "url": "https://www.bibleserver.com/MENG/3.Mose14,2" }
+    {
+      "vers_von": 2,
+      "von": 45,
+      "vers_bis": 2,
+      "bis": 121,
+      "typ": "at",
+      "referenz": "Mal 3,1",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,1",
+      "autor": "AI",
+      "begruendung": "Wörtliches Zitat: Der Bote, der den Weg bereiten soll — Maleachi 3,1 ist die direkte Vorlage für die Täufer-Beschreibung des Markus.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 3,
+      "von": 0,
+      "vers_bis": 3,
+      "bis": 88,
+      "typ": "at",
+      "referenz": "Jes 40,3",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,3",
+      "autor": "AI",
+      "begruendung": "Wörtliches Zitat: Die Stimme in der Wüste — Jesaja 40,3 ist das Trostbuch-Zitat, das Markus explizit dem Täufer zuordnet.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 6,
+      "von": 0,
+      "vers_bis": 6,
+      "bis": 84,
+      "typ": "at",
+      "referenz": "2. Kön 1,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige1,8",
+      "autor": "AI",
+      "begruendung": "Fellkleid und Ledergürtel des Johannes entsprechen der Beschreibung Elias in 2. Kön 1,8 — für damalige Juden das unverkennbare Zeichen des neuen Elia.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 6,
+      "von": 104,
+      "vers_bis": 6,
+      "bis": 116,
+      "typ": "at",
+      "referenz": "3. Mo 11,22",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,22",
+      "autor": "Mensch",
+      "begruendung": "Heuschrecken als Nahrung — für heutige Leser befremdlich, aber 3. Mo 11,22 erlaubt Heuschrecken als reine Speise ausdrücklich. Johannes lebt also vollständig innerhalb des Torarechts.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 11,
+      "von": 42,
+      "vers_bis": 11,
+      "bis": 111,
+      "typ": "at",
+      "autor": "AI",
+      "urls": [
+        {
+          "label": "Ps 2,7",
+          "url": "https://www.bibleserver.com/MENG/Psalm2,7"
+        },
+        {
+          "label": "Jes 42,1",
+          "url": "https://www.bibleserver.com/MENG/Jesaja42,1"
+        }
+      ],
+      "begruendung": "Die Himmelsstimme verbindet zwei AT-Stellen: Ps 2,7 (Du bist mein Sohn) — der Königspsalm für den Messias — und Jes 42,1 (mein Knecht, an dem ich Wohlgefallen habe) — das erste Gottesknechtslied.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 15,
+      "von": 16,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 15,
+      "von": 17,
+      "vers_bis": 15,
+      "bis": 78,
+      "typ": "at",
+      "referenz": "Dan 2,44",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,44",
+      "autor": "AI",
+      "begruendung": "Das Reich Gottes, das nahe herbeigekommen ist — Dan 2,44 beschreibt das ewige Gottesreich, das alle anderen Reiche ablösen wird. Erstes Auftreten dieses zentralen Begriffs im Markus.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 17,
+      "von": 25,
+      "vers_bis": 17,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 25,
+      "von": 35,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 38,
+      "von": 26,
+      "vers_bis": 38,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 41,
+      "von": 85,
+      "vers_bis": 41,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 44,
+      "von": 18,
+      "vers_bis": 44,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 44,
+      "von": 80,
+      "vers_bis": 44,
+      "bis": 191,
+      "typ": "at",
+      "referenz": "3. Mo 14,2–32",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/3.Mose14,2",
+      "autor": "AI",
+      "begruendung": "Jesus verweist den Geheilten an das Reinigungsritual nach 3. Mo 14 — er hebt das Torarecht nicht auf, sondern bestätigt es ausdrücklich.",
+      "status": "aktiv"
+    }
   ]
 }

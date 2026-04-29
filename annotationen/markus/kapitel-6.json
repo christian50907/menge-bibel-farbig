@@ -1,0 +1,219 @@
+{
+  "buch": "Markus",
+  "kapitel": 6,
+  "titel": "Ablehnung in Nazareth · Aussendung der Zwölf · Enthauptung des Täufers · Brotvermehrung · Jesus auf dem See",
+  "abschnitte": [
+    {
+      "id": "nazareth",
+      "vers_von": 1,
+      "vers_bis": 6,
+      "titel": "6. Jesu Ablehnung in Nazareth"
+    },
+    {
+      "id": "aussendung",
+      "vers_von": 7,
+      "vers_bis": 13,
+      "titel": "1. Die Aussendung der zwölf Jünger"
+    },
+    {
+      "id": "taeufertod",
+      "vers_von": 14,
+      "vers_bis": 29,
+      "titel": "2. Herodes und Johannes der Täufer · Enthauptung des Täufers"
+    },
+    {
+      "id": "brotverm",
+      "vers_von": 30,
+      "vers_bis": 44,
+      "titel": "3. Die Speisung der Fünftausend"
+    },
+    {
+      "id": "seewandel",
+      "vers_von": 45,
+      "vers_bis": 56,
+      "titel": "4. Jesus wandelt auf dem See · Heilungen in Gennesaret"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 4,
+      "von": 25,
+      "vers_bis": 4,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 8,
+      "von": 56,
+      "vers_bis": 9,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Mo 12,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,11",
+      "autor": "AI",
+      "begruendung": "Stock, Sandalen, kein Ranzen — die Ausrüstung der Jünger spiegelt exakt die Exodus-Ausrüstung beim Auszug aus Ägypten (2. Mo 12,11): Lendengürtel, Sandalen, Stab in der Hand. Die Jünger ziehen aus wie Israel einst.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 10,
+      "von": 33,
+      "vers_bis": 11,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 11,
+      "von": 93,
+      "vers_bis": 11,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Neh 5,13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Nehemia5,13",
+      "autor": "AI",
+      "begruendung": "Den Staub von den Füßen schütteln — eine jüdische Geste des öffentlichen Protests und Zeugnis-Ablegens gegen einen Ort, der das Wort ablehnt. Neh 5,13 belegt diese Geste im AT.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 15,
+      "von": 27,
+      "vers_bis": 15,
+      "bis": 31,
+      "typ": "at",
+      "referenz": "Mal 3,23",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23",
+      "autor": "AI",
+      "begruendung": "Elia — die Erwartung der Wiederkehr Elias vor dem Gerichtstag gründet direkt in Mal 3,23. Erstes Auftreten dieser Elia-Erwartung im Markus.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 18,
+      "von": 45,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 45,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "3. Mo 18,16",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/3.Mose18,16",
+      "autor": "AI",
+      "begruendung": "Du darfst die Frau deines Bruders nicht haben — 3. Mo 18,16 ist das explizite Toraverbot, auf das Johannes sich beruft. Die Fußnote im Menge-Text verweist selbst darauf.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 23,
+      "von": 83,
+      "vers_bis": 23,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Est 5,3.6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Esther5,3",
+      "autor": "AI",
+      "begruendung": "Bis zur Hälfte meines Reiches — exakt dieselbe Formel verwendet König Ahasveros gegenüber Ester (Est 5,3.6 und 7,2). Ein damaliger Jude hätte diese Königsformel sofort erkannt.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 31,
+      "von": 22,
+      "vers_bis": 31,
+      "bis": 107,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 135,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "at",
+      "autor": "AI",
+      "urls": [
+        {
+          "label": "4. Mo 27,17",
+          "url": "https://www.bibleserver.com/MENG/4.Mose27,17"
+        },
+        {
+          "label": "Hes 34,5",
+          "url": "https://www.bibleserver.com/MENG/Hesekiel34,5"
+        }
+      ],
+      "begruendung": "Schafe ohne Hirten — zwei AT-Dimensionen: 4. Mo 27,17 ist die Stelle, an der Mose Gott bittet, dem Volk einen Nachfolger zu geben damit es nicht wie Schafe ohne Hirten sei; Hes 34,5 ist die große Hirten-Anklage gegen die Führer Israels.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 37,
+      "von": 26,
+      "vers_bis": 37,
+      "bis": 52,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 38,
+      "von": 26,
+      "vers_bis": 38,
+      "bis": 74,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 41,
+      "von": 8,
+      "vers_bis": 41,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Kön 4,42-44",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige4,42",
+      "autor": "AI",
+      "begruendung": "Elisa speist 100 Mann mit 20 Gerstenbroten, und es bleibt noch übrig — die strukturelle Parallele zur Brotvermehrung ist die stärkste AT-Folie dieser Perikope.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 48,
+      "von": 186,
+      "vers_bis": 48,
+      "bis": -1,
+      "typ": "at",
+      "autor": "AI",
+      "urls": [
+        {
+          "label": "2. Mo 33,22",
+          "url": "https://www.bibleserver.com/MENG/2.Mose33,22"
+        },
+        {
+          "label": "1. Kön 19,11",
+          "url": "https://www.bibleserver.com/MENG/1.Koenige19,11"
+        }
+      ],
+      "begruendung": "Wollte an ihnen vorübergehen — im AT ist das Vorübergehen Gottes eine Theophanie-Formel: Gott geht an Mose vorbei (2. Mo 33,22) und an Elia vorbei (1. Kön 19,11). Markus setzt Jesus bewusst in diese Gotteserscheinungs-Tradition.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 50,
+      "von": 99,
+      "vers_bis": 50,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 50,
+      "von": 114,
+      "vers_bis": 50,
+      "bis": 123,
+      "typ": "at",
+      "referenz": "2. Mo 3,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "AI",
+      "begruendung": "Ich bin's — griechisch ego eimi, im AT der Gottesname den Gott Mose am brennenden Dornbusch offenbart (2. Mo 3,14). Jesus bezeichnet sich mit dem Gottesnamen. Erstes Auftreten im Markus.",
+      "status": "aktiv"
+    }
+  ]
+}
