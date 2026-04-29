@@ -3,25 +3,154 @@
   "kapitel": 4,
   "titel": "Die Seepredigt in Gleichnissen · Der Seesturm",
   "abschnitte": [
-    { "id": "saemann",    "vers_von":  1, "vers_bis": 20, "titel": "4. Jesu Seepredigt: Gleichnis vom Sämann und seine Deutung" },
-    { "id": "sprueche",   "vers_von": 21, "vers_bis": 25, "titel": "Sprüche über Licht und Maß" },
-    { "id": "gleichnisse","vers_von": 26, "vers_bis": 34, "titel": "Gleichnisse von der wachsenden Saat und vom Senfkorn" },
-    { "id": "seesturm",   "vers_von": 35, "vers_bis": 41, "titel": "5. Jesus beschwichtigt den Seesturm" }
+    {
+      "id": "saemann",
+      "vers_von": 1,
+      "vers_bis": 20,
+      "titel": "4. Jesu Seepredigt: Gleichnis vom Sämann und seine Deutung"
+    },
+    {
+      "id": "sprueche",
+      "vers_von": 21,
+      "vers_bis": 25,
+      "titel": "Sprüche über Licht und Maß"
+    },
+    {
+      "id": "gleichnisse",
+      "vers_von": 26,
+      "vers_bis": 34,
+      "titel": "Gleichnisse von der wachsenden Saat und vom Senfkorn"
+    },
+    {
+      "id": "seesturm",
+      "vers_von": 35,
+      "vers_bis": 41,
+      "titel": "5. Jesus beschwichtigt den Seesturm"
+    }
   ],
   "markierungen": [
-    { "vers_von":  3, "vers_bis":  8, "typ": "jesus", "von":   0, "bis": -1 },
-    { "vers_von":  9, "vers_bis":  9, "typ": "jesus", "von":  26, "bis": -1 },
-    { "vers_von": 11, "vers_bis": 13, "typ": "jesus", "von":  24, "bis": -1 },
-    { "vers_von": 12, "vers_bis": 12, "typ": "at",    "von":   0, "bis": 178, "referenz": "Jes 6,9-10", "vgl": false, "url": "https://www.bibleserver.com/MENG/Jesaja6,9" },
-    { "vers_von": 14, "vers_bis": 20, "typ": "jesus", "von":   0, "bis": -1 },
-    { "vers_von": 21, "vers_bis": 23, "typ": "jesus", "von":  26, "bis":  34 },
-    { "vers_von": 24, "vers_bis": 25, "typ": "jesus", "von":  19, "bis": -1 },
-    { "vers_von": 26, "vers_bis": 29, "typ": "jesus", "von":  19, "bis": -1 },
-    { "vers_von": 29, "vers_bis": 29, "typ": "at",    "von":  32, "bis": -1,  "referenz": "Joel 4,13",  "vgl": true,  "url": "https://www.bibleserver.com/MENG/Joel4,13" },
-    { "vers_von": 30, "vers_bis": 32, "typ": "jesus", "von":  17, "bis": -1 },
-    { "vers_von": 32, "vers_bis": 32, "typ": "at",    "von": 109, "bis": -1,  "referenz": "Ez 17,23",   "vgl": true,  "url": "https://www.bibleserver.com/MENG/Hesekiel17,23" },
-    { "vers_von": 35, "vers_bis": 35, "typ": "jesus", "von":  65, "bis": -1 },
-    { "vers_von": 39, "vers_bis": 39, "typ": "jesus", "von":  54, "bis":  78 },
-    { "vers_von": 40, "vers_bis": 40, "typ": "jesus", "von":  27, "bis": -1 }
+    {
+      "vers_von": 3,
+      "von": 0,
+      "vers_bis": 8,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 9,
+      "von": 26,
+      "vers_bis": 9,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 11,
+      "von": 24,
+      "vers_bis": 13,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 12,
+      "von": 0,
+      "vers_bis": 12,
+      "bis": 178,
+      "typ": "at",
+      "referenz": "Jes 6,9-10",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja6,9",
+      "autor": "AI",
+      "begruendung": "Wörtliches Schriftzitat — das Verstockungswort aus Jesajas Berufungsvision, typografisch durch einfache Anführungszeichen ›...‹ hervorgehoben. Jesus deutet die Ablehnung seiner Botschaft als Erfüllung dieser Prophetie.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 14,
+      "von": 0,
+      "vers_bis": 20,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 21,
+      "von": 26,
+      "vers_bis": 23,
+      "bis": 34,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 24,
+      "von": 19,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 26,
+      "von": 19,
+      "vers_bis": 29,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 32,
+      "vers_bis": 29,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Joel 4,13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel4,13",
+      "autor": "AI",
+      "begruendung": "Sichel anlegen und Ernte — Joel 4,13 ruft zum Gerichtstag: Schwingt die Sichel, denn die Ernte ist reif. Das Ernte-Bild für das Gottesreich nimmt dieses Gerichtswort auf.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 30,
+      "von": 17,
+      "vers_bis": 32,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 32,
+      "von": 109,
+      "vers_bis": 32,
+      "bis": -1,
+      "typ": "at",
+      "autor": "AI",
+      "urls": [
+        {
+          "label": "Hes 17,23",
+          "url": "https://www.bibleserver.com/MENG/Hesekiel17,23"
+        },
+        {
+          "label": "Dan 4,9",
+          "url": "https://www.bibleserver.com/MENG/Daniel4,9"
+        }
+      ],
+      "begruendung": "Vögel nisten im Schatten des großen Baumes — zwei AT-Dimensionen: Hes 17,23 zeigt den Baum als Bild für Israels Wiederherstellung; Dan 4,9/18 zeigt den Weltbaum als Bild für ein alle Völker umfassendes Reich. Beide zusammen machen die Pointe des Senfkorn-Gleichnisses vollständig.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 35,
+      "von": 65,
+      "vers_bis": 35,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 39,
+      "von": 54,
+      "vers_bis": 39,
+      "bis": 78,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 40,
+      "von": 27,
+      "vers_bis": 40,
+      "bis": -1,
+      "typ": "jesus"
+    }
   ]
 }

@@ -3,24 +3,152 @@
   "kapitel": 2,
   "titel": "Zusammenstöße mit den Führern des Volkes",
   "abschnitte": [
-    { "id": "gelaehmter", "vers_von": 1,  "vers_bis": 12, "titel": "1. Heilung eines Gelähmten — Jesus vergibt Sünden" },
-    { "id": "levi",       "vers_von": 13, "vers_bis": 17, "titel": "2. Berufung des Levi · Jesus bei Zöllnern" },
-    { "id": "fasten",     "vers_von": 18, "vers_bis": 22, "titel": "3. Die Fastenfrage" },
-    { "id": "sabbat",     "vers_von": 23, "vers_bis": 28, "titel": "4. Das Ährenraufen am Sabbat" }
+    {
+      "id": "gelaehmter",
+      "vers_von": 1,
+      "vers_bis": 12,
+      "titel": "1. Heilung eines Gelähmten — Jesus vergibt Sünden"
+    },
+    {
+      "id": "levi",
+      "vers_von": 13,
+      "vers_bis": 17,
+      "titel": "2. Berufung des Levi · Jesus bei Zöllnern"
+    },
+    {
+      "id": "fasten",
+      "vers_von": 18,
+      "vers_bis": 22,
+      "titel": "3. Die Fastenfrage"
+    },
+    {
+      "id": "sabbat",
+      "vers_von": 23,
+      "vers_bis": 28,
+      "titel": "4. Das Ährenraufen am Sabbat"
+    }
   ],
   "markierungen": [
-    { "vers_von": 5,  "vers_bis": 5,  "typ": "jesus", "von": 65,  "bis": -1 },
-    { "vers_von": 7,  "vers_bis": 7,  "typ": "at",    "von": 0,   "bis": -1,  "referenz": "Jes 43,25",      "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja43,25" },
-    { "vers_von": 8,  "vers_bis": 10, "typ": "jesus", "von": 97,  "bis": 86 },
-    { "vers_von": 11, "vers_bis": 11, "typ": "jesus", "von": 0,   "bis": -1 },
-    { "vers_von": 14, "vers_bis": 14, "typ": "jesus", "von": 99,  "bis": 116 },
-    { "vers_von": 17, "vers_bis": 17, "typ": "jesus", "von": 40,  "bis": -1 },
-    { "vers_von": 17, "vers_bis": 17, "typ": "at",    "von": 102, "bis": 162, "referenz": "Jes 61,1",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja61,1" },
-    { "vers_von": 19, "vers_bis": 22, "typ": "jesus", "von": 24,  "bis": -1 },
-    { "vers_von": 19, "vers_bis": 19, "typ": "at",    "von": 72,  "bis": 106, "referenz": "Jes 62,5",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Jesaja62,5" },
-    { "vers_von": 25, "vers_bis": 26, "typ": "jesus", "von": 21,  "bis": -1 },
-    { "vers_von": 26, "vers_bis": 26, "typ": "at",    "von": 71,  "bis": 137, "referenz": "1. Sam 21,2–7", "vgl": false, "url": "https://www.bibleserver.com/MENG/1.Samuel21,2" },
-    { "vers_von": 27, "vers_bis": 28, "typ": "jesus", "von": 19,  "bis": -1 },
-    { "vers_von": 27, "vers_bis": 27, "typ": "at",    "von": 20,  "bis": 103, "referenz": "2. Mo 20,8–11", "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Mose20,8" }
+    {
+      "vers_von": 5,
+      "von": 65,
+      "vers_bis": 5,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 7,
+      "von": 0,
+      "vers_bis": 7,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 43,25",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,25",
+      "autor": "AI",
+      "begruendung": "Die Schriftgelehrten fragen: wer kann Sünden vergeben als Gott allein? Jes 43,25 belegt die AT-Grundlage: Gott selbst tilgt Sünden um seiner selbst willen.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 8,
+      "von": 97,
+      "vers_bis": 10,
+      "bis": 86,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 11,
+      "von": 0,
+      "vers_bis": 11,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 14,
+      "von": 99,
+      "vers_bis": 14,
+      "bis": 116,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 17,
+      "von": 40,
+      "vers_bis": 17,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 17,
+      "von": 102,
+      "vers_bis": 17,
+      "bis": 162,
+      "typ": "at",
+      "referenz": "Jes 61,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,1",
+      "autor": "AI",
+      "begruendung": "Ich bin nicht gekommen Gerechte zu rufen, sondern Sünder — Jes 61,1 beschreibt die Sendung zu den Gebrochenen und Armen. Jesus versteht seinen Auftrag in dieser prophetischen Linie.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 19,
+      "von": 24,
+      "vers_bis": 22,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 72,
+      "vers_bis": 19,
+      "bis": 106,
+      "typ": "at",
+      "referenz": "Jes 62,5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja62,5",
+      "autor": "AI",
+      "begruendung": "Der Bräutigam als Bild für die Heilszeit — Jes 62,5 beschreibt Gott als Bräutigam, der sich über seine Braut freut. Jesus übernimmt dieses Bild für seine eigene Gegenwart.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 25,
+      "von": 21,
+      "vers_bis": 26,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 26,
+      "von": 71,
+      "vers_bis": 26,
+      "bis": 137,
+      "typ": "at",
+      "referenz": "1. Sam 21,2–7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel21,2",
+      "autor": "AI",
+      "begruendung": "David isst die Schaubrote — Jesus zitiert diese Geschichte als Präzedenzfall: auch das heilige Brot durfte in der Not gegessen werden.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 27,
+      "von": 19,
+      "vers_bis": 28,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 27,
+      "von": 20,
+      "vers_bis": 27,
+      "bis": 103,
+      "typ": "at",
+      "referenz": "2. Mo 20,8–11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,8",
+      "autor": "AI",
+      "begruendung": "Das Sabbatgebot aus dem Dekalog — Jesus stellt dem Buchstaben des Gesetzes die ursprüngliche Intention entgegen: der Sabbat wurde für den Menschen geschaffen.",
+      "status": "aktiv"
+    }
   ]
 }

@@ -3,23 +3,166 @@
   "kapitel": 5,
   "titel": "Der Besessene von Gerasa · Die blutflüssige Frau · Die Tochter des Jairus",
   "abschnitte": [
-    { "id": "gerasa",  "vers_von":  1, "vers_bis": 20, "titel": "b) Jesus heilt den Besessenen im Lande der Gerasener" },
-    { "id": "jairus",  "vers_von": 21, "vers_bis": 43, "titel": "c) Jesus heilt die blutflüssige Frau und erweckt das Töchterlein des Jairus" }
+    {
+      "id": "gerasa",
+      "vers_von": 1,
+      "vers_bis": 20,
+      "titel": "b) Jesus heilt den Besessenen im Lande der Gerasener"
+    },
+    {
+      "id": "jairus",
+      "vers_von": 21,
+      "vers_bis": 43,
+      "titel": "c) Jesus heilt die blutflüssige Frau und erweckt das Töchterlein des Jairus"
+    }
   ],
   "markierungen": [
-    { "vers_von":  2, "vers_bis":  2, "typ": "at", "von":  58, "bis":  73, "referenz": "4. Mo 19,11-16", "vgl": true, "url": "https://www.bibleserver.com/MENG/4.Mose19,11" },
-    { "vers_von":  8, "vers_bis":  8, "typ": "jesus", "von":  47, "bis": -1 },
-    { "vers_von":  9, "vers_bis":  9, "typ": "jesus", "von":  21, "bis":  36 },
-    { "vers_von": 11, "vers_bis": 11, "typ": "at", "von":  47, "bis":  55, "referenz": "3. Mo 11,7-8", "vgl": true, "url": "https://www.bibleserver.com/MENG/3.Mose11,7" },
-    { "vers_von": 19, "vers_bis": 19, "typ": "jesus", "von":  58, "bis": -1 },
-    { "vers_von": 30, "vers_bis": 30, "typ": "jesus", "von": 152, "bis": -1 },
-    { "vers_von": 34, "vers_bis": 34, "typ": "jesus", "von":  22, "bis": -1 },
-    { "vers_von": 34, "vers_bis": 34, "typ": "at",    "von":  69, "bis":  88, "referenz": "1. Sam 1,17", "vgl": true, "url": "https://www.bibleserver.com/MENG/1.Samuel1,17" },
-    { "vers_von": 36, "vers_bis": 36, "typ": "jesus", "von": 102, "bis": -1 },
-    { "vers_von": 36, "vers_bis": 36, "typ": "at",    "von": 103, "bis": 121, "referenz": "Jes 41,10", "vgl": true, "url": "https://www.bibleserver.com/MENG/Jesaja41,10" },
-    { "vers_von": 39, "vers_bis": 39, "typ": "jesus", "von":  53, "bis": -1 },
-    { "vers_von": 40, "vers_bis": 40, "typ": "at",    "von":  23, "bis": -1, "referenz": "2. Kön 4,33",    "vgl": true, "url": "https://www.bibleserver.com/MENG/2.Koenige4,33" },
-    { "vers_von": 41, "vers_bis": 41, "typ": "jesus", "von":  54, "bis": -1 },
-    { "vers_von": 41, "vers_bis": 41, "typ": "at",    "von":   0, "bis":  53, "referenz": "2. Kön 4,34-35", "vgl": true, "url": "https://www.bibleserver.com/MENG/2.Koenige4,34" }
+    {
+      "vers_von": 2,
+      "von": 58,
+      "vers_bis": 2,
+      "bis": 73,
+      "typ": "at",
+      "referenz": "4. Mo 19,11-16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose19,11",
+      "autor": "AI",
+      "begruendung": "Der Besessene lebt bei den Gräbern — nach 4. Mo 19,11-16 macht Kontakt mit Toten sieben Tage unrein. Ein damaliger Jude erkannte sofort: dieser Mann ist doppelt unrein, durch den Geist und durch den Ort.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 8,
+      "von": 47,
+      "vers_bis": 8,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 9,
+      "von": 21,
+      "vers_bis": 9,
+      "bis": 36,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 11,
+      "von": 47,
+      "vers_bis": 11,
+      "bis": 55,
+      "typ": "at",
+      "referenz": "3. Mo 11,7-8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,7",
+      "autor": "AI",
+      "begruendung": "Eine große Herde Schweine — Schweine sind nach 3. Mo 11,7-8 unreine Tiere. Für einen jüdischen Leser signalisiert die Schweineherde sofort: wir befinden uns in heidnischem Gebiet.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 19,
+      "von": 58,
+      "vers_bis": 19,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 124,
+      "vers_bis": 19,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 126,3",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm126,3",
+      "autor": "AI",
+      "begruendung": "Großes hat der Herr getan — Ps 126,3 ist der bekannteste Beleg für diese Lobpreis-Formel. Anders als allgemeines Lobesvokabular ist hier eine konkrete Formulierung aufgegriffen.",
+      "status": "inaktiv"
+    },
+    {
+      "vers_von": 30,
+      "von": 152,
+      "vers_bis": 30,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 22,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 69,
+      "vers_bis": 34,
+      "bis": 88,
+      "typ": "at",
+      "referenz": "1. Sam 1,17",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel1,17",
+      "autor": "AI",
+      "begruendung": "Gehe hin in Frieden — die lekh le-shalom-Formel ist eine feste jüdische Segensformel beim Abschied, belegt in 1. Sam 1,17 und Ri 18,6. Erstes Auftreten im Markus.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 36,
+      "von": 102,
+      "vers_bis": 36,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 36,
+      "von": 103,
+      "vers_bis": 36,
+      "bis": 121,
+      "typ": "at",
+      "referenz": "Jes 41,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja41,10",
+      "autor": "AI",
+      "begruendung": "Fürchte dich nicht — diese prophetische Trostformel ist im AT sehr häufig, Jes 41,10 ist der bekannteste Beleg. Erstes Auftreten im Markus.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 39,
+      "von": 53,
+      "vers_bis": 39,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 40,
+      "von": 23,
+      "vers_bis": 40,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Kön 4,33",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige4,33",
+      "autor": "AI",
+      "begruendung": "Elisa schließt alle aus dem Zimmer und geht allein zum toten Kind — dieselbe Handlungsstruktur zeigt Markus hier bei Jesus. Die Parallele zur Elisa-Erzählung (2. Kön 4,32-35) ist die stärkste AT-Folie für die Jairus-Geschichte.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 41,
+      "von": 54,
+      "vers_bis": 41,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 41,
+      "von": 0,
+      "vers_bis": 41,
+      "bis": 53,
+      "typ": "at",
+      "referenz": "2. Kön 4,34-35",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige4,34",
+      "autor": "AI",
+      "begruendung": "Elisa fasst das tote Kind bei der Hand — Jesus tut dasselbe. 2. Kön 4,34-35 zeigt den Propheten, der sich auf das Kind legt und es zum Leben erweckt.",
+      "status": "aktiv"
+    }
   ]
 }
