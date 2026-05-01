@@ -1,0 +1,134 @@
+{
+  "buch": "Markus",
+  "kapitel": 8,
+  "titel": "Zweite Brotvermehrung · Blindenheilung · Petrusbekenntnis · Leidensankündigung",
+  "abschnitte": [
+    {
+      "id": "brotv2",
+      "vers_von": 1,
+      "vers_bis": 9,
+      "titel": "1. Die zweite Brotvermehrung"
+    },
+    {
+      "id": "zeichen",
+      "vers_von": 10,
+      "vers_bis": 13,
+      "titel": "2. Die Zeichenforderung der Pharisäer"
+    },
+    {
+      "id": "sauerteig",
+      "vers_von": 14,
+      "vers_bis": 21,
+      "titel": "3. Das Gespräch über den Sauerteig"
+    },
+    {
+      "id": "blind",
+      "vers_von": 22,
+      "vers_bis": 26,
+      "titel": "4. Heilung eines Blinden bei Bethsaida"
+    },
+    {
+      "id": "petrus",
+      "vers_von": 27,
+      "vers_bis": 33,
+      "titel": "5. Das Petrusbekenntnis"
+    },
+    {
+      "id": "nachfolge",
+      "vers_von": 34,
+      "vers_bis": 38,
+      "titel": "6. Nachfolge und Leidensankündigung"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2,
+      "von": 0,
+      "vers_bis": 3,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 5,
+      "von": 15,
+      "vers_bis": 5,
+      "bis": 42,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 12,
+      "von": 51,
+      "vers_bis": 12,
+      "bis": 183,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 15,
+      "von": 30,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 17,
+      "von": 41,
+      "vers_bis": 21,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 0,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Hes 12,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel12,2",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Augen haben und nicht sehen, Ohren haben und nicht hören — Hes 12,2 beschreibt Israel als Volk, das sich gegen Gottes Wort verstockt. Jesus wendet dieses Bild auf die Jünger an, die das Wunder der Brotvermehrung nicht verstehen."
+    },
+    {
+      "vers_von": 26,
+      "von": 58,
+      "vers_bis": 26,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 26,
+      "vers_bis": 29,
+      "bis": 63,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 33,
+      "von": 90,
+      "vers_bis": 33,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 75,
+      "vers_bis": 38,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 31,
+      "von": 0,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 53,3-5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,3",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Der Menschensohn muss vieles leiden, verworfen werden und nach drei Tagen auferstehen — Jes 53 ist das Lied vom leidenden Gottesknecht, der um unsrer Sünden willen verwundet wird. Die erste Leidensankündigung zeichnet Jesus in diesem prophetischen Bild."
+    }
+  ]
+}

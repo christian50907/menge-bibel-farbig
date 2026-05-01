@@ -1,0 +1,209 @@
+{
+  "buch": "Markus",
+  "kapitel": 10,
+  "titel": "Ehescheidung · Kindersegnung · Reicher Jüngling · Dritte Leidensankündigung · Bartimäus",
+  "abschnitte": [
+    {
+      "id": "ehe",
+      "vers_von": 1,
+      "vers_bis": 12,
+      "titel": "1. Die Frage nach der Ehescheidung"
+    },
+    {
+      "id": "kinder",
+      "vers_von": 13,
+      "vers_bis": 16,
+      "titel": "2. Die Segnung der Kinder"
+    },
+    {
+      "id": "reich",
+      "vers_von": 17,
+      "vers_bis": 31,
+      "titel": "3. Der reiche Jüngling · Lohn der Nachfolge"
+    },
+    {
+      "id": "leiden3",
+      "vers_von": 32,
+      "vers_bis": 45,
+      "titel": "4. Dritte Leidensankündigung · Zebedäussöhne · Dienst"
+    },
+    {
+      "id": "bartim",
+      "vers_von": 46,
+      "vers_bis": 52,
+      "titel": "5. Der blinde Bartimäus"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 3,
+      "von": 31,
+      "vers_bis": 3,
+      "bis": 59,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 5,
+      "von": 27,
+      "vers_bis": 9,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 6,
+      "von": 0,
+      "vers_bis": 6,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Gen 1,27",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose1,27",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Gott schuf die Menschen als Mann und Frau — wörtliches Zitat aus Gen 1,27. Jesus greift auf die Schöpfungsordnung zurück, um die Unauflöslichkeit der Ehe zu begründen."
+    },
+    {
+      "vers_von": 7,
+      "von": 0,
+      "vers_bis": 8,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Gen 2,24",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose2,24",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Darum wird ein Mann seinen Vater und seine Mutter verlassen und seinem Weibe anhangen — wörtliches Zitat aus Gen 2,24, dem Urwort der Ehe aus der Schöpfungsgeschichte. Versübergreifend V7–8."
+    },
+    {
+      "vers_von": 11,
+      "von": 23,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 14,
+      "von": 66,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 22,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 22,
+      "vers_bis": 19,
+      "bis": 187,
+      "typ": "at",
+      "referenz": "2. Mo 20,12-16",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,12",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat von fünf Geboten aus dem Dekalog — nicht töten, nicht ehebrechen, nicht stehlen, nicht falsch bezeugen, Vater und Mutter ehren. Jesus bejaht die Geltung der Tora."
+    },
+    {
+      "vers_von": 21,
+      "von": 56,
+      "vers_bis": 21,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 23,
+      "von": 60,
+      "vers_bis": 24,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 27,
+      "von": 32,
+      "vers_bis": 27,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 17,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 33,
+      "von": 0,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 38,
+      "von": 25,
+      "vers_bis": 40,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 38,
+      "von": 78,
+      "vers_bis": 38,
+      "bis": 91,
+      "typ": "at",
+      "referenz": "Ps 75,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm75,9",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Den Kelch trinken — Ps 75,9 beschreibt den Becher des Zornes Gottes (auch Jes 51,17; Jer 25,15). Im AT ist der Kelch ein verbreitetes Bild für das Los des Leidens und Gerichts. Jesus spricht von seinem Leiden in dieser AT-Sprache."
+    },
+    {
+      "vers_von": 42,
+      "von": 46,
+      "vers_bis": 45,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 45,
+      "von": 114,
+      "vers_bis": 45,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 53,10-12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,10",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Sein Leben als Lösegeld geben für viele — Jes 53,10-12 beschreibt den Gottesknecht, der sein Leben als Schuldopfer hingibt und für viele Sünden trägt. Jesus deutet seinen Tod explizit in dieser prophetischen Sprache."
+    },
+    {
+      "vers_von": 49,
+      "von": 33,
+      "vers_bis": 49,
+      "bis": 48,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 51,
+      "von": 37,
+      "vers_bis": 51,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 52,
+      "von": 20,
+      "vers_bis": 52,
+      "bis": -1,
+      "typ": "jesus"
+    }
+  ]
+}
