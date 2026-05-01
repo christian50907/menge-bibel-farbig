@@ -1,0 +1,118 @@
+{
+  "buch": "Markus",
+  "kapitel": 13,
+  "titel": "Die Endzeitrede · Warnung vor Verführung · Zeichen der Endzeit · Gleichnis vom Türhüter",
+  "abschnitte": [
+    {
+      "id": "tempel",
+      "vers_von": 1,
+      "vers_bis": 4,
+      "titel": "1. Ankündigung der Tempelzerstörung"
+    },
+    {
+      "id": "zeichen",
+      "vers_von": 5,
+      "vers_bis": 23,
+      "titel": "2. Zeichen der Endzeit und Warnung vor Verführung"
+    },
+    {
+      "id": "kommen",
+      "vers_von": 24,
+      "vers_bis": 27,
+      "titel": "3. Die Wiederkunft des Menschensohnes"
+    },
+    {
+      "id": "feigenbaum",
+      "vers_von": 28,
+      "vers_bis": 31,
+      "titel": "4. Das Gleichnis vom Feigenbaum"
+    },
+    {
+      "id": "tuerhuer",
+      "vers_von": 32,
+      "vers_bis": 37,
+      "titel": "5. Das Gleichnis vom Türhüter"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2,
+      "von": 25,
+      "vers_bis": 2,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 5,
+      "von": 36,
+      "vers_bis": 37,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 14,
+      "von": 20,
+      "vers_bis": 14,
+      "bis": 42,
+      "typ": "at",
+      "referenz": "Dan 9,27",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel9,27",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Der Greuel der Verwüstung — wörtliche Aufnahme aus Dan 9,27 (auch 11,31; 12,11). Daniel beschreibt die Entweihung des Tempels durch ein schändliches Götzenbild. Jesus nimmt diesen Begriff für die Ankündigung der kommenden Tempelzerstörung auf."
+    },
+    {
+      "vers_von": 19,
+      "von": 0,
+      "vers_bis": 19,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 12,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,1",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Eine Trübsal, wie sie nicht gewesen ist von Anfang der Schöpfung — Dan 12,1 beschreibt die große Not am Ende der Zeit: eine Zeit der Not, wie sie nie gewesen ist. Jesus verwendet dieselbe Sprache für die bevorstehende Katastrophe."
+    },
+    {
+      "vers_von": 24,
+      "von": 0,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 13,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja13,10",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Die Sonne wird verfinstert, der Mond gibt sein Licht nicht — Jes 13,10 und Joel 3,4 beschreiben kosmische Zeichen als Bild für den Gerichtstag Gottes. Jesus verwendet diese prophetische Bildsprache für die Endzeit."
+    },
+    {
+      "vers_von": 26,
+      "von": 18,
+      "vers_bis": 26,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 7,13-14",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Den Menschensohn auf den Wolken des Himmels kommen sehen — nahezu wörtliches Zitat aus Dan 7,13-14, wo einer wie ein Menschensohn zu Gott kommt und ewige Herrschaft empfängt. Jesus identifiziert sich mit dieser Gestalt."
+    },
+    {
+      "vers_von": 27,
+      "von": 0,
+      "vers_bis": 27,
+      "bis": 10,
+      "typ": "at",
+      "referenz": "5. Mo 30,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose30,4",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Die Auserwählten von den vier Winden zusammensammeln — 5. Mo 30,4 verheißt die Sammlung der Zerstreuten Israels von den Enden der Erde. Jesus wendet dieses Bild auf die Sammlung der Erwählten am Ende an."
+    }
+  ]
+}
