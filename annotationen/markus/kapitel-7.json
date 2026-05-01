@@ -1,0 +1,134 @@
+{
+  "buch": "Markus",
+  "kapitel": 7,
+  "titel": "Über reine und unreine Speisen · Die syrophönizische Frau · Heilung eines Taubstummen",
+  "abschnitte": [
+    {
+      "id": "reinheit",
+      "vers_von": 1,
+      "vers_bis": 23,
+      "titel": "1. Streit über reine und unreine Speisen"
+    },
+    {
+      "id": "syrophoen",
+      "vers_von": 24,
+      "vers_bis": 30,
+      "titel": "2. Die Tochter der Syrophönizierin"
+    },
+    {
+      "id": "taubstumm",
+      "vers_von": 31,
+      "vers_bis": 37,
+      "titel": "3. Heilung eines Taubstummen"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 6,
+      "von": 21,
+      "vers_bis": 8,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 6,
+      "von": 96,
+      "vers_bis": 7,
+      "bis": 83,
+      "typ": "at",
+      "referenz": "Jes 29,13",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja29,13",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 29,13 — das Lippenbekenntnis ohne Herzensgehorsam. Jesus diagnostiziert die Heuchelei der Pharisäer mit dem Wort des Propheten."
+    },
+    {
+      "vers_von": 9,
+      "von": 19,
+      "vers_bis": 13,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 10,
+      "von": 23,
+      "vers_bis": 10,
+      "bis": 59,
+      "typ": "at",
+      "referenz": "2. Mo 20,12",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,12",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat des fünften Gebots aus dem Dekalog — Ehre Vater und Mutter."
+    },
+    {
+      "vers_von": 10,
+      "von": 65,
+      "vers_bis": 10,
+      "bis": 129,
+      "typ": "at",
+      "referenz": "2. Mo 21,17",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose21,17",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat der Tora-Bestimmung: Wer Vater oder Mutter schmäht, soll des Todes sterben. Jesus zeigt den inneren Widerspruch der Pharisäer auf."
+    },
+    {
+      "vers_von": 14,
+      "von": 78,
+      "vers_bis": 16,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 22,
+      "vers_bis": 23,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 27,
+      "von": 22,
+      "vers_bis": 27,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 20,
+      "vers_bis": 29,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 0,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 35,5-6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,5",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Effatha — das Öffnen der Ohren des Tauben und das Lösen der Zunge des Stummen sind in Jes 35,5-6 explizit als Zeichen der kommenden Heilszeit beschrieben. Ein damaliger Jude erkannte sofort: das ist das Handeln des messianischen Retters."
+    },
+    {
+      "vers_von": 37,
+      "von": 58,
+      "vers_bis": 37,
+      "bis": 83,
+      "typ": "at",
+      "referenz": "Gen 1,31",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose1,31",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Er hat alles wohl gemacht — die Formulierung klingt direkt nach Gen 1,31: Gott sah alles an, was er gemacht hatte, und es war sehr gut. Das Staunen der Menge beschreibt Jesu Handeln in Schöpfungsvokabular."
+    }
+  ]
+}

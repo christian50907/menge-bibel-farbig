@@ -1,0 +1,188 @@
+{
+  "buch": "Markus",
+  "kapitel": 9,
+  "titel": "Verklärung · Heilung des mondsüchtigen Knaben · Rangstreit · Ärgernisse",
+  "abschnitte": [
+    {
+      "id": "verklaer",
+      "vers_von": 1,
+      "vers_bis": 13,
+      "titel": "1. Die Verklärung Jesu · Elia und Johannes"
+    },
+    {
+      "id": "mondsuecht",
+      "vers_von": 14,
+      "vers_bis": 29,
+      "titel": "2. Heilung des mondsüchtigen Knaben"
+    },
+    {
+      "id": "leiden2",
+      "vers_von": 30,
+      "vers_bis": 32,
+      "titel": "3. Zweite Leidensankündigung"
+    },
+    {
+      "id": "rang",
+      "vers_von": 33,
+      "vers_bis": 37,
+      "titel": "4. Der Rangstreit der Jünger"
+    },
+    {
+      "id": "aerger",
+      "vers_von": 38,
+      "vers_bis": 50,
+      "titel": "5. Ärgernisse · Das Salz"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1,
+      "von": 19,
+      "vers_bis": 1,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 4,
+      "von": 0,
+      "vers_bis": 4,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 34,5-6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose34,5",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Mose und Elia erscheinen bei der Verklärung — sie verkörpern Gesetz (Tora) und Propheten, die beiden Säulen der jüdischen Schrift. Ihre Erscheinung bezeugt: Jesus ist die Erfüllung beider."
+    },
+    {
+      "vers_von": 7,
+      "von": 117,
+      "vers_bis": 7,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 18,15",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,15",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Höret auf ihn — 5. Mo 18,15 verheißt einen Propheten wie Mose, auf den Israel hören soll. Die Himmelsstimme zitiert dieses Wort und bestätigt: Jesus ist dieser verheißene Prophet."
+    },
+    {
+      "vers_von": 12,
+      "von": 21,
+      "vers_bis": 13,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 13,
+      "von": 53,
+      "vers_bis": 13,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "1. Kön 19,2-10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige19,2",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Sie haben ihm angetan, was ihnen beliebte — wie Elia von Isebel verfolgt und bedroht wurde (1. Kön 19), so wurde Johannes der Täufer als der wiedergekommene Elia verfolgt und getötet."
+    },
+    {
+      "vers_von": 16,
+      "von": 19,
+      "vers_bis": 16,
+      "bis": 58,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 39,
+      "vers_bis": 19,
+      "bis": 184,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 23,
+      "von": 22,
+      "vers_bis": 23,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 25,
+      "von": 103,
+      "vers_bis": 25,
+      "bis": 210,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 21,
+      "vers_bis": 29,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 31,
+      "von": 63,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 35,
+      "von": 61,
+      "vers_bis": 35,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 37,
+      "von": 0,
+      "vers_bis": 37,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 39,
+      "von": 26,
+      "vers_bis": 41,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 42,
+      "von": 0,
+      "vers_bis": 50,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 48,
+      "von": 0,
+      "vers_bis": 48,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 66,24",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja66,24",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Ihr Wurm stirbt nicht und das Feuer erlischt nicht — wörtliches Zitat aus Jes 66,24, dem letzten Vers des Jesaja-Buches: das Bild des ewigen Gerichts an denen, die sich gegen Gott auflehnen."
+    },
+    {
+      "vers_von": 49,
+      "von": 71,
+      "vers_bis": 49,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "3. Mo 2,13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose2,13",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Jedes Schlachtopfer wird mit Salz gewürzt — 3. Mo 2,13 schreibt vor, dass alle Opfergaben gesalzen werden müssen. Jesus verbindet das Feuer des Gerichts mit dem Salz des Opfers: Prüfung und Reinigung gehören zusammen."
+    }
+  ]
+}
