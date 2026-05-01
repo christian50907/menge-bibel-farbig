@@ -1,0 +1,219 @@
+{
+  "buch": "Markus",
+  "kapitel": 12,
+  "titel": "Gleichnis von den Weingärtnern · Steuerfrage · Auferstehungsfrage · Doppelgebot · Davids Sohn",
+  "abschnitte": [
+    {
+      "id": "weingart",
+      "vers_von": 1,
+      "vers_bis": 12,
+      "titel": "1. Das Gleichnis von den bösen Weingärtnern"
+    },
+    {
+      "id": "steuer",
+      "vers_von": 13,
+      "vers_bis": 17,
+      "titel": "2. Die Frage nach der Steuer"
+    },
+    {
+      "id": "aufersteh",
+      "vers_von": 18,
+      "vers_bis": 27,
+      "titel": "3. Die Frage nach der Auferstehung"
+    },
+    {
+      "id": "gebot",
+      "vers_von": 28,
+      "vers_bis": 34,
+      "titel": "4. Das höchste Gebot"
+    },
+    {
+      "id": "davidssohn",
+      "vers_von": 35,
+      "vers_bis": 37,
+      "titel": "5. Die Frage nach Davids Sohn"
+    },
+    {
+      "id": "schriftgel",
+      "vers_von": 38,
+      "vers_bis": 40,
+      "titel": "6. Warnung vor den Schriftgelehrten"
+    },
+    {
+      "id": "witwe",
+      "vers_von": 41,
+      "vers_bis": 44,
+      "titel": "7. Die Scherflein der armen Witwe"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1,
+      "von": 50,
+      "vers_bis": 8,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 1,
+      "von": -1,
+      "vers_bis": 1,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 5,1-7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja5,1",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Ein Mann pflanzte einen Weinberg, baute einen Zaun, grub eine Kelter und baute einen Turm — fast wörtlich das Weinberglied aus Jes 5,1-7. Dort ist der Weinberg Israel, das keine Frucht bringt. Die Zuhörer erkannten das Gleichnis sofort als Anklagebild gegen die Führer Israels."
+    },
+    {
+      "vers_von": 10,
+      "von": -1,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 10,
+      "von": 48,
+      "vers_bis": 11,
+      "bis": 76,
+      "typ": "at",
+      "referenz": "Ps 118,22-23",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,22",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Den Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden — wörtliches Zitat aus Ps 118,22-23. Jesus deutet sich selbst als den verworfenen Stein. Der Psalm gehörte zum Hallel und war den Zuhörern aus dem Gottesdienst vertraut."
+    },
+    {
+      "vers_von": 15,
+      "von": -1,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 16,
+      "von": 62,
+      "vers_bis": 16,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 17,
+      "von": -1,
+      "vers_bis": 17,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 0,
+      "vers_bis": 19,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 10,
+      "vers_bis": 19,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 25,5-6",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose25,5",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Mose hat uns das Gebot hinterlassen: Wenn ein Bruder stirbt und keine Kinder hinterläßt, soll sein Bruder die Witwe heiraten — das Leviratsgesetz aus 5. Mo 25,5-6. Die Sadduzäer konstruieren einen Fall, um die Auferstehung ad absurdum zu führen."
+    },
+    {
+      "vers_von": 24,
+      "von": -1,
+      "vers_bis": 27,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 26,
+      "von": 160,
+      "vers_bis": 26,
+      "bis": 224,
+      "typ": "at",
+      "referenz": "2. Mo 3,6",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,6",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Ich bin der Gott Abrahams, der Gott Isaaks und der Gott Jakobs — wörtliches Zitat aus 2. Mo 3,6, dem Dornbusch-Erlebnis des Mose. Jesus argumentiert: Gott nennt sich Gott der Lebenden, also müssen die Patriarchen leben — ein Beweis für die Auferstehung aus der Tora selbst."
+    },
+    {
+      "vers_von": 29,
+      "von": 18,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 34,
+      "vers_bis": 30,
+      "bis": 149,
+      "typ": "at",
+      "referenz": "5. Mo 6,4-5",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose6,4",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Höre, Israel: der Herr, unser Gott, ist Herr allein — wörtliches Zitat des Schma Israel aus 5. Mo 6,4-5, dem zentralen Glaubensbekenntnis des Judentums, das täglich morgens und abends gebetet wurde. Versübergreifend V29–30."
+    },
+    {
+      "vers_von": 31,
+      "von": 40,
+      "vers_bis": 31,
+      "bis": 91,
+      "typ": "at",
+      "referenz": "3. Mo 19,18",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/3.Mose19,18",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Du sollst deinen Nächsten lieben wie dich selbst — wörtliches Zitat aus 3. Mo 19,18. Das Nächstenliebegebot aus der Heiligkeitsgesetzgebung steht gleichrangig neben dem Schma — für damalige Juden eine bemerkenswerte Zusammenstellung."
+    },
+    {
+      "vers_von": 35,
+      "von": 61,
+      "vers_bis": 37,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 36,
+      "von": 48,
+      "vers_bis": 36,
+      "bis": 170,
+      "typ": "at",
+      "referenz": "Ps 110,1",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Der Herr hat zu meinem Herrn gesagt: Setze dich zu meiner Rechten — wörtliches Zitat aus Ps 110,1, dem meistzitierten AT-Vers im NT. Jesus benutzt ihn um zu zeigen, dass der Messias nicht nur Davids Sohn, sondern auch sein Herr ist."
+    },
+    {
+      "vers_von": 38,
+      "von": 34,
+      "vers_bis": 40,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 43,
+      "von": 51,
+      "vers_bis": 44,
+      "bis": -1,
+      "typ": "jesus"
+    }
+  ]
+}

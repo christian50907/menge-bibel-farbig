@@ -1,0 +1,133 @@
+{
+  "buch": "Markus",
+  "kapitel": 11,
+  "titel": "Einzug in Jerusalem · Tempelreinigung · Feigenbaum · Vollmachtsfrage",
+  "abschnitte": [
+    {
+      "id": "einzug",
+      "vers_von": 1,
+      "vers_bis": 11,
+      "titel": "1. Der Einzug in Jerusalem"
+    },
+    {
+      "id": "feige",
+      "vers_von": 12,
+      "vers_bis": 14,
+      "titel": "2. Der Fluch über den Feigenbaum"
+    },
+    {
+      "id": "tempel",
+      "vers_von": 15,
+      "vers_bis": 19,
+      "titel": "3. Die Tempelreinigung"
+    },
+    {
+      "id": "gebet",
+      "vers_von": 20,
+      "vers_bis": 26,
+      "titel": "4. Das verdorrte Feigenbaum · Gebet und Vergebung"
+    },
+    {
+      "id": "vollmacht",
+      "vers_von": 27,
+      "vers_bis": 33,
+      "titel": "5. Die Vollmachtsfrage"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2,
+      "von": 17,
+      "vers_bis": 3,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 9,
+      "von": 79,
+      "vers_bis": 10,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 118,25-26",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,25",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Hosianna und Gepriesen sei, der da kommt im Namen des Herrn — wörtliches Zitat aus Ps 118,25-26, dem großen Hallel-Psalm. Die Menge ruft diesen Pilgerhymnus beim Einzug Jesu als messianischen Empfang."
+    },
+    {
+      "vers_von": 14,
+      "von": 35,
+      "vers_bis": 14,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 14,
+      "von": 0,
+      "vers_bis": 14,
+      "bis": 34,
+      "typ": "at",
+      "referenz": "Mi 7,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Micha7,1",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Ein Feigenbaum ohne Früchte zur Erntezeit — Mi 7,1 klagt: Es ist mir ergangen wie einer Nachlese nach der Weinlese; man findet keine Traube mehr. Der unfruchtbare Feigenbaum ist im AT ein wiederkehrendes Bild für Israel, das keine Frucht bringt."
+    },
+    {
+      "vers_von": 17,
+      "von": 36,
+      "vers_bis": 17,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 17,
+      "von": 62,
+      "vers_bis": 17,
+      "bis": 113,
+      "typ": "at",
+      "referenz": "Jes 56,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja56,7",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Mein Haus soll ein Bethaus heißen für alle Völker — wörtliches Zitat aus Jes 56,7. Der Tempel war als Ort des Gebets für alle Nationen gedacht; Jesus klagt den Verfall dieses Anspruchs."
+    },
+    {
+      "vers_von": 17,
+      "von": 134,
+      "vers_bis": 17,
+      "bis": 147,
+      "typ": "at",
+      "referenz": "Jer 7,11",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jeremia7,11",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Räuberhöhle — wörtliches Zitat aus Jer 7,11, der Tempelrede des Jeremia. Jeremia hatte die gleiche Anklage gegen den Tempel erhoben: ihr macht ihn zur Räuberhöhle. Jesus stellt sich bewusst in diese prophetische Tradition."
+    },
+    {
+      "vers_von": 22,
+      "von": 29,
+      "vers_bis": 24,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 27,
+      "vers_bis": 30,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 33,
+      "von": 37,
+      "vers_bis": 33,
+      "bis": -1,
+      "typ": "jesus"
+    }
+  ]
+}
