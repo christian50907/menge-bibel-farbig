@@ -56,7 +56,7 @@
     },
     {
       "vers_von": 1,
-      "von": -1,
+      "von": 51,
       "vers_bis": 1,
       "bis": -1,
       "typ": "at",
@@ -65,11 +65,11 @@
       "url": "https://www.bibleserver.com/MENG/Jesaja5,1",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Ein Mann pflanzte einen Weinberg, baute einen Zaun, grub eine Kelter und baute einen Turm — fast wörtlich das Weinberglied aus Jes 5,1-7. Dort ist der Weinberg Israel, das keine Frucht bringt. Die Zuhörer erkannten das Gleichnis sofort als Anklagebild gegen die Führer Israels."
+      "begruendung": "Ein Mann legte einen Weinberg an, umgab ihn mit einer Hecke, grub eine Kelter und baute einen Turm — fast wörtlich das Weinberglied aus Jes 5,1-7. Dort ist der Weinberg Israel, das keine Frucht bringt. Die Zuhörer erkannten das Gleichnis sofort als Anklagebild gegen die Führer Israels."
     },
     {
       "vers_von": 10,
-      "von": -1,
+      "von": 0,
       "vers_bis": 12,
       "bis": -1,
       "typ": "jesus"
@@ -89,7 +89,7 @@
     },
     {
       "vers_von": 15,
-      "von": -1,
+      "von": 60,
       "vers_bis": 15,
       "bis": -1,
       "typ": "jesus"
@@ -103,7 +103,7 @@
     },
     {
       "vers_von": 17,
-      "von": -1,
+      "von": 25,
       "vers_bis": 17,
       "bis": -1,
       "typ": "jesus"
@@ -130,7 +130,7 @@
     },
     {
       "vers_von": 24,
-      "von": -1,
+      "von": 24,
       "vers_bis": 27,
       "bis": -1,
       "typ": "jesus"
@@ -147,6 +147,13 @@
       "autor": "AI",
       "status": "aktiv",
       "begruendung": "Ich bin der Gott Abrahams, der Gott Isaaks und der Gott Jakobs — wörtliches Zitat aus 2. Mo 3,6, dem Dornbusch-Erlebnis des Mose. Jesus argumentiert: Gott nennt sich Gott der Lebenden, also müssen die Patriarchen leben — ein Beweis für die Auferstehung aus der Tora selbst."
+    },
+    {
+      "vers_von": 28,
+      "von": 182,
+      "vers_bis": 28,
+      "bis": 222,
+      "typ": "jesus"
     },
     {
       "vers_von": 29,
@@ -166,7 +173,7 @@
       "url": "https://www.bibleserver.com/MENG/5.Mose6,4",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Höre, Israel: der Herr, unser Gott, ist Herr allein — wörtliches Zitat des Schma Israel aus 5. Mo 6,4-5, dem zentralen Glaubensbekenntnis des Judentums, das täglich morgens und abends gebetet wurde. Versübergreifend V29–30."
+      "begruendung": "Höre, Israel: der Herr, unser Gott, ist Herr allein — wörtliches Zitat des Schma Israel aus 5. Mo 6,4-5, dem zentralen Glaubensbekenntnis des Judentums, das täglich morgens und abends gebetet wurde. Versübergreifend V29-30."
     },
     {
       "vers_von": 31,
