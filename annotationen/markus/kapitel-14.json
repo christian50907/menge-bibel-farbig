@@ -1,0 +1,188 @@
+{
+  "buch": "Markus",
+  "kapitel": 14,
+  "titel": "Salbung · Abendmahl · Gethsemane · Verhaftung · Verhör · Verleugnung",
+  "abschnitte": [
+    {
+      "id": "salbung",
+      "vers_von": 1,
+      "vers_bis": 9,
+      "titel": "1. Die Salbung Jesu in Betanien"
+    },
+    {
+      "id": "judas",
+      "vers_von": 10,
+      "vers_bis": 11,
+      "titel": "2. Der Verrat des Judas"
+    },
+    {
+      "id": "mahl",
+      "vers_von": 12,
+      "vers_bis": 26,
+      "titel": "3. Das letzte Mahl · Einsetzung des Abendmahls"
+    },
+    {
+      "id": "gethsem",
+      "vers_von": 27,
+      "vers_bis": 42,
+      "titel": "4. Gethsemane · Verhaftung"
+    },
+    {
+      "id": "verhaft",
+      "vers_von": 43,
+      "vers_bis": 52,
+      "titel": "5. Die Verhaftung"
+    },
+    {
+      "id": "verhoer",
+      "vers_von": 53,
+      "vers_bis": 65,
+      "titel": "6. Das Verhör vor dem Hohen Rat"
+    },
+    {
+      "id": "verleugn",
+      "vers_von": 66,
+      "vers_bis": 72,
+      "titel": "7. Die Verleugnung durch Petrus"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 6,
+      "von": 16,
+      "vers_bis": 9,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 13,
+      "von": 60,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 70,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 20,
+      "von": 21,
+      "vers_bis": 21,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 22,
+      "von": 124,
+      "vers_bis": 22,
+      "bis": 153,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 24,
+      "von": 23,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 24,
+      "von": 48,
+      "vers_bis": 24,
+      "bis": 58,
+      "typ": "at",
+      "referenz": "2. Mo 24,8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Das Bundesblut — in 2. Mo 24,8 besprengt Mose das Volk mit dem Blut des Bundesopfers: Dies ist das Blut des Bundes, den der Herr mit euch geschlossen hat. Jesus nimmt diese Bundesformel für das neue Abendmahl auf."
+    },
+    {
+      "vers_von": 27,
+      "von": 28,
+      "vers_bis": 28,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 27,
+      "von": 87,
+      "vers_bis": 27,
+      "bis": 165,
+      "typ": "at",
+      "referenz": "Sach 13,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Sacharja13,7",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Ich werde den Hirten schlagen — wörtliches Zitat aus Sach 13,7. Jesus deutet die bevorstehende Zerstreuung der Jünger als Erfüllung dieser Prophetie über den geschlagenen Hirten und die zerstreute Herde."
+    },
+    {
+      "vers_von": 30,
+      "von": 21,
+      "vers_bis": 30,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 32,
+      "von": 83,
+      "vers_bis": 32,
+      "bis": 129,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 20,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 21,
+      "vers_bis": 34,
+      "bis": 49,
+      "typ": "at",
+      "referenz": "Ps 42,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm42,6",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Tiefbetrübt ist meine Seele bis zum Tode — Ps 42,6 klagt: Was bist du so betrübt, meine Seele? Jesus betet in der Sprache der Psalmen und drückt damit seine Not in der Bildsprache aus, die ein frommer Jude für Todesangst hatte."
+    },
+    {
+      "vers_von": 36,
+      "von": 16,
+      "vers_bis": 36,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 41,
+      "von": 46,
+      "vers_bis": 42,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 48,
+      "von": 27,
+      "vers_bis": 49,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 62,
+      "von": 18,
+      "vers_bis": 62,
+      "bis": -1,
+      "typ": "jesus"
+    }
+  ]
+}

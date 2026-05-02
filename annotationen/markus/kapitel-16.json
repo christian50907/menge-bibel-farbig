@@ -1,0 +1,34 @@
+{
+  "buch": "Markus",
+  "kapitel": 16,
+  "titel": "Die Auferstehung · Erscheinungen · Missionsbefehl",
+  "abschnitte": [
+    {
+      "id": "grab",
+      "vers_von": 1,
+      "vers_bis": 8,
+      "titel": "1. Das leere Grab"
+    },
+    {
+      "id": "ersch",
+      "vers_von": 9,
+      "vers_bis": 18,
+      "titel": "2. Die Erscheinungen des Auferstandenen (langer Schluss)"
+    },
+    {
+      "id": "himmel",
+      "vers_von": 19,
+      "vers_bis": 20,
+      "titel": "3. Himmelfahrt und Sendung der Jünger"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 15,
+      "von": 26,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "jesus"
+    }
+  ]
+}
