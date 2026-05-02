@@ -1,0 +1,112 @@
+{
+  "buch": "Markus",
+  "kapitel": 15,
+  "titel": "Verhör vor Pilatus · Kreuzigung · Tod · Grablegung",
+  "abschnitte": [
+    {
+      "id": "pilatus",
+      "vers_von": 1,
+      "vers_bis": 20,
+      "titel": "1. Das Verhör vor Pilatus · Verurteilung"
+    },
+    {
+      "id": "kreuz",
+      "vers_von": 21,
+      "vers_bis": 32,
+      "titel": "2. Die Kreuzigung"
+    },
+    {
+      "id": "tod",
+      "vers_von": 33,
+      "vers_bis": 41,
+      "titel": "3. Der Tod Jesu"
+    },
+    {
+      "id": "grableg",
+      "vers_von": 42,
+      "vers_bis": 47,
+      "titel": "4. Die Grablegung"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2,
+      "von": -1,
+      "vers_bis": 2,
+      "bis": 103,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 24,
+      "von": 28,
+      "vers_bis": 24,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 22,18",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,18",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Sie verteilen seine Kleider und werfen das Los darum — Ps 22,18 beschreibt genau dieses Geschehen. Ps 22 ist der Kreuzigungspsalm, dessen Eröffnungsruf Jesus in V34 zitiert. Die Verlosung der Kleider erfüllt diese Prophetie."
+    },
+    {
+      "vers_von": 28,
+      "von": 51,
+      "vers_bis": 28,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 53,12",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,12",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Er ist unter die Gesetzlosen gerechnet worden — wörtliches Zitat aus Jes 53,12. Der leidende Gottesknecht, der mit den Verbrechern gezählt wird. Markus sieht in der Kreuzigung zwischen zwei Räubern die Erfüllung dieser Prophetie."
+    },
+    {
+      "vers_von": 29,
+      "von": 39,
+      "vers_bis": 29,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 22,7-8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,7",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Die Vorübergehenden schütteln den Kopf und verspotten ihn — Ps 22,7-8 beschreibt exakt diese Szene: alle, die mich sehen, spotten mein, reißen den Mund auf, schütteln den Kopf. Markus malt die Kreuzigungsszene in den Farben von Ps 22."
+    },
+    {
+      "vers_von": 34,
+      "von": 56,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 56,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 22,1",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,1",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Mein Gott, mein Gott, warum hast du mich verlassen — wörtliches Zitat des ersten Verses von Ps 22 in aramäischer Form. Jesus betet in seiner Todesstunde mit dem Psalm, der das ganze Leiden des Gerechten beschreibt und mit Rettung endet."
+    },
+    {
+      "vers_von": 36,
+      "von": 19,
+      "vers_bis": 36,
+      "bis": 51,
+      "typ": "at",
+      "referenz": "Ps 69,22",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm69,22",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Essig zu trinken reichen — Ps 69,22 klagt: sie gaben mir Galle zu essen und Essig zu trinken. Dieses Detail der Kreuzigungsszene entspricht dem Leiden des Psalmisten."
+    }
+  ]
+}
