@@ -57,6 +57,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 22,
+      "von": 86,
+      "vers_bis": 22,
+      "bis": 95,
+      "typ": "at",
+      "referenz": "2. Kön 1,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige1,2",
+      "autor": "AI",
+      "begruendung": "Beelzebul geht zurück auf Baal-Sebub, den Gott der Philister in Ekron (2. Kön 1,2). Für einen zeitgenössischen Juden war sofort klar: Die Schriftgelehrten sagen, Jesus stehe im Bund mit einem heidnischen Götzen — eine maximale Blasphemie. Diese theologische Sprengkraft des Vorwurfs geht heute vollständig verloren.",
+      "status": "aktiv"
+    },
+    {
       "vers_von": 23,
       "von": 63,
       "vers_bis": 29,

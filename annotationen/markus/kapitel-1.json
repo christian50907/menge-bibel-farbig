@@ -90,6 +90,27 @@
       "status": "aktiv"
     },
     {
+      "vers_von": 13,
+      "von": 11,
+      "vers_bis": 13,
+      "bis": 41,
+      "typ": "at",
+      "vgl": true,
+      "autor": "AI",
+      "urls": [
+        {
+          "label": "Dtn 8,2",
+          "url": "https://www.bibleserver.com/MENG/5.Mose8,2"
+        },
+        {
+          "label": "1. Kön 19,8",
+          "url": "https://www.bibleserver.com/MENG/1.Koenige19,8"
+        }
+      ],
+      "begruendung": "Die vierzig Tage in der Wüste rufen zwei prägende AT-Bilder auf: Dtn 8,2 (Israel vierzig Jahre in der Wüste versucht — die nationale Gründungserzählung schlechthin) und 1. Kön 19,8 (Elia vierzig Tage zum Gottesberg — und Johannes wurde gerade als neuer Elia eingeführt, V6). Jesus rekapituliert beide: den Weg Israels und den Weg des Propheten.",
+      "status": "aktiv"
+    },
+    {
       "vers_von": 15,
       "von": 16,
       "vers_bis": 15,
@@ -148,7 +169,7 @@
       "vers_von": 44,
       "von": 80,
       "vers_bis": 44,
-      "bis": 191,
+      "bis": -1,
       "typ": "at",
       "referenz": "3. Mo 14,2–32",
       "vgl": false,
