@@ -93,13 +93,6 @@
       "von": 45,
       "vers_bis": 18,
       "bis": -1,
-      "typ": "jesus"
-    },
-    {
-      "vers_von": 18,
-      "von": 45,
-      "vers_bis": 18,
-      "bis": -1,
       "typ": "at",
       "referenz": "3. Mo 18,16",
       "vgl": false,
@@ -125,7 +118,7 @@
       "vers_von": 31,
       "von": 22,
       "vers_bis": 31,
-      "bis": 107,
+      "bis": 118,
       "typ": "jesus"
     },
     {
@@ -163,6 +156,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 39,
+      "von": 94,
+      "vers_bis": 39,
+      "bis": 113,
+      "typ": "at",
+      "referenz": "Ps 23,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm23,2",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "Unmittelbar nach der 'Schafe ohne Hirten'-Szene (V34) lagern die Fünftausend auf grünem Rasen, während Jesus sie speist — Ps 23,2 lautet 'auf grünen Auen läßt er mich lagern.' Die Bildsprache ist parallel (Hirte, Weide, Speisung), aber Markus zitiert Ps 23 nicht explizit. Als evokative Anspielung nicht aktiv annotiert."
+    },
+    {
       "vers_von": 41,
       "von": 8,
       "vers_bis": 41,
@@ -174,6 +180,19 @@
       "autor": "AI",
       "begruendung": "Elisa speist 100 Mann mit 20 Gerstenbroten, und es bleibt noch übrig — die strukturelle Parallele zur Brotvermehrung ist die stärkste AT-Folie dieser Perikope.",
       "status": "aktiv"
+    },
+    {
+      "vers_von": 52,
+      "von": 89,
+      "vers_bis": 52,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 6,9-10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja6,9",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "»Ihr Herz war verhärtet« greift das Verstockungsmotiv aus Jes 6,9-10 auf, das in Mk 4,12 bereits annotiert wurde. Neu ist die Anwendung auf die Jünger selbst — doch da das Thema bereits eingeführt ist, hier nicht erneut aktiv annotiert. Als Wiederaufnahme desselben Motivs inaktiv dokumentiert."
     },
     {
       "vers_von": 48,
@@ -214,6 +233,19 @@
       "autor": "AI",
       "begruendung": "Ich bin's — griechisch ego eimi, im AT der Gottesname den Gott Mose am brennenden Dornbusch offenbart (2. Mo 3,14). Jesus bezeichnet sich mit dem Gottesnamen. Erstes Auftreten im Markus.",
       "status": "aktiv"
+    },
+    {
+      "vers_von": 56,
+      "von": 148,
+      "vers_bis": 56,
+      "bis": 168,
+      "typ": "at",
+      "referenz": "4. Mo 15,38-39",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,38",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Nach 4. Mo 15,38-39 tragen Israeliten Quasten (Zizit) an den Gewandecken als sichtbares Zeichen der Tora-Bindung. Die Menschen berühren gezielt die Quaste — den heiligen Teil des Gewandes. Für einen 1. Jh.-Juden war das kein Aberglauben, sondern religiöse Ehrerbietung gegenüber einem Mann, der diese Zeichen trägt. Diese Bedeutungsebene ist heute vollständig unsichtbar."
     }
   ]
 }
