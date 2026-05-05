@@ -78,6 +78,19 @@
       "status": "inaktiv"
     },
     {
+      "vers_von": 25,
+      "von": 49,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "3. Mo 15,25-27",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose15,25",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Nach 3. Mo 15,25-27 ist eine Frau mit anhaltendem Blutfluß dauerhaft rituelle unrein — und alles, was sie berührt, wird unrein. Für einen 1. Jh.-Juden ist sofort klar: diese Frau berührt seit zwölf Jahren fortwährend andere und dann Jesus selbst mitten in der Menge. Statt unrein zu werden, heilt Jesus sie. Diese Umkehrung der Reinheitslogik ist die eigentliche theologische Pointe der Geschichte."
+    },
+    {
       "vers_von": 30,
       "von": 152,
       "vers_bis": 30,
@@ -141,7 +154,7 @@
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Koenige4,33",
       "autor": "AI",
-      "begruendung": "Elisa schließt alle aus dem Zimmer und geht allein zum toten Kind — dieselbe Handlungsstruktur zeigt Markus hier bei Jesus. Die Parallele zur Elisa-Erzählung (2. Kön 4,32-35) ist die stärkste AT-Folie für die Jairus-Geschichte.",
+      "begruendung": "Elisa schließt die Menge aus und zieht sich mit dem toten Kind zurück (2. Kön 4,33) — dieselbe Struktur zeigt Markus hier: Jesus entfernt alle Außenstehenden und geht mit nur wenigen ins Zimmer. Der Unterschied: Elisa geht allein, Jesus nimmt die Eltern und drei Jünger mit. Die Parallele liegt im zurückgezogenen Handeln, nicht in der Einsamkeit. Stärkste AT-Folie für die Jairus-Geschichte.",
       "status": "aktiv"
     },
     {
