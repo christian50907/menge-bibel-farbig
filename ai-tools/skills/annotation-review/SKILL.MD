@@ -59,6 +59,27 @@ Scan des Kapitels:
 ### B — Positions-Check
 
 Für jede Annotation: Extrahiere `verstext[von:bis]` aus den übergebenen Verstexten.
+**Führe dies per Code aus** — mentale Zeichenzählung ist bei Umlauten (ä, ö, ü)
+und Sonderzeichen (», «, –) fehleranfällig. Ein minimales Python-Snippet genügt:
+
+```python
+import json
+with open("kap_verses.json", encoding="utf-8") as f:
+    v = json.load(f)
+# Beispiel: vers_von=19, von=0, bis=103
+print(repr(v["19"][0:103]))
+```
+
+Oder inline für mehrere Stellen auf einmal:
+
+```python
+checks = [(19, 0, 103), (29, 26, 63), (31, 46, 58)]
+for nr, a, b in checks:
+    t = v[str(nr)]
+    print(f"V{nr}[{a}:{b}] = {repr(t[a:b] if b != -1 else t[a:])}")
+```
+
+Prüfe für jede Annotation:
 - Entspricht der extrahierte Ausschnitt dem annotierten Inhalt?
 - Ist `bis: -1` korrekt für Annotationen, die bis zum Versende reichen?
 - Bei versübergreifenden Annotationen (`vers_von ≠ vers_bis`):
