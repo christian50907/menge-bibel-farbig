@@ -77,11 +77,37 @@
       "begruendung": "Wörtliches Zitat der Tora-Bestimmung: Wer Vater oder Mutter schmäht, soll des Todes sterben. Jesus zeigt den inneren Widerspruch der Pharisäer auf."
     },
     {
+      "vers_von": 11,
+      "von": 72,
+      "vers_bis": 11,
+      "bis": 78,
+      "typ": "at",
+      "referenz": "3. Mo 1,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose1,2",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Korban — technischer Tora-Begriff für eine Tempelweihe-Verpflichtung. Pharisäer nutzten ihn als Rechtskonstruktion: Vermögen als ›Korban‹ erklärt entzieht es den Eltern — formal Torah-konform, faktisch das 5. Gebot umgehend."
+    },
+    {
       "vers_von": 14,
       "von": 78,
       "vers_bis": 16,
       "bis": -1,
       "typ": "jesus"
+    },
+    {
+      "vers_von": 15,
+      "von": 0,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "3. Mo 11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,1",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "Jesus erklärt implizit alle Speisen für rein (V19b explizit). Reinheitskonflikt ist durch Jes 29,13 (V6) und Korban/5. Gebot (V10) bereits ausreichend annotiert — V15 fügt keine eigenständige neue Dimension hinzu."
     },
     {
       "vers_von": 18,
@@ -101,6 +127,13 @@
       "vers_von": 29,
       "von": 20,
       "vers_bis": 29,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 75,
+      "vers_bis": 34,
       "bis": -1,
       "typ": "jesus"
     },
