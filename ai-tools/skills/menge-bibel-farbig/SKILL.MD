@@ -362,6 +362,20 @@ Die Leitfrage ist nicht primär „Welche theologische Tiefenaussage steckt hier
 sondern breiter: **„Gab es dafür im Leben eines damaligen Juden eine AT-Grundlage,
 die ihm sofort verständlich war — und die einem heutigen Leser fehlt?"**
 
+Der Maßstab ist ein Jude, der diesen NT-Text liest — jemand mit normaler religiöser
+Einbettung in die jüdische Tradition, kein Bauer, aber auch nicht zwingend ein
+Schriftgelehrter. Technische Rechtsbegriffe (wie Korban, Mk 7,11) oder apokalyptische
+Terminologie können annotiert werden, wenn sie für das Textverständnis wesentlich sind.
+
+**Qualitäts-Check:** Eine Annotation ist berechtigt, wenn der AT-Bezug *load-bearing*
+ist — das Textverständnis ohne diesen Hintergrund erheblich eingeschränkt ist.
+Zwei häufige Fehlquellen:
+- **Formulierung ohne AT-Vorlage:** Inhaltliche Verwandtschaft ≠ erkennbarer Bezug.
+  Die Formulierung selbst muss eine AT-Entsprechung haben, nicht nur der Inhalt.
+- **Evokative Bildsprache ohne Autorenabsicht:** Wenn das Bild eine AT-Parallele hat,
+  aber nicht zitiert oder explizit aufgegriffen wird → inaktiv, mit Begründung.
+  (Beispiel: „grüner Rasen" → Ps 23,2 nur evokativ, Mk 6,39.)
+
 ### Wann annotieren
 
 Annotieren wenn **mindestens eines** dieser Kriterien zutrifft:
@@ -577,11 +591,50 @@ dadurch werden alle Datei-URLs bekannt. Alternativ: Nutzer fügt Rohtext in den 
 ## Empfohlener Workflow für neue Annotationen
 
 1. Nutzer gibt Buch + Kapitel an
-2. Markdown-Text laden (via Repo-Einstiegsseite oder Nutzer-Input)
-3. Parser in **Python testen** (Sandbox), dann 1:1 nach JS übersetzen
+2. Rohtext laden: Volltext des Buches aus `renehamburger/Menge-Bibel` (via Repo-Einstiegsseite
+   oder Nutzer-Input), lokal speichern (z.B. `ai-tools/<buch>-roh.txt`)
+3. Verstexte extrahieren mit dem gebündelten Script:
+   ```
+   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py <datei> <kapitel>
+   ```
+   → gibt JSON-Dict `{"1": "...", "2": "..."}` aus; diesen für alle Positions-Berechnungen verwenden
 4. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen
 5. JSON-Annotationsdatei erstellen unter `annotationen/<buch>/kapitel-N.json`
-6. Kapitel-Nummer in `annotationen/manifest.json` ins `kapitel`-Array eintragen
+6. **Review Sub-Agent spawnen** (siehe Abschnitt "Review-Workflow")
+7. Beide Perspektiven dem Nutzer präsentieren — erst nach Freigabe committen
+8. Kapitel-Nummer in `annotationen/manifest.json` ins `kapitel`-Array eintragen (falls neu)
+
+## Review-Workflow (Sub-Agent)
+
+Nach der Erstannotation eines Kapitels wird ein unabhängiger Review Sub-Agent
+gestartet. Er prüft aus einer eigenen Perspektive — nicht als Korrektiv,
+sondern als zweite Stimme.
+
+### Was übergeben wird
+
+Übergabe an den Sub-Agent (Skill: `annotation-review`) als strukturierte Daten:
+
+1. **Das `markierungen`-Array** als JSON-String
+2. **Verstexte-Dict** `{"versnr": "bereinigter_text"}` — Ausgabe von `parse_menge.py`
+3. **Liste bereits annotierter AT-Motive** aus den vorhandenen Kapitel-JSONs desselben
+   Buches — kompakt als Label-Liste (z.B. `"ego eimi Mk 6,50"`, `"Elia-Erwartung Mal 3,23 Mk 6,15"`)
+   für den Wiederholungs-Check
+
+### Präsentation an den Nutzer
+
+**Vor dem Commit** beide Ergebnisse in zwei getrennten Blöcken zeigen:
+
+```
+**Main Agent — Annotationsvorschläge:**
+[Neue und geänderte Einträge, je eine Zeile mit Vers + Label]
+
+**Review Agent — Befunde:**
+[Beanstandungen und fehlende Annotationen aus unabhängiger Perspektive]
+```
+
+Erst nach Freigabe beider Blöcke durch den Nutzer wird committed.
+
+---
 
 ## Suchstrings niemals aus dem Gedächtnis ⚠️
 
