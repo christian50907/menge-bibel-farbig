@@ -59,8 +59,21 @@
       "vers_von": 12,
       "von": 51,
       "vers_bis": 12,
-      "bis": 183,
+      "bis": -1,
       "typ": "jesus"
+    },
+    {
+      "vers_von": 15,
+      "von": 0,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Mo 12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,1",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "Sauerteig war im Passah-Kontext (2. Mo 12) das Symbol für das Böse, das aus dem Haus entfernt werden musste. Die Warnung vor dem 'Sauerteig der Pharisäer' könnte diesen Kontext aktivieren — ist aber ein allgemeines Sprachbild, das kein spezifisches AT-Textwissen voraussetzt."
     },
     {
       "vers_von": 15,
@@ -72,8 +85,8 @@
     {
       "vers_von": 17,
       "von": 41,
-      "vers_bis": 21,
-      "bis": -1,
+      "vers_bis": 19,
+      "bis": 103,
       "typ": "jesus"
     },
     {
@@ -82,12 +95,26 @@
       "vers_bis": 18,
       "bis": -1,
       "typ": "at",
-      "referenz": "Hes 12,2",
+      "referenz": "Jer 5,21",
       "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Hesekiel12,2",
+      "url": "https://www.bibleserver.com/MENG/Jeremia5,21",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Augen haben und nicht sehen, Ohren haben und nicht hören — Hes 12,2 beschreibt Israel als Volk, das sich gegen Gottes Wort verstockt. Jesus wendet dieses Bild auf die Jünger an, die das Wunder der Brotvermehrung nicht verstehen."
+      "begruendung": "Augen haben und nicht sehen, Ohren haben und nicht hören — Jer 5,21 ist die wörtlichste AT-Vorlage dieser Doppelformel. Jesus wendet das Prophetenwort gegen ein verstocktes Israel auf seine eigenen Jünger an: dieselbe Blindheit des Herzens, dieselbe Taubheit gegen Gottes Handeln."
+    },
+    {
+      "vers_von": 20,
+      "von": 0,
+      "vers_bis": 20,
+      "bis": 151,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 21,
+      "von": 22,
+      "vers_bis": 21,
+      "bis": -1,
+      "typ": "jesus"
     },
     {
       "vers_von": 26,
@@ -97,11 +124,34 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 27,
+      "von": 131,
+      "vers_bis": 27,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
       "vers_von": 29,
       "von": 26,
       "vers_bis": 29,
       "bis": 63,
       "typ": "jesus"
+    },
+    {
+      "vers_von": 31,
+      "von": 0,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 53,3-5", "url": "https://www.bibleserver.com/MENG/Jesaja53,3" },
+        { "label": "Dan 7,13", "url": "https://www.bibleserver.com/MENG/Daniel7,13" },
+        { "label": "Ps 118,22", "url": "https://www.bibleserver.com/MENG/Psalm118,22" }
+      ],
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Die erste Leidensankündigung verdichtet drei AT-Motive: 'Menschensohn' (Dan 7,13 — die Gestalt vor dem Hochbetagten, die ewige Herrschaft empfängt), 'verworfen' (Ps 118,22 — der verworfene Stein, der zum Eckstein wird), Leiden und Auferstehung (Jes 53 — der leidende Gottesknecht, der um unsrer Sünden willen getötet wird)."
     },
     {
       "vers_von": 33,
@@ -118,17 +168,30 @@
       "typ": "jesus"
     },
     {
-      "vers_von": 31,
-      "von": 0,
-      "vers_bis": 31,
-      "bis": -1,
+      "vers_von": 38,
+      "von": 51,
+      "vers_bis": 38,
+      "bis": 91,
       "typ": "at",
-      "referenz": "Jes 53,3-5",
+      "referenz": "Hos 2,4",
       "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Jesaja53,3",
+      "url": "https://www.bibleserver.com/MENG/Hosea2,4",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Der Menschensohn muss vieles leiden, verworfen werden und nach drei Tagen auferstehen — Jes 53 ist das Lied vom leidenden Gottesknecht, der um unsrer Sünden willen verwundet wird. Die erste Leidensankündigung zeichnet Jesus in diesem prophetischen Bild."
+      "begruendung": "'Ehebrecherisches Geschlecht' — ein Begriff aus der Bundestheologie: Israel als untreue Ehefrau Jhwhs (Hos 2,4). Das Bild der Ehe als Bund macht diesen Vorwurf erst verständlich — kein Moralurteil, sondern der Vorwurf des Bundesbruchs."
+    },
+    {
+      "vers_von": 38,
+      "von": 126,
+      "vers_bis": 38,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 7,13-14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "'Menschensohn...in der Herrlichkeit seines Vaters mit den heiligen Engeln' — die Parusie-Formel ist direkt aus Dan 7,13-14 gestaltet: der Menschensohn kommt mit den Wolken des Himmels und empfängt ewige Herrschaft. Ein damaliger Jude erkannte sofort: das ist die Gestalt aus dem Nachtgesicht Daniels."
     }
   ]
 }
