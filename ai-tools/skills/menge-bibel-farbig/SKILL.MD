@@ -610,9 +610,35 @@ Nach der Erstannotation eines Kapitels wird ein unabhängiger Review Sub-Agent
 gestartet. Er prüft aus einer eigenen Perspektive — nicht als Korrektiv,
 sondern als zweite Stimme.
 
+### Wie der Sub-Agent gespawnt wird
+
+Den Sub-Agent über das **`Agent`-Tool** spawnen (kein registrierter Skill nötig):
+
+```
+Agent(
+  description: "annotation-review: unabhängige Prüfung Kapitel N",
+  prompt: "<Inhalt von ai-tools/skills/annotation-review/SKILL.MD>
+
+  ## Input für diesen Review
+
+  ### markierungen
+  <JSON-Array>
+
+  ### Verstexte
+  <Dict {"versnr": "text"}>
+
+  ### Bereits annotierte AT-Motive (Mk 1–N-1)
+  <Label-Liste>"
+)
+```
+
+Die Instruktionen des Sub-Agents werden also direkt aus der Datei
+`ai-tools/skills/annotation-review/SKILL.MD` gelesen und als Prompt übergeben —
+nicht über den Skill-Mechanismus.
+
 ### Was übergeben wird
 
-Übergabe an den Sub-Agent (Skill: `annotation-review`) als strukturierte Daten:
+Übergabe an den Sub-Agent als strukturierte Daten im Prompt:
 
 1. **Das `markierungen`-Array** als JSON-String
 2. **Verstexte-Dict** `{"versnr": "bereinigter_text"}` — Ausgabe von `parse_menge.py`
