@@ -1,37 +1,43 @@
 {
   "buch": "Markus",
   "kapitel": 9,
-  "titel": "Verklärung · Heilung des mondsüchtigen Knaben · Rangstreit · Ärgernisse",
+  "titel": "Verklärung auf dem Berg · Besessener Knabe · Zweite Leidensankündigung · Wer ist der Größte? · Vom Ärgernis",
   "abschnitte": [
     {
-      "id": "verklaer",
+      "id": "verklaerung",
       "vers_von": 1,
       "vers_bis": 13,
-      "titel": "1. Die Verklärung Jesu · Elia und Johannes"
+      "titel": "1. Die Verklärung auf dem Berg"
     },
     {
-      "id": "mondsuecht",
+      "id": "besessener",
       "vers_von": 14,
       "vers_bis": 29,
-      "titel": "2. Heilung des mondsüchtigen Knaben"
+      "titel": "2. Heilung des besessenen Knaben"
     },
     {
       "id": "leiden2",
       "vers_von": 30,
       "vers_bis": 32,
-      "titel": "3. Zweite Leidensankündigung"
+      "titel": "3. Die zweite Leidensankündigung"
     },
     {
-      "id": "rang",
+      "id": "rangstreit",
       "vers_von": 33,
       "vers_bis": 37,
-      "titel": "4. Der Rangstreit der Jünger"
+      "titel": "4. Wer ist der Größte?"
     },
     {
-      "id": "aerger",
+      "id": "wundertaeter",
       "vers_von": 38,
+      "vers_bis": 41,
+      "titel": "5. Der fremde Wundertäter"
+    },
+    {
+      "id": "aergernis",
+      "vers_von": 42,
       "vers_bis": 50,
-      "titel": "5. Ärgernisse · Das Salz"
+      "titel": "6. Vom Ärgernis und vom Salz"
     }
   ],
   "markierungen": [
@@ -48,12 +54,12 @@
       "vers_bis": 4,
       "bis": -1,
       "typ": "at",
-      "referenz": "5. Mo 34,5-6",
+      "referenz": "Mal 3,22-23",
       "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/5.Mose34,5",
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,22",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Mose und Elia erscheinen bei der Verklärung — sie verkörpern Gesetz (Tora) und Propheten, die beiden Säulen der jüdischen Schrift. Ihre Erscheinung bezeugt: Jesus ist die Erfüllung beider."
+      "begruendung": "Mose und Elia erscheinen gemeinsam — der Schluss des Prophetenkanons (Mal 3,22-23) stellt genau diese beiden nebeneinander: »Gedenket an das Gesetz meines Knechtes Mose... Seht, ich sende euch den Propheten Elia.« Für einen jüdischen Leser war das der Grund, warum gerade diese beiden erscheinen: Sie verkörpern das Doppelerbe des AT — Tora und Propheten — und ihre Anwesenheit bezeugt Jesus als die Erfüllung beider. Dass Elia nie gestorben war (2. Kön 2,11) und Moses' Grab unbekannt blieb (Dtn 34,6), machte ihr Erscheinen in jüdischer Erwartung denkbar."
     },
     {
       "vers_von": 7,
@@ -61,12 +67,12 @@
       "vers_bis": 7,
       "bis": -1,
       "typ": "at",
-      "referenz": "5. Mo 18,15",
+      "referenz": "Dtn 18,15",
       "vgl": false,
       "url": "https://www.bibleserver.com/MENG/5.Mose18,15",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Höret auf ihn — 5. Mo 18,15 verheißt einen Propheten wie Mose, auf den Israel hören soll. Die Himmelsstimme zitiert dieses Wort und bestätigt: Jesus ist dieser verheißene Prophet."
+      "begruendung": "»Höret auf ihn!« — die Himmelsstimme zitiert fast wörtlich Dtn 18,15, Mose' Ankündigung: »Einen Propheten wie mich wird dir der HERR dein Gott erwecken; auf ihn sollt ihr hören.« Ein damaliger Jude erkannte sofort: Die Stimme erklärt Jesus als den von Mose angekündigten Propheten — und das ausgerechnet in Anwesenheit von Mose selbst."
     },
     {
       "vers_von": 12,
@@ -76,30 +82,76 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 12,
+      "von": 26,
+      "vers_bis": 12,
+      "bis": 100,
+      "typ": "at",
+      "referenz": "Mal 3,23",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Elia kommt zuerst und bringt alles wieder in den rechten Stand« — inhaltlich direkt aus Mal 3,23-24: Gott sendet Elia vor dem großen Tag des HERRN, um die Herzen der Väter den Söhnen wieder zuzuwenden. Jesus bestätigt die Schriftgelehrtenerwartung: Ja, Mal 3,23 gilt. Und dann: Es ist bereits geschehen — in Johannes dem Täufer."
+    },
+    {
+      "vers_von": 12,
+      "von": 101,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 53,3",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,3",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "Zweite Leidensankündigung: dieselben AT-Bezüge (Jes 53, Dan 7, Ps 118) wie die erste in Mk 8,31, wo bereits annotiert. Keine Wiederholung im selben Buch."
+    },
+    {
       "vers_von": 13,
       "von": 53,
       "vers_bis": 13,
       "bis": -1,
       "typ": "at",
-      "referenz": "1. Kön 19,2-10",
+      "referenz": "1. Kön 19,2.10",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Koenige19,2",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Sie haben ihm angetan, was ihnen beliebte — wie Elia von Isebel verfolgt und bedroht wurde (1. Kön 19), so wurde Johannes der Täufer als der wiedergekommene Elia verfolgt und getötet."
+      "begruendung": "»Sie haben ihm angetan, was ihnen beliebte, wie über ihn geschrieben steht« — der Bezug ist 1. Kön 19,2.10: Isebel droht Elia mit dem Tod (V2), Elia klagt »sie suchen mein Leben« (V10.14). Die Verfolgung des Täufers durch Herodias ist die neue Erfüllung des alten Musters: der Prophet, dem die Mächtigen nach dem Leben trachten."
     },
     {
       "vers_von": 16,
       "von": 19,
       "vers_bis": 16,
-      "bis": 58,
+      "bis": -1,
       "typ": "jesus"
     },
     {
       "vers_von": 19,
       "von": 39,
       "vers_bis": 19,
-      "bis": 184,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 40,
+      "vers_bis": 19,
+      "bis": 74,
+      "typ": "at",
+      "referenz": "Dtn 32,20",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,20",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "»Ungläubige Art von Menschen« klingt nach Dtn 32,20 (»ein verkehrtes Geschlecht«), aber die Wendung war im jüdischen Diskurs so allgemein geläufig, dass kein Hörer dabei zwingend an diese eine Textstelle dachte."
+    },
+    {
+      "vers_von": 21,
+      "von": 38,
+      "vers_bis": 21,
+      "bis": 75,
       "typ": "jesus"
     },
     {
@@ -113,7 +165,7 @@
       "vers_von": 25,
       "von": 103,
       "vers_bis": 25,
-      "bis": 210,
+      "bis": -1,
       "typ": "jesus"
     },
     {
@@ -127,6 +179,13 @@
       "vers_von": 31,
       "von": 63,
       "vers_bis": 31,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 33,
+      "von": 81,
+      "vers_bis": 33,
       "bis": -1,
       "typ": "jesus"
     },
@@ -159,6 +218,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 43,
+      "von": 149,
+      "vers_bis": 43,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jer 7,31-32",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia7,31",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Hölle« (griech. Gehenna = Ge-Hinnom) ist das konkrete Tal Hinnom südlich Jerusalems, wo Könige Kinder dem Molech ins Feuer warfen (Jer 7,31-32; 2. Chr 28,3). Jeremia kündigt an, es werde »Tal des Würgens« heißen. Joschia schändete es (2. Kön 23,10). Aus diesem verfluchten Ort wurde in der jüdischen Erwartung das Symbol für das endzeitliche Gericht. Ein damaliger Jude hörte »Gehenna« und dachte an einen realen, historisch belasteten Ort — nicht an einen abstrakten Höllenbegriff."
+    },
+    {
       "vers_von": 48,
       "von": 0,
       "vers_bis": 48,
@@ -169,11 +241,11 @@
       "url": "https://www.bibleserver.com/MENG/Jesaja66,24",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Ihr Wurm stirbt nicht und das Feuer erlischt nicht — wörtliches Zitat aus Jes 66,24, dem letzten Vers des Jesaja-Buches: das Bild des ewigen Gerichts an denen, die sich gegen Gott auflehnen."
+      "begruendung": "Nahezu wörtliches Zitat des letzten Verses des Jesaja-Buches (Jes 66,24): »ihr Wurm wird nicht sterben und ihr Feuer wird nicht erlöschen« — dort das Schicksal derer, die gegen Gott rebellierten. Jesus nimmt den Schlussakkord Jesajas auf und verbindet ihn mit dem Gehenna-Bild."
     },
     {
       "vers_von": 49,
-      "von": 71,
+      "von": 16,
       "vers_bis": 49,
       "bis": -1,
       "typ": "at",
@@ -182,7 +254,7 @@
       "url": "https://www.bibleserver.com/MENG/3.Mose2,13",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Jedes Schlachtopfer wird mit Salz gewürzt — 3. Mo 2,13 schreibt vor, dass alle Opfergaben gesalzen werden müssen. Jesus verbindet das Feuer des Gerichts mit dem Salz des Opfers: Prüfung und Reinigung gehören zusammen."
+      "begruendung": "»Mit Feuer gesalzen werden [wie jedes Schlachtopfer mit Salz gewürzt wird]« — die Klammer im Menge-Text macht den AT-Bezug explizit: 3. Mo 2,13 schreibt vor, dass jede Opfergabe mit Salz gewürzt werden muss (»Salz des Bundes deines Gottes«). Feuer reinigt, Salz konserviert und weiht — Jesus verbindet Gericht und Bundeszeichen in einem Bild."
     }
   ]
 }
