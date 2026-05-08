@@ -57,6 +57,19 @@
     },
     {
       "vers_von": 7,
+      "von": 9,
+      "vers_bis": 7,
+      "bis": 42,
+      "typ": "at",
+      "referenz": "2. Mo 24,15-16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,15",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Die Wolke auf dem hohen Berg ist das AT-Zeichen schlechthin für göttliche Gegenwart (Schechina): 2. Mo 24,15-16 — eine Wolke bedeckte den Berg, und die Herrlichkeit des Herrn ließ sich auf dem Berg Sinai nieder. Die Verklärungsszene ist bewusst als Sinai-Theophanie gebaut: hoher Berg, Wolke, Stimme aus der Wolke, Mose anwesend. Ein jüdischer Leser würde sofort die Sinai-Parallele erkennen."
+    },
+    {
+      "vers_von": 7,
       "von": 117,
       "vers_bis": 7,
       "bis": -1,
@@ -76,6 +89,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 12,
+      "von": 169,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 53,3-5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,3",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "»daß er vieles leiden und daß er verworfen werden müsse« — inhaltlicher Anklang an Jes 53,3 (verachtet und verworfen). Nicht annotiert, weil dasselbe Motiv bereits in Mk 8,31 aktiv annotiert ist. Keine neue Dimension gegenüber der ersten Leidensankündigung."
+    },
+    {
       "vers_von": 13,
       "von": 53,
       "vers_bis": 13,
@@ -92,14 +118,14 @@
       "vers_von": 16,
       "von": 19,
       "vers_bis": 16,
-      "bis": 58,
+      "bis": -1,
       "typ": "jesus"
     },
     {
       "vers_von": 19,
       "von": 39,
       "vers_bis": 19,
-      "bis": 184,
+      "bis": -1,
       "typ": "jesus"
     },
     {
@@ -113,7 +139,7 @@
       "vers_von": 25,
       "von": 103,
       "vers_bis": 25,
-      "bis": 210,
+      "bis": -1,
       "typ": "jesus"
     },
     {
@@ -159,6 +185,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 27,
+      "von": 21,
+      "vers_bis": 27,
+      "bis": 62,
+      "typ": "at",
+      "referenz": "2. Kön 4,34-35",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige4,34",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "»faßte ihn bei der Hand und richtete ihn in die Höhe« — strukturell dieselbe Elisa-Geste wie in Mk 5,41 (Jairus-Tochter), wo 2. Kön 4,34-35 bereits aktiv annotiert ist. Kein neuer Aspekt gegenüber der früheren Stelle."
+    },
+    {
       "vers_von": 48,
       "von": 0,
       "vers_bis": 48,
@@ -173,7 +212,7 @@
     },
     {
       "vers_von": 49,
-      "von": 71,
+      "von": 42,
       "vers_bis": 49,
       "bis": -1,
       "typ": "at",
