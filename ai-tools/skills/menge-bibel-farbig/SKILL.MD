@@ -674,6 +674,16 @@ nicht über den Skill-Mechanismus.
 
 Erst nach Freigabe beider Blöcke durch den Nutzer wird committed.
 
+### Inaktiv-Einträge nach dem Review ⚠️
+
+Stellen, die der Review-Agent unter **"Geprüft, bewusst nicht annotiert"** meldet,
+müssen vom Main Agent **vor dem Commit** als `"status": "inaktiv"` in die JSON-Datei
+eingetragen werden — mit Begründung, warum nicht annotiert wurde.
+
+Zweck: Dokumentiert, dass die Stelle diskutiert wurde und nicht aus Versehen fehlt.
+Ohne diesen Schritt entsteht eine stille Lücke, die beim nächsten Review erneut
+aufgegriffen wird.
+
 ---
 
 ## Suchstrings niemals aus dem Gedächtnis ⚠️

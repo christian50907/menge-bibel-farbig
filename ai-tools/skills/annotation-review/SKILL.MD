@@ -161,4 +161,11 @@ Berichte strukturiert in drei Abschnitten:
 - Geschätzte Position (von/bis) anhand der übergebenen Verstexte — oder Hinweis,
   dass der Main Agent die Position berechnen soll
 
+**4. Geprüft, bewusst nicht annotiert** — für jede Stelle, die untersucht aber
+abgelehnt wurde (Wiederholung, kein load-bearing Bezug, evokativ ohne Autorenabsicht):
+- Vers, geprüfte AT-Referenz, Ablehnungsgrund
+- **Expliziter Hinweis:** Der Main Agent muss diese Stellen als `"status": "inaktiv"`
+  in die JSON-Datei eintragen, damit dokumentiert ist, dass sie bereits diskutiert wurden
+  und nicht aus Versehen übergangen wurden.
+
 Wenn keine Beanstandungen und keine fehlenden Annotationen: kurze Bestätigung genügt.
