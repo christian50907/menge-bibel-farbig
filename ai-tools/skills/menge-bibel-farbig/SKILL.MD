@@ -579,23 +579,37 @@ Der Bibeltext-Fetch bleibt weiterhin absolut (fremdes Repo, kein relativer Pfad 
 
 ---
 
-## Raw-Text fetchen
+## Rohtext beschaffen
 
-`raw.githubusercontent.com` ist über `web_fetch` blockiert.
+Der Rohtext eines Buches wird lokal unter `ai-tools/<buch-id>-roh.txt` gecacht
+(z.B. `ai-tools/markus-roh.txt`). Ablauf:
 
-**Workaround:** Zuerst `https://github.com/renehamburger/Menge-Bibel` fetchen —
-dadurch werden alle Datei-URLs bekannt. Alternativ: Nutzer fügt Rohtext in den Chat ein.
+```bash
+# 1. Prüfen ob Datei bereits vorhanden
+ls ai-tools/<buch-id>-roh.txt
+
+# 2. Falls nicht: Download über GitHub API (kein Sub-Agent, kein web_fetch nötig)
+curl -s "https://api.github.com/repos/renehamburger/Menge-Bibel/contents/Bibel/Neues%20Testament/<dateiname>" \
+  | python3 -c "import json,sys; print(json.load(sys.stdin)['download_url'])"
+# → liefert die korrekte raw-URL (Branch ist 'master', nicht 'main')
+
+curl -s "<download_url>" > ai-tools/<buch-id>-roh.txt
+```
+
+Den Dateinamen für den API-Aufruf erhält man aus `annotationen/manifest.json` → `quellpfad`
+(URL-dekodiert, z.B. `02 - Markus.md`).
 
 ---
 
 ## Empfohlener Workflow für neue Annotationen
 
 1. Nutzer gibt Buch + Kapitel an
-2. Rohtext laden: Volltext des Buches aus `renehamburger/Menge-Bibel` (via Repo-Einstiegsseite
-   oder Nutzer-Input), lokal speichern (z.B. `ai-tools/<buch>-roh.txt`)
-3. Verstexte extrahieren mit dem gebündelten Script:
-   ```
-   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py <datei> <kapitel>
+2. Rohtext sicherstellen: `ai-tools/<buch-id>-roh.txt` prüfen — falls fehlend, per
+   GitHub API + curl herunterladen (siehe Abschnitt "Rohtext beschaffen")
+3. Verstexte extrahieren — **direkt**, ohne Sub-Agent:
+   ```bash
+   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
+     ai-tools/<buch-id>-roh.txt <kapitel>
    ```
    → gibt JSON-Dict `{"1": "...", "2": "..."}` aus; diesen für alle Positions-Berechnungen verwenden
 4. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen
