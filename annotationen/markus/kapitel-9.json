@@ -43,6 +43,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 2,
+      "von": 0,
+      "vers_bis": 2,
+      "bis": 121,
+      "typ": "at",
+      "referenz": "2. Mo 24,15-16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,15",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Sechs Tage später... auf einen hohen Berg hinauf« — in 2. Mo 24,15-16 bedeckte die Wolke den Berg sechs Tage lang, bevor Gott aus ihr zu Mose sprach. Die Zeitangabe »sechs Tage« ist keine beiläufige Notiz, sondern die literarische Rahmung der Szene als Sinai-Theophanie. Ein jüdischer Leser erkennt die Kodierung schon am Szenenanfang, noch bevor in V7 die Wolke erscheint."
+    },
+    {
       "vers_von": 4,
       "von": 0,
       "vers_bis": 4,
@@ -59,7 +72,7 @@
       "vers_von": 7,
       "von": 9,
       "vers_bis": 7,
-      "bis": 42,
+      "bis": 84,
       "typ": "at",
       "referenz": "2. Mo 24,15-16",
       "vgl": true,
