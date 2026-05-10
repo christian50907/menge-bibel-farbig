@@ -604,19 +604,24 @@ Den Dateinamen für den API-Aufruf erhält man aus `annotationen/manifest.json` 
 ## Empfohlener Workflow für neue Annotationen
 
 1. Nutzer gibt Buch + Kapitel an
-2. Rohtext sicherstellen: `ai-tools/<buch-id>-roh.txt` prüfen — falls fehlend, per
+2. **Alle bisherigen AT-Annotationen lesen** — alle vorhandenen `kapitel-N.json`-Dateien
+   des Buches durchlesen und die AT-Einträge (Referenz + Begründung) erfassen.
+   Nur so lassen sich Wiederholungen und inaktiv-Kandidaten korrekt erkennen.
+   Einen gezielten grep auf erwartete Stichwörter reicht nicht — er übersieht Motive,
+   die unter anderem Namen annotiert wurden.
+3. Rohtext sicherstellen: `ai-tools/<buch-id>-roh.txt` prüfen — falls fehlend, per
    GitHub API + curl herunterladen (siehe Abschnitt "Rohtext beschaffen")
-3. Verstexte extrahieren — **direkt**, ohne Sub-Agent:
+4. Verstexte extrahieren — **direkt**, ohne Sub-Agent:
    ```bash
    python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
      ai-tools/<buch-id>-roh.txt <kapitel>
    ```
    → gibt JSON-Dict `{"1": "...", "2": "..."}` aus; diesen für alle Positions-Berechnungen verwenden
-4. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen
-5. JSON-Annotationsdatei erstellen unter `annotationen/<buch>/kapitel-N.json`
-6. **Review Sub-Agent spawnen** (siehe Abschnitt "Review-Workflow")
-7. Beide Perspektiven dem Nutzer präsentieren — erst nach Freigabe committen
-8. Kapitel-Nummer in `annotationen/manifest.json` ins `kapitel`-Array eintragen (falls neu)
+5. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen
+6. JSON-Annotationsdatei erstellen unter `annotationen/<buch>/kapitel-N.json`
+7. **Review Sub-Agent spawnen** (siehe Abschnitt "Review-Workflow")
+8. Beide Perspektiven dem Nutzer präsentieren — erst nach Freigabe committen
+9. Kapitel-Nummer in `annotationen/manifest.json` ins `kapitel`-Array eintragen (falls neu)
 
 ## Review-Workflow (Sub-Agent)
 
