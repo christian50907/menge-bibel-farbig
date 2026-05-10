@@ -1,7 +1,7 @@
 {
   "buch": "Markus",
   "kapitel": 10,
-  "titel": "Ehescheidung · Kindersegnung · Reicher Jüngling · Dritte Leidensankündigung · Bartimäus",
+  "titel": "Ehescheidung · Kindersegnung · Reicher Mann · Leidensankündigung · Bartimäus",
   "abschnitte": [
     {
       "id": "ehe",
@@ -18,20 +18,26 @@
     {
       "id": "reich",
       "vers_von": 17,
+      "vers_bis": 27,
+      "titel": "3. Der reiche Mann · Gefahr des Reichtums"
+    },
+    {
+      "id": "nachfolge",
+      "vers_von": 28,
       "vers_bis": 31,
-      "titel": "3. Der reiche Jüngling · Lohn der Nachfolge"
+      "titel": "4. Lohn der Nachfolge"
     },
     {
       "id": "leiden3",
       "vers_von": 32,
       "vers_bis": 45,
-      "titel": "4. Dritte Leidensankündigung · Zebedäussöhne · Dienst"
+      "titel": "5. Dritte Leidensankündigung · Zebedäussöhne · Dienst"
     },
     {
       "id": "bartim",
       "vers_von": 46,
       "vers_bis": 52,
-      "titel": "5. Der blinde Bartimäus"
+      "titel": "6. Der blinde Bartimäus"
     }
   ],
   "markierungen": [
@@ -39,7 +45,7 @@
       "vers_von": 3,
       "von": 31,
       "vers_bis": 3,
-      "bis": 59,
+      "bis": -1,
       "typ": "jesus"
     },
     {
@@ -51,16 +57,16 @@
     },
     {
       "vers_von": 6,
-      "von": 0,
+      "von": 33,
       "vers_bis": 6,
       "bis": -1,
       "typ": "at",
-      "referenz": "Gen 1,27",
+      "referenz": "1. Mo 1,27",
       "vgl": false,
       "url": "https://www.bibleserver.com/MENG/1.Mose1,27",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Gott schuf die Menschen als Mann und Frau — wörtliches Zitat aus Gen 1,27. Jesus greift auf die Schöpfungsordnung zurück, um die Unauflöslichkeit der Ehe zu begründen."
+      "begruendung": "Jesus zitiert 1. Mo 1,27 wörtlich: ›Gott schuf den Menschen als Mann und Weib‹. Er stellt die Schöpfungsordnung über das mosaische Zugeständnis — was am Anfang gesetzt wurde, ist das eigentliche Gebot."
     },
     {
       "vers_von": 7,
@@ -68,12 +74,12 @@
       "vers_bis": 8,
       "bis": -1,
       "typ": "at",
-      "referenz": "Gen 2,24",
+      "referenz": "1. Mo 2,24",
       "vgl": false,
       "url": "https://www.bibleserver.com/MENG/1.Mose2,24",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Darum wird ein Mann seinen Vater und seine Mutter verlassen und seinem Weibe anhangen — wörtliches Zitat aus Gen 2,24, dem Urwort der Ehe aus der Schöpfungsgeschichte. Versübergreifend V7–8."
+      "begruendung": "Wörtliches Zitat aus 1. Mo 2,24: ›Ein Mann wird Vater und Mutter verlassen und seinem Weibe anhangen, und die beiden werden ein Leib sein.‹ Jesus begründet die Unauflöslichkeit der Ehe mit dem Schöpfungsbericht — das, was vor Mose gesagt wurde, hat Vorrang."
     },
     {
       "vers_von": 11,
@@ -92,7 +98,7 @@
     {
       "vers_von": 18,
       "von": 22,
-      "vers_bis": 18,
+      "vers_bis": 19,
       "bis": -1,
       "typ": "jesus"
     },
@@ -107,7 +113,7 @@
       "url": "https://www.bibleserver.com/MENG/2.Mose20,12",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Wörtliches Zitat von fünf Geboten aus dem Dekalog — nicht töten, nicht ehebrechen, nicht stehlen, nicht falsch bezeugen, Vater und Mutter ehren. Jesus bejaht die Geltung der Tora."
+      "begruendung": "Jesus zitiert sechs Gebote aus dem Dekalog (2. Mo 20,12-16 / 5. Mo 5,16-20): kein Töten, kein Ehebruch, kein Stehlen, kein falsches Zeugnis, keine Vorenthaltung des Schuldigen, Elternehrung. Anders als in Mk 7,10 (ein einzelnes Gebot gegen Pharisäer) nennt Jesus hier den sozialen Kern des Dekalogs als Wegweiser zum Leben."
     },
     {
       "vers_von": 21,
@@ -119,7 +125,14 @@
     {
       "vers_von": 23,
       "von": 60,
-      "vers_bis": 24,
+      "vers_bis": 23,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 24,
+      "von": 116,
+      "vers_bis": 25,
       "bis": -1,
       "typ": "jesus"
     },
@@ -145,24 +158,52 @@
       "typ": "jesus"
     },
     {
-      "vers_von": 38,
-      "von": 25,
-      "vers_bis": 40,
+      "vers_von": 33,
+      "von": 0,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 50,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja50,6",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "›Verspotten, anspeien, geißeln‹ klingt nach Jes 50,6 (drittes Gottesknechtslied: Rücken den Schlägen, Wangen dem Raufen, Antlitz Schmach und Speichel). Das Leidensankündigungs-Motiv ist jedoch bereits in Mk 8,31 durch Jes 53 aktiv annotiert — keine eigenständige neue Dimension."
+    },
+    {
+      "vers_von": 36,
+      "von": 15,
+      "vers_bis": 36,
       "bis": -1,
       "typ": "jesus"
     },
     {
       "vers_von": 38,
-      "von": 78,
+      "von": 25,
       "vers_bis": 38,
-      "bis": 91,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 38,
+      "von": 64,
+      "vers_bis": 38,
+      "bis": -1,
       "typ": "at",
-      "referenz": "Ps 75,9",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Psalm75,9",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Den Kelch trinken — Ps 75,9 beschreibt den Becher des Zornes Gottes (auch Jes 51,17; Jer 25,15). Im AT ist der Kelch ein verbreitetes Bild für das Los des Leidens und Gerichts. Jesus spricht von seinem Leiden in dieser AT-Sprache."
+      "urls": [
+        { "label": "Jes 51,17", "url": "https://www.bibleserver.com/MENG/Jesaja51,17" },
+        { "label": "Jer 25,15", "url": "https://www.bibleserver.com/MENG/Jeremia25,15" }
+      ],
+      "begruendung": "Der ›Kelch trinken‹ ist im AT festes Bild für Gottes Zorngericht: Jes 51,17 — Jerusalem musste den Taumelkelch des Zornes bis zur Neige trinken; Jer 25,15 — Gott reicht allen Völkern den Becher des Zornweins. Jesus greift dieses Bild bewusst auf: Er spricht von der Last des Gottesgerichts, die er auf sich nehmen wird."
+    },
+    {
+      "vers_von": 39,
+      "von": 67,
+      "vers_bis": 40,
+      "bis": -1,
+      "typ": "jesus"
     },
     {
       "vers_von": 42,
@@ -182,7 +223,20 @@
       "url": "https://www.bibleserver.com/MENG/Jesaja53,10",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Sein Leben als Lösegeld geben für viele — Jes 53,10-12 beschreibt den Gottesknecht, der sein Leben als Schuldopfer hingibt und für viele Sünden trägt. Jesus deutet seinen Tod explizit in dieser prophetischen Sprache."
+      "begruendung": "›Sein Leben als Lösegeld für viele hinzugeben‹ ist die einzige Stelle in Mk, wo Jesus selbst seinen Tod mit dem Gottesknecht aus Jes 53 verbindet: ›wenn seine Seele als Schuldopfer gegeben‹ (V10) und ›er hat der vielen Sünde getragen‹ (V12). Der Menschensohn als Diener und der leidende Gottesknecht fallen hier in eins."
+    },
+    {
+      "vers_von": 47,
+      "von": 71,
+      "vers_bis": 47,
+      "bis": 82,
+      "typ": "at",
+      "referenz": "2. Sam 7,12-14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "›Sohn Davids‹ ist der messianische Titel schlechthin, der auf Gottes Verheißung an David in 2. Sam 7,12-14 zurückgeht: Der Nachkomme Davids wird auf dem Thron sitzen, Gott wird sein Vater sein. Bartimäus erkennt in Jesus den verheißenen davidischen Messias — kurz vor dem Einzug in Jerusalem eine Aussage mit politischer Sprengkraft."
     },
     {
       "vers_von": 49,
@@ -195,14 +249,14 @@
       "vers_von": 51,
       "von": 37,
       "vers_bis": 51,
-      "bis": -1,
+      "bis": 64,
       "typ": "jesus"
     },
     {
       "vers_von": 52,
       "von": 20,
       "vers_bis": 52,
-      "bis": -1,
+      "bis": 62,
       "typ": "jesus"
     }
   ]
