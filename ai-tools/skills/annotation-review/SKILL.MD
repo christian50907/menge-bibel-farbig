@@ -146,26 +146,35 @@ in denen häufig Lücken entstehen:
 
 ## Output-Format
 
-Berichte strukturiert in drei Abschnitten:
+Berichte als Tabelle mit vier Spalten:
 
-**1. Bestätigt korrekt** — kurze Liste der geprüften Annotationen ohne Beanstandung
+| # | Art | Beschreibung | Begründung (Website) |
+|---|-----|-------------|----------------------|
 
-**2. Beanstandungen** — für jede Beanstandung:
-- Welche Annotation (Vers, Typ, Referenz)
-- Was stimmt nicht
-- Konkreter Vorschlag (Änderung, Deaktivierung, Positionskorrektur)
+**Spalte `Art`** — feste Tags (dieselben wie im Hauptskill):
 
-**3. Fehlende Annotationen** — für jeden Kandidaten:
-- Vers und Text
-- Vorgeschlagene AT-Referenz mit Begründung
-- Geschätzte Position (von/bis) anhand der übergebenen Verstexte — oder Hinweis,
-  dass der Main Agent die Position berechnen soll
+| Tag | Bedeutung |
+|-----|-----------|
+| `NEU aktiv` | Fehlende Annotation vorschlagen |
+| `NEU inaktiv` | Geprüft, abgelehnt — **expliziter Auftrag an den Main Agent**, als `"status": "inaktiv"` einzutragen |
+| `FIX Position` | Positions-Korrektur (von/bis falsch) |
+| `FIX Konvention` | Formale Korrektur (z.B. bis=Verslänge → bis=-1) |
+| `BUG fehlender Span` | Span fehlt komplett |
+| `BUG Jesus-Span` | Jesus-Span zu weit oder zu eng |
+| `UPDATE Begründung` | Begründung inhaltlich überarbeiten |
+| `UPDATE Referenz` | Andere AT-Stelle passt besser |
+| `UPDATE Span` | Span ausdehnen oder einschränken |
+| `BESTÄTIGT` | Korrekt, keine Änderung |
+| `ERWÄGEN` | Offene Frage ohne klare Entscheidung |
 
-**4. Geprüft, bewusst nicht annotiert** — für jede Stelle, die untersucht aber
-abgelehnt wurde (Wiederholung, kein load-bearing Bezug, evokativ ohne Autorenabsicht):
-- Vers, geprüfte AT-Referenz, Ablehnungsgrund
-- **Expliziter Hinweis:** Der Main Agent muss diese Stellen als `"status": "inaktiv"`
-  in die JSON-Datei eintragen, damit dokumentiert ist, dass sie bereits diskutiert wurden
-  und nicht aus Versehen übergangen wurden.
+**Spalte `Begründung (Website)`** — nur für `NEU aktiv` und `UPDATE Begründung`:
+der Text, der als Tooltip auf der Website erscheint. Für `NEU inaktiv`:
+*(nicht sichtbar)* + kurze inhaltliche Notiz. Für technische Korrekturen: `—`.
 
-Wenn keine Beanstandungen und keine fehlenden Annotationen: kurze Bestätigung genügt.
+**Zu `NEU inaktiv` ⚠️:** Jede Stelle, die untersucht aber bewusst nicht annotiert
+wird (Wiederholung, kein load-bearing Bezug, evokativ ohne Autorenabsicht), muss
+explizit als `NEU inaktiv` gemeldet werden — mit dem Hinweis, dass der Main Agent
+sie als `"status": "inaktiv"` in die JSON-Datei einträgt. Ohne diesen Schritt
+entsteht eine stille Lücke, die beim nächsten Review erneut aufgegriffen wird.
+
+Wenn keine Befunde: kurze Bestätigung genügt.

@@ -662,17 +662,55 @@ nicht über den Skill-Mechanismus.
 
 ### Präsentation an den Nutzer
 
-**Vor dem Commit** beide Ergebnisse in zwei getrennten Blöcken zeigen:
+**Vor dem Commit** beide Ergebnisse als separate Tabellen zeigen.
+Erst nach Freigabe durch den Nutzer wird committed.
+
+Jede Tabelle hat vier Spalten:
+
+| # | Art | Beschreibung | Begründung (Website) |
+|---|-----|-------------|----------------------|
+
+**Spalte `Art`** — feste Tags:
+
+| Tag | Bedeutung |
+|-----|-----------|
+| `NEU aktiv` | Neue Annotation, wird auf der Website angezeigt |
+| `NEU inaktiv` | Geprüft, bewusst nicht annotiert — wird dokumentiert, nicht angezeigt |
+| `FIX Position` | Positions-Korrektur (von/bis) |
+| `FIX Konvention` | Formale Korrektur (z.B. bis=Verslänge → bis=-1) |
+| `FIX Sortierung` | Reihenfolge der Einträge falsch |
+| `BUG fehlender Span` | Jesus-Span oder AT-Span fehlt komplett |
+| `BUG Jesus-Span` | Jesus-Span schließt Nicht-Jesus-Text ein oder aus |
+| `UPDATE Begründung` | Inhaltliche Überarbeitung der Begründung |
+| `UPDATE Referenz` | Andere AT-Stelle passt besser |
+| `UPDATE Span` | Ausdehnung oder Einschränkung eines bestehenden Spans |
+| `BESTÄTIGT` | Korrekt — keine Änderung nötig |
+| `ERWÄGEN` | Offene Frage, keine Entscheidung getroffen |
+
+**Spalte `Begründung (Website)`** — nur für `NEU aktiv` und `UPDATE Begründung`:
+der Text, der auf der Website als Tooltip erscheint. Für inaktive Einträge
+steht hier *(nicht sichtbar)* gefolgt von einer kurzen inhaltlichen Notiz.
+Für technische Korrekturen (FIX, BUG ohne Inhalt, BESTÄTIGT): `—`.
+
+Beispiel-Ausgabe:
 
 ```
-**Main Agent — Annotationsvorschläge:**
-[Neue und geänderte Einträge, je eine Zeile mit Vers + Label]
+**Main Agent — Befunde Kapitel N:**
 
-**Review Agent — Befunde:**
-[Beanstandungen und fehlende Annotationen aus unabhängiger Perspektive]
+| # | Art | Beschreibung | Begründung (Website) |
+|---|-----|-------------|----------------------|
+| 1 | NEU aktiv    | V7 2. Mo 24,15-16: »eine Wolke« → von=9, bis=84 | Die Wolke auf dem Berg ist das Zeichen der Schechina... |
+| 2 | FIX Konvention | V16 bis=58 → bis=-1 (Versende) | — |
+| 3 | NEU inaktiv  | V12 Jes 53: »leiden und verworfen« → von=169 | *(nicht sichtbar)* Wiederholung von Mk 8,31. |
+
+**Review Agent — Befunde (unabhängig):**
+
+| # | Art | Beschreibung | Begründung (Website) |
+|---|-----|-------------|----------------------|
+| 1 | FIX Konvention | V16 bis=58 → bis=-1 (bestätigt) | — |
+| 2 | NEU aktiv | V2 2. Mo 24,15-16: »Sechs Tage...hohen Berg« → von=0, bis=121 | »Sechs Tage« ist keine beiläufige Zeitangabe... |
+| 3 | BESTÄTIGT | V4, V13, V48 Begründungen korrekt | — |
 ```
-
-Erst nach Freigabe beider Blöcke durch den Nutzer wird committed.
 
 ### Inaktiv-Einträge nach dem Review ⚠️
 
