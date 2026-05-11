@@ -126,8 +126,10 @@ in denen häufig Lücken entstehen:
   Exodusmotive, Wüstenmotiv
 - **Technische Rechtsbegriffe**: Tempelrecht, Eherecht, Reinheitsrecht —
   wenn der Text einen Fachbegriff verwendet, der heute nicht mehr verstanden wird
-- **Menge-Fußnoten als Signal**: Wenn Menge selbst an einer Stelle eine AT-Referenz
-  in einer Fußnote notiert hat, ist das ein starkes Indiz — solche Stellen aktiv prüfen
+- **Menge-Fußnoten haben Präzedenz ⚠️**: Wenn Menge selbst an einer Stelle eine
+  AT-Referenz in einer Fußnote notiert hat, muss diese Stelle aktiv annotiert sein —
+  unabhängig davon, ob sie sonst nach dem „allgemeines Vokabular"-Kriterium annotiert
+  worden wäre. Fehlt die Annotation: als `NEU aktiv` melden.
 
 ### E — Formale Prüfung
 
