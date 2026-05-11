@@ -67,6 +67,10 @@ python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
   ai-tools/markus-roh.txt <kapitel> annotationen/markus/kapitel-<N>.json
 ```
 
+⛔ **Rohtext niemals per WebFetch laden** — das lädt 117 KB in den Kontext und
+verlangsamt alle nachfolgenden Schritte massiv. Der Rohtext liegt bereits lokal
+unter `ai-tools/markus-roh.txt`; `check_positions.py` liest ihn direkt von Disk.
+
 Das Skript gibt für jede Annotation den extrahierten Snippet aus und meldet:
 - **FEHLER**: `von`/`bis` außerhalb der Verslänge, invertierter Span, fehlender Vers
 - **Warnung**: `bis` == Verslänge (sollte `-1` sein), leerer Span

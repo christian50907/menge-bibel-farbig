@@ -581,6 +581,11 @@ Der Bibeltext-Fetch bleibt weiterhin absolut (fremdes Repo, kein relativer Pfad 
 
 ## Rohtext beschaffen
 
+⛔ **WebFetch und Sub-Agent-Spawning niemals für den Rohtext-Download verwenden.**
+WebFetch lädt 117 KB Rohtext in den Gesprächs-Kontext — das verlangsamt jeden
+nachfolgenden API-Call massiv (Minuten statt Sekunden). Nur `curl` in der Shell nutzen,
+Ergebnis direkt auf Disk speichern.
+
 Der Rohtext eines Buches wird lokal unter `ai-tools/<buch-id>-roh.txt` gecacht
 (z.B. `ai-tools/markus-roh.txt`). Ablauf:
 
@@ -588,16 +593,14 @@ Der Rohtext eines Buches wird lokal unter `ai-tools/<buch-id>-roh.txt` gecacht
 # 1. Prüfen ob Datei bereits vorhanden
 ls ai-tools/<buch-id>-roh.txt
 
-# 2. Falls nicht: Download über GitHub API (kein Sub-Agent, kein web_fetch nötig)
-curl -s "https://api.github.com/repos/renehamburger/Menge-Bibel/contents/Bibel/Neues%20Testament/<dateiname>" \
-  | python3 -c "import json,sys; print(json.load(sys.stdin)['download_url'])"
-# → liefert die korrekte raw-URL (Branch ist 'master', nicht 'main')
-
-curl -s "<download_url>" > ai-tools/<buch-id>-roh.txt
+# 2. Falls nicht: Download direkt per curl (Branch ist 'master', nicht 'main')
+#    Den URL-kodierten Dateinamen aus annotationen/manifest.json → quellpfad entnehmen.
+curl -s "https://raw.githubusercontent.com/renehamburger/Menge-Bibel/master/Bibel/Neues%20Testament/<dateiname>" \
+  > ai-tools/<buch-id>-roh.txt
 ```
 
-Den Dateinamen für den API-Aufruf erhält man aus `annotationen/manifest.json` → `quellpfad`
-(URL-dekodiert, z.B. `02 - Markus.md`).
+Den URL-kodierten Dateinamen erhält man aus `annotationen/manifest.json` → `quellpfad`
+(z.B. `Bibel/Neues%20Testament/02%20-%20Markus.md` → Dateiname: `02%20-%20Markus.md`).
 
 ---
 
@@ -611,9 +614,14 @@ Den Dateinamen für den API-Aufruf erhält man aus `annotationen/manifest.json` 
    die unter anderem Namen annotiert wurden.
 3. Rohtext sicherstellen: `ai-tools/<buch-id>-roh.txt` prüfen — falls fehlend, per
    GitHub API + curl herunterladen (siehe Abschnitt "Rohtext beschaffen")
-4. Verstexte und Positionen — **vorproduziertes Skript verwenden**, kein Ad-hoc-Python:
+4. Verstexte extrahieren und lokal speichern — **vorproduzierte Skripte verwenden**,
+   kein Ad-hoc-Python, kein WebFetch:
 
    ```bash
+   # Verstexte parsen und als JSON-Cache speichern (in .gitignore):
+   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
+     ai-tools/<buch-id>-roh.txt <kapitel> > ai-tools/kap<N>_verses.json
+
    # Alle Verstexte mit Längen anzeigen (für neue Positions-Suche):
    python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
      ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json --verses
@@ -623,11 +631,10 @@ Den Dateinamen für den API-Aufruf erhält man aus `annotationen/manifest.json` 
      ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
    ```
 
-   Das Skript importiert `parse_menge.py`, setzt `sys.stdout.reconfigure(encoding='utf-8')`
-   und gibt für jede Annotation den extrahierten Snippet + Warnungen aus.
+   `check_positions.py` gibt für jede Annotation den extrahierten Snippet + Warnungen aus.
    Exit-Code 1 bei Fehlern — Fehler müssen vor dem Commit behoben werden.
 
-   Für einzelne neue Positionen (Phrasen-Suche) genügt ein einzeiliges Inline-Python:
+   Für einzelne neue Positionen (Phrasen-Suche) auf dem gespeicherten Verses-Cache:
    ```bash
    python -c "import json; v=json.load(open('ai-tools/kap<N>_verses.json')); print(v['7'].find('eine Wolke'))"
    ```
