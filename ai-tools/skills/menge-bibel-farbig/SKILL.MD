@@ -320,6 +320,13 @@ Die Annotationen sollen dieses Wissen zurückbringen — nicht primär theologis
    Jesus spricht Gott als „Vater" in einer Intimität an, die im AT so nicht vorkommt
    → beim ersten Auftreten im jeweiligen Buch annotieren.
 
+### Menge-Fußnoten haben Präzedenz ⚠️
+
+Wenn die Menge-Bibel an einer Stelle selbst eine AT-Referenz als Fußnote notiert,
+wird diese Stelle **immer aktiv annotiert** — auch wenn sie sonst nach dem
+„allgemeines Vokabular"-Kriterium nicht annotiert worden wäre.
+Die Begründung kann dann darauf hinweisen, dass der Annotationsanlass die Fußnote ist.
+
 ### Nicht annotieren wenn
 
 - Der Begriff so allgemein im jüdischen Sprachgebrauch war, dass kein Jude dabei
@@ -397,6 +404,13 @@ Annotieren wenn **mindestens eines** dieser Kriterien zutrifft:
    war aber für damalige Juden trotzdem überraschend. Beispiel: Jesus spricht
    Gott als „Vater" in einer Intimität an, die im AT so nicht vorkommt —
    beim **ersten Auftreten** im jeweiligen Buch annotieren.
+
+### Menge-Fußnoten haben Präzedenz ⚠️
+
+Wenn die Menge-Bibel an einer Stelle selbst eine AT-Referenz als Fußnote notiert,
+wird diese Stelle **immer aktiv annotiert** — auch wenn sie sonst nach dem
+„allgemeines Vokabular"-Kriterium nicht annotiert worden wäre.
+Die Begründung kann dann darauf hinweisen, dass der Annotationsanlass die Fußnote ist.
 
 ### Wann nicht annotieren
 

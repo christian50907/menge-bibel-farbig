@@ -144,6 +144,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 27,
+      "von": 89,
+      "vers_bis": 27,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "1. Mo 18,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose18,14",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Annotationsanlass ist die Menge-Fußnote. 1. Mo 18,14: ›Sollte dem Herrn irgend etwas zu wunderbar sein?‹ — Gottes Antwort auf Sarahs Lachen über die unmögliche Verheißung. Dieselbe Aussage göttlicher Allmacht, die Jesus hier auf die Unmöglichkeit der Rettung des Reichen anwendet."
+    },
+    {
       "vers_von": 29,
       "von": 17,
       "vers_bis": 31,
