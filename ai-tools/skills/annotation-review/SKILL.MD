@@ -58,35 +58,21 @@ Scan des Kapitels:
 
 ### B — Positions-Check
 
-Für jede Annotation: Extrahiere `verstext[von:bis]` aus den übergebenen Verstexten.
-**Führe dies per Code aus** — mentale Zeichenzählung ist bei Umlauten (ä, ö, ü)
-und Sonderzeichen (», «, –) fehleranfällig.
+Für jede Annotation: Extrahiere `verstext[von:bis]` und prüfe ob der Ausschnitt
+dem annotierten Inhalt entspricht. **Kein Ad-hoc-Python schreiben** — dafür gibt es
+ein vorproduziertes Skript, das Unicode-sicher ist und alle Annotationen auf einmal prüft:
 
-**Wichtig (Windows):** Python-Prüfskripte niemals als Bash-Heredoc ausführen —
-das führt auf Windows (cp1252-stdout) zu `UnicodeEncodeError` und Shell-Quoting-Problemen
-mit einzelnen Anführungszeichen im Python-Code. Stattdessen: Skript als Datei schreiben
-und ausführen. Die Datei `ai-tools/check_kapN.py` ist bereits in `.gitignore`.
-
-```python
-# ai-tools/check_kap<N>.py  — immer mit diesem Header beginnen:
-import sys, json
-sys.stdout.reconfigure(encoding="utf-8")
-
-with open("ai-tools/kap<N>_verses.json", encoding="utf-8") as f:
-    v = json.load(f)
-
-# Alle Positionen auf einmal prüfen:
-checks = [(19, 0, 103), (29, 26, 63), (31, 46, 58)]
-for nr, a, b in checks:
-    t = v[str(nr)]
-    snippet = t[a:b] if b != -1 else t[a:]
-    print(f"V{nr}[{a}:{b if b != -1 else 'Ende'}] = {repr(snippet)}")
-```
-
-Ausführen mit:
 ```bash
-python ai-tools/check_kap<N>.py
+python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+  ai-tools/markus-roh.txt <kapitel> annotationen/markus/kapitel-<N>.json
 ```
+
+Das Skript gibt für jede Annotation den extrahierten Snippet aus und meldet:
+- **FEHLER**: `von`/`bis` außerhalb der Verslänge, invertierter Span, fehlender Vers
+- **Warnung**: `bis` == Verslänge (sollte `-1` sein), leerer Span
+
+Prüfe für jeden Snippet: Entspricht der markierte Text tatsächlich dem, was annotiert
+sein soll — beginnt und endet die Markierung an der richtigen Stelle?
 
 Prüfe für jede Annotation:
 - Entspricht der extrahierte Ausschnitt dem annotierten Inhalt?
