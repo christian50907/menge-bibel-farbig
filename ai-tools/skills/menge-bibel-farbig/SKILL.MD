@@ -617,8 +617,13 @@ Den Dateinamen für den API-Aufruf erhält man aus `annotationen/manifest.json` 
      ai-tools/<buch-id>-roh.txt <kapitel>
    ```
    → gibt JSON-Dict `{"1": "...", "2": "..."}` aus; diesen für alle Positions-Berechnungen verwenden
-5. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen
-6. JSON-Annotationsdatei erstellen unter `annotationen/<buch>/kapitel-N.json`
+5. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen.
+   Positions-Prüfskripte **als Datei** schreiben (`ai-tools/check_kapN.py`, bereits in
+   `.gitignore`), niemals als Bash-Heredoc — auf Windows führt das zu Shell-Quoting-Fehlern
+   und `UnicodeEncodeError`. Immer `sys.stdout.reconfigure(encoding="utf-8")` an den Anfang.
+6. JSON-Annotationsdatei schreiben unter `annotationen/<buch>/kapitel-N.json`.
+   Falls die Datei bereits existiert (z.B. aus einem früheren Versuch): zuerst mit dem
+   Read-Tool lesen, dann überschreiben — das Write-Tool verweigert sonst den Schreibzugriff.
 7. **Review Sub-Agent spawnen** (siehe Abschnitt "Review-Workflow")
 8. Beide Perspektiven dem Nutzer präsentieren — erst nach Freigabe committen
 9. Kapitel-Nummer in `annotationen/manifest.json` ins `kapitel`-Array eintragen (falls neu)
