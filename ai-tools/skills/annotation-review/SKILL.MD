@@ -60,23 +60,32 @@ Scan des Kapitels:
 
 Für jede Annotation: Extrahiere `verstext[von:bis]` aus den übergebenen Verstexten.
 **Führe dies per Code aus** — mentale Zeichenzählung ist bei Umlauten (ä, ö, ü)
-und Sonderzeichen (», «, –) fehleranfällig. Ein minimales Python-Snippet genügt:
+und Sonderzeichen (», «, –) fehleranfällig.
+
+**Wichtig (Windows):** Python-Prüfskripte niemals als Bash-Heredoc ausführen —
+das führt auf Windows (cp1252-stdout) zu `UnicodeEncodeError` und Shell-Quoting-Problemen
+mit einzelnen Anführungszeichen im Python-Code. Stattdessen: Skript als Datei schreiben
+und ausführen. Die Datei `ai-tools/check_kapN.py` ist bereits in `.gitignore`.
 
 ```python
-import json
-with open("kap_verses.json", encoding="utf-8") as f:
+# ai-tools/check_kap<N>.py  — immer mit diesem Header beginnen:
+import sys, json
+sys.stdout.reconfigure(encoding="utf-8")
+
+with open("ai-tools/kap<N>_verses.json", encoding="utf-8") as f:
     v = json.load(f)
-# Beispiel: vers_von=19, von=0, bis=103
-print(repr(v["19"][0:103]))
-```
 
-Oder inline für mehrere Stellen auf einmal:
-
-```python
+# Alle Positionen auf einmal prüfen:
 checks = [(19, 0, 103), (29, 26, 63), (31, 46, 58)]
 for nr, a, b in checks:
     t = v[str(nr)]
-    print(f"V{nr}[{a}:{b}] = {repr(t[a:b] if b != -1 else t[a:])}")
+    snippet = t[a:b] if b != -1 else t[a:]
+    print(f"V{nr}[{a}:{b if b != -1 else 'Ende'}] = {repr(snippet)}")
+```
+
+Ausführen mit:
+```bash
+python ai-tools/check_kap<N>.py
 ```
 
 Prüfe für jede Annotation:
