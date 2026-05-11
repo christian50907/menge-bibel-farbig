@@ -611,16 +611,31 @@ Den Dateinamen für den API-Aufruf erhält man aus `annotationen/manifest.json` 
    die unter anderem Namen annotiert wurden.
 3. Rohtext sicherstellen: `ai-tools/<buch-id>-roh.txt` prüfen — falls fehlend, per
    GitHub API + curl herunterladen (siehe Abschnitt "Rohtext beschaffen")
-4. Verstexte extrahieren — **direkt**, ohne Sub-Agent:
+4. Verstexte und Positionen — **vorproduziertes Skript verwenden**, kein Ad-hoc-Python:
+
    ```bash
-   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
-     ai-tools/<buch-id>-roh.txt <kapitel>
+   # Alle Verstexte mit Längen anzeigen (für neue Positions-Suche):
+   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+     ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json --verses
+
+   # Alle bestehenden Annotationen prüfen (nach dem Schreiben der JSON-Datei):
+   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+     ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
    ```
-   → gibt JSON-Dict `{"1": "...", "2": "..."}` aus; diesen für alle Positions-Berechnungen verwenden
+
+   Das Skript importiert `parse_menge.py`, setzt `sys.stdout.reconfigure(encoding='utf-8')`
+   und gibt für jede Annotation den extrahierten Snippet + Warnungen aus.
+   Exit-Code 1 bei Fehlern — Fehler müssen vor dem Commit behoben werden.
+
+   Für einzelne neue Positionen (Phrasen-Suche) genügt ein einzeiliges Inline-Python:
+   ```bash
+   python -c "import json; v=json.load(open('ai-tools/kap<N>_verses.json')); print(v['7'].find('eine Wolke'))"
+   ```
+   Nur ASCII-Output → keine Unicode-Probleme.
+
 5. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen.
-   Positions-Prüfskripte **als Datei** schreiben (`ai-tools/check_kapN.py`, bereits in
-   `.gitignore`), niemals als Bash-Heredoc — auf Windows führt das zu Shell-Quoting-Fehlern
-   und `UnicodeEncodeError`. Immer `sys.stdout.reconfigure(encoding="utf-8")` an den Anfang.
+   Kein Ad-hoc-Skript als Datei schreiben — `check_positions.py` übernimmt die Verifikation.
+
 6. JSON-Annotationsdatei schreiben unter `annotationen/<buch>/kapitel-N.json`.
    Falls die Datei bereits existiert (z.B. aus einem früheren Versuch): zuerst mit dem
    Read-Tool lesen, dann überschreiben — das Write-Tool verweigert sonst den Schreibzugriff.
