@@ -8,5 +8,6 @@ ai-tools/check_kap*.py
 __pycache__/
 *.pyc
 
-# Claude Code
-.claude/
+# Claude Code — Sessions ignorieren, settings.json versionieren
+.claude/*
+!.claude/settings.json
