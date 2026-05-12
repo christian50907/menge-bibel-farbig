@@ -31,6 +31,193 @@ Live-URL: `https://christian50907.github.io/menge-bibel-farbig/`
 
 ---
 
+## ⚡ Sofort-Start — immer zuerst ausführen
+
+⛔ **WebFetch und Sub-Agent-Spawning niemals für den Rohtext-Download verwenden.**
+WebFetch lädt 117 KB in den Kontext — das verlangsamt alle nachfolgenden API-Calls
+massiv. Nur `curl` nutzen, Ergebnis direkt auf Disk speichern.
+
+Bevor Annotations-Arbeit beginnt, diese Befehle **in dieser Reihenfolge** ausführen:
+
+```bash
+# 1. Prüfen ob Rohtext bereits vorhanden (Buch-ID aus manifest.json)
+ls ai-tools/<buch-id>-roh.txt
+
+# 2. Falls nicht vorhanden: Download per curl (Branch ist 'master', nicht 'main')
+#    quellpfad aus annotationen/manifest.json entnehmen
+curl -s "https://raw.githubusercontent.com/renehamburger/Menge-Bibel/master/<quellpfad>" \
+  > ai-tools/<buch-id>-roh.txt
+
+# 3. Verstexte parsen und als JSON-Cache speichern
+python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
+  ai-tools/<buch-id>-roh.txt <kapitel> > ai-tools/kap<N>_verses.json
+
+# 4. Alle Verse mit Längen anzeigen (für Positions-Suche)
+python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+  ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json --verses
+
+# 5. Nach dem Schreiben der JSON-Datei: alle Positionen verifizieren
+python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+  ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
+```
+
+**Kein Ad-hoc-Python schreiben.** `parse_menge.py` und `check_positions.py` sind
+vorproduziert und übernehmen Parsing, Bereinigung und Verifikation.
+
+---
+
+## Empfohlener Workflow für neue Annotationen
+
+1. Nutzer gibt Buch + Kapitel an
+2. **Alle bisherigen AT-Annotationen lesen** — alle vorhandenen `kapitel-N.json`-Dateien
+   des Buches durchlesen und die AT-Einträge (Referenz + Begründung) erfassen.
+   Nur so lassen sich Wiederholungen und inaktiv-Kandidaten korrekt erkennen.
+   Einen gezielten grep auf erwartete Stichwörter reicht nicht — er übersieht Motive,
+   die unter anderem Namen annotiert wurden.
+3. Rohtext sicherstellen: `ai-tools/<buch-id>-roh.txt` prüfen — falls fehlend, per
+   curl herunterladen (siehe Sofort-Start oben)
+4. Verstexte extrahieren und lokal speichern — **vorproduzierte Skripte verwenden**,
+   kein Ad-hoc-Python, kein WebFetch:
+
+   ```bash
+   # Verstexte parsen und als JSON-Cache speichern (in .gitignore):
+   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
+     ai-tools/<buch-id>-roh.txt <kapitel> > ai-tools/kap<N>_verses.json
+
+   # Alle Verstexte mit Längen anzeigen (für neue Positions-Suche):
+   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+     ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json --verses
+
+   # Alle bestehenden Annotationen prüfen (nach dem Schreiben der JSON-Datei):
+   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+     ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
+   ```
+
+   `check_positions.py` gibt für jede Annotation den extrahierten Snippet + Warnungen aus.
+   Exit-Code 1 bei Fehlern — Fehler müssen vor dem Commit behoben werden.
+
+   Für einzelne neue Positionen (Phrasen-Suche) auf dem gespeicherten Verses-Cache:
+   ```bash
+   python -c "import json; v=json.load(open('ai-tools/kap<N>_verses.json')); print(v['7'].find('eine Wolke'))"
+   ```
+   Nur ASCII-Output → keine Unicode-Probleme.
+
+5. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen.
+   Kein Ad-hoc-Skript als Datei schreiben — `check_positions.py` übernimmt die Verifikation.
+
+6. JSON-Annotationsdatei schreiben unter `annotationen/<buch>/kapitel-N.json`.
+   Falls die Datei bereits existiert (z.B. aus einem früheren Versuch): zuerst mit dem
+   Read-Tool lesen, dann überschreiben — das Write-Tool verweigert sonst den Schreibzugriff.
+7. **Review Sub-Agent spawnen** (siehe Abschnitt "Review-Workflow")
+8. Beide Perspektiven dem Nutzer präsentieren — erst nach Freigabe committen
+9. Kapitel-Nummer in `annotationen/manifest.json` ins `kapitel`-Array eintragen (falls neu)
+
+## Review-Workflow (Sub-Agent)
+
+Nach der Erstannotation eines Kapitels wird ein unabhängiger Review Sub-Agent
+gestartet. Er prüft aus einer eigenen Perspektive — nicht als Korrektiv,
+sondern als zweite Stimme.
+
+### Wie der Sub-Agent gespawnt wird
+
+Den Sub-Agent über das **`Agent`-Tool** spawnen (kein registrierter Skill nötig):
+
+```
+Agent(
+  description: "annotation-review: unabhängige Prüfung Kapitel N",
+  prompt: "<Inhalt von ai-tools/skills/annotation-review/SKILL.MD>
+
+  ## Input für diesen Review
+
+  ### markierungen
+  <JSON-Array>
+
+  ### Verstexte
+  <Dict {"versnr": "text"}>
+
+  ### Bereits annotierte AT-Motive (Mk 1–N-1)
+  <Label-Liste>"
+)
+```
+
+Die Instruktionen des Sub-Agents werden also direkt aus der Datei
+`ai-tools/skills/annotation-review/SKILL.MD` gelesen und als Prompt übergeben —
+nicht über den Skill-Mechanismus.
+
+### Was übergeben wird
+
+Übergabe an den Sub-Agent als strukturierte Daten im Prompt:
+
+1. **Das `markierungen`-Array** als JSON-String
+2. **Verstexte-Dict** `{"versnr": "bereinigter_text"}` — Ausgabe von `parse_menge.py`
+3. **Liste bereits annotierter AT-Motive** aus den vorhandenen Kapitel-JSONs desselben
+   Buches — kompakt als Label-Liste (z.B. `"ego eimi Mk 6,50"`, `"Elia-Erwartung Mal 3,23 Mk 6,15"`)
+   für den Wiederholungs-Check
+
+### Präsentation an den Nutzer
+
+**Vor dem Commit** beide Ergebnisse als separate Tabellen zeigen.
+Erst nach Freigabe durch den Nutzer wird committed.
+
+Jede Tabelle hat vier Spalten:
+
+| # | Art | Beschreibung | Begründung (Website) |
+|---|-----|-------------|----------------------|
+
+**Spalte `Art`** — feste Tags:
+
+| Tag | Bedeutung |
+|-----|-----------|
+| `NEU aktiv` | Neue Annotation, wird auf der Website angezeigt |
+| `NEU inaktiv` | Geprüft, bewusst nicht annotiert — wird dokumentiert, nicht angezeigt |
+| `FIX Position` | Positions-Korrektur (von/bis) |
+| `FIX Konvention` | Formale Korrektur (z.B. bis=Verslänge → bis=-1) |
+| `FIX Sortierung` | Reihenfolge der Einträge falsch |
+| `BUG fehlender Span` | Jesus-Span oder AT-Span fehlt komplett |
+| `BUG Jesus-Span` | Jesus-Span schließt Nicht-Jesus-Text ein oder aus |
+| `UPDATE Begründung` | Inhaltliche Überarbeitung der Begründung |
+| `UPDATE Referenz` | Andere AT-Stelle passt besser |
+| `UPDATE Span` | Ausdehnung oder Einschränkung eines bestehenden Spans |
+| `BESTÄTIGT` | Korrekt — keine Änderung nötig |
+| `ERWÄGEN` | Offene Frage, keine Entscheidung getroffen |
+
+**Spalte `Begründung (Website)`** — nur für `NEU aktiv` und `UPDATE Begründung`:
+der Text, der auf der Website als Tooltip erscheint. Für inaktive Einträge
+steht hier *(nicht sichtbar)* gefolgt von einer kurzen inhaltlichen Notiz.
+Für technische Korrekturen (FIX, BUG ohne Inhalt, BESTÄTIGT): `—`.
+
+Beispiel-Ausgabe:
+
+```
+**Main Agent — Befunde Kapitel N:**
+
+| # | Art | Beschreibung | Begründung (Website) |
+|---|-----|-------------|----------------------|
+| 1 | NEU aktiv    | V7 2. Mo 24,15-16: »eine Wolke« → von=9, bis=84 | Die Wolke auf dem Berg ist das Zeichen der Schechina... |
+| 2 | FIX Konvention | V16 bis=58 → bis=-1 (Versende) | — |
+| 3 | NEU inaktiv  | V12 Jes 53: »leiden und verworfen« → von=169 | *(nicht sichtbar)* Wiederholung von Mk 8,31. |
+
+**Review Agent — Befunde (unabhängig):**
+
+| # | Art | Beschreibung | Begründung (Website) |
+|---|-----|-------------|----------------------|
+| 1 | FIX Konvention | V16 bis=58 → bis=-1 (bestätigt) | — |
+| 2 | NEU aktiv | V2 2. Mo 24,15-16: »Sechs Tage...hohen Berg« → von=0, bis=121 | »Sechs Tage« ist keine beiläufige Zeitangabe... |
+| 3 | BESTÄTIGT | V4, V13, V48 Begründungen korrekt | — |
+```
+
+### Inaktiv-Einträge nach dem Review ⚠️
+
+Stellen, die der Review-Agent unter **"Geprüft, bewusst nicht annotiert"** meldet,
+müssen vom Main Agent **vor dem Commit** als `"status": "inaktiv"` in die JSON-Datei
+eingetragen werden — mit Begründung, warum nicht annotiert wurde.
+
+Zweck: Dokumentiert, dass die Stelle diskutiert wurde und nicht aus Versehen fehlt.
+Ohne diesen Schritt entsteht eine stille Lücke, die beim nächsten Review erneut
+aufgegriffen wird.
+
+---
+
 ## Dateistruktur
 
 ```
@@ -291,71 +478,6 @@ nicht `<h2>`. Kein separater `.index-content h2`-Style nötig.
 
 ---
 
-## AT-Annotationsstrategie
-
-### Grundziel
-
-AT-Annotationen sollen für einen heutigen Leser sichtbar machen, wo NT-Texte auf
-der Lebens- und Glaubensrealität der damaligen Juden aufbauen. Ein jüdischer Zeitgenosse
-Jesu kannte das AT auswendig und verstand intuitiv, was heute oft verloren ist.
-Die Annotationen sollen dieses Wissen zurückbringen — nicht primär theologisch kommentieren.
-
-### Annotieren wenn mindestens eines dieser Kriterien zutrifft
-
-1. **Kulturelle Fremdheit** — etwas, das heute befremdlich wirkt, aber im AT eine
-   selbstverständliche Grundlage hat (Speisegebote, Reinheitsvorschriften, Rituale,
-   Alltagsgesten). Beispiel: Heuschrecken als Speise → 3. Mo 11,22.
-
-2. **Verlorenes Hintergrundwissen** — ein Bild, eine Metapher oder eine Handlung,
-   die ein damaliger Jude sofort als Bezug auf eine konkrete AT-Stelle erkannt hätte,
-   die heute aber nicht mehr präsent ist. Beispiel: der Weltbaum mit nistenden Vögeln
-   → Dan 4,9; Hes 17,23.
-
-3. **Theologische Pointe** — wo der NT-Text eine AT-Stelle bewusst aufnimmt und
-   weiterdreht, sodass der Bezug zur eigentlichen Aussage gehört. Beispiel: Jesus
-   als „Stärkerer" gegenüber dem Starken → Jes 49,24f.
-
-4. **Erstmalige oder ungewöhnliche Verwendung** — wenn etwas im NT auftaucht, das
-   zwar AT-Grundlage hat, aber für damalige Juden trotzdem überraschend war. Beispiel:
-   Jesus spricht Gott als „Vater" in einer Intimität an, die im AT so nicht vorkommt
-   → beim ersten Auftreten im jeweiligen Buch annotieren.
-
-### Menge-Fußnoten haben Präzedenz ⚠️
-
-Wenn die Menge-Bibel an einer Stelle selbst eine AT-Referenz als Fußnote notiert,
-wird diese Stelle **immer aktiv annotiert** — auch wenn sie sonst nach dem
-„allgemeines Vokabular"-Kriterium nicht annotiert worden wäre.
-Die Begründung kann dann darauf hinweisen, dass der Annotationsanlass die Fußnote ist.
-
-### Nicht annotieren wenn
-
-- Der Begriff so allgemein im jüdischen Sprachgebrauch war, dass kein Jude dabei
-  an eine bestimmte Textstelle gedacht hätte (z.B. jede einzelne Erwähnung von
-  „Vater", „Geist", „Sohn", „Auferstehung" nach der ersten annotierten Stelle)
-- Der Bezug nur durch moderne theologische Gelehrsamkeit konstruiert ist und nicht
-  durch das Alltagswissen eines damaligen Lesers erschließbar wäre
-
-### Wiederholungen ⚠️
-
-Zentrale theologische Begriffe und Motive (Vater, Sohn, Geist, Auferstehung,
-Reich Gottes u.a.) werden **nur beim ersten Auftreten im jeweiligen Buch** annotiert,
-es sei denn, der spätere Kontext gibt dem Bezug eine eigenständige neue Dimension.
-Sonst entsteht Über-Annotation.
-
-### Geltungsbereich
-
-AT-Bezüge werden sowohl in **Jesu direkter Rede** als auch im **Erzählertext**
-annotiert — und später auch in den Briefen.
-
-### Mehrere Referenzen an einer Stelle
-
-Mehrere `urls`-Einträge sind angebracht, wenn die Bezüge **konzeptionell unterschiedliche
-Dimensionen** beleuchten — nicht nur wenn mehrere Bücher dieselbe Aussage belegen.
-Beispiel Mk 4,32: Hes 17,23 (der erhabene Baum als Heilsort) und Dan 4,9 (der
-Weltbaum als Bild für ein Reich) tragen je eine eigene Aussage → beide annotieren.
-
----
-
 ## Annotationsstrategie AT-Bezüge
 
 ### Grundziel
@@ -446,6 +568,8 @@ des Senfkorn-Gleichnisses erst vollständig sichtbar.
 
 AT-Bezüge werden sowohl in **direkten Jesus-Worten** als auch im
 **Erzählertext** annotiert — und später auch in den Briefen.
+
+---
 
 ## Annotationsformat (JSON)
 
@@ -595,10 +719,7 @@ Der Bibeltext-Fetch bleibt weiterhin absolut (fremdes Repo, kein relativer Pfad 
 
 ## Rohtext beschaffen
 
-⛔ **WebFetch und Sub-Agent-Spawning niemals für den Rohtext-Download verwenden.**
-WebFetch lädt 117 KB Rohtext in den Gesprächs-Kontext — das verlangsamt jeden
-nachfolgenden API-Call massiv (Minuten statt Sekunden). Nur `curl` in der Shell nutzen,
-Ergebnis direkt auf Disk speichern.
+⛔ **WebFetch verboten** — siehe Sofort-Start oben. Nur `curl` verwenden.
 
 Der Rohtext eines Buches wird lokal unter `ai-tools/<buch-id>-roh.txt` gecacht
 (z.B. `ai-tools/markus-roh.txt`). Ablauf:
@@ -615,158 +736,6 @@ curl -s "https://raw.githubusercontent.com/renehamburger/Menge-Bibel/master/Bibe
 
 Den URL-kodierten Dateinamen erhält man aus `annotationen/manifest.json` → `quellpfad`
 (z.B. `Bibel/Neues%20Testament/02%20-%20Markus.md` → Dateiname: `02%20-%20Markus.md`).
-
----
-
-## Empfohlener Workflow für neue Annotationen
-
-1. Nutzer gibt Buch + Kapitel an
-2. **Alle bisherigen AT-Annotationen lesen** — alle vorhandenen `kapitel-N.json`-Dateien
-   des Buches durchlesen und die AT-Einträge (Referenz + Begründung) erfassen.
-   Nur so lassen sich Wiederholungen und inaktiv-Kandidaten korrekt erkennen.
-   Einen gezielten grep auf erwartete Stichwörter reicht nicht — er übersieht Motive,
-   die unter anderem Namen annotiert wurden.
-3. Rohtext sicherstellen: `ai-tools/<buch-id>-roh.txt` prüfen — falls fehlend, per
-   GitHub API + curl herunterladen (siehe Abschnitt "Rohtext beschaffen")
-4. Verstexte extrahieren und lokal speichern — **vorproduzierte Skripte verwenden**,
-   kein Ad-hoc-Python, kein WebFetch:
-
-   ```bash
-   # Verstexte parsen und als JSON-Cache speichern (in .gitignore):
-   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
-     ai-tools/<buch-id>-roh.txt <kapitel> > ai-tools/kap<N>_verses.json
-
-   # Alle Verstexte mit Längen anzeigen (für neue Positions-Suche):
-   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
-     ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json --verses
-
-   # Alle bestehenden Annotationen prüfen (nach dem Schreiben der JSON-Datei):
-   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
-     ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
-   ```
-
-   `check_positions.py` gibt für jede Annotation den extrahierten Snippet + Warnungen aus.
-   Exit-Code 1 bei Fehlern — Fehler müssen vor dem Commit behoben werden.
-
-   Für einzelne neue Positionen (Phrasen-Suche) auf dem gespeicherten Verses-Cache:
-   ```bash
-   python -c "import json; v=json.load(open('ai-tools/kap<N>_verses.json')); print(v['7'].find('eine Wolke'))"
-   ```
-   Nur ASCII-Output → keine Unicode-Probleme.
-
-5. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen.
-   Kein Ad-hoc-Skript als Datei schreiben — `check_positions.py` übernimmt die Verifikation.
-
-6. JSON-Annotationsdatei schreiben unter `annotationen/<buch>/kapitel-N.json`.
-   Falls die Datei bereits existiert (z.B. aus einem früheren Versuch): zuerst mit dem
-   Read-Tool lesen, dann überschreiben — das Write-Tool verweigert sonst den Schreibzugriff.
-7. **Review Sub-Agent spawnen** (siehe Abschnitt "Review-Workflow")
-8. Beide Perspektiven dem Nutzer präsentieren — erst nach Freigabe committen
-9. Kapitel-Nummer in `annotationen/manifest.json` ins `kapitel`-Array eintragen (falls neu)
-
-## Review-Workflow (Sub-Agent)
-
-Nach der Erstannotation eines Kapitels wird ein unabhängiger Review Sub-Agent
-gestartet. Er prüft aus einer eigenen Perspektive — nicht als Korrektiv,
-sondern als zweite Stimme.
-
-### Wie der Sub-Agent gespawnt wird
-
-Den Sub-Agent über das **`Agent`-Tool** spawnen (kein registrierter Skill nötig):
-
-```
-Agent(
-  description: "annotation-review: unabhängige Prüfung Kapitel N",
-  prompt: "<Inhalt von ai-tools/skills/annotation-review/SKILL.MD>
-
-  ## Input für diesen Review
-
-  ### markierungen
-  <JSON-Array>
-
-  ### Verstexte
-  <Dict {"versnr": "text"}>
-
-  ### Bereits annotierte AT-Motive (Mk 1–N-1)
-  <Label-Liste>"
-)
-```
-
-Die Instruktionen des Sub-Agents werden also direkt aus der Datei
-`ai-tools/skills/annotation-review/SKILL.MD` gelesen und als Prompt übergeben —
-nicht über den Skill-Mechanismus.
-
-### Was übergeben wird
-
-Übergabe an den Sub-Agent als strukturierte Daten im Prompt:
-
-1. **Das `markierungen`-Array** als JSON-String
-2. **Verstexte-Dict** `{"versnr": "bereinigter_text"}` — Ausgabe von `parse_menge.py`
-3. **Liste bereits annotierter AT-Motive** aus den vorhandenen Kapitel-JSONs desselben
-   Buches — kompakt als Label-Liste (z.B. `"ego eimi Mk 6,50"`, `"Elia-Erwartung Mal 3,23 Mk 6,15"`)
-   für den Wiederholungs-Check
-
-### Präsentation an den Nutzer
-
-**Vor dem Commit** beide Ergebnisse als separate Tabellen zeigen.
-Erst nach Freigabe durch den Nutzer wird committed.
-
-Jede Tabelle hat vier Spalten:
-
-| # | Art | Beschreibung | Begründung (Website) |
-|---|-----|-------------|----------------------|
-
-**Spalte `Art`** — feste Tags:
-
-| Tag | Bedeutung |
-|-----|-----------|
-| `NEU aktiv` | Neue Annotation, wird auf der Website angezeigt |
-| `NEU inaktiv` | Geprüft, bewusst nicht annotiert — wird dokumentiert, nicht angezeigt |
-| `FIX Position` | Positions-Korrektur (von/bis) |
-| `FIX Konvention` | Formale Korrektur (z.B. bis=Verslänge → bis=-1) |
-| `FIX Sortierung` | Reihenfolge der Einträge falsch |
-| `BUG fehlender Span` | Jesus-Span oder AT-Span fehlt komplett |
-| `BUG Jesus-Span` | Jesus-Span schließt Nicht-Jesus-Text ein oder aus |
-| `UPDATE Begründung` | Inhaltliche Überarbeitung der Begründung |
-| `UPDATE Referenz` | Andere AT-Stelle passt besser |
-| `UPDATE Span` | Ausdehnung oder Einschränkung eines bestehenden Spans |
-| `BESTÄTIGT` | Korrekt — keine Änderung nötig |
-| `ERWÄGEN` | Offene Frage, keine Entscheidung getroffen |
-
-**Spalte `Begründung (Website)`** — nur für `NEU aktiv` und `UPDATE Begründung`:
-der Text, der auf der Website als Tooltip erscheint. Für inaktive Einträge
-steht hier *(nicht sichtbar)* gefolgt von einer kurzen inhaltlichen Notiz.
-Für technische Korrekturen (FIX, BUG ohne Inhalt, BESTÄTIGT): `—`.
-
-Beispiel-Ausgabe:
-
-```
-**Main Agent — Befunde Kapitel N:**
-
-| # | Art | Beschreibung | Begründung (Website) |
-|---|-----|-------------|----------------------|
-| 1 | NEU aktiv    | V7 2. Mo 24,15-16: »eine Wolke« → von=9, bis=84 | Die Wolke auf dem Berg ist das Zeichen der Schechina... |
-| 2 | FIX Konvention | V16 bis=58 → bis=-1 (Versende) | — |
-| 3 | NEU inaktiv  | V12 Jes 53: »leiden und verworfen« → von=169 | *(nicht sichtbar)* Wiederholung von Mk 8,31. |
-
-**Review Agent — Befunde (unabhängig):**
-
-| # | Art | Beschreibung | Begründung (Website) |
-|---|-----|-------------|----------------------|
-| 1 | FIX Konvention | V16 bis=58 → bis=-1 (bestätigt) | — |
-| 2 | NEU aktiv | V2 2. Mo 24,15-16: »Sechs Tage...hohen Berg« → von=0, bis=121 | »Sechs Tage« ist keine beiläufige Zeitangabe... |
-| 3 | BESTÄTIGT | V4, V13, V48 Begründungen korrekt | — |
-```
-
-### Inaktiv-Einträge nach dem Review ⚠️
-
-Stellen, die der Review-Agent unter **"Geprüft, bewusst nicht annotiert"** meldet,
-müssen vom Main Agent **vor dem Commit** als `"status": "inaktiv"` in die JSON-Datei
-eingetragen werden — mit Begründung, warum nicht annotiert wurde.
-
-Zweck: Dokumentiert, dass die Stelle diskutiert wurde und nicht aus Versehen fehlt.
-Ohne diesen Schritt entsteht eine stille Lücke, die beim nächsten Review erneut
-aufgegriffen wird.
 
 ---
 
