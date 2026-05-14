@@ -11,6 +11,6 @@
 ## Projekt-Kontext
 
 Dieses Repo enthält eine statische Website zur farbkodierten Darstellung der Menge-Bibel.
-Vollständiges Projekt-Wissen: `ai-tools/skills/menge-bibel-farbig/SKILL.MD`
+Projekt-Skill (Annotations-Workflow): `.claude/skills/menge-bibel-farbig/` → `/menge-bibel-farbig`
 
 Aktueller Entwicklungsbranch: `feat/reasoning-for-references`
