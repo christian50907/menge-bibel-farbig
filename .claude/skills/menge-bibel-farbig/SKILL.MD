@@ -49,15 +49,15 @@ curl -s "https://raw.githubusercontent.com/renehamburger/Menge-Bibel/master/<que
   > ai-tools/<buch-id>-roh.txt
 
 # 3. Verstexte parsen und als JSON-Cache speichern
-python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
+python .claude/skills/menge-bibel-farbig/scripts/parse_menge.py \
   ai-tools/<buch-id>-roh.txt <kapitel> > ai-tools/kap<N>_verses.json
 
 # 4. Alle Verse mit Längen anzeigen (für Positions-Suche)
-python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+python .claude/skills/menge-bibel-farbig/scripts/check_positions.py \
   ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json --verses
 
 # 5. Nach dem Schreiben der JSON-Datei: alle Positionen verifizieren
-python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+python .claude/skills/menge-bibel-farbig/scripts/check_positions.py \
   ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
 ```
 
@@ -81,15 +81,15 @@ vorproduziert und übernehmen Parsing, Bereinigung und Verifikation.
 
    ```bash
    # Verstexte parsen und als JSON-Cache speichern (in .gitignore):
-   python ai-tools/skills/menge-bibel-farbig/scripts/parse_menge.py \
+   python .claude/skills/menge-bibel-farbig/scripts/parse_menge.py \
      ai-tools/<buch-id>-roh.txt <kapitel> > ai-tools/kap<N>_verses.json
 
    # Alle Verstexte mit Längen anzeigen (für neue Positions-Suche):
-   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+   python .claude/skills/menge-bibel-farbig/scripts/check_positions.py \
      ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json --verses
 
    # Alle bestehenden Annotationen prüfen (nach dem Schreiben der JSON-Datei):
-   python ai-tools/skills/menge-bibel-farbig/scripts/check_positions.py \
+   python .claude/skills/menge-bibel-farbig/scripts/check_positions.py \
      ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
    ```
 
@@ -125,7 +125,7 @@ Den Sub-Agent über das **`Agent`-Tool** spawnen (kein registrierter Skill nöti
 ```
 Agent(
   description: "annotation-review: unabhängige Prüfung Kapitel N",
-  prompt: "<Inhalt von ai-tools/skills/annotation-review/SKILL.MD>
+  prompt: "<Inhalt von .claude/skills/annotation-review/SKILL.MD>
 
   ## Input für diesen Review
 
@@ -141,7 +141,7 @@ Agent(
 ```
 
 Die Instruktionen des Sub-Agents werden also direkt aus der Datei
-`ai-tools/skills/annotation-review/SKILL.MD` gelesen und als Prompt übergeben —
+`.claude/skills/annotation-review/SKILL.MD` gelesen und als Prompt übergeben —
 nicht über den Skill-Mechanismus.
 
 ### Was übergeben wird
