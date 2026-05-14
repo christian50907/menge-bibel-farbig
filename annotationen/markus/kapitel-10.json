@@ -49,6 +49,19 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 4,
+      "von": 12,
+      "vers_bis": 4,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 24,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose24,1",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "5. Mo 24,1 erlaubt die Scheidung durch einen Scheidebrief. Die Pharisäer zitieren dieses mosaische Zugeständnis als Rechtsgrundlage — Jesus wird es gleich relativieren, indem er auf die Schöpfungsordnung zurückgeht (V6–8)."
+    },
+    {
       "vers_von": 5,
       "von": 27,
       "vers_bis": 9,
@@ -113,7 +126,7 @@
       "url": "https://www.bibleserver.com/MENG/2.Mose20,12",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Jesus zitiert sechs Gebote aus dem Dekalog (2. Mo 20,12-16 / 5. Mo 5,16-20): kein Töten, kein Ehebruch, kein Stehlen, kein falsches Zeugnis, keine Vorenthaltung des Schuldigen, Elternehrung. Anders als in Mk 7,10 (ein einzelnes Gebot gegen Pharisäer) nennt Jesus hier den sozialen Kern des Dekalogs als Wegweiser zum Leben."
+      "begruendung": "Jesus zitiert fünf Gebote aus dem Dekalog (2. Mo 20,12-16 / 5. Mo 5,16-20) sowie ein sechstes: »keinem das ihm Zukommende vorenthalten« — diese Wendung steht nicht im Dekalog, sondern entspricht dem Geist von 3. Mo 19,13. Anders als in Mk 7,10 (ein einzelnes Gebot gegen Pharisäer) nennt Jesus hier den sozialen Kern der Tora als Wegweiser zum Leben."
     },
     {
       "vers_von": 21,
@@ -154,7 +167,7 @@
       "url": "https://www.bibleserver.com/MENG/1.Mose18,14",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Annotationsanlass ist die Menge-Fußnote. 1. Mo 18,14: ›Sollte dem Herrn irgend etwas zu wunderbar sein?‹ — Gottes Antwort auf Sarahs Lachen über die unmögliche Verheißung. Dieselbe Aussage göttlicher Allmacht, die Jesus hier auf die Unmöglichkeit der Rettung des Reichen anwendet."
+      "begruendung": "1. Mo 18,14: ›Sollte dem Herrn irgend etwas zu wunderbar sein?‹ — Gottes Antwort auf Sarahs Lachen über die unmögliche Verheißung. Dieselbe Aussage göttlicher Allmacht, die Jesus hier auf die Unmöglichkeit der Rettung des Reichen anwendet."
     },
     {
       "vers_von": 29,
@@ -250,6 +263,19 @@
       "autor": "AI",
       "status": "aktiv",
       "begruendung": "›Sohn Davids‹ ist der messianische Titel schlechthin, der auf Gottes Verheißung an David in 2. Sam 7,12-14 zurückgeht: Der Nachkomme Davids wird auf dem Thron sitzen, Gott wird sein Vater sein. Bartimäus erkennt in Jesus den verheißenen davidischen Messias — kurz vor dem Einzug in Jerusalem eine Aussage mit politischer Sprengkraft."
+    },
+    {
+      "vers_von": 48,
+      "von": 81,
+      "vers_bis": 48,
+      "bis": 92,
+      "typ": "at",
+      "referenz": "2. Sam 7,12-14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "Identisch mit V47 — gleiche Formulierung »Sohn Davids« in derselben Perikope. Keine neue Dimension gegenüber der aktiven Annotation in V47."
     },
     {
       "vers_von": 49,
