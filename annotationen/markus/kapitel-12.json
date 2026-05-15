@@ -50,7 +50,7 @@
     {
       "vers_von": 1,
       "von": 50,
-      "vers_bis": 8,
+      "vers_bis": 9,
       "bis": -1,
       "typ": "jesus"
     },
@@ -110,13 +110,6 @@
     },
     {
       "vers_von": 19,
-      "von": 0,
-      "vers_bis": 19,
-      "bis": -1,
-      "typ": "jesus"
-    },
-    {
-      "vers_von": 19,
       "von": 10,
       "vers_bis": 19,
       "bis": -1,
@@ -149,13 +142,6 @@
       "begruendung": "Ich bin der Gott Abrahams, der Gott Isaaks und der Gott Jakobs — wörtliches Zitat aus 2. Mo 3,6, dem Dornbusch-Erlebnis des Mose. Jesus argumentiert: Gott nennt sich Gott der Lebenden, also müssen die Patriarchen leben — ein Beweis für die Auferstehung aus der Tora selbst."
     },
     {
-      "vers_von": 28,
-      "von": 182,
-      "vers_bis": 28,
-      "bis": 222,
-      "typ": "jesus"
-    },
-    {
       "vers_von": 29,
       "von": 18,
       "vers_bis": 31,
@@ -166,7 +152,7 @@
       "vers_von": 29,
       "von": 34,
       "vers_bis": 30,
-      "bis": 149,
+      "bis": -1,
       "typ": "at",
       "referenz": "5. Mo 6,4-5",
       "vgl": false,
@@ -189,6 +175,39 @@
       "begruendung": "Du sollst deinen Nächsten lieben wie dich selbst — wörtliches Zitat aus 3. Mo 19,18. Das Nächstenliebegebot aus der Heiligkeitsgesetzgebung steht gleichrangig neben dem Schma — für damalige Juden eine bemerkenswerte Zusammenstellung."
     },
     {
+      "vers_von": 32,
+      "von": 92,
+      "vers_bis": 32,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 4,35",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,35",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Daß Gott nur einer ist und es keinen anderen außer ihm gibt — der Schriftgelehrte paraphrasiert 5. Mo 4,35 (»daß der Herr Gott ist und kein anderer außer ihm«). Die Menge-Bibel verweist im Fußnotenapparat auf 5. Mo 4,35 und 6,4."
+    },
+    {
+      "vers_von": 33,
+      "von": 122,
+      "vers_bis": 33,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "1. Sam 15,22",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel15,22",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Das ist weit mehr wert als alle Brandopfer und die Opfer überhaupt — der Schriftgelehrte greift die prophetische Tradition auf, die Liebe und Gehorsam über den Opferkult stellt. Am deutlichsten in 1. Sam 15,22: »Gehorsam ist besser als Opfer«. Die Menge-Bibel verweist im Fußnotenapparat auf diese Stelle."
+    },
+    {
+      "vers_von": 34,
+      "von": 62,
+      "vers_bis": 34,
+      "bis": 110,
+      "typ": "jesus"
+    },
+    {
       "vers_von": 35,
       "von": 61,
       "vers_bis": 37,
@@ -199,7 +218,7 @@
       "vers_von": 36,
       "von": 48,
       "vers_bis": 36,
-      "bis": 170,
+      "bis": -1,
       "typ": "at",
       "referenz": "Ps 110,1",
       "vgl": false,
