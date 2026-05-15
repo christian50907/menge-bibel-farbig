@@ -50,6 +50,32 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 8,
+      "von": 0,
+      "vers_bis": 8,
+      "bis": 79,
+      "typ": "at",
+      "referenz": "Jes 19,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja19,2",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Ein Volk wird sich gegen das andere erheben und ein Reich gegen das andere — Jes 19,2 beschreibt dasselbe Bild im Gericht über Ägypten: »Ich will Ägypter gegen Ägypter aufhetzen, ein Bruder wird gegen seinen Bruder kämpfen.« Jesus greift diese prophetische Sprache auf, um die eschatologischen Erschütterungen vor der Endzeit zu beschreiben."
+    },
+    {
+      "vers_von": 12,
+      "von": 0,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Mi 7,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Micha7,6",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Bruder überliefert Bruder, Vater den Sohn, Kinder stehen gegen Eltern auf — Mi 7,6 beschreibt denselben Zerfall der familiären Bindungen als Zeichen des Gerichts: »Der Sohn behandelt den Vater verächtlich, die Tochter steht gegen ihre Mutter auf … die Feinde des Mannes sind seine eigenen Hausgenossen.« Jesus stellt die Verfolgung seiner Jünger in diesen prophetischen Horizont."
+    },
+    {
       "vers_von": 14,
       "von": 20,
       "vers_bis": 14,
@@ -73,7 +99,20 @@
       "url": "https://www.bibleserver.com/MENG/Daniel12,1",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Eine Trübsal, wie sie nicht gewesen ist von Anfang der Schöpfung — Dan 12,1 beschreibt die große Not am Ende der Zeit: eine Zeit der Not, wie sie nie gewesen ist. Jesus verwendet dieselbe Sprache für die bevorstehende Katastrophe."
+      "begruendung": "Eine Drangsalszeit, wie sie seit dem Anfang der Schöpfung nicht gewesen ist — Dan 12,1 beschreibt die große Not am Ende der Zeit: »eine Zeit der Not, wie sie nie gewesen ist, seitdem es Völker gibt.« Jesus verwendet dieselbe Sprache für die bevorstehende Katastrophe."
+    },
+    {
+      "vers_von": 22,
+      "von": 0,
+      "vers_bis": 22,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 13,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose13,2",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Falsche Propheten treten auf und tun Zeichen und Wunder, um die Erwählten irrezuführen — 5. Mo 13,2-4 warnt ausdrücklich vor Propheten, die Zeichen und Wunder ankündigen (und diese eintreten), aber zum Abfall verführen: »Du sollst auf jenen Propheten nicht hören.« Jesus platziert die falschen Messiasse der Endzeit genau in diese von Mose beschriebene Kategorie."
     },
     {
       "vers_von": 24,
@@ -81,12 +120,14 @@
       "vers_bis": 25,
       "bis": -1,
       "typ": "at",
-      "referenz": "Jes 13,10",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Jesaja13,10",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Die Sonne wird verfinstert, der Mond gibt sein Licht nicht — Jes 13,10 und Joel 3,4 beschreiben kosmische Zeichen als Bild für den Gerichtstag Gottes. Jesus verwendet diese prophetische Bildsprache für die Endzeit."
+      "urls": [
+        { "label": "Jes 13,10", "url": "https://www.bibleserver.com/MENG/Jesaja13,10" },
+        { "label": "Jes 34,4",  "url": "https://www.bibleserver.com/MENG/Jesaja34,4" }
+      ],
+      "vgl": true,
+      "begruendung": "Die Sonne verfinstert sich, der Mond gibt sein Licht nicht, die Sterne fallen vom Himmel — Jes 13,10 beschreibt diese kosmischen Zeichen als Bild für den Gerichtstag Gottes über Babylon; Jes 34,4 ergänzt: das gesamte Sternenheer des Himmels löst sich auf wie welkes Laub. Jesus verwendet diese prophetische Bildsprache für die Endzeit."
     },
     {
       "vers_von": 26,
@@ -107,12 +148,27 @@
       "vers_bis": 27,
       "bis": -1,
       "typ": "at",
-      "referenz": "5. Mo 30,4",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/5.Mose30,4",
       "autor": "AI",
       "status": "aktiv",
-      "begruendung": "Die Auserwählten von den vier Winden zusammensammeln — 5. Mo 30,4 verheißt die Sammlung der Zerstreuten Israels von den Enden der Erde. Jesus wendet dieses Bild auf die Sammlung der Erwählten am Ende an."
+      "urls": [
+        { "label": "Sach 2,6",   "url": "https://www.bibleserver.com/MENG/Sacharja2,6" },
+        { "label": "5. Mo 30,4", "url": "https://www.bibleserver.com/MENG/5.Mose30,4" }
+      ],
+      "vgl": true,
+      "begruendung": "Die Engel sammeln die Erwählten von den vier Windrichtungen vom Ende der Erde bis zum Ende des Himmels — Sach 2,6 ruft die Versprengten: »Auf, flieht aus dem Nordland! Ich habe euch nach den vier Windrichtungen des Himmels zerstreut.« 5. Mo 30,4 verheißt die Heimsammlung der Zerstreuten »vom Ende des Himmels«. Jesus wendet beide Verheißungen auf die endgültige Sammlung der Erwählten an."
+    },
+    {
+      "vers_von": 31,
+      "von": 41,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 40,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,8",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Aber meine Worte werden nimmermehr vergehen — Jes 40,8 verkündigt: »Das Gras verdorrt, die Blume welkt; aber das Wort unseres Gottes bleibt ewiglich.« Jesus stellt seine eigenen Worte auf dieselbe Stufe wie das unvergängliche Gotteswort — für einen jüdischen Leser eine kühne Aussage über seine göttliche Autorität."
     }
   ]
 }
