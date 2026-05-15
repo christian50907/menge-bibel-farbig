@@ -61,8 +61,9 @@ python .claude/skills/menge-bibel-farbig/scripts/check_positions.py \
   ai-tools/<buch-id>-roh.txt <kapitel> annotationen/<buch>/kapitel-N.json
 ```
 
-**Kein Ad-hoc-Python schreiben.** `parse_menge.py` und `check_positions.py` sind
-vorproduziert und übernehmen Parsing, Bereinigung und Verifikation.
+**Kein Ad-hoc-Python schreiben.** `parse_menge.py`, `check_positions.py` und
+`inspect_verse.py` sind vorproduziert und übernehmen Parsing, Positions-Suche
+und Verifikation.
 
 ---
 
@@ -98,9 +99,15 @@ vorproduziert und übernehmen Parsing, Bereinigung und Verifikation.
 
    Für einzelne neue Positionen (Phrasen-Suche) auf dem gespeicherten Verses-Cache:
    ```bash
-   python -c "import json; v=json.load(open('ai-tools/kap<N>_verses.json')); print(v['7'].find('eine Wolke'))"
+   # Vers anzeigen (zum Kopieren des exakten Suchstrings):
+   python .claude/skills/menge-bibel-farbig/scripts/inspect_verse.py <kapitel> <vers>
+
+   # Position eines Suchstrings finden:
+   python .claude/skills/menge-bibel-farbig/scripts/inspect_verse.py <kapitel> <vers> "<suchstring>"
    ```
-   Nur ASCII-Output → keine Unicode-Probleme.
+   Kein Ad-hoc-Python-Einzeiler — `inspect_verse.py` löst Encoding-Probleme und gibt
+   `von`/`bis` direkt aus. Erkennt automatisch, ob der Suchstring bis ans Versende geht
+   (→ `bis=-1`).
 
 5. `von`/`bis`-Positionen immer auf dem **bereinigten Text** (ohne Fußnoten) berechnen.
    Kein Ad-hoc-Skript als Datei schreiben — `check_positions.py` übernimmt die Verifikation.
@@ -746,21 +753,20 @@ tippen. Bereits ein einzelnes abweichendes Wort (z.B. `»Was versucht«` statt d
 tatsächlichen `»Warum versucht«`) gibt `-1` zurück und erzeugt einen ungültigen Eintrag,
 der im Renderer zu einem fehlerhaften oder fehlenden Span führt.
 
-**Korrekter Ablauf:**
-1. Zuerst den tatsächlichen Verstext ausgeben: `print(v[nr])`
-2. Den gesuchten Substring **direkt aus der Ausgabe kopieren**
-3. Erst dann `v[nr].find(substring)` aufrufen
+**Korrekter Ablauf mit `inspect_verse.py`:**
+1. Vers ausgeben: `inspect_verse.py <kapitel> <vers>` — den Suchstring direkt aus der Ausgabe kopieren
+2. Position finden: `inspect_verse.py <kapitel> <vers> "<kopierter_substring>"`
 
-```python
-# FALSCH — aus dem Gedächtnis:
-von = v[15].find('»Was versucht')   # gibt -1 wenn Text abweicht!
+```bash
+# FALSCH — Suchstring aus dem Gedächtnis:
+python inspect_verse.py 12 15 "»Was versucht"   # gibt -1 wenn Text abweicht!
 
-# RICHTIG — erst ausgeben, dann kopieren:
-print(v[15])
-# → '»Warum versucht ihr mich? Reicht mir einen Denar...'
-von = v[15].find('»Warum versucht')  # korrekt
+# RICHTIG — erst Vers ausgeben, dann aus Ausgabe kopieren:
+python inspect_verse.py 12 15
+# → V15 [len=73]: '»Warum versucht ihr mich? ...'
+python inspect_verse.py 12 15 "»Warum versucht"  # korrekt, von/bis direkt ablesbar
 ```
 
-Diese Regel gilt auch für AT-Zitate mit ›...‹ — immer zuerst den tatsächlichen
+Diese Regel gilt besonders für AT-Zitate mit ›...‹ — immer zuerst den tatsächlichen
 Unicode-Zeichenbestand prüfen (U+203A = `›`, U+2039 = `‹`), da die schließenden
 Zeichen leicht verwechselt werden.

@@ -15,6 +15,8 @@ import re
 import json
 import sys
 
+sys.stdout.reconfigure(encoding='utf-8')
+
 FN_REGEX = re.compile(
     r'<sup\s+title=(["\'])([^"\']*)\1>\s*(?:&#x[\da-fA-F]+;|✲)\s*</sup>'
 )
