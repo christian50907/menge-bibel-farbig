@@ -18,6 +18,44 @@
   ],
   "markierungen": [
     {
+      "vers_von": 1, "von": 0, "vers_bis": 1, "bis": 18, "typ": "at",
+      "referenz": "Jes 52,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,7",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Das Wort »Heilsbotschaft« (εὐαγγέλιον) ist in Jes 52,7 am prägnantesten vorgeformt: der endzeitliche Freudenbote, der »Dein Gott ist König!« ausruft. Markus eröffnet sein Werk bewusst mit dieser Terminologie — für einen jüdischen Leser sofort erkennbar als eschatologische Sprache des Trostbuchs."
+    },
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 1, "bis": 18, "typ": "at",
+      "referenz": "Jes 61,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,1",
+      "autor": "AI",
+      "status": "inaktiv",
+      "begruendung": "Jes 61,1 verwendet ebenfalls das Freudenboten-Vokabular (»den Elenden frohe Botschaft zu bringen«). Die Stelle ist aber durch Jes 52,7 vollständig abgedeckt — kein eigenständiger Bezug, der über Jes 52,7 hinausgeht."
+    },
+    {
+      "vers_von": 1, "von": 29, "vers_bis": 1, "bis": 37, "typ": "at",
+      "vgl": true,
+      "autor": "AI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 2,2",   "url": "https://www.bibleserver.com/MENG/Psalm2,2" },
+        { "label": "Dan 9,25", "url": "https://www.bibleserver.com/MENG/Daniel9,25" }
+      ],
+      "begruendung": "»Christus« ist kein Nachname, sondern der Titel »Maschiach« (der Gesalbte) — im 1. Jh. Alltagssprache der jüdischen Erwartung. Ps 2,2 zeichnet den Gesalbten als universalen König Gottes; Dan 9,25 macht ihn zum Ziel der Weltgeschichte. Ein jüdischer Hörer verstand: Der Gesalbte ist gekommen."
+    },
+    {
+      "vers_von": 1, "von": 39, "vers_bis": 1, "bis": 55, "typ": "at",
+      "referenz": "2 Sam 7,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,14",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Sohn Gottes« als Messiastitel hat seinen Ursprung im Davidsbund: 2 Sam 7,14 verheißt dem Nachkommen Davids ewige Gottessohnschaft (»Ich will sein Vater sein, und er soll mein Sohn sein«). V11 annotiert Ps 2,7, wo dieser Bund hymnisch bei der Inthronisation entfaltet wird."
+    },
+    {
       "vers_von": 2,
       "von": 45,
       "vers_bis": 2,
