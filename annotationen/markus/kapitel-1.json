@@ -22,23 +22,23 @@
       "referenz": "Jes 52,7",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja52,7",
-      "autor": "AI",
+      "autor": "Mensch",
       "status": "aktiv",
-      "begruendung": "Das Wort »Heilsbotschaft« (εὐαγγέλιον) ist in Jes 52,7 am prägnantesten vorgeformt: der endzeitliche Freudenbote, der »Dein Gott ist König!« ausruft. Markus eröffnet sein Werk bewusst mit dieser Terminologie — für einen jüdischen Leser sofort erkennbar als eschatologische Sprache des Trostbuchs."
+      "begruendung": "Das Wort »Heilsbotschaft« (εὐαγγέλιον) ist in Jes 52,7 am prägnantesten vorgeformt: der endzeitliche Freudenbote, der »Dein Gott ist König!« ausruft. Die Terminologie ist für einen jüdischen Leser sofort erkennbar als eschatologische Sprache des Trostbuchs."
     },
     {
       "vers_von": 1, "von": 0, "vers_bis": 1, "bis": 18, "typ": "at",
       "referenz": "Jes 61,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja61,1",
-      "autor": "AI",
+      "autor": "KI",
       "status": "inaktiv",
       "begruendung": "Jes 61,1 verwendet ebenfalls das Freudenboten-Vokabular (»den Elenden frohe Botschaft zu bringen«). Die Stelle ist aber durch Jes 52,7 vollständig abgedeckt — kein eigenständiger Bezug, der über Jes 52,7 hinausgeht."
     },
     {
       "vers_von": 1, "von": 29, "vers_bis": 1, "bis": 37, "typ": "at",
       "vgl": true,
-      "autor": "AI",
+      "autor": "Mensch",
       "status": "aktiv",
       "urls": [
         { "label": "Ps 2,2",   "url": "https://www.bibleserver.com/MENG/Psalm2,2" },
@@ -51,7 +51,7 @@
       "referenz": "2 Sam 7,14",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Samuel7,14",
-      "autor": "AI",
+      "autor": "Mensch",
       "status": "aktiv",
       "begruendung": "»Sohn Gottes« als Messiastitel hat seinen Ursprung im Davidsbund: 2 Sam 7,14 verheißt dem Nachkommen Davids ewige Gottessohnschaft (»Ich will sein Vater sein, und er soll mein Sohn sein«). V11 annotiert Ps 2,7, wo dieser Bund hymnisch bei der Inthronisation entfaltet wird."
     },
@@ -64,7 +64,7 @@
       "referenz": "Mal 3,1",
       "vgl": false,
       "url": "https://www.bibleserver.com/MENG/Maleachi3,1",
-      "autor": "AI",
+      "autor": "KI",
       "begruendung": "Wörtliches Zitat: Der Bote, der den Weg bereiten soll — Maleachi 3,1 ist die direkte Vorlage für die Täufer-Beschreibung des Markus.",
       "status": "aktiv"
     },
@@ -77,7 +77,7 @@
       "referenz": "Jes 40,3",
       "vgl": false,
       "url": "https://www.bibleserver.com/MENG/Jesaja40,3",
-      "autor": "AI",
+      "autor": "KI",
       "begruendung": "Wörtliches Zitat: Die Stimme in der Wüste — Jesaja 40,3 ist das Trostbuch-Zitat, das Markus explizit dem Täufer zuordnet.",
       "status": "aktiv"
     },
@@ -90,7 +90,7 @@
       "referenz": "2. Kön 1,8",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Koenige1,8",
-      "autor": "AI",
+      "autor": "KI",
       "begruendung": "Fellkleid und Ledergürtel des Johannes entsprechen der Beschreibung Elias in 2. Kön 1,8 — für damalige Juden das unverkennbare Zeichen des neuen Elia.",
       "status": "aktiv"
     },
@@ -112,7 +112,7 @@
       "referenz": "Joel 3,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Joel3,1",
-      "autor": "AI",
+      "autor": "KI",
       "status": "aktiv",
       "begruendung": "»Er wird euch mit heiligem Geiste taufen« — die Verheißung der Geistausgießung war das zentrale Zeichen der Endzeit: Joel 3,1 »Ich werde meinen Geist ausgießen über alles Fleisch.« Johannes kündigt an, dass dieser Moment jetzt kommt. Für einen jüdischen Zuhörer war das eine explosive eschatologische Aussage."
     },
@@ -122,7 +122,7 @@
       "vers_bis": 11,
       "bis": 111,
       "typ": "at",
-      "autor": "AI",
+      "autor": "KI",
       "urls": [
         {
           "label": "Ps 2,7",
@@ -143,7 +143,7 @@
       "bis": 41,
       "typ": "at",
       "vgl": true,
-      "autor": "AI",
+      "autor": "KI",
       "urls": [
         {
           "label": "Dtn 8,2",
@@ -173,7 +173,7 @@
       "referenz": "Dan 2,44",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel2,44",
-      "autor": "AI",
+      "autor": "KI",
       "begruendung": "Das Reich Gottes, das nahe herbeigekommen ist — Dan 2,44 beschreibt das ewige Gottesreich, das alle anderen Reiche ablösen wird. Erstes Auftreten dieses zentralen Begriffs im Markus.",
       "status": "aktiv"
     },
@@ -221,7 +221,7 @@
       "referenz": "3. Mo 14,2–32",
       "vgl": false,
       "url": "https://www.bibleserver.com/MENG/3.Mose14,2",
-      "autor": "AI",
+      "autor": "KI",
       "begruendung": "Jesus verweist den Geheilten an das Reinigungsritual nach 3. Mo 14 — er hebt das Torarecht nicht auf, sondern bestätigt es ausdrücklich.",
       "status": "aktiv"
     }
