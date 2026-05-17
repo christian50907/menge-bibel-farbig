@@ -68,6 +68,15 @@
       "begruendung": "Die Armen habt ihr allezeit bei euch — Jesus zitiert 5. Mo 15,11: »Denn Arme werden im Lande nicht aufhören.« Im Kontext von 5. Mo 15 folgt auf diese Feststellung das Gebot zur Großzügigkeit. Jesus wendet das Zitat an, um die Kritik an der Salbung zu relativieren: Die Tora selbst bestätigt, dass die Möglichkeit zum Almosen immer besteht — seine Gegenwart aber nicht."
     },
     {
+      "vers_von": 12, "von": 54, "vers_bis": 12, "bis": 90, "typ": "at",
+      "referenz": "2. Mo 12,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,6",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "Das Passahlamm wird am 14. Nisan geschlachtet — so 2. Mo 12,6, die Gründungsurkunde des Pessachfestes. Das Fest war die wichtigste jährliche Erinnerungsfeier Israels: rituelle Gegenwärtigung des Exodus, bei dem Gott Israel durch das Blut des Lammes rettete. Jesu Tod fällt auf denselben Tag — diese Parallele trägt die gesamte Passionserzählung implizit mit."
+    },
+    {
       "vers_von": 13,
       "von": 60,
       "vers_bis": 15,
@@ -287,6 +296,15 @@
         { "label": "Dan 7,13", "url": "https://www.bibleserver.com/MENG/Daniel7,13" }
       ],
       "begruendung": "Jesus kombiniert zwei messianische Schlüsseltexte: Ps 110,1 (»Setze dich zu meiner Rechten«) und Dan 7,13 (»mit den Wolken des Himmels kam einer wie ein Menschensohn«). Genau diese Kombination — Erhöhung zur Rechten Gottes und apokalyptische Weltherrschaft — ist der eigentliche Auslöser des Todesurteils. Die Menge-Bibel verweist in einer Fußnote auf beide Stellen."
+    },
+    {
+      "vers_von": 64, "von": 9, "vers_bis": 64, "bis": 28, "typ": "at",
+      "referenz": "3. Mo 24,16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose24,16",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Gotteslästerung« ist kein moralischer Vorwurf, sondern ein präziser Rechtsbegriff: 3. Mo 24,16 schreibt dafür die Todesstrafe vor. Das Zerreißen der Kleider durch den Hohenpriester (V63) war die rituell vorgeschriebene Reaktion des Richters, der Gotteslästerung gehört hat — Verfahrensrecht, keine Emotion. Der moderne Leser sieht Drama; der jüdische Leser sah die Torah-Bestimmung in Aktion treten."
     },
     {
       "vers_von": 65,

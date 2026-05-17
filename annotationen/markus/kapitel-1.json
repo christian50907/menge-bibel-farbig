@@ -108,6 +108,15 @@
       "status": "aktiv"
     },
     {
+      "vers_von": 8, "von": 62, "vers_bis": 8, "bis": 77, "typ": "at",
+      "referenz": "Joel 3,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Er wird euch mit heiligem Geiste taufen« — die Verheißung der Geistausgießung war das zentrale Zeichen der Endzeit: Joel 3,1 »Ich werde meinen Geist ausgießen über alles Fleisch.« Johannes kündigt an, dass dieser Moment jetzt kommt. Für einen jüdischen Zuhörer war das eine explosive eschatologische Aussage."
+    },
+    {
       "vers_von": 11,
       "von": 42,
       "vers_bis": 11,
