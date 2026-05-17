@@ -69,6 +69,15 @@
       "begruendung": "Mose und Elia erscheinen bei der Verklärung — sie verkörpern Gesetz (Tora) und Propheten, die beiden Säulen der jüdischen Schrift. Ihre Erscheinung bezeugt: Jesus ist die Erfüllung beider."
     },
     {
+      "vers_von": 5, "von": 27, "vers_bis": 5, "bis": 32, "typ": "at",
+      "referenz": "Dtn 33,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose33,10",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Rabbi« (mein Großer/mein Lehrer) war im 1. Jh. ein Ehrentitel für anerkannte Torah-Ausleger. Dtn 33,10 beschreibt den Lehrauftrag der Träger der Torah: »Sie werden Jakob deine Rechte lehren und Israel dein Gesetz.« Für moderne Leser klingt »Rabbi« wie eine Höflichkeitsformel; für damalige Juden bezeichnete der Titel einen anerkannten Ausleger mit religiöser Autorität."
+    },
+    {
       "vers_von": 7,
       "von": 9,
       "vers_bis": 7,
@@ -113,6 +122,15 @@
       "autor": "AI",
       "status": "inaktiv",
       "begruendung": "»daß er vieles leiden und daß er verworfen werden müsse« — inhaltlicher Anklang an Jes 53,3 (verachtet und verworfen). Nicht annotiert, weil dasselbe Motiv bereits in Mk 8,31 aktiv annotiert ist. Keine neue Dimension gegenüber der ersten Leidensankündigung."
+    },
+    {
+      "vers_von": 10, "von": 102, "vers_bis": 10, "bis": 128, "typ": "at",
+      "referenz": "Dan 12,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Auferstehung von den Toten« war im 1. Jh. kein selbstverständlicher Begriff, sondern eine theologische Streitfrage: Pharisäer glaubten daran, Sadduzäer verneinten sie (vgl. Mk 12,18). Die AT-Grundlage: Dan 12,2 »Viele, die im Staub der Erde schlafen, werden erwachen: die einen zum ewigen Leben, die anderen zu ewiger Schmach.« Die Jünger diskutieren, was der Begriff bedeuten kann — dieser Dissens ist der Hintergrund."
     },
     {
       "vers_von": 13,

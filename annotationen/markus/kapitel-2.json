@@ -57,6 +57,15 @@
       "typ": "jesus"
     },
     {
+      "vers_von": 10, "von": 25, "vers_bis": 10, "bis": 41, "typ": "at",
+      "referenz": "Dan 7,13-14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "AI",
+      "status": "aktiv",
+      "begruendung": "»Menschensohn« (bar nasha) ist Jesu Selbstbezeichnung aus Dan 7,13-14: die Gestalt, die vor dem Alten der Tage erscheint und ewige universale Herrschaft empfängt. Wenn Jesus sagt, dieser Menschensohn habe Vollmacht, Sünden zu vergeben, klingt das für einen jüdischen Zuhörer nahe an Gotteslästerung — V7 macht genau das deutlich. Der Titel verbindet menschliche Erscheinung mit göttlicher Autorität."
+    },
+    {
       "vers_von": 11,
       "von": 0,
       "vers_bis": 11,
