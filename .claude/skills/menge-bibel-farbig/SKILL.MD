@@ -602,7 +602,7 @@ Mit vollständigen Metadaten — `autor`, `status` und `begruendung` sind Pflich
   "vers_von": 2, "von": 45, "vers_bis": 2, "bis": 121, "typ": "at",
   "referenz": "Mal 3,1", "vgl": false,
   "url": "https://www.bibleserver.com/MENG/Maleachi3,1",
-  "autor": "AI",
+  "autor": "KI",
   "status": "aktiv",
   "begruendung": "Wörtliches Zitat: Der Bote, der den Weg bereiten soll..."
 }
@@ -613,7 +613,7 @@ Für mehrere Referenzen an einer Stelle `urls` (Plural) statt `url`:
 ```json
 {
   "vers_von": 32, "von": 109, "vers_bis": 32, "bis": -1, "typ": "at",
-  "autor": "AI",
+  "autor": "KI",
   "status": "aktiv",
   "urls": [
     { "label": "Hes 17,23", "url": "https://www.bibleserver.com/MENG/Hesekiel17,23" },
@@ -630,7 +630,7 @@ Inaktive Stellen (geprüft, aber bewusst nicht dargestellt):
   "vers_von": 19, "von": 124, "vers_bis": 19, "bis": -1, "typ": "at",
   "referenz": "Ps 126,3", "vgl": true,
   "url": "...",
-  "autor": "AI",
+  "autor": "KI",
   "status": "inaktiv",
   "begruendung": "Zu allgemeines Lobesvokabular — kein spezifischer Textverweis."
 }
@@ -648,7 +648,7 @@ Inaktive Stellen (geprüft, aber bewusst nicht dargestellt):
 - `vgl`: `true` = inhaltliche Anspielung, `false` = wörtliches Zitat
 
 **Metadaten-Felder** (nur `typ: "at"`):
-- `autor`: `"AI"` oder `"Mensch"`
+- `autor`: `"KI"` oder `"Mensch"`
 - `status`: `"aktiv"` (wird dargestellt) oder `"inaktiv"` (geprüft, nicht dargestellt) — **immer explizit angeben**
 - `begruendung`: Erklärung warum annotiert oder warum inaktiv
 
@@ -673,7 +673,7 @@ Beispiel (Jesus-Rede V25–26, AT-Bezug nur in V26):
 { "vers_von": 25, "von": 21, "vers_bis": 26, "bis": -1, "typ": "jesus" },
 { "vers_von": 26, "von": 71, "vers_bis": 26, "bis": 137, "typ": "at",
   "referenz": "1. Sam 21,2–7", "vgl": false, "url": "...",
-  "autor": "AI", "status": "aktiv", "begruendung": "..." }
+  "autor": "KI", "status": "aktiv", "begruendung": "..." }
 ```
 
 ### AT-Referenzen verifizieren ⚠️
