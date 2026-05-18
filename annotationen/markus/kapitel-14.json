@@ -1,0 +1,323 @@
+{
+  "buch": "Markus",
+  "kapitel": 14,
+  "titel": "Salbung · Abendmahl · Gethsemane · Verhaftung · Verhör · Verleugnung",
+  "abschnitte": [
+    {
+      "id": "salbung",
+      "vers_von": 1,
+      "vers_bis": 9,
+      "titel": "1. Die Salbung Jesu in Betanien"
+    },
+    {
+      "id": "judas",
+      "vers_von": 10,
+      "vers_bis": 11,
+      "titel": "2. Der Verrat des Judas"
+    },
+    {
+      "id": "mahl",
+      "vers_von": 12,
+      "vers_bis": 26,
+      "titel": "3. Das letzte Mahl · Einsetzung des Abendmahls"
+    },
+    {
+      "id": "gethsem",
+      "vers_von": 27,
+      "vers_bis": 42,
+      "titel": "4. Gethsemane · Verhaftung"
+    },
+    {
+      "id": "verhaft",
+      "vers_von": 43,
+      "vers_bis": 52,
+      "titel": "5. Die Verhaftung"
+    },
+    {
+      "id": "verhoer",
+      "vers_von": 53,
+      "vers_bis": 65,
+      "titel": "6. Das Verhör vor dem Hohen Rat"
+    },
+    {
+      "id": "verleugn",
+      "vers_von": 66,
+      "vers_bis": 72,
+      "titel": "7. Die Verleugnung durch Petrus"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 6,
+      "von": 16,
+      "vers_bis": 9,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 7,
+      "von": 5,
+      "vers_bis": 7,
+      "bis": 41,
+      "typ": "at",
+      "referenz": "5. Mo 15,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose15,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Armen habt ihr allezeit bei euch — Jesus zitiert 5. Mo 15,11: »Denn Arme werden im Lande nicht aufhören.« Im Kontext von 5. Mo 15 folgt auf diese Feststellung das Gebot zur Großzügigkeit. Jesus wendet das Zitat an, um die Kritik an der Salbung zu relativieren: Die Tora selbst bestätigt, dass die Möglichkeit zum Almosen immer besteht — seine Gegenwart aber nicht."
+    },
+    {
+      "vers_von": 12, "von": 54, "vers_bis": 12, "bis": 90, "typ": "at",
+      "referenz": "2. Mo 12,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Passahlamm wird am 14. Nisan geschlachtet — so 2. Mo 12,6, die Gründungsurkunde des Pessachfestes. Das Fest war die wichtigste jährliche Erinnerungsfeier Israels: rituelle Gegenwärtigung des Exodus, bei dem Gott Israel durch das Blut des Lammes rettete. Jesu Tod fällt auf denselben Tag — diese Parallele trägt die gesamte Passionserzählung implizit mit."
+    },
+    {
+      "vers_von": 13,
+      "von": 60,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 70,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 135,
+      "vers_bis": 18,
+      "bis": 162,
+      "typ": "at",
+      "referenz": "Ps 41,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm41,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Einer, der hier mit mir ißt — Echo von Ps 41,10: »der meinen Brotlaib aß, hat die Ferse gegen mich erhoben.« Im 1. Jahrhundert kannte jeder fromme Jude diesen Psalm als Klage über den Verrat eines Tischgenossen. Die Menge-Bibel verweist in einer Fußnote ausdrücklich auf diese Stelle."
+    },
+    {
+      "vers_von": 20,
+      "von": 21,
+      "vers_bis": 21,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 22,
+      "von": 124,
+      "vers_bis": 22,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 24,
+      "von": 23,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 24,
+      "von": 48,
+      "vers_bis": 24,
+      "bis": 58,
+      "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2. Mo 24,8", "url": "https://www.bibleserver.com/MENG/2.Mose24,8" },
+        { "label": "Sach 9,11", "url": "https://www.bibleserver.com/MENG/Sacharja9,11" }
+      ],
+      "begruendung": "Das Bundesblut — in 2. Mo 24,8 besprengt Mose das Volk mit dem Blut des Bundesopfers (»Dies ist das Blut des Bundes«), und Sach 9,11 spricht vom »Blut deines Bundes« als Grundlage der Befreiung. Die Menge-Bibel verweist in einer Fußnote auf beide Stellen. Jesus nimmt diese Bundesformel auf und deutet den Kelch als Stiftung des neuen Bundesbluts."
+    },
+    {
+      "vers_von": 26,
+      "von": 17,
+      "vers_bis": 26,
+      "bis": 42,
+      "typ": "at",
+      "referenz": "Ps 115-118",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm115",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Passa-Hallel (Ps 115–118) — fester Abschluss des Passahmahlrituals. Kein Textzitat; die Menge-Bibel nennt die Psalmen nur in Klammern als liturgische Erläuterung. Kein load-bearing AT-Bezug, der über den bereits bekannten Passah-Kontext hinausgeht."
+    },
+    {
+      "vers_von": 27,
+      "von": 28,
+      "vers_bis": 28,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 27,
+      "von": 87,
+      "vers_bis": 27,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Sach 13,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Sacharja13,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ich werde den Hirten niederschlagen — wörtliches Zitat aus Sach 13,7. Jesus deutet die bevorstehende Zerstreuung der Jünger als Erfüllung dieser Prophetie über den geschlagenen Hirten und die zerstreute Herde."
+    },
+    {
+      "vers_von": 30,
+      "von": 21,
+      "vers_bis": 30,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 32,
+      "von": 83,
+      "vers_bis": 32,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 20,
+      "vers_bis": 34,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 34,
+      "von": 21,
+      "vers_bis": 34,
+      "bis": 61,
+      "typ": "at",
+      "referenz": "Ps 42,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm42,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Tiefbetrübt ist meine Seele bis zum Tode — Jesus betet in der Sprache der Klagepsalmen. Der Refrain von Ps 42,6.12 und 43,5 lautet: »Was bist du so betrübt, meine Seele?« — das psalmische Idiom für existentielle Todesnot. Jesus drückt seine Gethsemane-Angst in dieser dem frommen Juden vertrauten Sprache aus."
+    },
+    {
+      "vers_von": 36,
+      "von": 16,
+      "vers_bis": 36,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 36,
+      "von": 57,
+      "vers_bis": 36,
+      "bis": 69,
+      "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 51,17", "url": "https://www.bibleserver.com/MENG/Jesaja51,17" },
+        { "label": "Ps 75,9", "url": "https://www.bibleserver.com/MENG/Psalm75,9" }
+      ],
+      "begruendung": "Der Kelch als Bild für Gottes Zorngericht — Jes 51,17: »Jerusalem... du hast getrunken den Becher des Zornes.« In Ps 75,9 hält der Herr selbst den gärenden Becher bereit. Jesus bittet, diesen Kelch nicht trinken zu müssen — und nimmt ihn dennoch an. Ohne diesen AT-Hintergrund bleibt das Bild des Kelchs unverständlich."
+    },
+    {
+      "vers_von": 37,
+      "von": 63,
+      "vers_bis": 38,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 41,
+      "von": 46,
+      "vers_bis": 42,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 48,
+      "von": 27,
+      "vers_bis": 49,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 61,
+      "von": 8,
+      "vers_bis": 61,
+      "bis": 37,
+      "typ": "at",
+      "referenz": "Jes 53,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesus schweigt vor dem Hohenpriester — Jes 53,7 beschreibt den leidenden Knecht: »Obwohl er gemißhandelt und gequält wurde, tat er seinen Mund nicht auf — er wurde geführt wie ein Schaf zur Schlachtbank.« Das Schweigen Jesu erfüllt sichtbar das Bild des leidenden Gottesknechts."
+    },
+    {
+      "vers_von": 62,
+      "von": 18,
+      "vers_bis": 62,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 62,
+      "von": 18,
+      "vers_bis": 62,
+      "bis": 33,
+      "typ": "at",
+      "referenz": "2. Mo 3,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ja, ich bin es« — ego eimi als theophane Formel bereits in Mk 6,50 (2. Mo 3,14) aktiv annotiert. Hier steht die Formel im Kontext des messianischen Selbstbekenntnisses; der entscheidende AT-Bezug liegt in den nachfolgenden Zitaten (Ps 110,1 + Dan 7,13)."
+    },
+    {
+      "vers_von": 62,
+      "von": 80,
+      "vers_bis": 62,
+      "bis": 139,
+      "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 110,1", "url": "https://www.bibleserver.com/MENG/Psalm110,1" },
+        { "label": "Dan 7,13", "url": "https://www.bibleserver.com/MENG/Daniel7,13" }
+      ],
+      "begruendung": "Jesus kombiniert zwei messianische Schlüsseltexte: Ps 110,1 (»Setze dich zu meiner Rechten«) und Dan 7,13 (»mit den Wolken des Himmels kam einer wie ein Menschensohn«). Genau diese Kombination — Erhöhung zur Rechten Gottes und apokalyptische Weltherrschaft — ist der eigentliche Auslöser des Todesurteils. Die Menge-Bibel verweist in einer Fußnote auf beide Stellen."
+    },
+    {
+      "vers_von": 64, "von": 9, "vers_bis": 64, "bis": 28, "typ": "at",
+      "referenz": "3. Mo 24,16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose24,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Gotteslästerung« ist kein moralischer Vorwurf, sondern ein präziser Rechtsbegriff: 3. Mo 24,16 schreibt dafür die Todesstrafe vor. Das Zerreißen der Kleider durch den Hohenpriester (V63) war die rituell vorgeschriebene Reaktion des Richters, der Gotteslästerung gehört hat — Verfahrensrecht, keine Emotion. Der moderne Leser sieht Drama; der jüdische Leser sah die Torah-Bestimmung in Aktion treten."
+    },
+    {
+      "vers_von": 65,
+      "von": 22,
+      "vers_bis": 65,
+      "bis": 102,
+      "typ": "at",
+      "referenz": "Jes 50,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja50,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Anspucken, Verhüllen, Schlagen — Jes 50,6 beschreibt den leidenden Gottesknecht: »Ich habe meinen Rücken dargereicht den Schlagenden... mein Angesicht nicht verborgen vor Schmach und Speichel.« Was Jesaja prophezeit, vollzieht sich hier wörtlich in Jesu Verhör."
+    }
+  ]
+}

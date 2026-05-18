@@ -3,25 +3,227 @@
   "kapitel": 1,
   "titel": "Die Heilsbotschaft nach Markus",
   "abschnitte": [
-    { "id": "einleitung", "vers_von": 1,  "vers_bis": 13, "titel": "Einleitung: Die Vorbereitung" },
-    { "id": "galilaea",   "vers_von": 14, "vers_bis": 45, "titel": "I. Die Anfänge der Wirksamkeit Jesu in Galiläa" }
+    {
+      "id": "einleitung",
+      "vers_von": 1,
+      "vers_bis": 13,
+      "titel": "Einleitung: Die Vorbereitung"
+    },
+    {
+      "id": "galilaea",
+      "vers_von": 14,
+      "vers_bis": 45,
+      "titel": "I. Die Anfänge der Wirksamkeit Jesu in Galiläa"
+    }
   ],
   "markierungen": [
-    { "vers_von": 2,  "vers_bis": 2,  "typ": "at",    "von": 45, "bis": 121, "referenz": "Mal 3,1",       "vgl": false, "url": "https://www.bibleserver.com/MENG/Maleachi3,1" },
-    { "vers_von": 3,  "vers_bis": 3,  "typ": "at",    "von": 0,  "bis": 88,  "referenz": "Jes 40,3",       "vgl": false, "url": "https://www.bibleserver.com/MENG/Jesaja40,3" },
-    { "vers_von": 6,  "vers_bis": 6,  "typ": "at",    "von": 0,  "bis": 84,  "referenz": "2. Kön 1,8",    "vgl": true,  "url": "https://www.bibleserver.com/MENG/2.Koenige1,8" },
-    { "vers_von": 6,  "vers_bis": 6,  "typ": "at",    "von": 104,  "bis": 116,  "referenz": "3. Mo 11,22",    "vgl": true,  "url": "https://www.bibleserver.com/MENG/3.Mose11,22" },
-    { "vers_von": 11, "vers_bis": 11, "typ": "at",    "von": 42, "bis": 111, "vgl": false, "urls": [
-        { "label": "Ps 2,7",   "url": "https://www.bibleserver.com/MENG/Psalm2,7" },
-        { "label": "Jes 42,1", "url": "https://www.bibleserver.com/MENG/Jesaja42,1" }
-    ]},
-    { "vers_von": 15, "vers_bis": 15, "typ": "jesus", "von": 16, "bis": -1 },
-    { "vers_von": 15, "vers_bis": 15, "typ": "at",    "von": 17, "bis": 78,  "referenz": "Dan 2,44",       "vgl": true,  "url": "https://www.bibleserver.com/MENG/Daniel2,44" },
-    { "vers_von": 17, "vers_bis": 17, "typ": "jesus", "von": 25, "bis": -1 },
-    { "vers_von": 25, "vers_bis": 25, "typ": "jesus", "von": 35, "bis": -1 },
-    { "vers_von": 38, "vers_bis": 38, "typ": "jesus", "von": 26, "bis": -1 },
-    { "vers_von": 41, "vers_bis": 41, "typ": "jesus", "von": 85, "bis": -1 },
-    { "vers_von": 44, "vers_bis": 44, "typ": "jesus", "von": 18, "bis": -1 },
-    { "vers_von": 44, "vers_bis": 44, "typ": "at",    "von": 80, "bis": 191, "referenz": "3. Mo 14,2–32", "vgl": false, "url": "https://www.bibleserver.com/MENG/3.Mose14,2" }
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 1, "bis": 18, "typ": "at",
+      "referenz": "Jes 52,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,7",
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "Das Wort »Heilsbotschaft« (εὐαγγέλιον) ist in Jes 52,7 am prägnantesten vorgeformt: der endzeitliche Freudenbote, der »Dein Gott ist König!« ausruft. Die Terminologie ist für einen jüdischen Leser sofort erkennbar als eschatologische Sprache des Trostbuchs."
+    },
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 1, "bis": 18, "typ": "at",
+      "referenz": "Jes 61,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jes 61,1 verwendet ebenfalls das Freudenboten-Vokabular (»den Elenden frohe Botschaft zu bringen«). Die Stelle ist aber durch Jes 52,7 vollständig abgedeckt — kein eigenständiger Bezug, der über Jes 52,7 hinausgeht."
+    },
+    {
+      "vers_von": 1, "von": 29, "vers_bis": 1, "bis": 37, "typ": "at",
+      "vgl": true,
+      "autor": "Mensch",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 2,2",   "url": "https://www.bibleserver.com/MENG/Psalm2,2" },
+        { "label": "Dan 9,25", "url": "https://www.bibleserver.com/MENG/Daniel9,25" }
+      ],
+      "begruendung": "»Christus« ist kein Nachname, sondern der Titel »Maschiach« (der Gesalbte) — im 1. Jh. Alltagssprache der jüdischen Erwartung. Ps 2,2 zeichnet den Gesalbten als universalen König Gottes; Dan 9,25 macht ihn zum Ziel der Weltgeschichte. Ein jüdischer Hörer verstand: Der Gesalbte ist gekommen."
+    },
+    {
+      "vers_von": 1, "von": 39, "vers_bis": 1, "bis": 55, "typ": "at",
+      "referenz": "2 Sam 7,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,14",
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "»Sohn Gottes« als Messiastitel hat seinen Ursprung im Davidsbund: 2 Sam 7,14 verheißt dem Nachkommen Davids ewige Gottessohnschaft (»Ich will sein Vater sein, und er soll mein Sohn sein«). V11 annotiert Ps 2,7, wo dieser Bund hymnisch bei der Inthronisation entfaltet wird."
+    },
+    {
+      "vers_von": 2,
+      "von": 45,
+      "vers_bis": 2,
+      "bis": 121,
+      "typ": "at",
+      "referenz": "Mal 3,1",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,1",
+      "autor": "KI",
+      "begruendung": "Wörtliches Zitat: Der Bote, der den Weg bereiten soll — Maleachi 3,1 ist die direkte Vorlage für die Täufer-Beschreibung des Markus.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 3,
+      "von": 0,
+      "vers_bis": 3,
+      "bis": 88,
+      "typ": "at",
+      "referenz": "Jes 40,3",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,3",
+      "autor": "KI",
+      "begruendung": "Wörtliches Zitat: Die Stimme in der Wüste — Jesaja 40,3 ist das Trostbuch-Zitat, das Markus explizit dem Täufer zuordnet.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 6,
+      "von": 0,
+      "vers_bis": 6,
+      "bis": 84,
+      "typ": "at",
+      "referenz": "2. Kön 1,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige1,8",
+      "autor": "KI",
+      "begruendung": "Fellkleid und Ledergürtel des Johannes entsprechen der Beschreibung Elias in 2. Kön 1,8 — für damalige Juden das unverkennbare Zeichen des neuen Elia.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 6,
+      "von": 104,
+      "vers_bis": 6,
+      "bis": 116,
+      "typ": "at",
+      "referenz": "3. Mo 11,22",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,22",
+      "autor": "Mensch",
+      "begruendung": "Heuschrecken als Nahrung — für heutige Leser befremdlich, aber 3. Mo 11,22 erlaubt Heuschrecken als reine Speise ausdrücklich. Johannes lebt also vollständig innerhalb des Torarechts.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 8, "von": 62, "vers_bis": 8, "bis": 77, "typ": "at",
+      "referenz": "Joel 3,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Er wird euch mit heiligem Geiste taufen« — die Verheißung der Geistausgießung war das zentrale Zeichen der Endzeit: Joel 3,1 »Ich werde meinen Geist ausgießen über alles Fleisch.« Johannes kündigt an, dass dieser Moment jetzt kommt. Für einen jüdischen Zuhörer war das eine explosive eschatologische Aussage."
+    },
+    {
+      "vers_von": 11,
+      "von": 42,
+      "vers_bis": 11,
+      "bis": 111,
+      "typ": "at",
+      "autor": "KI",
+      "urls": [
+        {
+          "label": "Ps 2,7",
+          "url": "https://www.bibleserver.com/MENG/Psalm2,7"
+        },
+        {
+          "label": "Jes 42,1",
+          "url": "https://www.bibleserver.com/MENG/Jesaja42,1"
+        }
+      ],
+      "begruendung": "Die Himmelsstimme verbindet zwei AT-Stellen: Ps 2,7 (Du bist mein Sohn) — der Königspsalm für den Messias — und Jes 42,1 (mein Knecht, an dem ich Wohlgefallen habe) — das erste Gottesknechtslied.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 13,
+      "von": 11,
+      "vers_bis": 13,
+      "bis": 41,
+      "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "urls": [
+        {
+          "label": "Dtn 8,2",
+          "url": "https://www.bibleserver.com/MENG/5.Mose8,2"
+        },
+        {
+          "label": "1. Kön 19,8",
+          "url": "https://www.bibleserver.com/MENG/1.Koenige19,8"
+        }
+      ],
+      "begruendung": "Die vierzig Tage in der Wüste rufen zwei prägende AT-Bilder auf: Dtn 8,2 (Israel vierzig Jahre in der Wüste versucht — die nationale Gründungserzählung schlechthin) und 1. Kön 19,8 (Elia vierzig Tage zum Gottesberg — und Johannes wurde gerade als neuer Elia eingeführt, V6). Jesus rekapituliert beide: den Weg Israels und den Weg des Propheten.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 15,
+      "von": 16,
+      "vers_bis": 15,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 15,
+      "von": 17,
+      "vers_bis": 15,
+      "bis": 78,
+      "typ": "at",
+      "referenz": "Dan 2,44",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,44",
+      "autor": "KI",
+      "begruendung": "Das Reich Gottes, das nahe herbeigekommen ist — Dan 2,44 beschreibt das ewige Gottesreich, das alle anderen Reiche ablösen wird. Erstes Auftreten dieses zentralen Begriffs im Markus.",
+      "status": "aktiv"
+    },
+    {
+      "vers_von": 17,
+      "von": 25,
+      "vers_bis": 17,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 25,
+      "von": 35,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 38,
+      "von": 26,
+      "vers_bis": 38,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 41,
+      "von": 85,
+      "vers_bis": 41,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 44,
+      "von": 18,
+      "vers_bis": 44,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 44,
+      "von": 80,
+      "vers_bis": 44,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "3. Mo 14,2–32",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/3.Mose14,2",
+      "autor": "KI",
+      "begruendung": "Jesus verweist den Geheilten an das Reinigungsritual nach 3. Mo 14 — er hebt das Torarecht nicht auf, sondern bestätigt es ausdrücklich.",
+      "status": "aktiv"
+    }
   ]
 }
