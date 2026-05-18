@@ -1,0 +1,78 @@
+{
+  "buch": "Markus",
+  "kapitel": 16,
+  "titel": "Die Auferstehung · Erscheinungen · Missionsbefehl",
+  "abschnitte": [
+    {
+      "id": "grab",
+      "vers_von": 1,
+      "vers_bis": 8,
+      "titel": "1. Das leere Grab"
+    },
+    {
+      "id": "ersch",
+      "vers_von": 9,
+      "vers_bis": 18,
+      "titel": "2. Die Erscheinungen des Auferstandenen (langer Schluss)"
+    },
+    {
+      "id": "himmel",
+      "vers_von": 19,
+      "vers_bis": 20,
+      "titel": "3. Himmelfahrt und Sendung der Jünger"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 5, "von": 57, "vers_bis": 5, "bis": 152, "typ": "at",
+      "referenz": "Dan 10,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Jüngling im langen weißen Gewand ist ein himmlischer Bote — das weiße Kleid ist im AT das Erkennungszeichen einer Himmelsgestalt. In Dan 10,5 erscheint eine solche Gestalt dem Daniel »in weiße Leinwand gekleidet«. Ein damaliger jüdischer Leser erkannte in der weißen Kleidung sofort das Zeichen des Überirdischen."
+    },
+    {
+      "vers_von": 14, "von": 114, "vers_bis": 14, "bis": 131, "typ": "at",
+      "referenz": "Hes 3,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel3,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Herzenshärte« hat AT-Wurzeln (Hes 3,7; 2. Mo 4,21 Pharao). Das Verstockungsmotiv ist in Mk aber bereits durch Mk 4,12 (Jes 6,9-10) annotiert; in V. 14 ist es erzählerisch beiläufig ohne wörtlichen AT-Bezug."
+    },
+    {
+      "vers_von": 15, "von": 26, "vers_bis": 18, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 15, "von": 39, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "Jes 49,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die universale Sendung »in alle Welt... der ganzen Schöpfung« findet ihre AT-Grundlage in Jes 49,6: »Ich mache dich zum Licht der Völker, damit meine Rettung reiche bis ans Ende der Erde.« Was Jesaja als Gottes Absicht für Israel ankündigte, beauftragen Jesus nun explizit — die Jünger treten das Erbe des Gottesknechts an."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": 25, "typ": "at",
+      "referenz": "Ps 91,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm91,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Aufheben von Schlangen ohne Schaden greift das Schutzversprechen von Ps 91 auf, dem Psalm über den Schutz des Frommen: »Über Schlangen und Nattern wirst du hinschreiten« (Ps 91,13). Der Psalm war im Frühjudentum ein bekannter Text über den besonderen Schutz, den Gott seinen Beauftragten gewährt."
+    },
+    {
+      "vers_von": 19, "von": 51, "vers_bis": 19, "bis": 86, "typ": "at",
+      "referenz": "2. Kön 2,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige2,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»In den Himmel emporgehoben werden« — im AT war nur von Elia bekannt, dass er leibhaftig in den Himmel aufgefahren ist (2. Kön 2,11: »Elia fuhr im Wetter gen Himmel«). Kein anderer Mensch im AT wird so beschrieben. Ein jüdischer Leser würde die Himmelfahrt Jesu unmittelbar an Elia messen — und die Parallele als Überbietung wahrnehmen."
+    },
+    {
+      "vers_von": 19, "von": 91, "vers_bis": 19, "bis": 121, "typ": "at",
+      "referenz": "Ps 110,1", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Setzte sich zur Rechten Gottes« ist die Erfüllung von Ps 110,1 (»Setze dich zu meiner Rechten«). Ps 110,1 wurde bereits in Mk 12,36 (als Schriftzitat Jesu) und Mk 14,62 (als messianisches Bekenntnis vor dem Hohenpriester) aktiv annotiert — hier wäre es das dritte Vorkommen innerhalb desselben Buches."
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "buch": "Markus",
+  "kapitel": 9,
+  "titel": "Verklärung · Heilung des mondsüchtigen Knaben · Rangstreit · Ärgernisse",
+  "abschnitte": [
+    {
+      "id": "verklaer",
+      "vers_von": 1,
+      "vers_bis": 13,
+      "titel": "1. Die Verklärung Jesu · Elia und Johannes"
+    },
+    {
+      "id": "mondsuecht",
+      "vers_von": 14,
+      "vers_bis": 29,
+      "titel": "2. Heilung des mondsüchtigen Knaben"
+    },
+    {
+      "id": "leiden2",
+      "vers_von": 30,
+      "vers_bis": 32,
+      "titel": "3. Zweite Leidensankündigung"
+    },
+    {
+      "id": "rang",
+      "vers_von": 33,
+      "vers_bis": 37,
+      "titel": "4. Der Rangstreit der Jünger"
+    },
+    {
+      "id": "aerger",
+      "vers_von": 38,
+      "vers_bis": 50,
+      "titel": "5. Ärgernisse · Das Salz"
+    }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1,
+      "von": 19,
+      "vers_bis": 1,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 2,
+      "von": 0,
+      "vers_bis": 2,
+      "bis": 121,
+      "typ": "at",
+      "referenz": "2. Mo 24,15-16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Sechs Tage später... auf einen hohen Berg hinauf« — in 2. Mo 24,15-16 bedeckte die Wolke den Berg sechs Tage lang, bevor Gott aus ihr zu Mose sprach. Die Zeitangabe »sechs Tage« verweist auf 2. Mo 24: Die Wolke bedeckte den Berg sechs Tage, bevor Gott sprach. Ein jüdischer Leser erkennt das Sinai-Motiv schon am Szenenanfang, noch bevor in V7 die Wolke erscheint."
+    },
+    {
+      "vers_von": 4,
+      "von": 0,
+      "vers_bis": 4,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 34,5-6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose34,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose und Elia erscheinen bei der Verklärung — sie verkörpern Gesetz (Tora) und Propheten, die beiden Säulen der jüdischen Schrift. Ihre Erscheinung bezeugt: Jesus ist die Erfüllung beider."
+    },
+    {
+      "vers_von": 5, "von": 27, "vers_bis": 5, "bis": 32, "typ": "at",
+      "referenz": "Dtn 33,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose33,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Rabbi« (mein Großer/mein Lehrer) war im 1. Jh. ein Ehrentitel für anerkannte Torah-Ausleger. Dtn 33,10 beschreibt den Lehrauftrag der Träger der Torah: »Sie werden Jakob deine Rechte lehren und Israel dein Gesetz.« Für moderne Leser klingt »Rabbi« wie eine Höflichkeitsformel; für damalige Juden bezeichnete der Titel einen anerkannten Ausleger mit religiöser Autorität."
+    },
+    {
+      "vers_von": 7,
+      "von": 9,
+      "vers_bis": 7,
+      "bis": 84,
+      "typ": "at",
+      "referenz": "2. Mo 24,15-16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Wolke auf dem hohen Berg ist das AT-Zeichen schlechthin für göttliche Gegenwart (Schechina): 2. Mo 24,15-16 — eine Wolke bedeckte den Berg, und die Herrlichkeit des Herrn ließ sich auf dem Berg Sinai nieder. Die Verklärungsszene trägt alle Züge einer Sinai-Theophanie: hoher Berg, Wolke, Stimme aus der Wolke, Mose anwesend. Ein jüdischer Leser würde sofort die Sinai-Parallele erkennen."
+    },
+    {
+      "vers_von": 7,
+      "von": 117,
+      "vers_bis": 7,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 18,15",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Höret auf ihn — 5. Mo 18,15 verheißt einen Propheten wie Mose, auf den Israel hören soll. Die Himmelsstimme zitiert dieses Wort und bestätigt: Jesus ist dieser verheißene Prophet."
+    },
+    {
+      "vers_von": 12,
+      "von": 21,
+      "vers_bis": 13,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 12,
+      "von": 169,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 53,3-5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»daß er vieles leiden und daß er verworfen werden müsse« — inhaltlicher Anklang an Jes 53,3 (verachtet und verworfen). Nicht annotiert, weil dasselbe Motiv bereits in Mk 8,31 aktiv annotiert ist. Keine neue Dimension gegenüber der ersten Leidensankündigung."
+    },
+    {
+      "vers_von": 10, "von": 102, "vers_bis": 10, "bis": 128, "typ": "at",
+      "referenz": "Dan 12,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Auferstehung von den Toten« war im 1. Jh. kein selbstverständlicher Begriff, sondern eine theologische Streitfrage: Pharisäer glaubten daran, Sadduzäer verneinten sie (vgl. Mk 12,18). Die AT-Grundlage: Dan 12,2 »Viele, die im Staub der Erde schlafen, werden erwachen: die einen zum ewigen Leben, die anderen zu ewiger Schmach.« Die Jünger diskutieren, was der Begriff bedeuten kann — dieser Dissens ist der Hintergrund."
+    },
+    {
+      "vers_von": 13,
+      "von": 53,
+      "vers_bis": 13,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "1. Kön 19,2-10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige19,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sie haben ihm angetan, was ihnen beliebte — wie Elia von Isebel verfolgt und bedroht wurde (1. Kön 19), so wurde Johannes der Täufer als der wiedergekommene Elia verfolgt und getötet."
+    },
+    {
+      "vers_von": 16,
+      "von": 19,
+      "vers_bis": 16,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 19,
+      "von": 39,
+      "vers_bis": 19,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 23,
+      "von": 22,
+      "vers_bis": 23,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 25,
+      "von": 103,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 29,
+      "von": 21,
+      "vers_bis": 29,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 31,
+      "von": 63,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 35,
+      "von": 61,
+      "vers_bis": 35,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 37,
+      "von": 0,
+      "vers_bis": 37,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 39,
+      "von": 26,
+      "vers_bis": 41,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 42,
+      "von": 0,
+      "vers_bis": 50,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 27,
+      "von": 21,
+      "vers_bis": 27,
+      "bis": 62,
+      "typ": "at",
+      "referenz": "2. Kön 4,34-35",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige4,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»faßte ihn bei der Hand und richtete ihn in die Höhe« — strukturell dieselbe Elisa-Geste wie in Mk 5,41 (Jairus-Tochter), wo 2. Kön 4,34-35 bereits aktiv annotiert ist. Kein neuer Aspekt gegenüber der früheren Stelle."
+    },
+    {
+      "vers_von": 48,
+      "von": 0,
+      "vers_bis": 48,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 66,24",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja66,24",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ihr Wurm stirbt nicht und das Feuer erlischt nicht — wörtliches Zitat aus Jes 66,24, dem letzten Vers des Jesaja-Buches: das Bild des ewigen Gerichts an denen, die sich gegen Gott auflehnen."
+    },
+    {
+      "vers_von": 49,
+      "von": 42,
+      "vers_bis": 49,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "3. Mo 2,13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose2,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jedes Schlachtopfer wird mit Salz gewürzt — 3. Mo 2,13 schreibt vor, dass alle Opfergaben gesalzen werden müssen. Jesus verbindet das Feuer des Gerichts mit dem Salz des Opfers: Prüfung und Reinigung gehören zusammen."
+    }
+  ]
+}

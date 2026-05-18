@@ -1,0 +1,13 @@
+# Rohtext-Cache (große Dateien, lokal generiert)
+ai-tools/*-roh.txt
+ai-tools/kap*_verses.json
+ai-tools/kap*_raw.txt
+ai-tools/check_kap*.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code — Sessions ignorieren, settings.json versionieren
+.claude/*
+!.claude/settings.json

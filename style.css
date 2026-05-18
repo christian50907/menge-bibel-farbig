@@ -226,11 +226,7 @@ body {
   user-select: none;
 }
 
-/* --- Fußnoten-Tooltip ---
-   Kleine hochgestellte Markierung im Text; Tooltip via title-Attribut.
-   Der Browser zeigt den title-Text beim Hover als nativen Tooltip.
-   cursor:help signalisiert dem Leser, dass hier mehr Information wartet.
-   ----------------------------------------------------------------- */
+/* --- Fußnoten-Tooltip --- */
 .fn {
   font-family: var(--schrift-ui);
   font-size: 16px;
@@ -266,6 +262,50 @@ body {
   white-space: nowrap;
 }
 .at a:hover { border-bottom-style: solid; }
+
+/* --- AT-Begründungs-Tooltip --- */
+.at-tooltip-wrap {
+  position: relative;
+  display: inline;
+}
+.at-tooltip-text {
+  display: none;
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 0;
+  background: var(--farbe-header);
+  color: var(--farbe-header-text);
+  font-family: var(--schrift-ui);
+  font-size: 11px;
+  font-style: normal;
+  line-height: 1.55;
+  padding: 6px 9px;
+  border-radius: 4px;
+  width: 240px;
+  white-space: normal;
+  z-index: 20;
+  pointer-events: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,.25);
+}
+.at-tooltip-text::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 14px;
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid var(--farbe-header);
+}
+.at-tooltip-autor {
+  color: var(--farbe-gold);
+  opacity: 0.7;
+  margin-left: 3px;
+}
+.at-tooltip-wrap:hover .at-tooltip-text {
+  display: block;
+}
 
 /* --- Rechte Sidebar (Inhaltsverzeichnis) --- */
 .sidebar-toc {
