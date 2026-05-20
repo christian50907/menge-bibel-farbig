@@ -9,12 +9,13 @@
 <body>
 
 <header class="site-header">
-  <a class="site-title" href="index.html">Die Heilige Schrift &nbsp;·&nbsp; <em>Menge-Bibel</em></a>
-  <nav class="site-nav">
-    <a href="index.html">Übersicht</a>
-    <a href="index.html#ueber">Über das Projekt</a>
-  </nav>
+  <a class="site-title" href="index.html"><em>Menge-Bibel</em> farbig</a>
+  <div class="header-mobile-actions">
+    <button class="hamburger-btn" onclick="toggleSidebar()" aria-label="Navigation">☰</button>
+    <button class="theme-btn-mobile" onclick="toggleTheme()" aria-label="Design umschalten">☀️</button>
+  </div>
 </header>
+<div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleSidebar()"></div>
 
 <div class="layout">
   <aside class="sidebar-nav" id="sidebar-nav">
@@ -23,17 +24,10 @@
   <main class="main-content" id="main-content">
     <div style="font-family:var(--schrift-ui);font-size:14px;color:#bbb;padding:2rem;">Bibeltext wird geladen…</div>
   </main>
-  <aside class="sidebar-toc" id="sidebar-toc">
-    <div style="font-family:var(--schrift-ui);font-size:13px;color:#bbb;">Lädt…</div>
-  </aside>
 </div>
 
 <footer class="site-footer">
-  Textgrundlage: <a href="https://github.com/renehamburger/Menge-Bibel" target="_blank">Menge-Bibel</a>
-  von Hermann Menge · gemeinfrei seit 2010 ·
-  <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.de" target="_blank">Public Domain Mark 1.0</a>
-  · AT-Links verweisen auf die
-  <a href="https://www.bibleserver.com/MENG" target="_blank">Menge-Version auf bibleserver.com</a>
+  Text: <a href="https://github.com/renehamburger/Menge-Bibel" target="_blank">Menge-Bibel</a> · Hermann Menge · <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.de" target="_blank">Public Domain</a>
 </footer>
 
 <script>
@@ -369,28 +363,20 @@ function baueSidebar(manifest, aktBuch, aktKap) {
   }
   html += `<h4>Weitere</h4><ul class="book-list">`;
   html += `<li><a href="index.html">← Zur Übersicht</a></li></ul>`;
+  html += `<div class="theme-toggle"><button onclick="toggleTheme()" id="theme-btn">🌙 Dunkles Design</button></div>`;
   return html;
 }
 
-function baueToc(elemente, voriges, naechstes, buch) {
-  const h2s = elemente.filter(e => e.typ === 'heading' && e.level === 2);
-  let html = '';
-  if (h2s.length) {
-    html += `<h4>Abschnitte</h4><ul class="toc-liste">`;
-    for (const h of h2s) {
-      const id = h.text
-        .toLowerCase()
-        .replace(/[^a-z0-9äöüß]/g, '-')
-        .replace(/-+/g, '-')
-        .slice(0, 50);
-      html += `<li><a href="#${id}">${h.text}</a></li>`;
-    }
-    html += `</ul>`;
-  }
-  html += `<div class="kapitel-nav">`;
-  if (voriges)   html += `<a href="kapitel.html?buch=${buch}&kapitel=${voriges}">← Kap. ${voriges}</a>`;
-  if (naechstes) html += `<a href="kapitel.html?buch=${buch}&kapitel=${naechstes}">Kap. ${naechstes} →</a>`;
-  html += `</div>`;
+function baueKapitelNav(voriges, naechstes, buch) {
+  if (!voriges && !naechstes) return '';
+  let html = '<div class="kapitel-nav-inline">';
+  html += voriges
+    ? `<a href="kapitel.html?buch=${buch}&kapitel=${voriges}">← Kapitel ${voriges}</a>`
+    : '<span></span>';
+  html += naechstes
+    ? `<a href="kapitel.html?buch=${buch}&kapitel=${naechstes}">Kapitel ${naechstes} →</a>`
+    : '<span></span>';
+  html += '</div>';
   return html;
 }
 
@@ -428,12 +414,17 @@ async function ladeSeite() {
 
     document.title = `${info.name} ${kapitel} — Menge-Bibel Annotationsprojekt`;
 
+    const liste  = info.kapitel;
+    const posIdx = liste.indexOf(kapitel);
+    const vor    = posIdx > 0 ? liste[posIdx - 1] : null;
+    const nach   = posIdx < liste.length - 1 ? liste[posIdx + 1] : null;
+
     let html = `
       <div class="kapitel-header">
         <div class="kapitel-label">${info.name} &nbsp;·&nbsp; Kapitel ${kapitel}</div>
         <h1 class="kapitel-titel">${anno.titel}</h1>
-        <div class="kapitel-untertitel">Übersetzt von Hermann Menge · Menge-Bibel (1926)</div>
       </div>
+      ${baueKapitelNav(vor, nach, buch)}
       <div class="legende">
         <span><span class="punkt punkt-rot"></span> Worte Jesu</span>
         <span><span class="punkt punkt-gruen"></span> Alttestamentlicher Bezug / Zitat</span>
@@ -452,13 +443,8 @@ async function ladeSeite() {
     }
 
     html += `</div>`;
+    html += baueKapitelNav(vor, nach, buch);
     document.getElementById("main-content").innerHTML = html;
-
-    const liste  = info.kapitel;
-    const posIdx = liste.indexOf(kapitel);
-    const vor    = posIdx > 0 ? liste[posIdx - 1] : null;
-    const nach   = posIdx < liste.length - 1 ? liste[posIdx + 1] : null;
-    document.getElementById("sidebar-toc").innerHTML = baueToc(elemente, vor, nach, buch);
 
   } catch (err) {
     document.getElementById("main-content").innerHTML =
@@ -470,6 +456,60 @@ async function ladeSeite() {
 }
 
 ladeSeite();
+
+function toggleTheme() {
+  const html = document.documentElement;
+  const isDark = html.getAttribute('data-theme') === 'dark';
+  html.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  localStorage.setItem('theme', isDark ? 'light' : 'dark');
+  const btn = document.getElementById('theme-btn');
+  if (btn) btn.textContent = isDark ? '🌙 Dunkles Design' : '☀️ Helles Design';
+}
+
+// ─── AT-Tooltip: Zweistufiges Tippen (Mobile) ────────────────────────────────
+// Erster Tap auf Link → Tooltip zeigen, Navigation verhindern
+// Zweiter Tap auf denselben Link → Navigation zulassen
+// Tap außerhalb → Tooltip schließen
+document.addEventListener('click', function(e) {
+  const link = e.target.closest('.at-tooltip-wrap a');
+  const wrap = e.target.closest('.at-tooltip-wrap');
+
+  if (!wrap) {
+    // Außerhalb: alle offenen Tooltips schließen
+    document.querySelectorAll('.at-tooltip-wrap.tooltip-offen').forEach(el => {
+      el.classList.remove('tooltip-offen');
+    });
+    return;
+  }
+
+  if (link) {
+    if (!wrap.classList.contains('tooltip-offen')) {
+      // Noch nicht offen → Tooltip zeigen, Navigation verhindern
+      e.preventDefault();
+      document.querySelectorAll('.at-tooltip-wrap.tooltip-offen').forEach(el => {
+        el.classList.remove('tooltip-offen');
+      });
+      wrap.classList.add('tooltip-offen');
+    }
+    // Bereits offen → Navigation läuft normal durch
+  }
+});
+
+function toggleSidebar() {
+  const sidebar = document.getElementById('sidebar-nav');
+  const overlay = document.getElementById('sidebar-overlay');
+  const isOpen = sidebar.classList.toggle('open');
+  overlay.classList.toggle('active', isOpen);
+  document.body.style.overflow = isOpen ? 'hidden' : '';
+}
+
+// Theme beim Laden wiederherstellen
+(function() {
+  const saved = localStorage.getItem('theme');
+  if (saved === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+})();
 </script>
 </body>
 </html>
