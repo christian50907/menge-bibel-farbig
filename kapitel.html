@@ -312,8 +312,9 @@ function renderAbsatz(absatz, alleMarkierungen) {
     for (const fn of v.fn) {
       const absPos = v.start + fn.pos;
       if (!fnEvents[absPos]) fnEvents[absPos] = [];
-      const title = fn.title.replace(/"/g, '&quot;');
-      fnEvents[absPos].push(`<span class="fn" title="${title}">*</span>`);
+      const titleAttr = fn.title.replace(/"/g, '&quot;');
+      const titleHtml = fn.title.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      fnEvents[absPos].push(`<span class="fn-wrap"><span class="fn" title="${titleAttr}">*</span><span class="fn-popup">${titleHtml}</span></span>`);
     }
   }
 
@@ -466,32 +467,61 @@ function toggleTheme() {
   if (btn) btn.textContent = isDark ? '🌙 Dunkles Design' : '☀️ Helles Design';
 }
 
+// ─── Tooltip-Hilfsfunktionen ─────────────────────────────────────────────────
+
+// Alle offenen Tooltips schließen
+function alleTooltipsSchliessen() {
+  document.querySelectorAll('.at-tooltip-wrap.tooltip-offen, .fn-wrap.tooltip-offen').forEach(el => {
+    el.classList.remove('tooltip-offen', 'tooltip-flip');
+  });
+}
+
+// Prüfen ob Tooltip nach rechts aus dem Fenster läuft und ggf. spiegeln
+function tooltipPositionPruefen(wrap) {
+  const tooltipBreite = 240;
+  const rand = 8;
+  const rect = wrap.getBoundingClientRect();
+  if (rect.left + tooltipBreite > window.innerWidth - rand) {
+    wrap.classList.add('tooltip-flip');
+  }
+}
+
 // ─── AT-Tooltip: Zweistufiges Tippen (Mobile) ────────────────────────────────
 // Erster Tap auf Link → Tooltip zeigen, Navigation verhindern
 // Zweiter Tap auf denselben Link → Navigation zulassen
 // Tap außerhalb → Tooltip schließen
 document.addEventListener('click', function(e) {
-  const link = e.target.closest('.at-tooltip-wrap a');
-  const wrap = e.target.closest('.at-tooltip-wrap');
+  const atLink = e.target.closest('.at-tooltip-wrap a');
+  const atWrap = e.target.closest('.at-tooltip-wrap');
+  const fnWrap = e.target.closest('.fn-wrap');
 
-  if (!wrap) {
-    // Außerhalb: alle offenen Tooltips schließen
-    document.querySelectorAll('.at-tooltip-wrap.tooltip-offen').forEach(el => {
-      el.classList.remove('tooltip-offen');
-    });
+  // Außerhalb aller Tooltips → alle schließen
+  if (!atWrap && !fnWrap) {
+    alleTooltipsSchliessen();
     return;
   }
 
-  if (link) {
-    if (!wrap.classList.contains('tooltip-offen')) {
-      // Noch nicht offen → Tooltip zeigen, Navigation verhindern
+  // AT-Tooltip
+  if (atLink) {
+    if (!atWrap.classList.contains('tooltip-offen')) {
       e.preventDefault();
-      document.querySelectorAll('.at-tooltip-wrap.tooltip-offen').forEach(el => {
-        el.classList.remove('tooltip-offen');
-      });
-      wrap.classList.add('tooltip-offen');
+      alleTooltipsSchliessen();
+      atWrap.classList.add('tooltip-offen');
+      tooltipPositionPruefen(atWrap);
     }
     // Bereits offen → Navigation läuft normal durch
+    return;
+  }
+
+  // Fußnoten-Tooltip (kein Link → nur öffnen/schließen)
+  if (fnWrap) {
+    if (fnWrap.classList.contains('tooltip-offen')) {
+      fnWrap.classList.remove('tooltip-offen', 'tooltip-flip');
+    } else {
+      alleTooltipsSchliessen();
+      fnWrap.classList.add('tooltip-offen');
+      tooltipPositionPruefen(fnWrap);
+    }
   }
 });
 
