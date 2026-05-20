@@ -469,21 +469,38 @@ function toggleTheme() {
 
 // ─── Tooltip-Hilfsfunktionen ─────────────────────────────────────────────────
 
-// Alle offenen Tooltips schließen
+// Alle offenen Tooltips schließen und Inline-Styles zurücksetzen
 function alleTooltipsSchliessen() {
   document.querySelectorAll('.at-tooltip-wrap.tooltip-offen, .fn-wrap.tooltip-offen').forEach(el => {
-    el.classList.remove('tooltip-offen', 'tooltip-flip');
+    const tooltip = el.querySelector('.at-tooltip-text, .fn-popup');
+    if (tooltip) tooltip.style.left = '';
+    el.classList.remove('tooltip-offen');
   });
 }
 
-// Prüfen ob Tooltip nach rechts aus dem Fenster läuft und ggf. spiegeln
+// Tooltip innerhalb des Viewports halten (beide Seiten)
 function tooltipPositionPruefen(wrap) {
-  const tooltipBreite = 240;
   const rand = 8;
-  const rect = wrap.getBoundingClientRect();
-  if (rect.left + tooltipBreite > window.innerWidth - rand) {
-    wrap.classList.add('tooltip-flip');
+  const tooltipBreite = 240;
+  const tooltip = wrap.querySelector('.at-tooltip-text, .fn-popup');
+  if (!tooltip) return;
+
+  tooltip.style.left = ''; // Reset
+  const wrapRect = wrap.getBoundingClientRect();
+
+  // Startposition: linksbündig mit Anchor
+  let vpLeft = wrapRect.left;
+  // Rechts-Überlauf klemmen
+  if (vpLeft + tooltipBreite > window.innerWidth - rand) {
+    vpLeft = window.innerWidth - rand - tooltipBreite;
   }
+  // Links-Überlauf klemmen
+  if (vpLeft < rand) {
+    vpLeft = rand;
+  }
+  // In Element-relative Koordinaten umrechnen
+  const relLeft = vpLeft - wrapRect.left;
+  if (relLeft !== 0) tooltip.style.left = relLeft + 'px';
 }
 
 // ─── AT-Tooltip: Zweistufiges Tippen (Mobile) ────────────────────────────────

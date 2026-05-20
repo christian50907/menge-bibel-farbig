@@ -262,10 +262,14 @@ body {
 .at a:hover { border-bottom-style: solid; }
 
 /* --- Tooltip-Basis (AT-Begründung + Fußnoten, geteilt) --- */
-.at-tooltip-wrap,
-.fn-wrap {
+.at-tooltip-wrap {
   position: relative;
   display: inline;
+}
+.fn-wrap {
+  position: relative;
+  display: inline-block; /* inline-block für zuverlässigen Positionierungskontext auf iOS */
+  vertical-align: baseline;
 }
 .at-tooltip-text,
 .fn-popup {
