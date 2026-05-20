@@ -222,17 +222,14 @@ body {
   user-select: none;
 }
 
-/* --- Fußnoten-Badge --- */
+/* --- Fußnoten-Marker --- */
 .fn {
-  display: inline-block;
-  font-size: 9px;
-  line-height: 1;
-  background: var(--farbe-gold);
-  color: #fff;
-  border-radius: 2px;
-  padding: 1px 3px;
-  vertical-align: 0.45em;
+  font-family: var(--schrift-ui);
+  font-size: 0.72em;
   font-weight: 700;
+  line-height: 0;        /* kein Einfluss auf Zeilenhöhe */
+  vertical-align: 0.5em; /* visuell hochgestellt */
+  color: var(--farbe-gold);
   cursor: help;
   user-select: none;
 }
@@ -285,7 +282,8 @@ body {
   line-height: 1.55;
   padding: 6px 9px;
   border-radius: 4px;
-  width: 240px;
+  width: max-content;
+  max-width: 240px;
   white-space: normal;
   z-index: 20;
   pointer-events: none;
@@ -399,6 +397,9 @@ body {
 [data-theme="dark"] .index-content p { color: #a89880; }
 [data-theme="dark"] .index-content h1 { color: var(--farbe-header-text); }
 [data-theme="dark"] .index-content .untertitel { color: #7a6e5e; }
+[data-theme="dark"] .book-list a { color: #a89880; }
+[data-theme="dark"] .book-list a:hover { background: #2e2a24; color: #d4c9b5; }
+[data-theme="dark"] .sidebar-nav h4 { color: #6a5e4e; }
 
 /* --- Footer --- */
 .site-footer {
@@ -473,6 +474,11 @@ body {
 
 /* --- Responsive --- */
 @media (max-width: 900px) {
+  body { font-size: 17px; }
+  .bibeltext { font-size: 17px; }
+  .at-tooltip-text,
+  .fn-popup { font-size: 12px; }
+
   .layout { grid-template-columns: 1fr; }
   .sidebar-nav { display: none; }
   .sidebar-nav.open {
