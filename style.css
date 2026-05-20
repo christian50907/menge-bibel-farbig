@@ -261,12 +261,14 @@ body {
 }
 .at a:hover { border-bottom-style: solid; }
 
-/* --- AT-Begründungs-Tooltip --- */
-.at-tooltip-wrap {
+/* --- Tooltip-Basis (AT-Begründung + Fußnoten, geteilt) --- */
+.at-tooltip-wrap,
+.fn-wrap {
   position: relative;
   display: inline;
 }
-.at-tooltip-text {
+.at-tooltip-text,
+.fn-popup {
   display: none;
   position: absolute;
   bottom: calc(100% + 6px);
@@ -285,7 +287,8 @@ body {
   pointer-events: none;
   box-shadow: 0 2px 8px rgba(0,0,0,.25);
 }
-.at-tooltip-text::after {
+.at-tooltip-text::after,
+.fn-popup::after {
   content: '';
   position: absolute;
   bottom: -5px;
@@ -295,13 +298,23 @@ body {
   border-right: 5px solid transparent;
   border-top: 5px solid var(--farbe-header);
 }
+/* Hover (Desktop) + Tap (Mobile) */
+.at-tooltip-wrap:hover .at-tooltip-text,
+.at-tooltip-wrap.tooltip-offen .at-tooltip-text,
+.fn-wrap:hover .fn-popup,
+.fn-wrap.tooltip-offen .fn-popup { display: block; }
+
+/* Gespiegelt wenn Tooltip rechts aus dem Fenster liefe */
+.at-tooltip-wrap.tooltip-flip .at-tooltip-text,
+.fn-wrap.tooltip-flip .fn-popup { left: auto; right: 0; }
+.at-tooltip-wrap.tooltip-flip .at-tooltip-text::after,
+.fn-wrap.tooltip-flip .fn-popup::after { left: auto; right: 14px; }
+
 .at-tooltip-autor {
   color: var(--farbe-gold);
   opacity: 0.7;
   margin-left: 3px;
 }
-.at-tooltip-wrap:hover .at-tooltip-text,
-.at-tooltip-wrap.tooltip-offen .at-tooltip-text { display: block; }
 
 /* --- Dark-Mode-Toggle (Sidebar unten) --- */
 .theme-toggle {
