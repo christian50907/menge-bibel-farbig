@@ -9,12 +9,13 @@
 <body>
 
 <header class="site-header">
-  <a class="site-title" href="index.html">Die Heilige Schrift &nbsp;·&nbsp; <em>Menge-Bibel</em></a>
-  <nav class="site-nav">
-    <a href="#neues-testament">Neues Testament</a>
-    <a href="#ueber">Über das Projekt</a>
-  </nav>
+  <a class="site-title" href="index.html"><em>Menge-Bibel</em> farbig</a>
+  <div class="header-mobile-actions">
+    <button class="hamburger-btn" onclick="toggleSidebar()" aria-label="Navigation">☰</button>
+    <button class="theme-btn-mobile" onclick="toggleTheme()" aria-label="Design umschalten">☀️</button>
+  </div>
 </header>
+<div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleSidebar()"></div>
 
 <div class="layout">
 
@@ -24,46 +25,97 @@
 
   <main class="index-content">
 
-    <h1>Die Heilige Schrift</h1>
-    <p class="untertitel">Übersetzt von Hermann Menge &nbsp;·&nbsp; Annotationsprojekt zum Neuen Testament</p>
+    <h1>Das Neue Testament</h1>
+    <p class="untertitel">Übersetzt von Hermann Menge &nbsp;·&nbsp; KI-Annotationsprojekt</p>
 
-    <div class="abschnitt-kopf" id="ueber">Über dieses Projekt</div>
+    <details class="abschnitt-details" id="ueber">
+      <summary class="abschnitt-kopf">Das Projekt</summary>
+      <div class="abschnitt-details-inhalt">
+        <p>Als der eine ewige Gott sich unbegreiflicherweise entschied, Mensch zu werden, tat er
+        dies nicht zu irgendeiner Zeit und an irgendeinem Ort. Er war nicht nur darauf angewiesen,
+        eine Sprache zu finden, mit der er sein Anliegen den Menschen begreiflich machen konnte,
+        sondern auch darauf, auf Menschen zu treffen, die für dieses Anliegen Verständnis haben
+        könnten. Menschen, die seit vielen Generationen ein Bewusstsein pflegten von göttlicher
+        Heiligkeit und den Verstrickungen menschlicher Fehlbarkeit, von Schuld und Sühne,
+        Gerechtigkeit und Gnade, die einen messianischen Erlöser bereits erwarteten. Und so
+        entschied er sich für das Volk Abrahams, Isaaks und Jakobs, des Königs Davids und der
+        Propheten, das Volk, mit dem er seine Geschichte mit den Menschen begonnen hatte und mit
+        dem er sich seit Jahrhunderten in einer spannungsvollen „On-Off-Liebesbeziehung" verstrickt
+        hatte, wie sie das Alte Testament ausführlich bezeugt.</p>
 
-    <p>Dieses Projekt macht die Verwobenheit des Neuen Testaments mit der Lebenswelt
-    und religiösen Tradition des jüdischen Volkes sichtbar — durch eine einfache
-    Farbkodierung direkt im Bibeltext:</p>
+        <p>So sprachen der Messias Jesus und seine ersten Nachfolger in die jüdische Lebenswelt
+        dieser Zeit hinein, geprägt von religiösen Traditionen und intensivem Studium unseres
+        heutigen Alten Testaments, in der das Gesagte unmittelbar vor diesem Hintergrund verstanden
+        und assoziiert wurde. Die Evangelien beschreiben, wie einerseits auf alttestamentliche
+        Texte häufig direkt Bezug genommen wird, andererseits manche jüdischen Bräuche für die
+        neutestamentlichen Leser auch schon erklärungsbedürftig geworden waren. Wieviel schwieriger
+        ist es für heutige nicht-jüdische Leser ohne jeden Bezug zu dieser damaligen Lebenswelt,
+        die Bücher des Neuen Testaments vor ihrem alttestamentlich-jüdischen Hintergrund so zu
+        verstehen, wie es die jüdischen Zeitzeugen damals taten.</p>
 
-    <div style="display:flex; gap:1.5rem; flex-wrap:wrap; margin:1rem 0 1.5rem; font-family:-apple-system,sans-serif; font-size:13px;">
-      <span style="display:flex; align-items:center; gap:8px;">
-        <span style="width:12px;height:12px;border-radius:50%;background:#a0251c;flex-shrink:0;"></span>
-        <strong style="color:#a0251c;">Rot</strong> — direkte Worte und Reden Jesu
-      </span>
-      <span style="display:flex; align-items:center; gap:8px;">
-        <span style="width:12px;height:12px;border-radius:50%;background:#1a6b35;flex-shrink:0;"></span>
-        <strong style="color:#1a6b35;">Grün</strong> — Zitate aus und Bezüge zum Alten Testament
-      </span>
-    </div>
+        <p>Daher verfolgt dieses Projekt ein doppeltes Ziel: Zum einen Jesus und die Sprecher und
+        Autoren des Neuen Testaments in ihrer jüdischen Umwelt als Menschen ihrer Zeit uns heute
+        näher zu bringen, zum anderen heutigen Lesern eine Schicht von Verständnis neutestamentlicher
+        Texte zu eröffnen, das auf einer Alltagspräsenz alttestamentlicher Traditionen fußt, wie es
+        für die damaligen Juden üblich war. Hierfür wurden alttestamentliche Bezüge möglichst aus
+        dieser zeitgenössischen Perspektive mit Hilfe von KI systematisch annotiert. Und vielleicht
+        entdeckt ja auch der ein oder andere jüdische Leser auf diese Weise, wie eng verzahnt das
+        Neue Testament mit Torah und Tanach bleibt.</p>
+      </div>
+    </details>
 
-    <p>Grüne Stellen tragen klickbare Referenzlinks, die direkt zur entsprechenden
-    Stelle in der Menge-Bibel auf
-    <a href="https://www.bibleserver.com/MENG" target="_blank">bibleserver.com</a>
-    führen. Wörtliche Zitate sind direkt referenziert, inhaltliche Anspielungen
-    mit dem Hinweis <em>vgl.</em> gekennzeichnet.</p>
+    <details class="abschnitt-details">
+      <summary class="abschnitt-kopf">Die KI-basierte Annotation</summary>
+      <div class="abschnitt-details-inhalt">
+        <p>Die Stärke großer Sprachmodelle (large language models, LLMs) ist, dass sie auf enormen
+        Mengen unterschiedlichster Texte trainiert wurden, darin statistische Bezüge ermittelt haben
+        und auf diese Weise in der Lage sind, Zusammenhänge in und zwischen Texten zu erkennen. Es
+        war daher naheliegend, diese Stärke auch bei der Analyse von Bibeltexten nutzbar zu machen.
+        Für dieses Projekt werden zwei Arten von Texten durch KI farblich hervorgehoben:</p>
 
-    <p>Die Annotation zeigt: Das Neue Testament ist kein Bruch mit dem Alten —
-    es ist tief in ihm verwurzelt. Jesus spricht, denkt und lehrt als Jude
-    aus der Mitte der jüdischen Schrifttradition.</p>
+        <div class="farblegende-inline">
+          <span><span class="punkt punkt-rot"></span> <strong>Rot</strong> — direkte Worte und Reden Jesu</span>
+          <span><span class="punkt punkt-gruen"></span> <strong>Grün</strong> — Zitate aus und Bezüge zum Alten Testament</span>
+        </div>
 
-    <div class="abschnitt-kopf">Die Textgrundlage</div>
+        <p>Dabei wird der KI eine jüdisch-zeitgenössische Perspektive vorgegeben und in einem
+        zweistufigen Prozess vorgegangen: Die Annotationsvorschläge eines ersten KI-Agenten werden
+        einem zweiten Agenten mit unabhängiger Sicht zur Kontrolle übergeben, um so ein
+        vollständigeres und korrekteres Bild zu erzeugen. Die Annotation eines Kapitels dauert so
+        ca. 20 Minuten.</p>
 
-    <p>Verwendet wird der Text des Neuen Testaments in der Übersetzung von
-    <a href="https://de.wikipedia.org/wiki/Hermann_Menge#Die_Menge-Bibel" target="_blank">Hermann Menge</a>
-    (1837–1939). Die ursprüngliche Version ist seit 2010 nach deutschem Urheberrecht
-    <a href="https://help.eduki.com/hc/de/articles/4403780887058-Welche-Bibeltexte-darf-ich-in-meinen-Materialien-verwenden" target="_blank">gemeinfrei</a>
-    (vgl. <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.de" target="_blank">Public Domain Mark 1.0</a>).
-    Der Originaltext wird unverändert aus dem
-    <a href="https://github.com/renehamburger/Menge-Bibel" target="_blank">Menge-Bibel-Repository</a>
-    von René Hamburger bezogen, das die Texte als Markdown bereitstellt.</p>
+        <p>Zitate aus dem Alten Testament (AT) werden als Links hinterlegt, nicht-wörtliche Bezüge
+        mit einem <em>vgl.</em> gekennzeichnet. Die Begründungen für eine Annotation werden jeweils
+        mit den Verweis-Links abgelegt, über die sie einsehbar bleiben. Wiederholt vorkommende
+        Begriffe werden in der Regel nur beim ersten Auftreten pro Buch annotiert, bis auf wenige
+        Ausnahmen von Schlüsselbegriffen an zentralen Stellen. Von den KI-Agenten diskutierte
+        Passagen, die letztlich nicht annotiert wurden, bleiben als inaktiv hinterlegt für den Fall
+        einer späteren Neu-Diskussion.</p>
+
+        <p>KI ist nicht perfekt, daher bleiben menschliche Korrekturen und Ergänzungen erforderlich.
+        Neben der Bestätigung jeder Annotation können außerdem Annotationen auch von Menschen initiiert
+        werden. Der Urheber einer AT-Annotation ist daher jeweils hinter ihrer Begründung in
+        Klammern angegeben (KI oder Mensch). Unter Umständen wird zukünftig ein Berichtssystem
+        für Leser dazukommen.</p>
+      </div>
+    </details>
+
+    <details class="abschnitt-details">
+      <summary class="abschnitt-kopf">Die Textgrundlage</summary>
+      <div class="abschnitt-details-inhalt">
+        <p>Verwendet wird der Text des Neuen Testaments in der Übersetzung von
+        <a href="https://de.wikipedia.org/wiki/Hermann_Menge#Die_Menge-Bibel" target="_blank">Hermann Menge</a>
+        (1837–1939). Die ursprüngliche Version ist seit 2010 nach deutschem Urheberrecht
+        <a href="https://help.eduki.com/hc/de/articles/4403780887058-Welche-Bibeltexte-darf-ich-in-meinen-Materialien-verwenden" target="_blank">gemeinfrei</a>
+        (vgl. <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.de" target="_blank">Public Domain Mark 1.0</a>).
+        Der Originaltext wird unverändert aus dem
+        <a href="https://github.com/renehamburger/Menge-Bibel" target="_blank">Menge-Bibel-Repository</a>
+        von René Hamburger bezogen, das die Texte als Markdown bereitstellt, dann mit den vorab
+        berechneten Markierungen und Annotationen versehen und dargestellt. Auf diese Weise wird
+        eine Duplikation des Original-Repositories vermieden. Die Original-Fußnoten der
+        Menge-Bibel wurden dabei erhalten und sind bei ihren Stern-Markierungen (*) im Text lesbar</p>
+      </div>
+    </details>
 
     <div class="abschnitt-kopf" id="neues-testament">Neues Testament</div>
 
@@ -76,11 +128,7 @@
 </div>
 
 <footer class="site-footer">
-  Textgrundlage: <a href="https://github.com/renehamburger/Menge-Bibel" target="_blank">Menge-Bibel</a>
-  von Hermann Menge · gemeinfrei seit 2010 ·
-  <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.de" target="_blank">Public Domain Mark 1.0</a>
-  · AT-Links verweisen auf die
-  <a href="https://www.bibleserver.com/MENG" target="_blank">Menge-Version auf bibleserver.com</a>
+  Text: <a href="https://github.com/renehamburger/Menge-Bibel" target="_blank">Menge-Bibel</a> · Hermann Menge · <a href="https://creativecommons.org/publicdomain/mark/1.0/deed.de" target="_blank">Public Domain</a>
 </footer>
 
 <script>
@@ -114,6 +162,7 @@ async function ladeIndex() {
       sidebarHtml += `<li><a href="kapitel.html?buch=${buch.id}&kapitel=${erstesKapitel}">${buch.name}</a></li>`;
     }
     sidebarHtml += '</ul>';
+    sidebarHtml += `<div class="theme-toggle"><button onclick="toggleTheme()" id="theme-btn">🌙 Dunkles Design</button></div>`;
     document.getElementById("sidebar-nav").innerHTML = sidebarHtml;
 
     // ── Buch-Grid: verfügbare Bücher in Manifest-Reihenfolge, dann Rest als "bald" ──
@@ -158,6 +207,31 @@ async function ladeIndex() {
 }
 
 ladeIndex();
+
+function toggleTheme() {
+  const html = document.documentElement;
+  const isDark = html.getAttribute('data-theme') === 'dark';
+  html.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  localStorage.setItem('theme', isDark ? 'light' : 'dark');
+  const btn = document.getElementById('theme-btn');
+  if (btn) btn.textContent = isDark ? '🌙 Dunkles Design' : '☀️ Helles Design';
+}
+
+function toggleSidebar() {
+  const sidebar = document.getElementById('sidebar-nav');
+  const overlay = document.getElementById('sidebar-overlay');
+  const isOpen = sidebar.classList.toggle('open');
+  overlay.classList.toggle('active', isOpen);
+  document.body.style.overflow = isOpen ? 'hidden' : '';
+}
+
+// Theme beim Laden wiederherstellen
+(function() {
+  const saved = localStorage.getItem('theme');
+  if (saved === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+})();
 </script>
 
 </body>
