@@ -227,8 +227,7 @@ body {
   font-family: var(--schrift-ui);
   font-size: 0.72em;
   font-weight: 700;
-  line-height: 0;        /* kein Einfluss auf Zeilenhöhe */
-  vertical-align: 0.5em; /* visuell hochgestellt */
+  line-height: 0;
   color: var(--farbe-gold);
   cursor: help;
   user-select: none;
@@ -265,8 +264,9 @@ body {
 }
 .fn-wrap {
   position: relative;
-  display: inline-block; /* inline-block für zuverlässigen Positionierungskontext auf iOS */
-  vertical-align: baseline;
+  display: inline-block;
+  vertical-align: 0.5em; /* hebt die Box auf die visuelle Position des Sterns */
+  line-height: 0;        /* verhindert Zeilenhöhen-Schaden durch den Versatz */
 }
 .at-tooltip-text,
 .fn-popup {
@@ -414,6 +414,51 @@ body {
 }
 .site-footer a { color: #a09080; text-decoration: none; }
 .site-footer a:hover { color: var(--farbe-header-text); }
+
+/* --- Aufklappbare Abschnitte (Index) --- */
+.abschnitt-details { margin: 0; }
+.abschnitt-details + .abschnitt-details > summary.abschnitt-kopf { margin-top: 0.4rem; }
+.abschnitt-details + .abschnitt-kopf { margin-top: 0.4rem; }
+.abschnitt-details > summary {
+  list-style: none; /* Browsereigenen Pfeil entfernen */
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+.abschnitt-details > summary::-webkit-details-marker { display: none; }
+.abschnitt-details > summary::before {
+  content: '▶';
+  font-size: 9px;
+  color: var(--farbe-gold);
+  margin-right: 7px;
+  display: inline-block;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+.abschnitt-details[open] > summary::before {
+  transform: rotate(90deg);
+}
+.abschnitt-details-inhalt {
+  padding: 0.25rem 0 0.5rem 0;
+}
+
+/* --- Farblegende inline (im Fließtext der Index-Seite) --- */
+.farblegende-inline {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin: 0.75rem 0 1rem;
+  font-family: var(--schrift-ui);
+  font-size: 13px;
+  color: #555;
+}
+.farblegende-inline span {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
 
 /* --- Index-Seite --- */
 .index-content {
