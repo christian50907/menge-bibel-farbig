@@ -394,7 +394,7 @@ body {
   background: rgba(201, 169, 110, 0.08);
 }
 [data-theme="dark"] .abschnitt-titel { color: #c4b89a; }
-[data-theme="dark"] .index-content p { color: #a89880; }
+[data-theme="dark"] .index-content p { color: var(--farbe-text); }
 [data-theme="dark"] .index-content h1 { color: var(--farbe-header-text); }
 [data-theme="dark"] .index-content .untertitel { color: #7a6e5e; }
 [data-theme="dark"] .book-list a { color: #a89880; }
@@ -481,9 +481,9 @@ body {
   margin-bottom: 2rem;
 }
 .index-content p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.8;
-  color: #444;
+  color: var(--farbe-text);
   max-width: 640px;
   margin-bottom: 1rem;
 }

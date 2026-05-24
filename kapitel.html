@@ -474,29 +474,26 @@ function alleTooltipsSchliessen() {
   });
 }
 
-// Tooltip innerhalb des Viewports halten (beide Seiten)
+// Tooltip-Position prüfen: Flip wenn rechts Überlauf droht
 function tooltipPositionPruefen(wrap) {
   const rand = 8;
-  const tooltipBreite = 240;
   const tooltip = wrap.querySelector('.at-tooltip-text, .fn-popup');
   if (!tooltip) return;
 
-  tooltip.style.left = ''; // Reset
-  const wrapRect = wrap.getBoundingClientRect();
+  tooltip.style.left = '';
+  wrap.classList.remove('tooltip-flip');
 
-  // Startposition: linksbündig mit Anchor
-  let vpLeft = wrapRect.left;
-  // Rechts-Überlauf klemmen
-  if (vpLeft + tooltipBreite > window.innerWidth - rand) {
-    vpLeft = window.innerWidth - rand - tooltipBreite;
+  const wrapRect = wrap.getBoundingClientRect();
+  const breite = tooltip.offsetWidth || 240;
+
+  // Linksbündig würde rechts überlaufen → rechtsbündig (Flip)
+  if (wrapRect.left + breite > window.innerWidth - rand) {
+    wrap.classList.add('tooltip-flip');
+    // Rechtsbündig würde links überlaufen → minimal einsetzen
+    if (wrapRect.right - breite < rand) {
+      tooltip.style.left = (rand - wrapRect.left) + 'px';
+    }
   }
-  // Links-Überlauf klemmen
-  if (vpLeft < rand) {
-    vpLeft = rand;
-  }
-  // In Element-relative Koordinaten umrechnen
-  const relLeft = vpLeft - wrapRect.left;
-  if (relLeft !== 0) tooltip.style.left = relLeft + 'px';
 }
 
 // ─── AT-Tooltip: Zweistufiges Tippen (Mobile) ────────────────────────────────
