@@ -11,3 +11,6 @@ __pycache__/
 # Claude Code — Sessions ignorieren, settings.json versionieren
 .claude/*
 !.claude/settings.json
+
+# Lokale Claude-Projektregeln — nicht im Remote-Repo
+CLAUDE.md
