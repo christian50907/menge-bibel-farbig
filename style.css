@@ -396,7 +396,8 @@ body {
 [data-theme="dark"] .abschnitt-titel { color: #c4b89a; }
 [data-theme="dark"] .index-content p { color: var(--farbe-text); }
 [data-theme="dark"] .index-content h1 { color: var(--farbe-header-text); }
-[data-theme="dark"] .index-content .untertitel { color: #7a6e5e; }
+[data-theme="dark"] .index-content .untertitel { color: #a89880; }
+[data-theme="dark"] .farblegende-inline { color: #a89880; }
 [data-theme="dark"] .book-list a { color: #a89880; }
 [data-theme="dark"] .book-list a:hover { background: #2e2a24; color: #d4c9b5; }
 [data-theme="dark"] .sidebar-nav h4 { color: #6a5e4e; }
