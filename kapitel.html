@@ -312,9 +312,8 @@ function renderAbsatz(absatz, alleMarkierungen) {
     for (const fn of v.fn) {
       const absPos = v.start + fn.pos;
       if (!fnEvents[absPos]) fnEvents[absPos] = [];
-      const titleAttr = fn.title.replace(/"/g, '&quot;');
       const titleHtml = fn.title.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-      fnEvents[absPos].push(`<span class="fn-wrap"><span class="fn" title="${titleAttr}">*</span><span class="fn-popup">${titleHtml}</span></span>`);
+      fnEvents[absPos].push(`<span class="fn-wrap"><span class="fn">*</span><span class="fn-popup">${titleHtml}</span></span>`);
     }
   }
 
