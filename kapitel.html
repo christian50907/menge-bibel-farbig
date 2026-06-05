@@ -127,6 +127,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
 
   // Schritt 5: Elemente aufbauen
   const elemente = [...ueberschriftenVorKapitel];
+  let letzterVers = null; // Vers-Objekt des zuletzt gesehenen Verses (für Absatzumbrüche innerhalb eines Verses)
 
   for (const absatz of absaetze) {
     const ersteZeile = absatz[0].trim();
@@ -163,6 +164,16 @@ function extrahiereKapitel(markdown, kapitelNr) {
 
     // Verse des Absatzes extrahieren (auf bereinigtem Text)
     const parts = bereinigt.split(/<sup>(\d+)<\/sup>/);
+
+    // Manche Menge-Bibel-Verse haben einen Absatzumbruch (Leerzeile) mitten im Vers,
+    // teils auch mit einer Abschnittsüberschrift dazwischen (z.B. Vers "a"/"b"-Teile).
+    // In diesem Fall enthält parts[0] den Fortsetzungstext ohne Versnummer.
+    // Er gehört zum letzten bisher gesehenen Vers und wird dort angehängt.
+    const fortsetzung = parts[0].trim();
+    if (fortsetzung && letzterVers) {
+      letzterVers.text += ' ' + fortsetzung;
+    }
+
     const verseImAbsatz = [];
     let versOffset = 0;
     for (let i = 1; i < parts.length - 1; i += 2) {
@@ -175,6 +186,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
           .filter(f => f.pos >= versStart && f.pos <= versEnde)
           .map(f => ({ pos: f.pos - versStart, title: f.title }));
         verseImAbsatz.push({ nr, text, fn: fnInVers });
+        letzterVers = verseImAbsatz[verseImAbsatz.length - 1];
         versOffset = versEnde;
       }
     }
