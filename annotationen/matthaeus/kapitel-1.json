@@ -49,11 +49,11 @@
       "url": "https://www.bibleserver.com/MENG/Ruth1,1",
       "autor": "KI",
       "status": "aktiv",
-      "begruendung": "Ruth war eine Moabiterin — nach dem Gesetz (5. Mose 23,4) waren Moabiter bis ins zehnte Geschlecht aus der Jahwe-Gemeinde ausgeschlossen. Durch ihre treue Begleitung Noomis und die Ehe mit Boas wurde sie zur Urgroßmutter Davids. Das Buch Ruth erzählt diese Geschichte ausführlich."
+      "begruendung": "Ruth war eine Moabiterin — nach dem Gesetz (5. Mose 23,4) waren Moabiter bis ins zehnte Geschlecht aus der Gemeinschaft Israels ausgeschlossen. Durch ihre treue Begleitung Noomis und die Ehe mit Boas wurde sie zur Urgroßmutter Davids. Das Buch Ruth erzählt diese Geschichte ausführlich."
     },
     {
       "vers_von": 6, "von": 66, "vers_bis": 6, "bis": -1, "typ": "at",
-      "referenz": "2 Sam 11–12", "vgl": true,
+      "referenz": "2 Sam 11,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Samuel11,2",
       "autor": "KI",
       "status": "aktiv",
@@ -65,7 +65,7 @@
       "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
       "autor": "KI",
       "status": "aktiv",
-      "begruendung": "Hinter der Einteilung in 3×14 Generationen steckt ein hebräisches Wortspiel: Der Name ›David‹ ergibt in der jüdischen Buchstabenzählung genau 14 (D=4, W=6, D=4). Die Stammtafel ist also um David herum konstruiert — alles führt zu ihm hin, alles führt von ihm weiter. Für einen jüdischen Leser war diese Struktur sofort erkennbar."
+      "begruendung": "Hinter der Einteilung in 3×14 Generationen steckt ein hebräisches Wortspiel: Der Name ›David‹ ergibt in der jüdischen Buchstabenzählung genau 14 (D=4, W=6, D=4). David steht am Ende der ersten und am Beginn der zweiten Reihe — er ist der Angelpunkt der Stammtafel. Für einen jüdischen Leser war diese Zahlenstruktur ein unmittelbarer Fingerzeig auf den Messias."
     },
     {
       "vers_von": 20, "von": 123, "vers_bis": 20, "bis": 134, "typ": "at",
@@ -89,7 +89,7 @@
       "url": "https://www.bibleserver.com/MENG/Jesaja7,14",
       "autor": "KI",
       "status": "aktiv",
-      "begruendung": "Wörtliches Zitat aus Jes 7,14. Im Original war es ein Zeichen für König Ahas in der Krise 734 v. Chr. Matthäus liest es als prophetische Ankündigung der Geburt Jesu. ›Immanuel — Mit uns ist Gott‹ wird so zur Kernaussage des Evangeliums: In Jesus ist Gott selbst unter den Menschen gegenwärtig."
+      "begruendung": "Wörtliches Zitat aus Jes 7,14. Im Original war es ein Zeichen für König Ahas in der Krise 734 v. Chr. Die Erfüllungsformel stellt es als prophetische Ankündigung der Geburt Jesu dar. ›Immanuel — Mit uns ist Gott‹ ist damit die Kernaussage des Evangeliums: In Jesus ist Gott selbst unter den Menschen gegenwärtig."
     }
   ]
 }
