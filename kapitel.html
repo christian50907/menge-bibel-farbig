@@ -169,7 +169,9 @@ function extrahiereKapitel(markdown, kapitelNr) {
     // teils auch mit einer Abschnittsüberschrift dazwischen (z.B. Vers "a"/"b"-Teile).
     // In diesem Fall enthält parts[0] den Fortsetzungstext ohne Versnummer.
     // Er gehört zum letzten bisher gesehenen Vers und wird dort angehängt.
-    const fortsetzung = parts[0].trim();
+    // Editorielle Vers-Unterabschnittslabels ("a ", "b " am Textanfang) werden entfernt.
+    const stripLabel = s => s.replace(/^[a-z]\s+/, '');
+    const fortsetzung = stripLabel(parts[0].trim());
     if (fortsetzung && letzterVers) {
       letzterVers.text += ' ' + fortsetzung;
     }
@@ -178,7 +180,7 @@ function extrahiereKapitel(markdown, kapitelNr) {
     let versOffset = 0;
     for (let i = 1; i < parts.length - 1; i += 2) {
       const nr = parseInt(parts[i]);
-      const text = parts[i + 1].trim();
+      const text = stripLabel(parts[i + 1].trim());
       if (text) {
         const versStart = bereinigt.indexOf(text, versOffset);
         const versEnde  = versStart + text.length;
