@@ -1,0 +1,95 @@
+{
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 1, "bis": 9, "typ": "at",
+      "referenz": "1 Mo 5,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose5,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Matthäus eröffnet sein Evangelium mit denselben Worten, mit denen das Buch Genesis den Stammbaum Adams einleitet (1. Mo 5,1: ›Dies ist das Buch von der Geschichte Adams‹). Der griechische Ausdruck ist identisch: βίβλος γενέσεως. Matthäus signalisiert damit: Mit Jesus beginnt eine neue Schöpfung, ein neuer Adam."
+    },
+    {
+      "vers_von": 1, "von": 24, "vers_bis": 1, "bis": 41, "typ": "at",
+      "referenz": "2 Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "›Sohn Davids‹ ist der klassische messianische Titel: Nach dem Bund Gottes mit David (2 Sam 7) würde ein Nachkomme Davids ewig herrschen und ›Gottes Sohn‹ heißen. Mit dieser Titelreihe erklärt Matthäus von der ersten Zeile an: Jesus ist dieser Messias."
+    },
+    {
+      "vers_von": 1, "von": 43, "vers_bis": 1, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "1 Mo 12,3", "url": "https://www.bibleserver.com/MENG/1.Mose12,3" },
+        { "label": "1 Mo 22,18", "url": "https://www.bibleserver.com/MENG/1.Mose22,18" }
+      ],
+      "begruendung": "Gottes Bund mit Abraham verheißt, dass durch seinen Nachkommen ›alle Völker der Erde gesegnet‹ werden sollen (1. Mo 12,3; 22,18). Matthäus eröffnet den Stammbaum mit Abraham — nicht mit Adam wie Lukas — um den universalen Horizont Jesu von Anfang an zu markieren: Sein Weg gilt nicht nur Israel."
+    },
+    {
+      "vers_von": 3, "von": 44, "vers_bis": 3, "bis": 67, "typ": "at",
+      "referenz": "1 Mo 38", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose38,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Thamar war die Schwiegertochter Judas. Als er ihr die gesetzlich vorgesehene Ehe mit seinem dritten Sohn verweigerte, verkleidete sie sich als Prostituierte und empfing von Juda selbst Zwillinge (1. Mo 38). Ihre bewusste Aufnahme in die Ahnenlinie des Messias war für einen jüdischen Leser verblüffend."
+    },
+    {
+      "vers_von": 5, "von": 27, "vers_bis": 5, "bis": 50, "typ": "at",
+      "referenz": "Jos 2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua2,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Rahab war eine kanaanäische Prostituierte in Jericho. Sie versteckte die israelitischen Kundschafter, bekannte ihren Glauben an den Gott Israels und wurde mit ihrem Haus beim Fall Jerichos als einzige verschont (Jos 2; 6). Eine Heidin in der Ahnenlinie des Messias."
+    },
+    {
+      "vers_von": 5, "von": 74, "vers_bis": 5, "bis": 96, "typ": "at",
+      "referenz": "Rut 1–4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Ruth1,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ruth war eine Moabiterin — nach dem Gesetz (5. Mose 23,4) waren Moabiter bis ins zehnte Geschlecht aus der Jahwe-Gemeinde ausgeschlossen. Durch ihre treue Begleitung Noomis und die Ehe mit Boas wurde sie zur Urgroßmutter Davids. Das Buch Ruth erzählt diese Geschichte ausführlich."
+    },
+    {
+      "vers_von": 6, "von": 66, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "2 Sam 11–12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel11,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Matthäus nennt Bathseba nicht beim Namen, sondern als ›die Frau Urias‹ — ein bewusster Verweis auf Davids Ehebruch und die gezielte Tötung des Uria (2 Sam 11–12). Die Formulierung hält diese dunkle Episode in Davids Geschichte wach, ohne sie zu beschönigen."
+    },
+    {
+      "vers_von": 17, "von": 51, "vers_bis": 17, "bis": 73, "typ": "at",
+      "referenz": "2 Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hinter der Einteilung in 3×14 Generationen steckt ein hebräisches Wortspiel: Der Name ›David‹ ergibt in der jüdischen Buchstabenzählung genau 14 (D=4, W=6, D=4). Die Stammtafel ist also um David herum konstruiert — alles führt zu ihm hin, alles führt von ihm weiter. Für einen jüdischen Leser war diese Struktur sofort erkennbar."
+    },
+    {
+      "vers_von": 20, "von": 123, "vers_bis": 20, "bis": 134, "typ": "at",
+      "referenz": "2 Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung des Sohn-Davids-Motivs aus V1 (2 Sam 7,12 bereits aktiv annotiert). Der Engel bestätigt Josephs davidische Abstammung, fügt aber keine neue theologische Dimension hinzu."
+    },
+    {
+      "vers_von": 21, "von": 90, "vers_bis": 21, "bis": 134, "typ": "at",
+      "referenz": "Ps 130,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm130,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Engel greift wörtlich den Schlussvers von Ps 130 auf: ›Er wird Israel erlösen von all seinen Sünden‹ (Ps 130,8). Der Name ›Jesus‹ (hebr. Jeschua = ›der Herr rettet‹) bündelt genau diese Verheißung: Die Rettung, auf die der Bußpsalm wartet, vollzieht sich jetzt in diesem Kind."
+    },
+    {
+      "vers_von": 22, "von": 31, "vers_bis": 23, "bis": -1, "typ": "at",
+      "referenz": "Jes 7,14", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja7,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 7,14. Im Original war es ein Zeichen für König Ahas in der Krise 734 v. Chr. Matthäus liest es als prophetische Ankündigung der Geburt Jesu. ›Immanuel — Mit uns ist Gott‹ wird so zur Kernaussage des Evangeliums: In Jesus ist Gott selbst unter den Menschen gegenwärtig."
+    }
+  ]
+}
