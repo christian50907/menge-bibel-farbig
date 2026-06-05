@@ -1,60 +1,67 @@
 #!/usr/bin/env python3
 """inspect_verse.py — Verstext anzeigen und Zeichenposition finden
 
+Liest die Menge-Bibel-Markdown-Datei direkt — kein Zwischenschritt nötig.
+
 Verwendung:
-    python inspect_verse.py <kapitel> <vers> [suchstring]
+    python inspect_verse.py <markdown_datei> <kapitel> <vers> [suchstring]
 
 Argumente:
-    kapitel     Kapitelnummer (lädt ai-tools/kap<N>_verses.json)
-    vers        Versnummer
-    suchstring  Optional: Substring, dessen von/bis-Position gesucht wird
+    markdown_datei  Pfad zur Menge-Bibel-Markdown-Datei (z.B. "01 - Matthäus.md")
+    kapitel         Kapitelnummer
+    vers            Versnummer
+    suchstring      Optional: Substring, dessen von/bis-Position gesucht wird
 
 Ausgabe:
     Verstext mit Länge; bei Suchstring zusätzlich Position und Kontext.
 
 Beispiel:
-    python .claude/skills/menge-bibel-farbig/scripts/inspect_verse.py 12 15
-    python .claude/skills/menge-bibel-farbig/scripts/inspect_verse.py 12 15 "Herr unser Gott"
+    python tools/inspect_verse.py pfad/zu/Matthäus.md 1 5
+    python tools/inspect_verse.py pfad/zu/Matthäus.md 1 5 "Rahab"
 """
 
-import json
+import os
 import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from parse_menge import extract_chapter_block, parse_verses
+
 
 def main():
     args = sys.argv[1:]
-    if len(args) < 2:
+    if len(args) < 3:
         print(
-            f'Verwendung: {sys.argv[0]} <kapitel> <vers> [suchstring]',
+            f'Verwendung: {sys.argv[0]} <markdown_datei> <kapitel> <vers> [suchstring]',
             file=sys.stderr,
         )
         sys.exit(1)
 
-    kapitel_str = args[0]
-    vers_str = args[1]
-    suchstring = ' '.join(args[2:]) if len(args) >= 3 else None
-
-    json_path = f'ai-tools/kap{kapitel_str}_verses.json'
+    markdown_path = args[0]
+    kapitel_str   = args[1]
+    vers_str      = args[2]
+    suchstring    = ' '.join(args[3:]) if len(args) >= 4 else None
 
     try:
-        raw = open(json_path, 'rb').read()
-        for enc in ('utf-8-sig', 'utf-16', 'utf-8', 'cp1252'):
-            try:
-                verses = json.loads(raw.decode(enc))
-                break
-            except (UnicodeDecodeError, ValueError):
-                continue
-        else:
-            print(f'Fehler: {json_path} konnte nicht gelesen werden', file=sys.stderr)
-            sys.exit(1)
+        kapitel = int(kapitel_str)
+    except ValueError:
+        print('Fehler: Kapitelnummer muss eine ganze Zahl sein', file=sys.stderr)
+        sys.exit(1)
+
+    try:
+        with open(markdown_path, encoding='utf-8') as f:
+            lines = f.read().splitlines()
     except FileNotFoundError:
-        print(
-            f'Fehler: {json_path} nicht gefunden — zuerst parse_menge.py ausführen',
-            file=sys.stderr,
-        )
+        print(f'Fehler: Datei "{markdown_path}" nicht gefunden', file=sys.stderr)
+        sys.exit(1)
+
+    try:
+        block  = extract_chapter_block(lines, kapitel)
+        verses = {str(k): v for k, v in parse_verses(block).items()}
+    except ValueError as e:
+        print(f'Fehler: {e}', file=sys.stderr)
         sys.exit(1)
 
     if vers_str not in verses:
