@@ -1,0 +1,60 @@
+{
+  "titel": "Johannes, der Vorläufer Jesu · Die Weihe des Messias",
+  "markierungen": [
+    {
+      "vers_von": 3, "von": 105, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "Jes 40,3", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 40,3, dem Eröffnungsruf des Trostbuches: »Bereitet den Weg des Herrn!« kündigt das Ende des babylonischen Exils an. Die Erfüllungsformel stellt Johannes als denjenigen dar, der diesen Ruf verkörpert — die prophetisch angekündigte Heimkehr vollzieht sich jetzt."
+    },
+    {
+      "vers_von": 4, "von": 26, "vers_bis": 4, "bis": 88, "typ": "at",
+      "referenz": "2 Kö 1,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Könige1,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Ein Gewand von Kamelhaaren und einen Ledergurt um seine Hüften« — fast wörtlich 2 Kö 1,8, wo Elija an eben diesem Erkennungszeichen identifiziert wird. Für jüdische Leser war das Signal eindeutig: Johannes ist der wiedergekommene Elija, dessen Rückkehr Mal 3,23 vor dem Tag des Herrn ankündigt."
+    },
+    {
+      "vers_von": 4, "von": 115, "vers_bis": 4, "bis": 144, "typ": "at",
+      "referenz": "3 Mo 11,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "3. Mo 11,22 erlaubt bestimmte Heuschreckenarten ausdrücklich als reine Nahrung. Die Notiz, dass Johannes Heuschrecken aß, zeigt: Er lebt nach dem Reinheitsgesetz. Was modernen Lesern befremdlich erscheint, war in Wüstenregionen eine religionskonforme Ernährung."
+    },
+    {
+      "vers_von": 11, "von": 144, "vers_bis": 11, "bis": 197, "typ": "at",
+      "referenz": "Joel 3,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Mit heiligem Geist und mit Feuer taufen« greift Joels eschatologische Geistverheißung auf (Joel 3,1) — dasselbe Wort, das Petrus zu Pfingsten zitiert (Apg 2,17). Das Feuermotiv verweist auf das Läuterungsfeuer des kommenden Herrn (Mal 3,2–3)."
+    },
+    {
+      "vers_von": 15, "von": 32, "vers_bis": 15, "bis": 119, "typ": "jesus"
+    },
+    {
+      "vers_von": 16, "von": 134, "vers_bis": 16, "bis": 202, "typ": "at",
+      "referenz": "1 Mo 1,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose1,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Der Geist Gottes schwebte über den Wassern« (1. Mo 1,2) eröffnet die Schöpfung. Das Herabkommen des Geistes auf den aus dem Wasser steigenden Jesus ruft diese Urszene wach: Die Taufe markiert den Beginn einer neuen Schöpfung. In der rabbinischen Tradition wurde das Schweben des Geistes mit dem Bild einer Taube verbunden."
+    },
+    {
+      "vers_von": 17, "von": 49, "vers_bis": 17, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 2,7", "url": "https://www.bibleserver.com/MENG/Psalm2,7" },
+        { "label": "Jes 42,1", "url": "https://www.bibleserver.com/MENG/Jesaja42,1" },
+        { "label": "1 Mo 22,2", "url": "https://www.bibleserver.com/MENG/1.Mose22,2" }
+      ],
+      "begruendung": "Die Himmelsstimme verknüpft drei AT-Schichten: »Mein Sohn« aus dem Krönungspsalm Ps 2,7; »an dem ich Wohlgefallen habe« aus der Gottesknecht-Einsetzung Jes 42,1; »geliebter Sohn« (griech. agapetos) aus der Bindung Isaaks in 1. Mo 22,2 — dem Aqeda-Motiv des hingegebenen Sohnes."
+    }
+  ]
+}
