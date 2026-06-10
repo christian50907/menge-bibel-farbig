@@ -1,0 +1,162 @@
+{
+  "titel": "Die Bergpredigt · Seligpreisungen · Salz und Licht · Antithesen",
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 44, "vers_bis": 1, "bis": 62, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2 Mo 19,3", "url": "https://www.bibleserver.com/MENG/2.Mose19,3" },
+        { "label": "2 Mo 24,12", "url": "https://www.bibleserver.com/MENG/2.Mose24,12" }
+      ],
+      "begruendung": "Der Aufstieg auf den Berg spiegelt das Sinai-Motiv: In 2. Mo 19,3 steigt Mose zu Gott auf den Berg; in 2. Mo 24,12 ruft Gott ihn hinauf, um ihm die Tora zu übergeben. Das Matthäusevangelium zeichnet Jesus durchgehend als den neuen Mose — der wie Mose am Berg die Tora verkündigt, nun aber mit eigener Vollmacht."
+    },
+    { "vers_von": 3, "von": 0, "vers_bis": 48, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 3, "von": 16, "vers_bis": 3, "bis": 31, "typ": "at",
+      "referenz": "Jes 61,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Geistlich Arm« greift das hebräische anawim auf — die Frommen, die nichts aus eigenem Vermögen haben und allein auf Gott angewiesen sind. Jes 61,1 verheißt eben dieser Gruppe Heilsbotschaft: »Der Geist des Herrn ist auf mir... Armen frohe Botschaft zu bringen.« Die Bergpredigt eröffnet mit diesem Bild."
+    },
+    {
+      "vers_von": 4, "von": 11, "vers_bis": 4, "bis": 60, "typ": "at",
+      "referenz": "Jes 61,2-3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 61,2-3 verheißt den Trauernden in Zion Trost: »alle Trauernden zu trösten, den Trauernden in Zion zu geben... ein Lobgewand statt eines verzagten Geistes.« Die zweite Seligpreisung nimmt diese Trostverheißung auf."
+    },
+    {
+      "vers_von": 5, "von": 11, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "Ps 37,11", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm37,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtliches Zitat aus Ps 37,11: »Die Sanftmütigen werden das Land erben und Freude haben an großem Frieden.« Ps 37 ist ein Weisheitspsalm über den scheinbaren Triumph der Bösen und den letztendlichen Segen für die Frommen. »Das Land ererben« hatte für einen jüdischen Leser messianische Bedeutung: das verheißene Land als Gottes Gabe."
+    },
+    {
+      "vers_von": 8, "von": 16, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "Ps 24,3-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm24,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 24 stellt die Frage: »Wer darf den Berg des Herrn besteigen?« und antwortet: »Wer unschuldige Hände hat und ein reines Herz« (Ps 24,3-4). Das »Gott schauen« ist die Verheißung dieses Psalms: Er wird Segen empfangen, »denn das ist das Geschlecht, das ihn sucht, das dein Antlitz sucht« (V6). Die Seligpreisung formuliert diese Bedingung als Zusage."
+    },
+    {
+      "vers_von": 12, "von": 90, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2 Chr 36,15-16", "url": "https://www.bibleserver.com/MENG/2.Chronik36,15" },
+        { "label": "Neh 9,26", "url": "https://www.bibleserver.com/MENG/Nehemia9,26" }
+      ],
+      "begruendung": "Das AT dokumentiert die Verfolgung und Tötung der Propheten: »Sie verspotteten die Boten Gottes, verachteten seine Worte und verhöhnten seine Propheten« (2 Chr 36,16). Neh 9,26 bündelt: »Sie... töteten deine Propheten, die sie zur Umkehr mahnten.« Die Jünger werden in diese Prophetenreihe gestellt."
+    },
+    {
+      "vers_von": 13, "von": 10, "vers_bis": 13, "bis": 27, "typ": "at",
+      "referenz": "3 Mo 2,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose2,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "In 3. Mo 2,13 ist Salz beim Opfer kultische Pflicht (»du sollst alle deine Speisopfer mit Salz salzen«); 4. Mo 18,19 nennt es »ewigen Salzbund«. »Ihr seid das Salz der Erde« lässt sich als Berufung zur Bundesverantwortung deuten — aber der Bezug ist evokativ, kein direktes Zitat; die Metapher (Salz als Würze/Konservierung) funktioniert auch ohne diesen Hintergrund."
+    },
+    {
+      "vers_von": 14, "von": 9, "vers_bis": 14, "bis": 27, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 42,6", "url": "https://www.bibleserver.com/MENG/Jesaja42,6" },
+        { "label": "Jes 49,6", "url": "https://www.bibleserver.com/MENG/Jesaja49,6" }
+      ],
+      "begruendung": "In Deuterojesaja ist Israel bzw. der Gottesknecht das »Licht für die Völker« (Jes 42,6: »Ich habe dich... zum Licht der Völker gegeben«; Jes 49,6: »Ich setze dich zum Licht der Heidenvölker«). Diese prophetische Berufung Israels wird nun auf die Jünger übertragen: Sie sind das »Licht der Welt«."
+    },
+    {
+      "vers_von": 21, "von": 52, "vers_bis": 21, "bis": 75, "typ": "at",
+      "referenz": "2 Mo 20,13", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Direktes Zitat des sechsten Gebots aus dem Dekalog (2. Mo 20,13; auch 5. Mo 5,17). Jesus leitet die erste Antithese mit dem Dekalog-Wortlaut ein, um ihn dann zu radikalisieren: Nicht nur die Tat, sondern schon der Zorn verletzt die Würde des Nächsten."
+    },
+    {
+      "vers_von": 22, "von": 211, "vers_bis": 22, "bis": 221, "typ": "at",
+      "referenz": "Jer 7,31-32", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia7,31",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Feuerhölle« übersetzt griech. γέεννα (Gehenna), abgeleitet vom hebr. Gei Ben Hinnom — dem Tal südlich Jerusalems, wo Kinderopfer dargebracht wurden (Jer 7,31-32; 2 Kö 23,10) und das später zum Müllverbrennungsplatz wurde. Im 1. Jh. war »Gehenna« das feststehende jüdische Bild für eschatologisches Gericht: kein abstrakter Ort, sondern ein historisch greifbarer Schauderplatz."
+    },
+    {
+      "vers_von": 27, "von": 53, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "2 Mo 20,14", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Direktes Zitat des siebten Gebots aus dem Dekalog (2. Mo 20,14; auch 5. Mo 5,18). Jesus greift das Gebot auf, um es zu vertiefen: Die äußere Handlung hat ihre Wurzel bereits im inneren Begehren."
+    },
+    {
+      "vers_von": 31, "von": 41, "vers_bis": 31, "bis": -1, "typ": "at",
+      "referenz": "5 Mo 24,1", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose24,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nahezu wörtliches Zitat aus 5. Mo 24,1: »Wenn jemand eine Frau nimmt... und sie findet keine Gnade in seinen Augen... so soll er ihr einen Scheidebrief schreiben.« Dieser Vers war in der jüdischen Rechtstradition zwischen den Schulen Schammai (nur bei Ehebruch) und Hillel (aus beliebigem Grund) heftig umstritten — ein für jeden Juden bekannter Streitpunkt."
+    },
+    {
+      "vers_von": 33, "von": 58, "vers_bis": 33, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "3 Mo 19,12", "url": "https://www.bibleserver.com/MENG/3.Mose19,12" },
+        { "label": "4 Mo 30,3", "url": "https://www.bibleserver.com/MENG/4.Mose30,3" }
+      ],
+      "begruendung": "Das Doppelzitat kombiniert zwei Gebote: 3. Mo 19,12 verbietet das Schwören beim Gottesnamen zu Lug und Trug (»Ihr sollt nicht falsch schwören bei meinem Namen«); 4. Mo 30,3 verlangt die Erfüllung abgelegter Eide. Jesus ersetzt das gesamte Schwörinstitut durch direkte Wahrhaftigkeit."
+    },
+    {
+      "vers_von": 34, "von": 65, "vers_bis": 35, "bis": 55, "typ": "at",
+      "referenz": "Jes 66,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja66,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtlich nach Jes 66,1: »So spricht der Herr: Der Himmel ist mein Thron und die Erde mein Fußschemel.« Das Zitat begründet das Schwörverbot: Beim Himmel und bei der Erde zu schwören schließt Gott selbst ein — beides ist sein Eigentum."
+    },
+    {
+      "vers_von": 35, "von": 89, "vers_bis": 35, "bis": -1, "typ": "at",
+      "referenz": "Ps 48,3", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm48,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Die Stadt des großen Königs« ist fast wörtlich aus Ps 48,3: »die Stadt des großen Königs.« Ps 48 ist ein Zionspsalm, der Jerusalem als den Berg Gottes besingt. Auch bei Jerusalem zu schwören ist verboten, weil es Gottes Stadt ist — nicht die der Schwörenden."
+    },
+    {
+      "vers_von": 38, "von": 53, "vers_bis": 38, "bis": -1, "typ": "at",
+      "referenz": "2 Mo 21,24", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose21,24",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Direktes Zitat der Lex talionis aus 2. Mo 21,24 (auch 3. Mo 24,20; 5. Mo 19,21). Die Formel »Auge um Auge« war ursprünglich eine Begrenzung der Rache: Strafe darf nicht größer sein als die Verletzung. Jesus setzt an die Stelle des Rechtsausgleichs den Verzicht auf Vergeltung."
+    },
+    {
+      "vers_von": 43, "von": 53, "vers_bis": 43, "bis": -1, "typ": "at",
+      "referenz": "3 Mo 19,18", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/3.Mose19,18",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Du sollst deinen Nächsten lieben wie dich selbst« ist direktes Zitat aus 3. Mo 19,18 — dem Kerngebot des Heiligkeitsgesetzes. Der Zusatz »und deinen Feind hassen« steht nicht in der Tora; er spiegelt eine zeitgenössische Interpretation, die »Nächster« auf den Volksgenossen einengte. Das Gebot wird nach dieser Engführung zitiert, um es zu sprengen."
+    },
+    {
+      "vers_von": 48, "von": 6, "vers_bis": 48, "bis": -1, "typ": "at",
+      "referenz": "3 Mo 19,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose19,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Strukturell parallel zu 3. Mo 19,2: »Ihr sollt heilig sein, denn ich, der Herr, euer Gott, bin heilig.« Dasselbe Muster: ›Ihr sollt X sein — denn Gott selbst ist X.‹ Jesus ersetzt »heilig« (rituell-kultisch) durch »vollkommen« (griech. teleios = ganz, ungeteilt): Die geforderte Vollkommenheit ist die Liebe ohne Ausnahme (V43-47), nicht rituelle Reinheit."
+    }
+  ]
+}
