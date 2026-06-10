@@ -10,9 +10,9 @@
         { "label": "2 Mo 19,3", "url": "https://www.bibleserver.com/MENG/2.Mose19,3" },
         { "label": "2 Mo 24,12", "url": "https://www.bibleserver.com/MENG/2.Mose24,12" }
       ],
-      "begruendung": "Der Aufstieg auf den Berg spiegelt das Sinai-Motiv: In 2. Mo 19,3 steigt Mose zu Gott auf den Berg; in 2. Mo 24,12 ruft Gott ihn hinauf, um ihm die Tora zu übergeben. Das Matthäusevangelium zeichnet Jesus durchgehend als den neuen Mose — der wie Mose am Berg die Tora verkündigt, nun aber mit eigener Vollmacht."
+      "begruendung": "Der Aufstieg auf den Berg greift das Sinai-Motiv auf: In 2. Mo 19,3 steigt Mose zu Gott auf den Berg; in 2. Mo 24,12 ruft Gott ihn hinauf, um ihm die Tora zu übergeben. Der neue Gesetzgeber besteigt den Berg — wie einst Mose am Sinai — und lehrt mit eigener Vollmacht."
     },
-    { "vers_von": 3, "von": 0, "vers_bis": 48, "bis": -1, "typ": "jesus" },
+    { "vers_von": 3, "von": 0, "vers_bis": 12, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 3, "von": 16, "vers_bis": 3, "bis": 31, "typ": "at",
       "referenz": "Jes 61,1", "vgl": true,
@@ -56,6 +56,7 @@
       ],
       "begruendung": "Das AT dokumentiert die Verfolgung und Tötung der Propheten: »Sie verspotteten die Boten Gottes, verachteten seine Worte und verhöhnten seine Propheten« (2 Chr 36,16). Neh 9,26 bündelt: »Sie... töteten deine Propheten, die sie zur Umkehr mahnten.« Die Jünger werden in diese Prophetenreihe gestellt."
     },
+    { "vers_von": 13, "von": 0, "vers_bis": 16, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 13, "von": 10, "vers_bis": 13, "bis": 27, "typ": "at",
       "referenz": "3 Mo 2,13", "vgl": true,
@@ -75,6 +76,8 @@
       ],
       "begruendung": "In Deuterojesaja ist Israel bzw. der Gottesknecht das »Licht für die Völker« (Jes 42,6: »Ich habe dich... zum Licht der Völker gegeben«; Jes 49,6: »Ich setze dich zum Licht der Heidenvölker«). Diese prophetische Berufung Israels wird nun auf die Jünger übertragen: Sie sind das »Licht der Welt«."
     },
+    { "vers_von": 17, "von": 0, "vers_bis": 20, "bis": -1, "typ": "jesus" },
+    { "vers_von": 21, "von": 0, "vers_bis": 26, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 21, "von": 52, "vers_bis": 21, "bis": 75, "typ": "at",
       "referenz": "2 Mo 20,13", "vgl": false,
@@ -91,6 +94,7 @@
       "status": "aktiv",
       "begruendung": "»Feuerhölle« übersetzt griech. γέεννα (Gehenna), abgeleitet vom hebr. Gei Ben Hinnom — dem Tal südlich Jerusalems, wo Kinderopfer dargebracht wurden (Jer 7,31-32; 2 Kö 23,10) und das später zum Müllverbrennungsplatz wurde. Im 1. Jh. war »Gehenna« das feststehende jüdische Bild für eschatologisches Gericht: kein abstrakter Ort, sondern ein historisch greifbarer Schauderplatz."
     },
+    { "vers_von": 27, "von": 0, "vers_bis": 32, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 27, "von": 53, "vers_bis": 27, "bis": -1, "typ": "at",
       "referenz": "2 Mo 20,14", "vgl": false,
@@ -107,6 +111,7 @@
       "status": "aktiv",
       "begruendung": "Nahezu wörtliches Zitat aus 5. Mo 24,1: »Wenn jemand eine Frau nimmt... und sie findet keine Gnade in seinen Augen... so soll er ihr einen Scheidebrief schreiben.« Dieser Vers war in der jüdischen Rechtstradition zwischen den Schulen Schammai (nur bei Ehebruch) und Hillel (aus beliebigem Grund) heftig umstritten — ein für jeden Juden bekannter Streitpunkt."
     },
+    { "vers_von": 33, "von": 0, "vers_bis": 37, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 33, "von": 58, "vers_bis": 33, "bis": -1, "typ": "at",
       "vgl": false,
@@ -134,6 +139,7 @@
       "status": "aktiv",
       "begruendung": "»Die Stadt des großen Königs« ist fast wörtlich aus Ps 48,3: »die Stadt des großen Königs.« Ps 48 ist ein Zionspsalm, der Jerusalem als den Berg Gottes besingt. Auch bei Jerusalem zu schwören ist verboten, weil es Gottes Stadt ist — nicht die der Schwörenden."
     },
+    { "vers_von": 38, "von": 0, "vers_bis": 42, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 38, "von": 53, "vers_bis": 38, "bis": -1, "typ": "at",
       "referenz": "2 Mo 21,24", "vgl": false,
@@ -142,6 +148,7 @@
       "status": "aktiv",
       "begruendung": "Direktes Zitat der Lex talionis aus 2. Mo 21,24 (auch 3. Mo 24,20; 5. Mo 19,21). Die Formel »Auge um Auge« war ursprünglich eine Begrenzung der Rache: Strafe darf nicht größer sein als die Verletzung. Jesus setzt an die Stelle des Rechtsausgleichs den Verzicht auf Vergeltung."
     },
+    { "vers_von": 43, "von": 0, "vers_bis": 48, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 43, "von": 53, "vers_bis": 43, "bis": -1, "typ": "at",
       "referenz": "3 Mo 19,18", "vgl": false,
