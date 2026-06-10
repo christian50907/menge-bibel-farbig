@@ -2,6 +2,14 @@
   "titel": "Johannes, der Vorläufer Jesu · Die Weihe des Messias",
   "markierungen": [
     {
+      "vers_von": 2, "von": 16, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "›Das Himmelreich‹ (hebr. malkût schāmajim, wörtlich: Reich der Himmel) ist der zentrale Begriff der jüdischen Eschatologie und umschreibt Gottes direktes Königreich, das alle menschlichen Reiche ablösen soll. Daniel sah in seiner Nachtvision, wie dem Menschensohn vom Hochbetagten ein ewiges Reich übergeben wurde, das nie vergeht (Dan 7,13-14). Die Proklamation ›Das Himmelreich ist nahe herbeigekommen‹ ruft diese Erwartung ab: Was die Propheten angekündigt hatten, steht unmittelbar bevor."
+    },
+    {
       "vers_von": 3, "von": 105, "vers_bis": 3, "bis": -1, "typ": "at",
       "referenz": "Jes 40,3", "vgl": false,
       "url": "https://www.bibleserver.com/MENG/Jesaja40,3",
