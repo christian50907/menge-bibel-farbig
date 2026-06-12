@@ -13,7 +13,8 @@
       ],
       "begruendung": "Im AT richtet Israel in seltener Unmittelbarkeit das Gebet an Gott als »Vater«: Jes 63,16 ›Du bist doch unser Vater‹, Jes 64,7 ›du bist unser Vater; wir sind der Ton, du bist unser Töpfer‹. Beide Stellen entstammen demselben Gebet der Gemeinschaft. Die Bergpredigt verwendet die Vateranrede als selbstverständliche Grundlage der Gottesbeziehung — eine Intimität, die im AT selten und besonders ist."
     },
-    { "vers_von": 5, "von": 0, "vers_bis": 15, "bis": -1, "typ": "jesus" },
+    { "vers_von": 5, "von": 0, "vers_bis": 9, "bis": -1, "typ": "jesus" },
+    { "vers_von": 10, "von": 0, "vers_bis": 15, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 6, "von": 34, "vers_bis": 6, "bis": 76, "typ": "at",
       "referenz": "Jes 26,20", "vgl": true,
