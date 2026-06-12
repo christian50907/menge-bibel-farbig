@@ -436,7 +436,7 @@ async function ladeSeite() {
     let html = `
       <div class="kapitel-header">
         <div class="kapitel-label">${info.name} &nbsp;·&nbsp; Kapitel ${kapitel}</div>
-        <h1 class="kapitel-titel">${anno.titel}</h1>
+        ${anno.titel ? `<h1 class="kapitel-titel">${anno.titel}</h1>` : ''}
       </div>
       ${baueKapitelNav(vor, nach, buch)}
       <div class="bibeltext">`;

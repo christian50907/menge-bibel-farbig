@@ -1,6 +1,12 @@
 {
   "buecher": [
     {
+      "id":          "matthaeus",
+      "name":        "Matthäus",
+      "quellpfad":   "Bibel/Neues%20Testament/01%20-%20Matth%C3%A4us.md",
+      "kapitel":     [1, 2, 3, 4, 5, 6]
+    },
+    {
       "id":          "markus",
       "name":        "Markus",
       "quellpfad":   "Bibel/Neues%20Testament/02%20-%20Markus.md",

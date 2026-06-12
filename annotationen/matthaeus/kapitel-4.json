@@ -1,0 +1,104 @@
+{
+  "titel": "Die Versuchung Jesu · Beginn in Galiläa · Berufung der ersten Jünger",
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 11, "vers_bis": 2, "bis": 42, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "5 Mo 8,2", "url": "https://www.bibleserver.com/MENG/5.Mose8,2" },
+        { "label": "2 Mo 34,28", "url": "https://www.bibleserver.com/MENG/2.Mose34,28" },
+        { "label": "1 Kö 19,8", "url": "https://www.bibleserver.com/MENG/1.Könige19,8" }
+      ],
+      "begruendung": "Die vierzig Tage und Nächte spiegeln Israels vierzig Jahre in der Wüste (5. Mo 8,2: »Der HERR führte dich vierzig Jahre durch die Wüste, um dich zu demütigen und zu prüfen«) und Mose vierzig Tage auf dem Sinai (2. Mo 34,28: »Er war dort beim HERRN vierzig Tage und vierzig Nächte, aß kein Brot und trank kein Wasser«). Auch Elia fastete vierzig Tage auf dem Weg zum Horeb (1. Kö 19,8). Jesus rekapituliert die Prüfungszeit Israels — und besteht sie, wo Israel versagt hatte."
+    },
+    {
+      "vers_von": 4, "von": 29, "vers_bis": 4, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 4, "von": 52, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "5 Mo 8,3", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose8,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus 5. Mo 8,3. Im Kontext der vierzig Wüstenjahre Israels lehrt Mose: Gott ließ sein Volk hungern, um es zu prüfen, und gab ihm das Manna — damit Israel lerne, dass das Leben von Gottes Wort abhängt, nicht vom Brot. Jesus befindet sich in derselben Situation (hungrig nach vierzig Tagen) und zitiert genau dieses Wort — er hat verinnerlicht, was Israel damals lernen sollte."
+    },
+    {
+      "vers_von": 6, "von": 94, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "Ps 91,11-12", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm91,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Ps 91,11-12. Ps 91 ist der Vertrauenspsalm des Gerechten unter Gottes Schutz. Der Teufel wendet die Verheißung zur Versuchung: Wenn Gott seinen Engeln befiehlt, Jesus zu tragen — warum dann nicht beweisen, dass dieser Schutz gilt? Jesus lehnt ab: Gottes Schutzversprechen ist keine Einladung, sich selbst in Gefahr zu stürzen."
+    },
+    {
+      "vers_von": 7, "von": 22, "vers_bis": 7, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 7, "von": 55, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "5 Mo 6,16", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose6,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus 5. Mo 6,16. Der Vers erinnert an Massa (2. Mo 17), wo Israel Wasser forderte und trotzig fragte: »Ist der HERR in unserer Mitte oder nicht?« — eine Provokation Gottes, um seine Gegenwart zu erzwingen. Jesus weigert sich, Gott auf die Probe zu stellen, selbst wenn es den eigenen Schutz betrifft."
+    },
+    {
+      "vers_von": 8, "von": 38, "vers_bis": 8, "bis": 63, "typ": "at",
+      "referenz": "5 Mo 34,1-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose34,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "In 5. Mo 34,1-4 führt Gott den sterbenden Mose auf den Berg Nebo und zeigt ihm alle Länder des verheißenen Landes. Die Teufelversuchung auf dem sehr hohen Berg spiegelt diese Szene strukturell: hoher Berg — Ausblick auf alle Reiche — Angebots- statt Verheißungsszene. Aber die Formulierung ist nicht zitiert; die Parallele ist assoziativ."
+    },
+    {
+      "vers_von": 10, "von": 25, "vers_bis": 10, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 10, "von": 73, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "5 Mo 6,13", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose6,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus 5. Mo 6,13. Der Vers folgt unmittelbar auf das Schma Israel (5. Mo 6,4-5) und die Warnung vor Vergessen Gottes nach dem Einzug ins gelobte Land. Mit diesem zentralen Bekenntnis der jüdischen Glaubenspraxis weist Jesus das Angebot der Weltherrschaft zurück: Gottes alleinige Anbetung duldet keine Konkurrenz."
+    },
+    {
+      "vers_von": 11, "von": 43, "vers_bis": 11, "bis": -1, "typ": "at",
+      "referenz": "1 Kö 19,5-8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Könige19,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Elia lag erschöpft in der Wüste nach seiner Flucht vor Isebel. Ein Engel berührte ihn, weckte ihn und brachte ihm Brot und Wasser: »Steh auf und iss, denn der Weg ist zu weit für dich« (1. Kö 19,5-8). In der Kraft dieser Speise ging er dann vierzig Tage. Das Bild des Engels, der nach der Wüstenprüfung dient, schließt den Elia-Bogen des Kapitels."
+    },
+    {
+      "vers_von": 15, "von": 0, "vers_bis": 16, "bis": -1, "typ": "at",
+      "referenz": "Jes 8,23-9,1", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja8,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 8,23-9,1. Jesaja kündigt Licht für die seit der assyrischen Invasion (733 v. Chr.) verachteten Gebiete Sebulon und Naphthali an. Diese Regionen lagen am See Genezaret — genau dort, wo Jesus nun sein Wirken beginnt. Die Erfüllungsformel (V14) stellt Jesu Umzug nach Kapernaum als Einlösung dieser Licht-Verheißung dar."
+    },
+    {
+      "vers_von": 17, "von": 82, "vers_bis": 17, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 17, "von": 98, "vers_bis": 17, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung der Proklamation von Mt 3,2 (Johannes, dort annotiert: Dan 7,13-14). Keine neue Dimension."
+    },
+    {
+      "vers_von": 19, "von": 19, "vers_bis": 19, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 19, "von": 60, "vers_bis": 19, "bis": -1, "typ": "at",
+      "referenz": "Jer 16,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia16,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "In Jer 16,16 kündigt Gott Gericht an: »Ich will viele Fischer aussenden... die sollen sie fischen.« Das Fischbild steht dort für Gottes Gericht über Israel. Jesus greift das Bild auf und kehrt es um: aus Fischern werden Menschenfischer — Berufer, nicht Richter. Die Inversion ist theologisch interessant, aber die Verbindung ist assoziativ und kein direktes Zitat."
+    }
+  ]
+}
