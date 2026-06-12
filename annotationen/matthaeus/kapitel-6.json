@@ -1,0 +1,124 @@
+{
+  "titel": "Almosen · Gebet und Vaterunser · Fasten · Schätze und Sorgen",
+  "markierungen": [
+    { "vers_von": 1, "von": 0, "vers_bis": 4, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 1, "von": 152, "vers_bis": 1, "bis": 173, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 63,16", "url": "https://www.bibleserver.com/MENG/Jesaja63,16" },
+        { "label": "Jes 64,7",  "url": "https://www.bibleserver.com/MENG/Jesaja64,7" }
+      ],
+      "begruendung": "Im AT richtet Israel in seltener Unmittelbarkeit das Gebet an Gott als »Vater«: Jes 63,16 ›Du bist doch unser Vater‹, Jes 64,7 ›du bist unser Vater; wir sind der Ton, du bist unser Töpfer‹. Beide Stellen entstammen demselben Gebet der Gemeinschaft. Die Bergpredigt verwendet die Vateranrede als selbstverständliche Grundlage der Gottesbeziehung — eine Intimität, die im AT selten und besonders ist."
+    },
+    { "vers_von": 5, "von": 0, "vers_bis": 15, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 6, "von": 34, "vers_bis": 6, "bis": 76, "typ": "at",
+      "referenz": "Jes 26,20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja26,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* Jes 26,20 hat eine fast wörtliche verbale Parallele: »Geh, mein Volk, geh in deine Kammern hinein und schließe deine Türen hinter dir zu.« Dort geht es jedoch um Schutz vor göttlichem Gericht, nicht um Gebet. Die verbale Übereinstimmung ist auffällig, der Kontext zu verschieden für eine aktive Annotation."
+    },
+    {
+      "vers_von": 9, "von": 27, "vers_bis": 9, "bis": 62, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 63,16", "url": "https://www.bibleserver.com/MENG/Jesaja63,16" },
+        { "label": "Jes 64,7",  "url": "https://www.bibleserver.com/MENG/Jesaja64,7" }
+      ],
+      "begruendung": "*(nicht sichtbar)* Die direkte Vateranrede »Unser Vater, der du bist im Himmel« ist das markanteste Vorkommen der Gottesanrede im Kapitel — theologisch bedeutsamer als V1. Da V1 bereits aktiv annotiert ist (Jes 63,16 / Jes 64,7), wäre eine zweite Vateranrede-Annotation hier Intra-Kapitel-Redundanz. Kein eigenständiger neuer Aspekt."
+    },
+    {
+      "vers_von": 9, "von": 63, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Hes 36,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel36,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die erste Bitte des Vaterunsers greift das Motiv des Kiddush Hashem (»Heiligung des Namens«) auf. In Hes 36,23 spricht Gott selbst davon, seinen großen Namen zu heiligen, der unter den Völkern entweiht wurde: »Ich werde meinen großen Namen heiligen.« Das Gebet »Geheiligt werde dein Name« bittet um das, was Gott in Hesekiel selbst ankündigt — die sichtbare Manifestation seiner Heiligkeit in der Welt."
+    },
+    {
+      "vers_von": 10, "von": 0, "vers_bis": 10, "bis": 16, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Dein Reich komme« bittet um das Kommen des Gottesreiches, dessen AT-Grundlage Dan 7,13-14 ist (»seinem Reich sind übergeben... sein Reich ist ein ewiges Reich«). Bereits in Mt 3,2 annotiert — keine Wiederholung."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": -1, "typ": "at",
+      "referenz": "2 Mo 16,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose16,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Bild des täglichen Brotes ist vom Manna geprägt: In 2. Mo 16,4 ordnet Gott an, dass Israel täglich nur so viel sammeln soll, »was für den Tag genug ist« — kein Vorrat auf Mehrere Tage. »Auskömmlich« (griech. ἐπιούσιος) meint genau dies: das Brot für den jeweils nächsten Tag. Die Bitte greift das Manna-Muster auf: tägliches Vertrauen statt Angst vor Mangel."
+    },
+    {
+      "vers_von": 12, "von": 0, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "5 Mo 15,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose15,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* Das Schmitta-Gebot (5. Mo 15,1-2) sieht alle sieben Jahre einen Schulderlass vor. Eine strukturelle Parallele (gegenseitige Vergebung) scheint denkbar. Der Bezug ist jedoch zu indirekt — »Schulden« meint hier laut Fußnote »Verschuldungen« (= Vergehen), nicht Geldschulden, und das Schmitta-Institutsgefälle ist nicht das Bild, das aufgerufen wird."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 13, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Erlöse uns von dem Bösen« hat Parallelen in den AT-Rettungsgebeten (Ps 7,2; 22,21; 143,9 u.a.). »Führe uns nicht in Versuchung« hat strukturellen Bezug zu Dtn 8,2 (Gott prüft Israel vierzig Jahre in der Wüste). Beides ist zu allgemein für eine einzelne load-bearing AT-Stelle; »führe uns nicht« ist zudem eine Umkehrung, kein Zitat."
+    },
+    { "vers_von": 16, "von": 0, "vers_bis": 18, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 16, "von": 9, "vers_bis": 16, "bis": 24, "typ": "at",
+      "referenz": "Jes 58,3-7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja58,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Jes 58 konfrontiert Gott das Volk mit demselben Grundproblem: ein Fasten, das öffentlich dargestellt wird, um gesehen zu werden, aber kein Echo bei Gott findet. Jes 58,3: »Warum fasten wir, und du siehst es nicht?« — Gottes Antwort in 58,5-7: ein solches Fasten hat er sich nicht erkoren. Die Kritik am zur-Schau-gestellten Fasten ist also kein neues Thema — Jesus greift ein bekanntes prophetisches Motiv auf."
+    },
+    { "vers_von": 19, "von": 0, "vers_bis": 24, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 22, "von": 37, "vers_bis": 23, "bis": 32, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Spr 22,9",  "url": "https://www.bibleserver.com/MENG/Sprueche22,9" },
+        { "label": "Spr 28,22", "url": "https://www.bibleserver.com/MENG/Sprueche28,22" }
+      ],
+      "begruendung": "Im Hebräischen ist ›ein gutes Auge haben‹ (ayin tova) der Ausdruck für Großzügigkeit, ›ein böses Auge haben‹ (ayin ra'ah) für Geiz und Gier. Spr 22,9: »Wer ein wohlwollendes Auge hat, wird gesegnet; denn er gibt von seinem Brot dem Armen.« Spr 28,22: »Ein Mann mit dem bösen Blick strebt nach Reichtum.« Der Abschnitt V22-23 handelt deshalb nicht von optischer Sehfähigkeit, sondern von der inneren Haltung zu Besitz — der Kontext (V19-24: Schätze, zwei Herren, Mammon) macht dies deutlich."
+    },
+    {
+      "vers_von": 30, "von": 0, "vers_bis": 30, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* Jes 40,6-8 (»Alles Fleisch ist Gras«) und Ps 103,15 (»Der Mensch ist wie Gras«) stehen im Hintergrund. Dort beschreibt das Gras-Bild menschliche Vergänglichkeit; hier dient »Gras des Feldes« als Argument für Gottes Fürsorge (Kleidung). Funktion zu verschieden — evokative Bildsprache ohne direkten Autorenverweis."
+    },
+    { "vers_von": 25, "von": 0, "vers_bis": 34, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 26, "von": 100, "vers_bis": 26, "bis": 139, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hi 38,41",  "url": "https://www.bibleserver.com/MENG/Hiob38,41" },
+        { "label": "Ps 147,9",  "url": "https://www.bibleserver.com/MENG/Psalm147,9" }
+      ],
+      "begruendung": "Dass Gott die Vögel ernährt, ist ein konkretes AT-Bild: Ps 147,9 »Er gibt dem Vieh seine Nahrung und den jungen Raben, die zu ihm schreien«; Hi 38,41 »Wer bereitet dem Raben seine Nahrung, wenn seine Jungen nach Gott schreien?« Das Argument von V26 setzt diese AT-Überzeugung voraus — Gottes Sorge für Tiere ist keine fromme Metapher, sondern theologische Aussage über den Schöpfer, aus der direkt gefolgert wird: ›wie viel mehr erst für euch‹."
+    },
+    {
+      "vers_von": 29, "von": 29, "vers_bis": 29, "bis": 58, "typ": "at",
+      "referenz": "1 K 10,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige10,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Salomos Pracht war das Paradebeispiel menschlicher Herrlichkeit im AT. 1 K 10,23: »König Salomo übertraf alle Könige der Erde an Reichtum und Weisheit.« Die Episode der Königin von Saba (1 K 10,1-9) beschreibt seinen überirdischen Glanz. Für jeden jüdischen Hörer ist »Salomo in all seiner Pracht« die höchste denkbare menschliche Herrlichkeit — und sie wird von einer Feldlilie übertroffen."
+    }
+  ]
+}
