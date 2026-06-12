@@ -76,6 +76,17 @@
       ],
       "begruendung": "In Deuterojesaja ist Israel bzw. der Gottesknecht das »Licht für die Völker« (Jes 42,6: »Ich habe dich... zum Licht der Völker gegeben«; Jes 49,6: »Ich setze dich zum Licht der Heidenvölker«). Diese prophetische Berufung Israels wird nun auf die Jünger übertragen: Sie sind das »Licht der Welt«."
     },
+    {
+      "vers_von": 16, "von": 98, "vers_bis": 16, "bis": 122, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 63,16", "url": "https://www.bibleserver.com/MENG/Jesaja63,16" },
+        { "label": "Jes 64,7",  "url": "https://www.bibleserver.com/MENG/Jesaja64,7" }
+      ],
+      "begruendung": "Erste Verwendung der Gottesanrede »Vater im Himmel« im Matthäusevangelium — und zugleich der früheste Beleg dieser Wendung im NT. Im AT ist die Vateranrede für Gott äußerst selten und markiert besondere Unmittelbarkeit: Jes 63,16 ›Du bist doch unser Vater‹ und Jes 64,7 ›wir sind der Ton, du bist unser Töpfer‹ — beide Stellen entstammen demselben Notgebet der Gemeinschaft. Jesus setzt diese Vertrautheit als selbstverständliche Grundlage für das Reden über Gott voraus."
+    },
     { "vers_von": 17, "von": 0, "vers_bis": 20, "bis": -1, "typ": "jesus" },
     { "vers_von": 21, "von": 0, "vers_bis": 26, "bis": -1, "typ": "jesus" },
     {

@@ -6,12 +6,12 @@
       "vers_von": 1, "von": 152, "vers_bis": 1, "bis": 173, "typ": "at",
       "vgl": true,
       "autor": "KI",
-      "status": "aktiv",
+      "status": "inaktiv",
       "urls": [
         { "label": "Jes 63,16", "url": "https://www.bibleserver.com/MENG/Jesaja63,16" },
         { "label": "Jes 64,7",  "url": "https://www.bibleserver.com/MENG/Jesaja64,7" }
       ],
-      "begruendung": "Im AT richtet Israel in seltener Unmittelbarkeit das Gebet an Gott als »Vater«: Jes 63,16 ›Du bist doch unser Vater‹, Jes 64,7 ›du bist unser Vater; wir sind der Ton, du bist unser Töpfer‹. Beide Stellen entstammen demselben Gebet der Gemeinschaft. Die Bergpredigt verwendet die Vateranrede als selbstverständliche Grundlage der Gottesbeziehung — eine Intimität, die im AT selten und besonders ist."
+      "begruendung": "*(nicht sichtbar)* Erste Buchstelle für »Vater im Himmel« ist Mt 5,16 — dort aktiv annotiert (Jes 63,16 / Jes 64,7). Wiederholung ohne neue Dimension."
     },
     { "vers_von": 5, "von": 0, "vers_bis": 9, "bis": -1, "typ": "jesus" },
     { "vers_von": 10, "von": 0, "vers_bis": 15, "bis": -1, "typ": "jesus" },
@@ -32,7 +32,7 @@
         { "label": "Jes 63,16", "url": "https://www.bibleserver.com/MENG/Jesaja63,16" },
         { "label": "Jes 64,7",  "url": "https://www.bibleserver.com/MENG/Jesaja64,7" }
       ],
-      "begruendung": "*(nicht sichtbar)* Die direkte Vateranrede »Unser Vater, der du bist im Himmel« ist das markanteste Vorkommen der Gottesanrede im Kapitel — theologisch bedeutsamer als V1. Da V1 bereits aktiv annotiert ist (Jes 63,16 / Jes 64,7), wäre eine zweite Vateranrede-Annotation hier Intra-Kapitel-Redundanz. Kein eigenständiger neuer Aspekt."
+      "begruendung": "*(nicht sichtbar)* Erste Buchstelle für »Vater im Himmel« ist Mt 5,16 (dort aktiv annotiert). Intra-Kapitel-Redundanz zu V1; kein eigenständiger neuer Aspekt."
     },
     {
       "vers_von": 9, "von": 63, "vers_bis": 9, "bis": -1, "typ": "at",
