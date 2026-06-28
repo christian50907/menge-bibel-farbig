@@ -10,6 +10,14 @@
       "begruendung": "Das Evangelium eröffnet mit denselben Worten, mit denen das Buch Genesis den Stammbaum Adams einleitet (1. Mo 5,1: ›Dies ist das Buch von der Geschichte Adams‹). Der griechische Ausdruck ist identisch: βίβλος γενέσεως. Der Text signalisiert damit: Mit Jesus beginnt eine neue Schöpfung, ein neuer Adam."
     },
     {
+      "vers_von": 1, "von": 15, "vers_bis": 1, "bis": 22, "typ": "at",
+      "referenz": "1 Sam 16,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel16,13",
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "»Christus« ist die griechische Übersetzung von »Maschiach« — der Gesalbte. Israels Könige wurden rituell mit Öl gesalbt, am deutlichsten David durch Samuel (1 Sam 16,13). Der Stammbaum nennt diesen Titel in seiner ersten Zeile: Jesus ist der erwartete Gesalbte aus Davids Linie."
+    },
+    {
       "vers_von": 1, "von": 24, "vers_bis": 1, "bis": 41, "typ": "at",
       "referenz": "2 Sam 7,12", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
@@ -67,6 +75,14 @@
       "autor": "KI",
       "status": "aktiv",
       "begruendung": "Hinter der Einteilung in 3×14 Generationen steckt ein hebräisches Wortspiel: Der Name ›David‹ ergibt in der jüdischen Buchstabenzählung genau 14 (D=4, W=6, D=4). David steht am Ende der ersten und am Beginn der zweiten Reihe — er ist der Angelpunkt der Stammtafel. Für einen jüdischen Leser war diese Zahlenstruktur ein unmittelbarer Fingerzeig auf den Messias."
+    },
+    {
+      "vers_von": 18, "von": 170, "vers_bis": 18, "bis": 188, "typ": "at",
+      "referenz": "Jes 11,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja11,2",
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "Jes 11,2 prophezeit, dass der Geist des Herrn auf dem kommenden König aus Davids Linie ruhen wird. Die Empfängnis durch den Heiligen Geist erfüllt genau diese Erwartung: Der Messias ist der, auf dem der Geist bleibt."
     },
     {
       "vers_von": 20, "von": 123, "vers_bis": 20, "bis": 134, "typ": "at",
