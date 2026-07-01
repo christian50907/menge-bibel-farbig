@@ -1,0 +1,89 @@
+{
+  "titel": "Wunder- und Heiltätigkeit Jesu in Kapernaum und auf seinen Wanderungen",
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 0, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 13,45-46", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose13,45",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* 3. Mo 13,45-46 verbot Aussätzigen ausdrücklich, sich anderen Menschen zu nähern — sie mussten schreien »Unrein! Unrein!« und Abstand halten. Das Herantreten des Aussätzigen an Jesus ist selbst ein Regelverstoß. Nicht aktiv annotiert, da V4 den Torahrückbezug explizit enthält und die Fußnote der Menge-Bibel dort sitzt."
+    },
+    { "vers_von": 3, "von": 55, "vers_bis": 3, "bis": 80, "typ": "jesus" },
+    { "vers_von": 4, "von": 27, "vers_bis": 4, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 4, "von": 89, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 14,2-32", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose14,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Menge-Bibel verweist mit einer Fußnote auf 3. Mo 13,49; 14,2-32. Das Reinigungsritual für Aussätzige (3. Mo 14,2-32) schreibt genau das vor, worauf Jesus hier verweist: sich dem Priester zeigen und die vorgeschriebene Opfergabe darbringen. Jesu Anweisung bestätigt das Gesetz, anstatt es zu umgehen."
+    },
+    { "vers_von": 7, "von": 22, "vers_bis": 7, "bis": -1, "typ": "jesus" },
+    { "vers_von": 10, "von": 73, "vers_bis": 12, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 11, "von": 20, "vers_bis": 11, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 25,6", "url": "https://www.bibleserver.com/MENG/Jesaja25,6" },
+        { "label": "Ps 107,3", "url": "https://www.bibleserver.com/MENG/Psalm107,3" }
+      ],
+      "vgl": true,
+      "begruendung": "Der Vers vereint zwei AT-Motive: Das Kommen »von Osten und Westen« greift Ps 107,3 auf, der die endzeitliche Sammlung aus allen Himmelsrichtungen beschreibt. Das »zum Mahl niederlassen« evoziert Jes 25,6-9, das eschatologische Freudenmahl Gottes für alle Völker auf dem Zion. Zusammen ergibt sich ein Bild, das die Grenzen Israels sprengt: Heiden nehmen den Platz am Patriarchentisch ein."
+    },
+    {
+      "vers_von": 12, "von": 0, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "Ps 112,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm112,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Weinen und Zähneknirschen« ist eine stereotyp-apokalyptische Gerichtsformel, die in Mt siebenmal begegnet (8,12; 13,42; 22,13 u.a.). Ps 112,10 hat »Zähneknirschen«, aber in anderem Kontext. Kein einzelner AT-Text steht erkennbar dahinter — die Formel gehört zum allgemeinen Sprach­gebrauch der frühjüdischen Apokalyptik. Nicht annotiert."
+    },
+    { "vers_von": 13, "von": 35, "vers_bis": 13, "bis": 84, "typ": "jesus" },
+    {
+      "vers_von": 17, "von": 68, "vers_bis": 17, "bis": -1, "typ": "at",
+      "referenz": "Jes 53,4", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Erfüllungsformel zitiert wörtlich Jes 53,4 (Menge-Fußnote). Das vierte Gottesknecht-Lied beschreibt den Knecht, der Krankheiten und Leiden des Volkes auf sich nimmt. Jesu Heilungen werden hier als Erfüllung dieser Prophetie gelesen — nicht erst das Leiden am Kreuz, sondern bereits die Wundertätigkeit wird als stellvertretendes Tragen von Krankheit verstanden."
+    },
+    { "vers_von": 20, "von": 22, "vers_bis": 20, "bis": 153, "typ": "jesus" },
+    {
+      "vers_von": 20, "von": 85, "vers_bis": 20, "bis": 97, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Menschensohn« erscheint hier zum ersten Mal im Matthäusevangelium — und Jesus verwendet den Titel von sich selbst. In Dan 7,13-14 empfängt »einer wie ein Menschensohn« vor dem Thron Gottes ewige Herrschaft über alle Völker. Jesus beansprucht diesen endzeitlichen Herrschaftstitel, während er von Heimatlosigkeit spricht — ein bewusster Kontrast: der zukünftige Weltherrscher ohne Stätte."
+    },
+    { "vers_von": 22, "von": 27, "vers_bis": 22, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 22, "von": 0, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 9,6-7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose9,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Überlaß es den Toten, ihre Toten zu begraben« bricht eine der stärksten Pietätspflichten des AT: Eltern zu bestatten war eine unbedingte Sohnespflicht (vgl. 4. Mo 9,6-7; Tob 1,17-18). Der Schock des Wortes ergibt sich aus der gesamten Bestattungstradition, nicht aus einer einzelnen Textstelle — kein spezifischer Bezugstext evoziert. Nicht annotiert."
+    },
+    { "vers_von": 26, "von": 26, "vers_bis": 26, "bis": 74, "typ": "jesus" },
+    {
+      "vers_von": 27, "von": 45, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "Ps 107,25-29", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm107,25",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 107,23-30 schildert Seeleute in Seenot: Gott lässt den Sturm wüten, die Mannschaft schreit zu ihm, und er stillt den Sturm — »er gebot, und es stand still«. Die Jüngerfrage »Was ist das für ein Mann, daß sogar die Winde und der See ihm gehorsam sind!« greift genau diese Macht auf, die im AT allein Gott zukommt."
+    },
+    {
+      "vers_von": 29, "von": 0, "vers_bis": 29, "bis": -1, "typ": "at",
+      "referenz": "Ps 2,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* V29 enthält zwei geprüfte Stellen: (1) »du Sohn Gottes« — Gottessohn-Titel (Ps 2,7 / Jes 42,1) bereits in Mt 3,17 annotiert, Wiederholung. (2) »vor der Zeit zu quälen« — setzt apokalyptisches Gerichtswissen der Dämonen voraus; kein kanonischer AT-Text eindeutig dahinter (vgl. 1 Hen 16, außerkanonisch). Beide Stellen nicht aktiv annotiert."
+    },
+    { "vers_von": 32, "von": 21, "vers_bis": 32, "bis": 39, "typ": "jesus" }
+  ]
+}
