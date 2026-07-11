@@ -1,0 +1,96 @@
+{
+  "titel": "Heilung des Gelähmten · Berufung des Matthäus · Tochter des Jaïrus · Sendung in die Ernte",
+  "markierungen": [
+    { "vers_von": 2, "von": 127, "vers_bis": 2, "bis": -1, "typ": "jesus" },
+    { "vers_von": 2, "von": 152, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "Jes 43,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,25",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Die Vollmacht, Sünden zu vergeben, ist im AT ein göttliches Vorrecht (Jes 43,25: „Ich, ich bin's, der deine Übertretungen um meinetwillen auslöscht“). Das macht die Reaktion der Schriftgelehrten (V3: „Dieser lästert Gott!“) verständlich: Der Anspruch, Sünden zu vergeben, ist in der jüdischen Tradition ein Anspruch auf göttliche Autorität." },
+
+    { "vers_von": 4, "von": 53, "vers_bis": 6, "bis": 97, "typ": "jesus" },
+    { "vers_von": 6, "von": 25, "vers_bis": 6, "bis": 41, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Bereits Mt 8,20 aktiv annotiert — erste Verwendung des Titels 'Menschensohn' im Matthäusevangelium." },
+    { "vers_von": 6, "von": 135, "vers_bis": 6, "bis": -1, "typ": "jesus" },
+
+    { "vers_von": 9, "von": 113, "vers_bis": 9, "bis": 130, "typ": "jesus" },
+
+    { "vers_von": 12, "von": 30, "vers_bis": 13, "bis": -1, "typ": "jesus" },
+    { "vers_von": 13, "von": 44, "vers_bis": 13, "bis": 110, "typ": "at",
+      "referenz": "Hos 6,6", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Hosea6,6",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Hos 6,6: „An Barmherzigkeit habe ich Wohlgefallen, nicht an Schlachtopfern.“ Jesus zitiert diese Stelle als Schlüssel zum Verständnis seines Handelns: Gottesdienst zeigt sich in Zuwendung zu Ausgegrenzten, nicht in kultischer Absonderung. Hosea richtete denselben Vorwurf gegen ein Israel, das Opfer darbrachte, aber treulos lebte." },
+
+    { "vers_von": 15, "von": 24, "vers_bis": 17, "bis": -1, "typ": "jesus" },
+    { "vers_von": 15, "von": 24, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "Jes 62,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja62,5",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Das Bild des Bräutigams ist im AT ein Bild für Gott in seinem Verhältnis zu Israel (Jes 62,5; Hos 2,21). Indem Jesus sich implizit als „Bräutigam“ bezeichnet, nimmt er diese göttliche Rolle in Anspruch. Für einen jüdischen Zuhörer war das eine unüberhörbare theologische Aussage: Die messianische Hochzeitszeit ist angebrochen, und Trauer wäre ebenso unangemessen wie das Fasten auf einer Hochzeit." },
+
+    { "vers_von": 20, "von": 44, "vers_bis": 20, "bis": 60, "typ": "at",
+      "referenz": "3. Mo 15,25-27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose15,25",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Laut 3. Mo 15,25–27 ist eine Frau mit chronischem Blutfluss levitisch unrein — und wer sie berührt, wird ebenfalls unrein. Das erklärt, warum die Frau heimlich von hinten herantritt statt direkt um Hilfe zu bitten: Sie verletzt mit ihrer Berührung die Reinheitsgesetze. Jesus heilt sie, ohne selbst unrein zu werden — eine implizite Umkehrung der Reinheitslogik." },
+    { "vers_von": 20, "von": 105, "vers_bis": 20, "bis": 125, "typ": "at",
+      "referenz": "4. Mo 15,38-40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,38",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "4. Mo 15,38–40 schreibt vor, dass jeder Israelit an den vier Ecken seines Gewandes eine Quaste (Zizit/Tzitzit) tragen soll — als sichtbares Zeichen der Torazugehörigkeit. Der Text sagt nicht einfach 'Saum', sondern gezielt 'Quaste' (Zizit): Die Frau sucht Kontakt zu diesem heiligen Zeichen. Dass heute kaum noch jemand weiß, was eine Zizit ist, erklärt, warum die Szene oft als zufällige Berührung gelesen wird — damals war es ein gezielter, bedeutsamer Akt des Glaubens." },
+
+    { "vers_von": 22, "von": 57, "vers_bis": 22, "bis": 116, "typ": "jesus" },
+    { "vers_von": 24, "von": 10, "vers_bis": 24, "bis": 74, "typ": "jesus" },
+
+    { "vers_von": 25, "von": 92, "vers_bis": 25, "bis": 114, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 17,21-23", "url": "https://www.bibleserver.com/MENG/1.Koenige17,21" },
+        { "label": "2. Kön 4,34-35", "url": "https://www.bibleserver.com/MENG/2.Koenige4,34" }
+      ],
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Im AT gibt es nur zwei Berichte von der Erweckung Toter: durch Elia (1. Kön 17,21–23) und Elisa (2. Kön 4,34–35). Beide handeln durch körperlichen Kontakt und Gebet. Jesus greift das Mädchen bei der Hand und erweckt sie mit eigener Vollmacht — ohne das bei den Propheten notwendige Gebet. Der Text stellt Jesus damit in die Reihe der Propheten, lässt ihn diese Reihe aber übertreffen." },
+
+    { "vers_von": 27, "von": 0, "vers_bis": 30, "bis": -1, "typ": "at",
+      "referenz": "Jes 35,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,5",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jes 35,5 nennt die Heilung Blinder als Erkennungszeichen der messianischen Zeit: „Dann werden die Augen der Blinden aufgetan.“ Die Blinden rufen Jesus als 'Sohn Davids' an — den messianischen Hoheitstitel Israels. Mit der Heilung bestätigt Jesus diesen Anspruch durch die Tat. In Mt 11,5 zitiert er später eben diesen Jes-35-Katalog als Antwort auf die Frage des Täufers, ob er der Kommende sei." },
+    { "vers_von": 27, "von": 81, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "2. Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Bereits Mt 1,1 aktiv annotiert — erste Verwendung des Titels 'Sohn Davids' im Matthäusevangelium." },
+
+    { "vers_von": 28, "von": 93, "vers_bis": 28, "bis": 141, "typ": "jesus" },
+    { "vers_von": 29, "von": 38, "vers_bis": 29, "bis": -1, "typ": "jesus" },
+    { "vers_von": 30, "von": 72, "vers_bis": 30, "bis": -1, "typ": "jesus" },
+
+    { "vers_von": 32, "von": 0, "vers_bis": 33, "bis": -1, "typ": "at",
+      "referenz": "Jes 35,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,6",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jes 35,6 verheißt direkt neben der Blindenheilung (V5): „Die Zunge des Stummen wird jubeln.“ Beide Heilungen — Blindenheilung (V27–30) und Stummenheilung (V32–33) — erscheinen im selben Kapitel in unmittelbarer Folge. Die Volksreaktion „Noch niemals hat man etwas Derartiges in Israel gesehen!“ trifft den Ton: Die messianischen Zeichen des Jesaja geschehen." },
+
+    { "vers_von": 36, "von": 114, "vers_bis": 36, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 27,17", "url": "https://www.bibleserver.com/MENG/4.Mose27,17" },
+        { "label": "1. Kön 22,17", "url": "https://www.bibleserver.com/MENG/1.Koenige22,17" },
+        { "label": "Hes 34", "url": "https://www.bibleserver.com/MENG/Hesekiel34" }
+      ],
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "„Schafe ohne Hirten“ ist ein klassisches AT-Bild für ein führungsloses Israel (wörtlich so in 1. Kön 22,17; vgl. 4. Mo 27,17). Hes 34 entfaltet dieses Bild zur prophetischen Anklage der Führenden und zur Verheißung, dass Gott selbst als Hirt kommen wird (Hes 34,23: „Einen einzigen Hirten will ich über sie einsetzen“). Jesus sieht das Volk mit denselben Augen und setzt sich damit implizit in die Rolle dieses verheißenen Hirten." },
+
+    { "vers_von": 37, "von": 31, "vers_bis": 38, "bis": -1, "typ": "jesus" },
+    { "vers_von": 37, "von": 31, "vers_bis": 37, "bis": 50, "typ": "at",
+      "referenz": "Joel 4,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel4,13",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Das Ernte-Motiv erscheint im AT (Joel 4,13: „Schwingt die Sichel, denn die Ernte ist reif“) als Bild für das Endgericht. Jesus verwendet es hier umgekehrt als Bild für die Missionsaufgabe. Wegen des veränderten Bedeutungsrahmens liegt kein eindeutiger AT-Bezug vor, der einem zeitgenössischen Hörer unmittelbar aufgefallen wäre." }
+  ]
+}
