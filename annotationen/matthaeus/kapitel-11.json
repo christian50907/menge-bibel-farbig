@@ -1,0 +1,65 @@
+{
+  "titel": "Unglaube und Feindschaft der Juden gegen Jesus",
+  "markierungen": [
+    { "vers_von": 4, "von": 29, "vers_bis": 6, "bis": -1, "typ": "jesus" },
+    { "vers_von": 5, "von": 0, "vers_bis": 5, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 35,5-6", "url": "https://www.bibleserver.com/MENG/Jesaja35,5" },
+        { "label": "Jes 61,1", "url": "https://www.bibleserver.com/MENG/Jesaja61,1" }
+      ],
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jesus beschreibt sein Wirken als Kompilation aus Jes 35,5-6 (Blindenheilung, Taubenheilung, Lahmengang) und Jes 61,1 (Frohe Botschaft für die Armen) — dem messianischen Programm Jesajas. Statt »Ja, ich bin es« zu sagen, verweist er auf das erfüllte Programm: Für jeden, der diese Texte kannte, war das Antwort genug." },
+
+    { "vers_von": 7, "von": 93, "vers_bis": 19, "bis": -1, "typ": "jesus" },
+    { "vers_von": 10, "von": 58, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "Mal 3,1", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,1",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Mal 3,1, das die Sendung eines Boten ankündigt, der den Weg bereiten soll. Jesus identifiziert Johannes mit diesem Boten — und sich selbst als den, dem der Weg bereitet wird: Die Abwandlung »vor dir her« (statt »vor mir« in Mal) bringt diese Zuordnung sprachlich zum Ausdruck." },
+    { "vers_von": 14, "von": 32, "vers_bis": 14, "bis": -1, "typ": "at",
+      "referenz": "Mal 3,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Mal 3,23 verheißt die Rückkehr Elias vor dem großen Tag des Herrn — eine im zeitgenössischen Judentum lebendige Erwartung. Jesus erklärt Johannes als deren Erfüllung. Das »wenn ihr es annehmen wollt« zeigt, dass diese Deutung nicht selbstverständlich war und Glauben verlangte." },
+    { "vers_von": 19, "von": 12, "vers_bis": 19, "bis": 24, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Bereits Mt 8,20 aktiv annotiert — erste Verwendung des Titels »Menschensohn« im Matthäusevangelium." },
+
+    { "vers_von": 21, "von": 0, "vers_bis": 24, "bis": -1, "typ": "jesus" },
+    { "vers_von": 21, "von": 55, "vers_bis": 22, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 23,1-4", "url": "https://www.bibleserver.com/MENG/Jesaja23,1" },
+        { "label": "Hes 26,1", "url": "https://www.bibleserver.com/MENG/Hesekiel26,1" }
+      ],
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Tyrus und Sidon waren in der atl. Prophetie Inbegriff heidnischer Schuld und göttlichen Gerichts (Jes 23; Hes 26–28; Joel 4,4). Einem zeitgenössischen Juden klangen diese Namen wie »die berüchtigtsten Sünderstädte überhaupt«. Wenn selbst diese Buße getan hätten, ist der Ungehorsam von Chorazin und Bethsaida umso vernichtender." },
+    { "vers_von": 23, "von": 19, "vers_bis": 23, "bis": 125, "typ": "at",
+      "referenz": "Jes 14,13.15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja14,13",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jes 14,13.15 beschreibt den Fall des Königs von Babel: »Zum Himmel will ich hinaufsteigen... in die Totenwelt wirst du hinabgestoßen.« Jesus überträgt das Aufstiegs-und-Sturz-Schema auf Kapernaum: Die Stadt, die durch seine Wunder faktisch »erhöht« war, wird — wegen ihres Unglaubens — ebenso tief fallen." },
+    { "vers_von": 23, "von": 139, "vers_bis": 23, "bis": 144, "typ": "at",
+      "referenz": "1 Mo 18–19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose18",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Bereits Mt 10,15 aktiv annotiert — Sodom als Inbegriff vernichteten Ungehorsams." },
+
+    { "vers_von": 25, "von": 38, "vers_bis": 27, "bis": -1, "typ": "jesus" },
+    { "vers_von": 27, "von": 0, "vers_bis": 27, "bis": 48, "typ": "at",
+      "referenz": "Dan 7,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Strukturelles Echo von Dan 7,14 (»ihm wurde Herrschaft und Königreich gegeben«). Aber ohne Menschensohn-Titel ist das Motiv Teil der allgemeinen Gottessohnschaft-Aussage — und nach fünf Dan-7-Annotierungen in Mt 1–10 kein neuer Erkenntnisgewinn." },
+
+    { "vers_von": 28, "von": 0, "vers_bis": 30, "bis": -1, "typ": "jesus" },
+    { "vers_von": 29, "von": 92, "vers_bis": 29, "bis": -1, "typ": "at",
+      "referenz": "Jer 6,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia6,16",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jer 6,16 verheißt denen Ruhe für ihre Seelen, die den guten Weg gehen — und beklagt, dass Israel ablehnte. Die Wendung »Ruhe finden für eure Seelen« greift Jesus wörtlich auf: Sein Joch ist der Weg, auf dem diese versprochene Ruhe nun tatsächlich gefunden wird." }
+  ]
+}
