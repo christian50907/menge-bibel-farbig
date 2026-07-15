@@ -1,0 +1,103 @@
+{
+  "titel": "Sabbat-Streit · Beelzebul-Streit · Zeichen des Jona",
+  "markierungen": [
+    { "vers_von": 3, "von": 24, "vers_bis": 8, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 3, "von": 49, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "1. Sam 21,2-7", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel21,2",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jesus beruft sich auf 1. Sam 21: David und seine hungernden Begleiter aßen im Heiligtum von Nob die Schaubrote, die nach dem Gesetz nur den Priestern zustanden — und galten als nicht schuldig. Dieser Präzedenzfall begründet das Handeln der Jünger am Sabbat."
+    },
+    {
+      "vers_von": 5, "von": 39, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 28,9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/4.Mose28,9",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "4. Mo 28,9 schreibt für den Sabbat tägliche Brandopfer vor — d.h. die Priester müssen am Sabbat im Tempel arbeiten. Jesus nutzt dieses Gesetz als Argument: Was die Torah selbst verlangt, kann am Sabbat keine Sünde sein."
+    },
+    {
+      "vers_von": 7, "von": 51, "vers_bis": 7, "bis": 120, "typ": "at",
+      "referenz": "Hos 6,6", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Hosea6,6",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Wiederholung von Mt 9,13 — dort bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 8, "von": 5, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Der Titel 'Menschensohn' und seine Würde wurden bereits in Mt 8,20 annotiert. Wiederholung."
+    },
+    { "vers_von": 11, "von": 26, "vers_bis": 12, "bis": -1, "typ": "jesus" },
+    { "vers_von": 13, "von": 31, "vers_bis": 13, "bis": 56, "typ": "jesus" },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "Jes 42,1-4", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja42,1",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 42,1-4, dem ersten Gottesknecht-Lied. Der Text stellt Jesu stilles, gewaltloses Handeln in den Rahmen des atl. Gottesknechts: er bricht Zerbrochenes nicht, zankt nicht auf den Straßen, und doch wird er das Recht siegen lassen — und die Heidenvölker werden auf ihn hoffen."
+    },
+    {
+      "vers_von": 23, "von": 91, "vers_bis": 23, "bis": 106, "typ": "at",
+      "referenz": "2. Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Wiederholung: 'Sohn Davids' als Messiasbezeichnung wurde bereits in Mt 1,1 annotiert."
+    },
+    {
+      "vers_von": 24, "von": 95, "vers_bis": 24, "bis": 104, "typ": "at",
+      "referenz": "2. Kö 1,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Könige1,2",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Wiederholung: Beelzebul und seine Herkunft von Baal-Zebub aus Ekron wurden bereits in Mt 10,25 annotiert."
+    },
+    { "vers_von": 25, "von": 56, "vers_bis": 30, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 29, "von": 26, "vers_bis": 29, "bis": 132, "typ": "at",
+      "referenz": "Jes 49,24f", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,24",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jes 49,24-25 fragt: ›Kann man dem Starken die Beute entreißen?‹ — und Gott antwortet mit Ja. Jesus greift dieses Bild auf: Er ist der Stärkere, der den Starken (Satan) binden und sein Haus ausplündern kann."
+    },
+    { "vers_von": 31, "von": 0, "vers_bis": 37, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 34, "von": 0, "vers_bis": 34, "bis": 18, "typ": "at",
+      "referenz": "Gen 3,1-15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose3,1",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "›Schlangenbrut‹ war in der jüdischen Tradition ein theologischer Begriff: Die Schlange aus Gen 3 steht als Urtyp von Täuschung und Bosheit, ihre Nachkommenschaft als Gegenbild zu den Gotteskindern. Der Begriff erscheint auch bei Johannes dem Täufer (Mt 3,7) als gezielte religiöse Anklage."
+    },
+    { "vers_von": 39, "von": 31, "vers_bis": 45, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 40, "von": 5, "vers_bis": 40, "bis": 78, "typ": "at",
+      "referenz": "Jon 2,1-2", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jona2,1",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Direkter Verweis auf Jon 2,1-2: Jona verbrachte drei Tage und drei Nächte im Leib des großen Fisches. Jesus stellt dieses Zeichen als Präfiguration seiner drei Tage im Grab dar."
+    },
+    {
+      "vers_von": 41, "von": 0, "vers_bis": 41, "bis": 171, "typ": "at",
+      "referenz": "Jon 3,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jona3,5",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Jon 3,5 berichtet, dass die Bewohner Ninives auf Jonas Predigt hin Buße taten. Jesus stellt dies als Kontrast: Die heidnische Großstadt hörte auf den Propheten — sein Geschlecht nicht auf einen, der größer als Jona ist."
+    },
+    {
+      "vers_von": 42, "von": 0, "vers_bis": 42, "bis": 197, "typ": "at",
+      "referenz": "1. Kön 10,1-10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Könige10,1",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "1. Kön 10,1-10 berichtet, wie die Königin von Scheba von den Enden der Erde kam, um Salomos Weisheit zu hören. Jesus stellt dies als Kontrast: Die Heidin reiste weit für einen Weisen — sein Geschlecht hört nicht auf einen, der größer als Salomo ist."
+    },
+    {
+      "vers_von": 43, "von": 80, "vers_bis": 43, "bis": 94, "typ": "at",
+      "referenz": "Jes 34,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja34,14",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Jes 34,14 und Jes 13,21 beschreiben Ruinen als Aufenthaltsort von Dämonen. Das ist kulturelles Hintergrundwissen, keine gezielte Anspielung — Jesus beschreibt das Verhalten unreiner Geister ohne auf diese Texte zu verweisen."
+    },
+    { "vers_von": 48, "von": 50, "vers_bis": 50, "bis": -1, "typ": "jesus" }
+  ]
+}
