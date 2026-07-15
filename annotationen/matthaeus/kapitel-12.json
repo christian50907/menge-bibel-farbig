@@ -66,8 +66,8 @@
       "vers_von": 34, "von": 0, "vers_bis": 34, "bis": 18, "typ": "at",
       "referenz": "Gen 3,1-15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose3,1",
-      "autor": "KI", "status": "aktiv",
-      "begruendung": "›Schlangenbrut‹ war in der jüdischen Tradition ein theologischer Begriff: Die Schlange aus Gen 3 steht als Urtyp von Täuschung und Bosheit, ihre Nachkommenschaft als Gegenbild zu den Gotteskindern. Der Begriff erscheint auch bei Johannes dem Täufer (Mt 3,7) als gezielte religiöse Anklage."
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "Wiederholung von Mt 3,7 — dort erstmalig annotiert."
     },
     { "vers_von": 39, "von": 31, "vers_bis": 45, "bis": -1, "typ": "jesus" },
     {
