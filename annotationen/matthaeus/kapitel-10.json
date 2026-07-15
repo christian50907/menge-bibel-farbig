@@ -1,0 +1,86 @@
+{
+  "titel": "Die Aussendungsrede an die zwölf Jünger",
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 14, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "1 Mo 35,22-26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose35,22",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* Die zwölf Apostel als Entsprechung zu den zwölf Stämmen Israels (1 Mo 35,22–26): Strukturparallele real, aber »zwölf« ist ein breit auftretendes biblisches Motiv ohne spezifischen Formulierungsbezug. Nicht annotiert."
+    },
+    { "vers_von": 5, "von": 81, "vers_bis": 16, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "Hes 34,5-6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel34,5",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Verlorene Schafe des Hauses Israel« — das Schafe-ohne-Hirten-Motiv aus Hes 34 wurde bereits in Mt 9,36 aktiv annotiert. V6 fügt keine neue AT-Dimension hinzu."
+    },
+    {
+      "vers_von": 7, "von": 29, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI", "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Das Himmelreich ist nahe herbeigekommen!« — bereits Mt 3,2 (Täufer) aktiv annotiert (Dan 7,13-14). Wiederholung ohne neue Dimension."
+    },
+    {
+      "vers_von": 15, "von": 24, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "1 Mo 18–19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose19,24",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Sodom und Gomorrha sind im AT der Inbegriff göttlichen Gerichts (1 Mo 19). Wenn ablehnende Städte beim Endgericht schlechter dastehen als Sodom und Gomorrha, ist das die denkbar schlimmste Steigerung — schlechter als die berühmteste AT-Katastrophe."
+    },
+    { "vers_von": 17, "von": 0, "vers_bis": 25, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 21, "von": 0, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "Mi 7,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Micha7,6",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Mi 7,6 nennt familiären Verrat als Zeichen des endzeitlichen Zerfalls: Söhne verachten Väter, Töchter stehen gegen Mütter auf. Wenn Jesus dasselbe ankündigt (V21), stellt er sich in diesen prophetischen Horizont — bevor er Micha in V35–36 direkt zitiert."
+    },
+    {
+      "vers_von": 23, "von": 171, "vers_bis": 23, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Dan 7,13-14 zeigt »einen wie einen Menschensohn« auf Wolken kommend, der ewige Weltherrschaft empfängt. »Bis der Menschensohn kommt« meint dieses apokalyptische Kommen in Herrlichkeit — die endzeitliche Ankunft des Richters und Herrschers."
+    },
+    {
+      "vers_von": 25, "von": 149, "vers_bis": 25, "bis": 158, "typ": "at",
+      "referenz": "2 Kö 1,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige1,2",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Der Gott von Ekron hieß ursprünglich Baal-Zebul = »erhabener Herr« (zebul = Wohnstätte/Höhe). Israels Schreiber verballhornten ihn spöttisch zu Baal-Sebub = »Herr der Fliegen« (2 Kö 1,2; zebub = Fliegen). Das NT kennt die Urform: Beelzebul. Das Wortspiel in V25: Zebul = Wohnstätte/Haus → Beelzebul = »Herr des Hauses«. Die Pharisäer nennen den »Hausherrn« Jesus ausgerechnet mit dem Titel, der »Hausherr« bedeutet — als Schimpfname."
+    },
+    { "vers_von": 26, "von": 0, "vers_bis": 33, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 29, "von": 64, "vers_bis": 29, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI", "status": "inaktiv",
+      "urls": [
+        { "label": "Hi 38,41", "url": "https://www.bibleserver.com/MENG/Hiob38,41" },
+        { "label": "Ps 147,9", "url": "https://www.bibleserver.com/MENG/Psalm147,9" }
+      ],
+      "begruendung": "*(nicht sichtbar)* Gottes Fürsorge für Vögel (Hi 38,41; Ps 147,9) bereits in Mt 6,26 aktiv annotiert. Die neue Nuance — kein Sperling fällt ohne Gottes Wissen — ist eine Entfaltung desselben Motivs, kein gesonderter AT-Text."
+    },
+    { "vers_von": 34, "von": 0, "vers_bis": 39, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 35, "von": 23, "vers_bis": 36, "bis": -1, "typ": "at",
+      "referenz": "Mi 7,6", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Micha7,6",
+      "autor": "KI", "status": "aktiv",
+      "begruendung": "Fast wörtliches Zitat aus Mi 7,6 (Menge-Fußnote auf V36). Micha klagte den Zerfall der Familienbande als Zeichen des endzeitlichen Verfalls. Das Zitat stellt die Wirkung der Jesusbotschaft in diesen Horizont — Familienspaltung nicht als Ziel, sondern als Konsequenz der Entscheidung für oder gegen Jesus."
+    },
+    { "vers_von": 40, "von": 0, "vers_bis": 42, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 41, "von": 0, "vers_bis": 41, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI", "status": "aktiv",
+      "urls": [
+        { "label": "1 Kö 17,9-24", "url": "https://www.bibleserver.com/MENG/1.Koenige17,9" },
+        { "label": "2 Kö 4,8-37", "url": "https://www.bibleserver.com/MENG/2.Koenige4,8" }
+      ],
+      "begruendung": "Die Witwe von Zarphat beherbergte Elija (1 Kö 17,9-24) und empfing Öl, Mehl und ihren toten Sohn zurück. Die Shunamiterin beherbergte Elisa (2 Kö 4,8-37) und empfing ebenfalls ihren gestorbenen Sohn zurück. Dieses Muster ruft Jesus auf: Wer einen Propheten aufnimmt, wird so beschenkt."
+    }
+  ]
+}

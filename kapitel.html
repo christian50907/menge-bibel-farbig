@@ -254,10 +254,19 @@ function renderAbsatz(absatz, alleMarkierungen) {
 
     const startVers = versOffsets.find(v => v.nr === versVon);
     const endVers   = versOffsets.find(v => v.nr === versBis);
-    if (!startVers || !endVers) continue;
 
-    const globalVon = startVers.start + m.von;
-    const globalBis = m.bis === -1 ? endVers.end : endVers.start + m.bis;
+    // Überspringen wenn kein Vers dieses Absatzes im Annotierungsbereich liegt
+    const firstNr = versOffsets[0].nr;
+    const lastNr  = versOffsets[versOffsets.length - 1].nr;
+    if (versVon > lastNr || versBis < firstNr) continue;
+
+    // Absatzübergreifende Spans: Anfang/Ende auf Absatzgrenzen klemmen
+    const globalVon = startVers
+      ? startVers.start + m.von
+      : versOffsets[0].start;
+    const globalBis = endVers
+      ? (m.bis === -1 ? endVers.end : endVers.start + m.bis)
+      : versOffsets[versOffsets.length - 1].end;
 
     // AT-Link aufbauen — mit Tooltip-Wrapper wenn begruendung vorhanden
     let link = '';

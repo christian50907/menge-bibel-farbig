@@ -1,0 +1,96 @@
+{
+  "titel": "Richtet nicht · Bitten · Goldene Regel · Falsche Propheten · Haus auf Fels",
+  "markierungen": [
+    { "vers_von": 1, "von": 0, "vers_bis": 6, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 6, "von": 5, "vers_bis": 6, "bis": 33, "typ": "at",
+      "referenz": "3 Mo 22,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose22,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Das Heilige« (qodesh) ist Leviticus-Sprache für kultisch Geweihtes; 3. Mo 22,10 verbietet, es Unbefugten zu geben. Die Verbindung mit »Hunden« ist Jesu eigene Metapher, kein spezifisch aufgerufener Vers — levitische Folie ohne Textbezug."
+    },
+    { "vers_von": 7, "von": 0, "vers_bis": 11, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 7, "von": 38, "vers_bis": 7, "bis": 66, "typ": "at",
+      "referenz": "Jer 29,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia29,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* Jer 29,13 (»suchet mich, so werdet ihr mich finden«) ist eine von mehreren AT-Stellen mit der Suchen-Finden-Formel (Spr 8,17; Amos 5,4; Ps 34,5) — kein einzelner Text wird privilegiert aufgerufen."
+    },
+    {
+      "vers_von": 11, "von": 100, "vers_bis": 11, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 63,16", "url": "https://www.bibleserver.com/MENG/Jesaja63,16" },
+        { "label": "Jes 64,7",  "url": "https://www.bibleserver.com/MENG/Jesaja64,7" }
+      ],
+      "begruendung": "*(nicht sichtbar)* Erste Buchstelle für »Vater im Himmel« ist Mt 5,16 — dort aktiv annotiert (Jes 63,16 / Jes 64,7). Wiederholung ohne neue Dimension."
+    },
+    { "vers_von": 12, "von": 0, "vers_bis": 14, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 12, "von": 117, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "3 Mo 19,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose19,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* Die Goldene Regel fasst »das Gesetz und die Propheten« zusammen — das Kerngebot 3. Mo 19,18 (›du sollst deinen Nächsten lieben‹) ist bereits in Mt 5,43 aktiv annotiert. Wiederholung ohne neue Dimension."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 14, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 21,8",   "url": "https://www.bibleserver.com/MENG/Jeremia21,8" },
+        { "label": "5 Mo 30,19", "url": "https://www.bibleserver.com/MENG/5.Mose30,19" }
+      ],
+      "begruendung": "Der Gegensatz ›Weg des Lebens‹ vs. ›Weg des Verderbens/Todes‹ ist eine feststehende AT-Wendung. Jer 21,8 stellt Jerusalem die Wahl explizit vor; 5. Mo 30,15.19 formuliert sie als grundlegende Bundesentscheidung: »Ich lege euch heute das Leben und den Tod vor — wähle das Leben!«"
+    },
+    { "vers_von": 15, "von": 0, "vers_bis": 20, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 15, "von": 16, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "5 Mo 18,20-22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,20",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "5. Mo 18,20-22 enthält das Torah-Kriterium für falsche Propheten: Wer im Namen des Herrn redet, was Gott ihm nicht geboten hat, oder wessen Vorhersage sich nicht erfüllt, ist kein wahrer Prophet. Das Erkennen an den Früchten (V16-20) verschiebt diesen Test: nicht mehr das Eintreten der Vorhersage, sondern das Leben des Propheten selbst ist das Erkennungszeichen."
+    },
+    { "vers_von": 21, "von": 0, "vers_bis": 27, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 21, "von": 1, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "Jes 29,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja29,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 29,13 klagt an: »Dieses Volk naht mir mit seinem Munde und ehrt mich mit seinen Lippen, aber sein Herz ist fern von mir.« Der Text greift exakt diese Spannung auf — ›Herr, Herr‹ sagen (Lippen) contra ›Willen des Vaters tun‹ (Gehorsam). Jesus zitiert Jes 29,13 ausdrücklich in Mt 15,8."
+    },
+    {
+      "vers_von": 22, "von": 54, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "5 Mo 13,2-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose13,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "5. Mo 13,2-4 stellt klar: Wunder allein legitimieren keinen Propheten — maßgebend ist die Bindung an den Herrn. V22 spiegelt dieses Szenario: Prophetie, Exorzismus und Wundertaten »in deinem Namen« scheitern als Legitimationsversuch. Mit 5. Mo 18 (annotiert V15) bildet 5. Mo 13 das Torah-Doppelkriterium für falsche Propheten."
+    },
+    {
+      "vers_von": 23, "von": 68, "vers_bis": 23, "bis": -1, "typ": "at",
+      "referenz": "Ps 6,9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm6,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zitat aus Ps 6,9 (LXX): »Weichet von mir, alle Übeltäter!« — die griechische Formulierung stimmt fast wörtlich überein. Im Psalm das Gebet des Verfolgten, der Gottes Hilfe erhofft; hier Urteilserklärung im Endgericht."
+    },
+    {
+      "vers_von": 24, "von": 94, "vers_bis": 25, "bis": -1, "typ": "at",
+      "referenz": "Spr 10,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sprueche10,25",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Spr 10,25 bündelt dieselbe Weisheitserkenntnis: »Wenn der Sturm vorbeigeht, ist der Frevler nicht mehr — der Gerechte aber hat ewigen Bestand.« Das Gleichnis entfaltet dieses Weisheitsprinzip in einem konkreten Bild: Haus auf Fels vs. Haus auf Sand, beide im selben Sturm — aber mit entgegengesetztem Ausgang."
+    }
+  ]
+}
