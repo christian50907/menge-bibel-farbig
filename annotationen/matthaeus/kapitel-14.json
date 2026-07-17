@@ -1,0 +1,104 @@
+{
+  "titel": "Enthauptung des Täufers · Speisung der Fünftausend · Jesus geht auf dem See",
+  "markierungen": [
+    {
+      "vers_von": 4, "von": 37, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "3. Mo 18,16", "url": "https://www.bibleserver.com/MENG/3.Mose18,16" },
+        { "label": "3. Mo 20,21", "url": "https://www.bibleserver.com/MENG/3.Mose20,21" }
+      ],
+      "begruendung": "Johannes' Vorwurf gründet im Torah-Verbot, die Frau des Bruders zu nehmen: 3. Mo 18,16 und 3. Mo 20,21 (»wenn jemand seines Bruders Weib nimmt ... sie sollen kinderlos bleiben«) verbieten diese Verbindung ausdrücklich. Herodias war die Gattin seines Bruders Philippus (V3). Für einen jüdischen Leser war das knappe »Du darfst sie nicht haben« kein moralisches Werturteil, sondern der Verweis auf ein konkretes Gesetz — deshalb wiegt der Vorwurf so schwer, dass er Johannes das Leben kostet."
+    },
+    {
+      "vers_von": 15, "von": 72, "vers_bis": 15, "bis": 95, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 16", "url": "https://www.bibleserver.com/MENG/2.Mose16" },
+        { "label": "Ps 78,19-25", "url": "https://www.bibleserver.com/MENG/Psalm78,19" }
+      ],
+      "begruendung": "Die Sättigung einer Menge an »öder« Stätte klingt für einen jüdischen Leser an das Manna in der Wüste an (2. Mo 16; Ps 78,19 »Kann Gott einen Tisch in der Wüste bereiten?«). Der Bezug bleibt jedoch thematisch, nicht verbal, und dasselbe Ereignis ist über die Elisa-Parallele (V20) bereits aktiv annotiert. Daher hier nicht aktiv dargestellt (Intra-Kapitel-Redundanz)."
+    },
+    {
+      "vers_von": 16, "von": 28, "vers_bis": 16, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 18, "von": 15, "vers_bis": 18, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 19, "von": 126, "vers_bis": 19, "bis": 145, "typ": "at",
+      "referenz": "5. Mo 8,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose8,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Sprach den Lobpreis« ist die jüdische Tischsegnung (Beracha) vor dem Brotbrechen — fester Brauch, der aber in keinem einzelnen zitierbaren AT-Vers gründet (das Tischgebet 5. Mo 8,10 bezieht sich auf den Segen nach dem Essen). Daher nicht aktiv annotiert."
+    },
+    {
+      "vers_von": 20, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "2. Kön 4,42-44", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige4,42",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Speisung greift das Brotwunder Elisas auf (2. Kön 4,42-44): Elisa lässt mit zwanzig Gerstenbroten hundert Männer speisen; sein Diener zweifelt (»Wie soll ich das hundert Männern vorsetzen?«), doch alle essen und lassen übrig — »nach dem Wort des HERRN«. Dasselbe Muster kehrt hier wieder: zu wenig Brot, satte Menge, übriggebliebene Brocken. Damit stellt der Text Jesu Handeln in eine Reihe mit den großen Propheten — nur ins Vielfache gesteigert (fünf Brote, fünftausend Männer, zwölf Körbe)."
+    },
+    {
+      "vers_von": 25, "von": 53, "vers_bis": 25, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hi 9,8", "url": "https://www.bibleserver.com/MENG/Hiob9,8" },
+        { "label": "Ps 77,20", "url": "https://www.bibleserver.com/MENG/Psalm77,20" }
+      ],
+      "begruendung": "Über das Meer zu schreiten ist im AT allein Gottes Vorrecht: Hi 9,8 preist den, der »einherschreitet auf den Höhen des Meeres«, Ps 77,20 »dein Weg ging durchs Meer ... und niemand spürte deine Fußtapfen«. Das Meer ist der Ort der Chaosmächte, den nur Gott beherrscht. Dass Jesus über den See geht, führt am Ende dazu, dass die Jünger ihn als »Gottes Sohn« anbeten (V33)."
+    },
+    {
+      "vers_von": 27, "von": 50, "vers_bis": 27, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 27, "von": 65, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "Jes 43,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Ich bin es« (hebr. ani hu) ist die wiederkehrende Selbstvorstellung Gottes bei Deuterojesaja (Jes 43,10.13). Verbunden mit »fürchtet euch nicht« ruft der Satz Jes 43,1-2 auf, wo Gott gerade angesichts des Wassers zusagt: »Fürchte dich nicht ... wenn du durchs Wasser gehst, will ich bei dir sein.« Auf dem sturmgepeitschten See gesprochen, stellt die Formel Jesu Wort in denselben Ton wie Gottes Heilszusage an Israel."
+    },
+    {
+      "vers_von": 29, "von": 14, "vers_bis": 29, "bis": 24, "typ": "jesus"
+    },
+    {
+      "vers_von": 30, "von": 100, "vers_bis": 30, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Ps 18,17", "url": "https://www.bibleserver.com/MENG/Psalm18,17" },
+        { "label": "Ps 69,2", "url": "https://www.bibleserver.com/MENG/Psalm69,2" }
+      ],
+      "begruendung": "Der Ruf aus dem Wasser und Jesu ausgestreckte Hand (V31) klingen an die Rettungspsalmen an (Ps 18,17 »er streckte die Hand aus ... zog mich aus großen Wassern«; Ps 69,2-3 »das Wasser geht mir bis an die Kehle«). Der Text zitiert aber keine dieser Stellen; das Bild bleibt evokativ. Daher nicht aktiv annotiert."
+    },
+    {
+      "vers_von": 31, "von": 66, "vers_bis": 31, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 33, "von": 63, "vers_bis": 33, "bis": 82, "typ": "at",
+      "referenz": "Ps 2,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Bekenntnis »Gottes Sohn« hat seine AT-Grundlage im Königspsalm Ps 2,7, der bereits bei der Himmelsstimme (Mt 3,17) aktiv annotiert ist. Wiederholung — daher hier nicht erneut dargestellt."
+    },
+    {
+      "vers_von": 36, "von": 23, "vers_bis": 36, "bis": 37, "typ": "at",
+      "referenz": "4. Mo 15,38-40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,38",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Quaste (Zizit) am Gewand geht auf 4. Mo 15,38-40 zurück und ist bereits bei der blutflüssigen Frau (Mt 9,20) aktiv annotiert. Wiederholung — daher hier nicht erneut dargestellt."
+    }
+  ]
+}
