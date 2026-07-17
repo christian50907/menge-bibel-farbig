@@ -1,0 +1,92 @@
+{
+  "titel": "Jesu Seepredigt in sieben Gleichnissen vom Himmelreich",
+  "markierungen": [
+    { "vers_von": 3, "von": 65, "vers_bis": 9, "bis": -1, "typ": "jesus" },
+    { "vers_von": 11, "von": 15, "vers_bis": 17, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 14, "von": 69, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "Jes 6,9-10", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja6,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 6,9-10 (Menge-Fußnote): Israel hört und sieht, ohne zu verstehen — das verstockte Herz als Gerichtszeichen. Das Zitat deutet das Nicht-Verstehen der Menge gegenüber der Gleichnisrede als Erfüllung dieses Prophetenworts."
+    },
+    { "vers_von": 18, "von": 0, "vers_bis": 23, "bis": -1, "typ": "jesus" },
+    { "vers_von": 24, "von": 45, "vers_bis": 30, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 30, "von": 0, "vers_bis": 30, "bis": -1, "typ": "at",
+      "referenz": "Joel 4,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel4,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* Das Ernte-Motiv als Bild des Endgerichts (Joel 4,13: »Schwingt die Sichel, denn die Ernte ist reif«) wurde bereits in Mt 9,37 geprüft und dort als inaktiv dokumentiert. Wiederholung."
+    },
+    { "vers_von": 31, "von": 45, "vers_bis": 32, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 32, "von": 160, "vers_bis": 32, "bis": 217, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 17,23", "url": "https://www.bibleserver.com/MENG/Hesekiel17,23" },
+        { "label": "Hes 31,6", "url": "https://www.bibleserver.com/MENG/Hesekiel31,6" },
+        { "label": "Dan 4,9", "url": "https://www.bibleserver.com/MENG/Daniel4,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vögel, die in den Zweigen des Baumes nisten, sind ein festes AT-Bild (Menge-Fußnote: Hes 17,23; 31,6). Hes 17,23 meint Israels Wiederherstellung; Hes 31,6 und Dan 4,9.18 den Weltbaum als Bild eines alle Völker umfassenden Reichs. So wächst das kleinste Samenkorn zum Reich, das der ganzen Welt Raum gibt."
+    },
+    { "vers_von": 33, "von": 51, "vers_bis": 33, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 33, "von": 0, "vers_bis": 33, "bis": -1, "typ": "at",
+      "referenz": "1 Mo 18,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose18,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Drei Scheffel Mehl« entspricht der Menge, die Sara in Gen 18,6 für die drei Besucher backt (drei Sea). Der Bezug ist jedoch nur zahlenmäßig-evokativ; die Formulierung zitiert Gen 18 nicht und trägt das Verständnis des Sauerteig-Gleichnisses nicht — daher nicht annotiert."
+    },
+    {
+      "vers_von": 35, "von": 61, "vers_bis": 35, "bis": -1, "typ": "at",
+      "referenz": "Ps 78,2", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm78,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Erfüllungszitat aus Ps 78,2 (Menge-Fußnote), einem Asaph-Psalm, der Israels Geschichte als lehrhaftes Gleichnis (Maschal) entfaltet. Das Zitat stellt Jesu Reden in Gleichnissen als dieses prophetische Aussprechen dessen dar, was seit Grundlegung der Welt verborgen war."
+    },
+    { "vers_von": 37, "von": 15, "vers_bis": 43, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 37, "von": 0, "vers_bis": 37, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Menschensohn« (auch V41) wurde bereits in Mt 8,20 bei erster Verwendung im Matthäusevangelium annotiert. Wiederholung."
+    },
+    {
+      "vers_von": 41, "von": 0, "vers_bis": 41, "bis": -1, "typ": "at",
+      "referenz": "Ps 6,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm6,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »die die Gesetzlosigkeit üben« greift Ps 6,9 auf, das bereits in Mt 7,23 aktiv annotiert ist; »alle Ärgernisse« (griech. skándala) klingt an Zeph 1,3 an, doch dieser Bezug ist nur über die griechische Wortwahl erschließbar. Keine neue aktive Annotation."
+    },
+    {
+      "vers_von": 42, "von": 0, "vers_bis": 42, "bis": -1, "typ": "at",
+      "referenz": "Ps 112,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm112,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "*(nicht sichtbar)* »Weinen und Zähneknirschen« (auch V50) ist stereotyp-apokalyptische Gerichtssprache; Ps 112,10 wurde bereits in Mt 8,12 geprüft und als inaktiv dokumentiert. Wiederholung."
+    },
+    {
+      "vers_von": 43, "von": 15, "vers_bis": 43, "bis": 73, "typ": "at",
+      "referenz": "Dan 12,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Anspielung auf Dan 12,3 (Menge-Fußnote): »Die Verständigen werden leuchten ... wie die Sterne.« Dan 12 ist die klarste AT-Stelle einer Auferstehung zum ewigen Leben; das Leuchten der Gerechten wie die Sonne ruft diese endzeitliche Verheißung auf."
+    },
+    { "vers_von": 44, "von": 0, "vers_bis": 50, "bis": -1, "typ": "jesus" },
+    { "vers_von": 51, "von": 0, "vers_bis": 51, "bis": 33, "typ": "jesus" },
+    { "vers_von": 52, "von": 22, "vers_bis": 52, "bis": -1, "typ": "jesus" },
+    { "vers_von": 57, "von": 56, "vers_bis": 57, "bis": -1, "typ": "jesus" }
+  ]
+}
