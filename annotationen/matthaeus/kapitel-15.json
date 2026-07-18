@@ -1,0 +1,207 @@
+{
+  "titel": "Streit um das Händewaschen · Die kanaanäische Frau · Speisung der Viertausend",
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 86, "vers_bis": 2, "bis": 149, "typ": "at",
+      "referenz": "2. Mo 30,17-21", "vgl": true,
+      "urls": [
+        { "label": "2. Mo 30,17-21", "url": "https://www.bibleserver.com/MENG/2.Mose30,17-21" },
+        { "label": "3. Mo 15,11", "url": "https://www.bibleserver.com/MENG/3.Mose15,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Rituelles Händewaschen schreibt die Torah nur den Priestern vor, bevor sie am Altar Dienst tun (2. Mo 30,17-21); 3. Mo 15,11 regelt das Abspülen der Hände bei Unreinheit. Ein Waschgebot vor jeder Mahlzeit für jeden Israeliten steht nirgends im Gesetz — es dehnt die priesterliche Reinheit auf den Alltag aus und beruht allein auf den »Satzungen der Alten«. Damit steht der Vorwurf von vornherein auf schwächerem Grund als Jesu Gegenfrage nach dem Gebot Gottes."
+    },
+    { "vers_von": 3, "von": 39, "vers_bis": 9, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 4, "von": 23, "vers_bis": 4, "bis": 59, "typ": "at",
+      "referenz": "2. Mo 20,12", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat des Elterngebots aus dem Dekalog (2. Mo 20,12; auch 5. Mo 5,16), von der Menge-Bibel als Fußnote nachgewiesen. Es ist das einzige Gebot des Dekalogs, dem eine Verheißung beigegeben ist (»damit du lange lebst in dem Lande«). Als Dekalog-Gebot steht es für »das Gebot Gottes« schlechthin — die Gegenseite zu den überlieferten Satzungen."
+    },
+    {
+      "vers_von": 4, "von": 65, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 21,17", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose21,17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus 2. Mo 21,17 (Menge-Fußnote; ebenso 3. Mo 20,9). »Fluchen« meint hier nicht das Schimpfwort, sondern das Verächtlichmachen der Eltern. Dass die Torah darauf die Todesstrafe setzt, zeigt das Gewicht des Gebots: Die Versorgung der Eltern ist rechtlich sanktionierte Pflicht, keine Frömmigkeitsübung — und macht den im nächsten Vers beschriebenen Ausweg erst so gravierend."
+    },
+    {
+      "vers_von": 5, "von": 15, "vers_bis": 6, "bis": 66, "typ": "at",
+      "referenz": "4. Mo 30,3", "vgl": true,
+      "urls": [
+        { "label": "4. Mo 30,3", "url": "https://www.bibleserver.com/MENG/4.Mose30,3" },
+        { "label": "3. Mo 27,9-28", "url": "https://www.bibleserver.com/MENG/3.Mose27,9-28" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Beschrieben ist die sogenannte Korban-Praxis (»Opfergabe«). 3. Mo 27 regelt, wie Besitz dem Heiligtum geweiht wird, und nach 4. Mo 30,3 ist ein einmal ausgesprochenes Gelübde unwiderruflich bindend: »er darf sein Wort nicht brechen«. Wer sein Vermögen so weihte, hatte es dem Zugriff der Eltern rechtsgültig entzogen — das Gelübde stach das Elterngebot. Ohne diese Rechtslage bleibt unverständlich, wieso ein bloßes Wort die Unterhaltspflicht aufheben konnte."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 9, "bis": 84, "typ": "at",
+      "referenz": "Jes 29,13", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja29,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 29,13 (Menge-Fußnote), hier erstmals im Matthäusevangelium förmlich als Prophetenwort eingeführt. Jesaja klagt einen Gottesdienst an, der aus angelernter Gewohnheit besteht: »ihre Furcht vor mir ist nur angelerntes Menschengebot«. Der Schlusssatz — Menschensatzungen als Lehren — liefert genau den Begriff, um den der Streit seit V2 geht."
+    },
+    { "vers_von": 10, "von": 71, "vers_bis": 11, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 64, "typ": "at",
+      "referenz": "3. Mo 11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Unrein« ist kein moralisches, sondern ein rechtliches Urteil: 3. Mo 11 teilt die Tiere in reine und unreine und macht das Essen damit zur Frage der Kultfähigkeit — wer Unreines aß, war vom Gottesdienst ausgeschlossen. Vor diesem Hintergrund ist der Satz erst scharf, denn was in den Mund hineingeht, war für die Torah sehr wohl eine Frage der Reinheit. V20 bezieht die Aussage allerdings ausdrücklich zurück auf das Händewaschen, nicht auf die Speisegebote selbst."
+    },
+    { "vers_von": 13, "von": 20, "vers_bis": 14, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 13, "von": 21, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "Jes 5,7", "vgl": true,
+      "urls": [
+        { "label": "Jes 5,7", "url": "https://www.bibleserver.com/MENG/Jesaja5,7" },
+        { "label": "Jes 60,21", "url": "https://www.bibleserver.com/MENG/Jesaja60,21" },
+        { "label": "Jer 1,10", "url": "https://www.bibleserver.com/MENG/Jeremia1,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Israel als Gottes Pflanzung ist ein festes AT-Bild. Das Weinberglied benennt sie ausdrücklich — »der Weinberg des HERRN der Heerscharen ist das Haus Israel« (Jes 5,7) — und lässt sie wegen ausbleibender Frucht zerstören; Jes 60,21 nennt das erneuerte Volk »ein Schößling meiner Pflanzung«. Ausreißen und Pflanzen gehören dabei zusammen (Jer 1,10). Der Satz spricht den Gegnern damit nicht die Frömmigkeit ab, sondern die Zugehörigkeit zu dieser Pflanzung."
+    },
+    {
+      "vers_von": 14, "von": 14, "vers_bis": 14, "bis": 43, "typ": "at",
+      "referenz": "Jes 56,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja56,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jes 56,10 nennt die Führer Israels »blinde Wächter, die allesamt nichts merken«, Jes 9,15 spricht von Führern, die in die Irre leiten. Das Bild vom blinden Führer ist jedoch auch ohne AT-Hintergrund unmittelbar verständlich und in der antiken Spruchweisheit weit verbreitet — kein load-bearing Bezug auf eine bestimmte Stelle."
+    },
+    { "vers_von": 16, "von": 18, "vers_bis": 20, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 19, "von": 49, "vers_bis": 19, "bis": 103, "typ": "at",
+      "referenz": "2. Mo 20,13-16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,13-16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Aufzählung greift die Gebote des Dekalogs in ihrer Reihenfolge auf: Mord, Ehebruch, Diebstahl, falsches Zeugnis (2. Mo 20,13-16; »Verleumdungen« steht für das falsche Zeugnis). Was den Menschen unrein macht, benennt damit der Dekalog selbst — und keines dieser Gebote betrifft Speise oder Händewaschen."
+    },
+    {
+      "vers_von": 21, "von": 42, "vers_bis": 21, "bis": 75, "typ": "at",
+      "referenz": "Jes 23,1-4", "vgl": true,
+      "urls": [
+        { "label": "Jes 23,1-4", "url": "https://www.bibleserver.com/MENG/Jesaja23,1-4" },
+        { "label": "Hes 26,1", "url": "https://www.bibleserver.com/MENG/Hesekiel26,1" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tyrus und Sidon als Inbegriff heidnischer Schuld und göttlichen Gerichts ist bereits in Mt 11,21 aktiv annotiert. Hier stehen die Namen rein geographisch — keine neue Dimension."
+    },
+    {
+      "vers_von": 22, "von": 7, "vers_bis": 22, "bis": 29, "typ": "at",
+      "referenz": "5. Mo 7,1-3", "vgl": true,
+      "urls": [
+        { "label": "5. Mo 7,1-3", "url": "https://www.bibleserver.com/MENG/5.Mose7,1-3" },
+        { "label": "1. Mo 9,25", "url": "https://www.bibleserver.com/MENG/1.Mose9,25" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Kanaanäerin« ist zur Zeit Jesu keine geläufige Volksbezeichnung mehr — das Wort stammt aus der Torah. Dort sind die Kanaanäer die Völker, mit denen Israel keinen Bund schließen und sich nicht verschwägern darf (5. Mo 7,1-3); 1. Mo 9,25 belegt ihren Stammvater Kanaan mit dem Fluch. Die Frau wird damit nicht geographisch eingeführt, sondern als die Fremde schlechthin — und genau diese Grenze wird in der Szene überschritten."
+    },
+    {
+      "vers_von": 22, "von": 101, "vers_bis": 22, "bis": 115, "typ": "at",
+      "referenz": "2. Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Messiastitel »Sohn Davids« ist bereits bei seinem ersten Auftreten in Mt 1,1 aktiv annotiert. Dass ihn hier eine Heidin ausspricht, ist erzählerisch bemerkenswert, fügt dem AT-Bezug aber keine neue Dimension hinzu."
+    },
+    { "vers_von": 24, "von": 20, "vers_bis": 24, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 24, "von": 36, "vers_bis": 24, "bis": 76, "typ": "at",
+      "referenz": "Hes 34,5-6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel34,5-6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Verlorene Schafe des Hauses Israel« greift das Bild des führungslosen Israel aus Hes 34 auf, das bereits in Mt 9,36 aktiv annotiert und in Mt 10,6 als Wiederholung dokumentiert ist. Die Menge-Fußnote verweist hier folgerichtig nur auf Mt 10,6, nicht auf eine AT-Stelle."
+    },
+    { "vers_von": 26, "von": 19, "vers_bis": 26, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 26, "von": 40, "vers_bis": 26, "bis": 102, "typ": "at",
+      "referenz": "2. Mo 4,22", "vgl": true,
+      "urls": [
+        { "label": "2. Mo 4,22", "url": "https://www.bibleserver.com/MENG/2.Mose4,22" },
+        { "label": "5. Mo 7,6", "url": "https://www.bibleserver.com/MENG/5.Mose7,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Die Kinder« steht für Israel: In 2. Mo 4,22 lässt Gott dem Pharao sagen »Israel ist mein erstgeborener Sohn«, und 5. Mo 7,6 nennt Israel das aus allen Völkern erwählte Eigentumsvolk. Das schroffe Bild bemisst damit keinen Wert, sondern eine Reihenfolge: dem Erstgeborenen gebührt der Tisch zuerst. Die Frau widerspricht dieser Ordnung im nächsten Vers nicht — sie nimmt sie beim Wort."
+    },
+    {
+      "vers_von": 26, "von": 75, "vers_bis": 26, "bis": 102, "typ": "at",
+      "referenz": "1. Sam 17,43", "vgl": true,
+      "urls": [
+        { "label": "1. Sam 17,43", "url": "https://www.bibleserver.com/MENG/1.Samuel17,43" },
+        { "label": "Ps 22,17", "url": "https://www.bibleserver.com/MENG/Psalm22,17" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Hund als Schimpfwort ist im AT belegt (1. Sam 17,43; Ps 22,17), die Übertragung auf die Heidenvölker ist aber rabbinisch, nicht alttestamentlich. Die Verstehensleistung des Verses liegt beim Gegenbegriff »die Kinder« — dort aktiv annotiert."
+    },
+    { "vers_von": 28, "von": 25, "vers_bis": 28, "bis": 91, "typ": "jesus" },
+    {
+      "vers_von": 29, "von": 73, "vers_bis": 29, "bis": 107, "typ": "at",
+      "referenz": "2. Mo 19,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Sinai-/Bergmotiv (2. Mo 19,3) ist beim Aufstieg zur Bergpredigt in Mt 5,1 aktiv annotiert. Hier folgt keine Lehrszene, sondern eine reine Ortsangabe — Wiederholung ohne neue Dimension."
+    },
+    {
+      "vers_von": 31, "von": 53, "vers_bis": 31, "bis": 71, "typ": "at",
+      "referenz": "Jes 35,5-6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,5-6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Aufzählung von Stummen, Lahmen und Blinden entspricht den Zeichen der Heilszeit nach Jes 35,5-6. Der Bezug ist bereits in Mt 9,27 und Mt 9,32 sowie in Jesu Antwort an den Täufer (Mt 11,5) aktiv annotiert — hier Wiederholung ohne neue Dimension."
+    },
+    {
+      "vers_von": 31, "von": 148, "vers_bis": 31, "bis": -1, "typ": "at",
+      "referenz": "Jes 29,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja29,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Den Gott Israels preisen« ist eine feststehende Wendung des jüdischen Lobpreises (Ps 41,14; Ps 72,18; Jes 29,23). Als allgemeines Frömmigkeitsvokabular ohne Bezug auf eine bestimmte Textstelle wird sie nicht annotiert."
+    },
+    { "vers_von": 32, "von": 48, "vers_bis": 32, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 33, "von": 48, "vers_bis": 33, "bis": 88, "typ": "at",
+      "referenz": "2. Mo 16", "vgl": true,
+      "urls": [
+        { "label": "2. Mo 16", "url": "https://www.bibleserver.com/MENG/2.Mose16" },
+        { "label": "2. Kön 4,42-44", "url": "https://www.bibleserver.com/MENG/2.Koenige4,42-44" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Sättigung einer Menge in der Einöde ruft das Manna (2. Mo 16) und das Brotwunder Elisas (2. Kön 4,42-44) auf. Beide Bezüge sind bei der Speisung der Fünftausend bereits behandelt — 2. Kön 4,42-44 aktiv in Mt 14,20, das Manna-Motiv als inaktiv in Mt 14,15. Die zweite Speisung fügt keine neue AT-Dimension hinzu."
+    },
+    { "vers_von": 34, "von": 23, "vers_bis": 34, "bis": 50, "typ": "jesus" },
+    {
+      "vers_von": 36, "von": 43, "vers_bis": 36, "bis": 71, "typ": "at",
+      "referenz": "5. Mo 8,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose8,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Sprach den Lobpreis« ist die jüdische Tischsegnung (Beracha) vor dem Brotbrechen — fester Brauch ohne zitierbare Einzelstelle. Bereits bei der Speisung der Fünftausend (Mt 14,19) als inaktiv dokumentiert."
+    },
+    {
+      "vers_von": 37, "von": 92, "vers_bis": 37, "bis": 109, "typ": "at",
+      "referenz": "5. Mo 7,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose7,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Deutung der sieben Körbe auf die sieben Völker Kanaans (5. Mo 7,1) und damit auf die Völkerwelt ist auslegungsgeschichtlich verbreitet, im Text selbst aber nicht angezeigt. Kein Bezug, den ein damaliger Leser zwingend gehört hätte."
+    }
+  ]
+}
