@@ -1,0 +1,73 @@
+{
+  "titel": "Der Größte im Himmelreich · Warnung vor Verführern · Das verlorene Schaf · Zurechtweisung des Bruders · Vom Vergeben und der Schalksknecht",
+  "markierungen": [
+    { "vers_von": 3, "von": 11, "vers_bis": 5, "bis": -1, "typ": "jesus" },
+    { "vers_von": 6, "von": 0, "vers_bis": 11, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 9, "von": 156, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Jer 7,31-32", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia7,31-32",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Feuer der Hölle« (Gehenna) bereits Mt 5,22 aktiv annotiert (Jer 7,31-32, das Tal Hinnom als Ort des Kindsopfer-Feuers). Keine erneute Annotation."
+    },
+    {
+      "vers_von": 10, "von": 79, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "Ps 91,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm91,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Gedanke der Schutzengel geht auf Ps 91,11 zurück, bereits Mt 4,6 aktiv annotiert. Das »Angesicht Gottes schauen« ist Hofsprache für höchsten Zugang, aber kein spezifischer, load-bearing AT-Text."
+    },
+    { "vers_von": 12, "von": 0, "vers_bis": 14, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 12, "von": 89, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "Hes 34,11-16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel34,11-16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Hirt, der die neunundneunzig auf den Bergen zurücklässt und dem einen Verirrten nachgeht, führt Hes 34 vor Augen: »Ich will meine Schafe suchen … das Verlorene will ich suchen und das Verirrte zurückbringen« (Hes 34,11-16). Das Gleichnis überträgt Gottes eigenes Hirtenhandeln auf den Umgang mit »diesen Kleinen« (V14)."
+    },
+    { "vers_von": 15, "von": 0, "vers_bis": 20, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 15, "von": 49, "vers_bis": 15, "bis": 83, "typ": "at",
+      "referenz": "3. Mo 19,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose19,17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Zurechtweisung unter vier Augen folgt dem Gebot »Du sollst deinen Volksgenossen ernstlich zurechtweisen, damit du seinetwegen nicht Schuld auf dich lädst« (3. Mo 19,17). Nicht Bloßstellung, sondern Gewinnung des Bruders (V15b) ist das Ziel — ganz im Sinn der Tora."
+    },
+    {
+      "vers_von": 16, "von": 67, "vers_bis": 16, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 19,15", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose19,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nahezu wörtlich aus 5. Mo 19,15: »Auf die Aussage zweier oder dreier Zeugen hin soll eine Sache Gültigkeit haben.« Das Zeugenrecht der Tora regelt das gemeindliche Verfahren gegen den fehlenden Bruder und schützt ihn vor einem Einzelurteil."
+    },
+    {
+      "vers_von": 18, "von": 24, "vers_bis": 18, "bis": 58, "typ": "at",
+      "referenz": "Jes 22,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja22,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Binden und Lösen bereits Mt 16,19 aktiv annotiert (Jes 22,22, die Schlüsselgewalt); die Menge-Fußnote verweist hier selbst auf 16,19. Keine erneute Annotation."
+    },
+    {
+      "vers_von": 20, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "Pirqe Avot 3,2.6 (rabbinisch)", "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zwei oder drei versammelt … da bin ich mitten unter ihnen« hat seine nächste Parallele erst in der Mischna (Pirqe Avot 3,2.6: wo man sich um die Tora sammelt, ruht die Schechina unter ihnen) — rund ein Jahrhundert jünger als das NT. Eine AT-Vorlage oder eine belegbar vorchristliche jüdische Formel existiert nicht; darum kein annotierbarer AT-Bezug."
+    },
+    { "vers_von": 22, "von": 25, "vers_bis": 35, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 22, "von": 40, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 4,24", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose4,24",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Siebenzigmal siebenmal« (Menge-Fußnote: vgl. 1. Mo 4,24) kehrt Lamechs Rachelied um: »Wird Kain siebenfach gerächt, so Lamech siebenundsiebzigfach« (1. Mo 4,24). Wo Lamech grenzenlose Rache prahlte, fordert Jesus grenzenlose Vergebung."
+    }
+  ]
+}
