@@ -29,6 +29,14 @@
     { "vers_von": 8, "von": 21, "vers_bis": 9, "bis": -1, "typ": "jesus" },
     { "vers_von": 11, "von": 26, "vers_bis": 12, "bis": -1, "typ": "jesus" },
     { "vers_von": 14, "von": 18, "vers_bis": 14, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 16, "von": 79, "vers_bis": 16, "bis": 91, "typ": "at",
+      "referenz": "Dan 12,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "»Ewiges Leben« stammt aus Dan 12,2 – der einzigen AT-Stelle mit diesem Ausdruck: die Toten erwachen »zum ewigen Leben« oder »zur ewigen Schmach«. Die Frage setzt diese Auferstehungshoffnung als selbstverständlichen Horizont voraus (vgl. Mt 13,43)."
+    },
     { "vers_von": 17, "von": 19, "vers_bis": 17, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 17, "von": 80, "vers_bis": 17, "bis": 134, "typ": "at",
