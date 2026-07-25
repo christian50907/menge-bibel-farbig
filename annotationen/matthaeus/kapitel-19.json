@@ -1,0 +1,103 @@
+{
+  "titel": "Streitgespräch über die Ehescheidung · Vom Eheverzicht · Segnung der Kinder · Der reiche Jüngling · Lohn der Nachfolge",
+  "markierungen": [
+    { "vers_von": 4, "von": 26, "vers_bis": 6, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 4, "von": 55, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 1,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose1,27",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesus führt die Ehefrage hinter die Torah-Kasuistik auf die Schöpfungsordnung zurück: »als Mann und Weib geschaffen« greift 1. Mo 1,27 auf (Menge-Fußnote)."
+    },
+    {
+      "vers_von": 5, "von": 16, "vers_bis": 5, "bis": 144, "typ": "at",
+      "referenz": "1. Mo 2,24", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose2,24",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus 1. Mo 2,24 (Menge-Fußnote): Mann und Frau werden »ein Fleisch« — die Prämisse für Jesu Schluss in V6, dass der Mensch nicht scheiden darf, was Gott zusammenfügte."
+    },
+    {
+      "vers_von": 7, "von": 51, "vers_bis": 7, "bis": 117, "typ": "at",
+      "referenz": "5. Mo 24,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose24,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Pharisäer berufen sich auf das Scheidebrief-Gebot 5. Mo 24,1 (Menge-Fußnote); Jesus deutet es in V8 als bloßes Zugeständnis an die Herzenshärte, nicht als Schöpfungsordnung."
+    },
+    { "vers_von": 8, "von": 21, "vers_bis": 9, "bis": -1, "typ": "jesus" },
+    { "vers_von": 11, "von": 26, "vers_bis": 12, "bis": -1, "typ": "jesus" },
+    { "vers_von": 14, "von": 18, "vers_bis": 14, "bis": -1, "typ": "jesus" },
+    { "vers_von": 17, "von": 19, "vers_bis": 17, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 17, "von": 80, "vers_bis": 17, "bis": 134, "typ": "at",
+      "referenz": "3. Mo 18,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose18,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die Gebote halten und ins Leben eingehen« ist allgemeines Torah-Prinzip (3. Mo 18,5; 5. Mo 30,15-16), keine als Einzelstelle erkennbare Zitation und ohne Menge-Fußnote."
+    },
+    { "vers_von": 18, "von": 43, "vers_bis": 19, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 18, "von": 51, "vers_bis": 18, "bis": 138, "typ": "at",
+      "referenz": "2. Mo 20,13-16", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,13-16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dekalog-Gebote (2. Mo 20,13-16) bereits erstmalig annotiert: Mt 5,21, Mt 5,27, Mt 15,19."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 35, "typ": "at",
+      "referenz": "2. Mo 20,12", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Elterngebot (2. Mo 20,12) bereits Mt 15,4 aktiv."
+    },
+    {
+      "vers_von": 19, "von": 40, "vers_bis": 19, "bis": 91, "typ": "at",
+      "referenz": "3. Mo 19,18", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/3.Mose19,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nächstenliebegebot (3. Mo 19,18) bereits Mt 5,43 aktiv."
+    },
+    { "vers_von": 21, "von": 22, "vers_bis": 21, "bis": -1, "typ": "jesus" },
+    { "vers_von": 23, "von": 36, "vers_bis": 24, "bis": -1, "typ": "jesus" },
+    { "vers_von": 26, "von": 46, "vers_bis": 26, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 26, "von": 84, "vers_bis": 26, "bis": 115, "typ": "at",
+      "referenz": "1. Mo 18,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose18,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Bei Gott ist alles möglich« greift die Zusage von 1. Mo 18,14 auf (Menge-Fußnote), als Sara die verheißene Geburt für unmöglich hält: »Sollte dem Herrn etwas unmöglich sein?«"
+    },
+    { "vers_von": 28, "von": 24, "vers_bis": 30, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 28, "von": 91, "vers_bis": 28, "bis": 111, "typ": "at",
+      "referenz": "Jes 65,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja65,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Wiedergeburt« (Fußnote: »Neugestaltung aller Dinge«) berührt die Erwartung eines neuen Himmels und einer neuen Erde (Jes 65,17), aber ohne feste hebräische Vorlage — nur thematisch."
+    },
+    {
+      "vers_von": 28, "von": 113, "vers_bis": 28, "bis": 174, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13-14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Menschensohn auf dem Thron (Dan 7,13-14) bereits bei Erstauftritt Mt 8,20 aktiv."
+    },
+    {
+      "vers_von": 28, "von": 188, "vers_bis": 28, "bis": 249, "typ": "at",
+      "referenz": "Dan 7,9-10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,9-10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zwölf Throne zum Richten der Stämme klingen an das Gerichtsbild Dan 7,9-10.22 an, doch die zwölf Throne selbst haben keine direkte AT-Vorlage."
+    }
+  ]
+}
