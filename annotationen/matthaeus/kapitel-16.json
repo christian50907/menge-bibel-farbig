@@ -1,0 +1,134 @@
+{
+  "titel": "Warnung vor dem Sauerteig der Pharisäer · Messiasbekenntnis des Petrus · Erste Leidensankündigung · Nachfolge im Leiden",
+  "markierungen": [
+    { "vers_von": 2, "von": 26, "vers_bis": 4, "bis": 151, "typ": "jesus" },
+    {
+      "vers_von": 4, "von": 117, "vers_bis": 4, "bis": 149, "typ": "at",
+      "referenz": "Jona 2,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jona2,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das »Zeichen des Jona« ist bei seiner Deutung in Mt 12,40 aktiv annotiert (drei Tage im Fisch). Hier nur Kurzverweis — Wiederholung."
+    },
+    { "vers_von": 6, "von": 25, "vers_bis": 6, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 6, "von": 55, "vers_bis": 6, "bis": 96, "typ": "at",
+      "referenz": "2. Mo 12,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Sauerteig« steht hier metaphorisch für die »Lehre« der Pharisäer (V12), nicht als Bezug auf das Passa-Ungesäuerte (2. Mo 12,15). Kein AT-Verweis."
+    },
+    { "vers_von": 8, "von": 32, "vers_bis": 11, "bis": -1, "typ": "jesus" },
+    { "vers_von": 13, "von": 88, "vers_bis": 13, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 13, "von": 114, "vers_bis": 13, "bis": 130, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Titel »Menschensohn« bei Erstauftreten in Mt 8,20 aktiv annotiert (Dan 7,13). Wiederholung."
+    },
+    {
+      "vers_von": 14, "von": 53, "vers_bis": 14, "bis": 68, "typ": "at",
+      "referenz": "Mal 3,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Erwartung der Wiederkunft Elias ist in Mt 11,14 aktiv annotiert (Mal 3,23). Auch »Jeremia oder ein Prophet« ruft kein bestimmtes AT-Wort auf."
+    },
+    { "vers_von": 15, "von": 25, "vers_bis": 15, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 16, "von": 43, "vers_bis": 16, "bis": 83, "typ": "at",
+      "referenz": "Ps 2,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Christus« ist in Mt 1,1 aktiv annotiert (1. Sam 16,13), der Gottessohn-Titel in Mt 3,17 (Ps 2,7). »Lebendiger Gott« ist geläufige Gottesbezeichnung ohne bestimmten Textbezug."
+    },
+    { "vers_von": 17, "von": 30, "vers_bis": 19, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 17, "von": 144, "vers_bis": 17, "bis": 171, "typ": "at",
+      "referenz": "Jes 63,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja63,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Anrede »Vater im Himmel« ist bei ihrem ersten Auftreten in Mt 5,16 aktiv annotiert (Jes 63,16 / 64,7). Wiederholung."
+    },
+    {
+      "vers_von": 18, "von": 71, "vers_bis": 18, "bis": 88, "typ": "at",
+      "referenz": "5. Mo 32,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Fels« ist Namenswortspiel auf Petrus (»Felsenmann«), kein Aufruf des AT-Motivs »Gott ist mein Fels« (5. Mo 32,4)."
+    },
+    {
+      "vers_von": 18, "von": 126, "vers_bis": 18, "bis": 154, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 38,10", "url": "https://www.bibleserver.com/MENG/Jesaja38,10" },
+        { "label": "Hi 38,17", "url": "https://www.bibleserver.com/MENG/Hiob38,17" }
+      ],
+      "begruendung": "Die »Pforten des Totenreiches« sind ein festes AT-Bild: das Scheol als befestigte Stadt, deren Tore die Toten festhalten (Jes 38,10; Hi 38,17). Dass sie die Gemeinde nicht überwältigen, heißt: die Macht des Todes kann sie nicht verschlingen."
+    },
+    {
+      "vers_von": 19, "von": 13, "vers_bis": 19, "bis": 44, "typ": "at",
+      "referenz": "Jes 22,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja22,22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Schlüsselbild greift Jes 22,22 auf: Dem Hausverwalter Eljakim wird »der Schlüssel des Hauses Davids« übergeben — »öffnet er, so schließt niemand«. Der Schlüssel steht für die stellvertretende Vollmacht, im Namen des Königs Zugang zu gewähren oder zu verwehren."
+    },
+    {
+      "vers_von": 21, "von": 189, "vers_bis": 21, "bis": 215, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "1. Mo 22,4", "url": "https://www.bibleserver.com/MENG/1.Mose22,4" },
+        { "label": "Hos 6,2", "url": "https://www.bibleserver.com/MENG/Hosea6,2" }
+      ],
+      "begruendung": "Der »dritte Tag« ist im AT mehrfach der Tag der rettenden Wende: Abraham sieht »am dritten Tage« den Ort und empfängt Isaak zurück (1. Mo 22,4); Hosea verheißt »am dritten Tage richtet er uns wieder auf, dass wir vor ihm leben« (Hos 6,2). Die Auferweckung »am dritten Tage« stellt sich in diese Linie."
+    },
+    { "vers_von": 23, "von": 44, "vers_bis": 23, "bis": -1, "typ": "jesus" },
+    { "vers_von": 24, "von": 38, "vers_bis": 28, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 26, "von": 105, "vers_bis": 26, "bis": -1, "typ": "at",
+      "referenz": "Ps 49,8-9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm49,8-9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Frage nach dem »Gegenwert« (Menge-Fußnote: »Kaufpreis oder Lösegeld«) greift Ps 49,8-9 auf: Kein Mensch kann »den andern loskaufen«; der Kaufpreis für ein Leben ist unerschwinglich. Das Leben lässt sich nicht vom Tod freikaufen."
+    },
+    {
+      "vers_von": 27, "von": 5, "vers_bis": 27, "bis": 85, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Kommen des Menschensohns in Herrlichkeit (Dan 7,13-14) ist in Mt 8,20 und 10,23 aktiv annotiert. Hier wird nur die Vergeltungsformel (Ps 62,13) annotiert."
+    },
+    {
+      "vers_von": 27, "von": 95, "vers_bis": 27, "bis": 132, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 62,13", "url": "https://www.bibleserver.com/MENG/Psalm62,13" },
+        { "label": "Spr 24,12", "url": "https://www.bibleserver.com/MENG/Sprueche24,12" }
+      ],
+      "begruendung": "»Einem jeden nach seinem Tun vergelten« ist eine feststehende Gerichtsformel (Ps 62,13; Spr 24,12). Was dort Gottes Vorrecht ist, übt hier der kommende Menschensohn aus."
+    },
+    {
+      "vers_von": 28, "von": 99, "vers_bis": 28, "bis": 142, "typ": "at",
+      "referenz": "Dan 7,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Königsherrschaft des Menschensohns (Dan 7,14) ist in Mt 8,20 / 10,23 abgedeckt. Wiederholung."
+    }
+  ]
+}

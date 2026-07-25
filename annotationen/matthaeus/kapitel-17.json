@@ -1,0 +1,85 @@
+{
+  "titel": "Verklärung auf dem Berge · Die Eliafrage · Heilung des fallsüchtigen Knaben · Zweite Leidensankündigung · Die Tempelsteuer",
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 1, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 24,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In 2. Mo 24,16 bedeckt die Wolke der Herrlichkeit (Schechina) den Sinai »sechs Tage lang«, ehe Gott am siebten »mitten aus der Wolke« ruft. Sechs Tage, hoher Berg, überschattende Wolke (V5) und Stimme aus ihr wiederholen dieses Sinai-Bild."
+    },
+    {
+      "vers_von": 2, "von": 40, "vers_bis": 2, "bis": 76, "typ": "at",
+      "referenz": "2. Mo 34,29-30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose34,29-30",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein leuchtendes Antlitz kennt das AT von Mose: Beim Abstieg vom Sinai »strahlte die Haut seines Angesichts« (2. Mo 34,29-30). Dort geliehener Glanz — hier leuchtet das Antlitz aus sich selbst »wie die Sonne«."
+    },
+    {
+      "vers_von": 5, "von": 124, "vers_bis": 5, "bis": 191, "typ": "at",
+      "referenz": "Ps 2,7 / Jes 42,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholt die Taufstimme aus Mt 3,17 (Menge-Fußnote »vgl. 3,17«); Ps 2,7 und Jes 42,1 sind dort aktiv annotiert."
+    },
+    {
+      "vers_von": 5, "von": 193, "vers_bis": 5, "bis": 206, "typ": "at",
+      "referenz": "5. Mo 18,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Höret auf ihn« greift die Mose-Verheißung auf: einen Propheten »wie mich … auf ihn sollt ihr hören« (5. Mo 18,15). Neben Mose und Elia wird Jesus so als der verheißene Prophet wie Mose ausgewiesen."
+    },
+    { "vers_von": 7, "von": 47, "vers_bis": 7, "bis": -1, "typ": "jesus" },
+    { "vers_von": 9, "von": 60, "vers_bis": 9, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 10, "von": 76, "vers_bis": 10, "bis": 100, "typ": "at",
+      "referenz": "Mal 3,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Erwartung der Elia-Wiederkunft (Mal 3,23), bereits Mt 11,14 aktiv annotiert. Der neue Aspekt — die Wiederherstellung — steht in V11."
+    },
+    { "vers_von": 11, "von": 26, "vers_bis": 12, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 11, "von": 58, "vers_bis": 11, "bis": 99, "typ": "at",
+      "referenz": "Mal 3,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnote: Mal 3,23. Dass Elia »alles wieder in den rechten Stand bringen« wird, meint seine Wiederherstellungsaufgabe (Mal 3,23-24: er »wendet das Herz der Väter den Söhnen zu«) — über die bloße Wiederkunftserwartung (Mt 11,14) hinaus."
+    },
+    { "vers_von": 17, "von": 21, "vers_bis": 17, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 17, "von": 28, "vers_bis": 17, "bis": 69, "typ": "at",
+      "referenz": "5. Mo 32,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Ungläubige und verkehrte Art« klingt an das Lied des Mose an, das Israel in der Wüste »ein verkehrtes und verdrehtes Geschlecht« nennt (5. Mo 32,5.20). Der Tadel stellt die Umstehenden in diese Linie."
+    },
+    { "vers_von": 20, "von": 21, "vers_bis": 21, "bis": -1, "typ": "jesus" },
+    { "vers_von": 22, "von": 66, "vers_bis": 23, "bis": 69, "typ": "jesus" },
+    {
+      "vers_von": 23, "von": 26, "vers_bis": 23, "bis": 67, "typ": "at",
+      "referenz": "1. Mo 22,4 / Hos 6,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose22,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Am dritten Tage« als Tag der rettenden Wende bereits Mt 16,21 aktiv annotiert (1. Mo 22,4 / Hos 6,2)."
+    },
+    {
+      "vers_von": 24, "von": 150, "vers_bis": 24, "bis": 163, "typ": "at",
+      "referenz": "2. Mo 30,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose30,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnote: »Tempelsteuer«. Die Doppeldrachme ist der Halbschekel aus 2. Mo 30,11-16, »als Lösegeld für sein Leben« — daher die Frage, ob der Gottessohn Steuer für das Haus seines Vaters schuldet (V25-26)."
+    },
+    { "vers_von": 25, "von": 85, "vers_bis": 25, "bis": -1, "typ": "jesus" },
+    { "vers_von": 26, "von": 65, "vers_bis": 27, "bis": -1, "typ": "jesus" }
+  ]
+}
