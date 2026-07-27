@@ -1,0 +1,100 @@
+{
+  "titel": "Gleichnis von den Arbeitern im Weinberg · Dritte Leidensankündigung · Bitte der Söhne des Zebedäus · Vom Dienen · Heilung zweier Blinder bei Jericho",
+  "markierungen": [
+    { "vers_von": 1, "von": 0, "vers_bis": 16, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 1, "von": 111, "vers_bis": 1, "bis": 119, "typ": "at",
+      "referenz": "Jes 5,1-7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja5,1-7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Weinberg ist im AT Bild für Israel (Jes 5,1-7), hier aber bloße Kulisse des Gleichnisses vom gerechten Lohn — der Weinberg-Israel-Bezug wird erst im Winzergleichnis Mt 21,33ff load-bearing."
+    },
+    {
+      "vers_von": 8, "von": 105, "vers_bis": 8, "bis": 130, "typ": "at",
+      "referenz": "5. Mo 24,14-15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose24,14-15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Auszahlung am Abend spiegelt das Torah-Gebot, den Tagelöhner noch am selben Tag vor Sonnenuntergang zu entlohnen (5. Mo 24,14-15; 3. Mo 19,13). Sozialgeschichtlicher Hintergrund, aber keine als Zitat erkennbare Anspielung — die Abendzahlung ist vom Gleichnis selbst narrativ motiviert."
+    },
+    {
+      "vers_von": 15, "von": 84, "vers_bis": 15, "bis": 132, "typ": "at",
+      "referenz": "Spr 23,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sprueche23,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der griechische Text hat »ist dein Auge böse«, die Idiomatik vom »bösen Auge« als Neid und Geiz (Spr 23,6; 28,22; 5. Mo 15,9). Menge übersetzt jedoch »siehst du neidisch dazu« — das Augen-Bild ist im deutschen Text nicht mehr sichtbar und wurde bereits Mt 6,22-23 annotiert."
+    },
+    { "vers_von": 18, "von": 0, "vers_bis": 19, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 18, "von": 57, "vers_bis": 18, "bis": 73, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Titel »Menschensohn« (Dan 7,13) ist bereits bei seinem Erstauftritt Mt 8,20 aktiv annotiert."
+    },
+    {
+      "vers_von": 19, "von": 23, "vers_bis": 19, "bis": 68, "typ": "at",
+      "referenz": "Jes 50,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja50,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Verspottung und Geißelung klingen an das Leiden des Gottesknechts an (Jes 50,6: »meinen Rücken bot ich denen dar, die mich schlugen«), doch die Aufzählung zitiert keine feste Vorlage; die Kreuzigung ist römische Praxis ohne AT-Entsprechung. Der load-bearing Knechts-Bezug folgt in V28."
+    },
+    {
+      "vers_von": 19, "von": 86, "vers_bis": 19, "bis": 127, "typ": "at",
+      "referenz": "Hos 6,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea6,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Am dritten Tage« (Hos 6,2; 1. Mo 22,4) ist bereits Mt 16,21 aktiv annotiert."
+    },
+    { "vers_von": 21, "von": 15, "vers_bis": 21, "bis": 34, "typ": "jesus" },
+    {
+      "vers_von": 21, "von": 125, "vers_bis": 21, "bis": 175, "typ": "at",
+      "referenz": "1. Kön 2,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige2,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sitzen zur Rechten und Linken bezeichnet die höchsten Ehrenränge am Königshof (1. Kön 2,19; Ps 110,1), ist aber allgemeines Bild ohne als Einzelstelle erkennbare Zitation."
+    },
+    { "vers_von": 22, "von": 21, "vers_bis": 22, "bis": 109, "typ": "jesus" },
+    {
+      "vers_von": 22, "von": 67, "vers_bis": 22, "bis": 107, "typ": "at",
+      "referenz": "Jes 51,17-22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja51,17-22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Den Kelch trinken« ist im AT festes Bild für den von Gott zugeteilten Becher seines Zorns und Gerichts, den man bis zur Neige leeren muss (Jes 51,17.22; vgl. Ps 75,9). Die Frage zielt daher nicht auf irgendein Leid, sondern auf das bestimmte Geschick von Leiden und Tod."
+    },
+    { "vers_von": 23, "von": 20, "vers_bis": 23, "bis": -1, "typ": "jesus" },
+    { "vers_von": 25, "von": 39, "vers_bis": 28, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 28, "von": 96, "vers_bis": 28, "bis": 140, "typ": "at",
+      "referenz": "Jes 53,10-12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,10-12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Leben als Lösegeld für viele« greift das Gottesknechtslied auf: der Knecht schüttet sein Leben in den Tod und trägt »die Sünde vieler« (Jes 53,10-12). Das »für viele« entspricht den »Vielen« des Liedes — der Tod des Menschensohnes als stellvertretend."
+    },
+    {
+      "vers_von": 30, "von": 121, "vers_bis": 30, "bis": 132, "typ": "at",
+      "referenz": "2. Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Davidssohn-Titel (2. Sam 7,12) ist bereits Mt 9,27 diskutiert; die Anrufung »Sohn Davids« durch Blinde wiederholt sich hier wie dort."
+    },
+    { "vers_von": 32, "von": 55, "vers_bis": 32, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 33, "von": 28, "vers_bis": 33, "bis": 60, "typ": "at",
+      "referenz": "Jes 35,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Öffnen der Augen von Blinden als messianisches Zeichen (Jes 35,5) ist bereits Mt 9,27 und Mt 11,5 aktiv annotiert."
+    }
+  ]
+}
