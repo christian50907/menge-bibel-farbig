@@ -1,0 +1,151 @@
+{
+  "titel": "Einzug in Jerusalem · Tempelreinigung · Der verfluchte Feigenbaum · Die Frage nach der Vollmacht · Gleichnis von den zwei Söhnen · Gleichnis von den bösen Weingärtnern",
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 63, "vers_bis": 1, "bis": 69, "typ": "at",
+      "referenz": "Sach 14,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja14,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Ölberg ist bei Sacharja der Ort des eschatologischen Eingreifens Gottes: In Sach 14,4 stehen »seine Füße an jenem Tage auf dem Ölberg«, der sich dann spaltet. Dass Jesus seinen Einzug gerade hier beginnt, ist für einen Sach 14 kennenden Juden mit Erwartung geladen — und bildet zusammen mit dem Esel (V5, Sach 9,9) und der Tempelreinigung (V12, Sach 14,21) einen Dreiklang der Sacharja-Erfüllung."
+    },
+    { "vers_von": 2, "von": 17, "vers_bis": 3, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 5, "von": 0, "vers_bis": 5, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 62,11", "url": "https://www.bibleserver.com/MENG/Jesaja62,11" },
+        { "label": "Sach 9,9", "url": "https://www.bibleserver.com/MENG/Sacharja9,9" }
+      ],
+      "begruendung": "Erfüllungszitat (Menge-Fußnote Jes 62,11; Sach 9,9). Der Aufruf »Sagt der Tochter Zion« stammt aus Jes 62,11, das Bild des Königs, der »sanftmütig und auf einem Esel reitend« kommt, aus Sach 9,9. Der Esel — nicht das Streitross — zeichnet einen Friedenskönig: Sacharja verheißt einen, der »den Völkern Frieden gebietet«. Der Einzug macht die messianische Ankündigung damit sichtbar."
+    },
+    {
+      "vers_von": 8, "von": 39, "vers_bis": 8, "bis": 75, "typ": "at",
+      "referenz": "2. Kön 9,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige9,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Ausbreiten der Mäntel auf den Weg ist Königshuldigung: In 2. Kön 9,13 breiten die Offiziere ihre Mäntel unter Jehu, als sie ihn zum König ausrufen. Der Bezug ist jedoch nur evokativ, nicht als Zitat kenntlich, und der königlich-messianische Einzug wird bereits durch das aktive Sach-9,9-Zitat (V5) getragen."
+    },
+    {
+      "vers_von": 9, "von": 94, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Ps 118,25-26", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,25-26",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Menge grüßt Jesus mit dem Wallfahrts-Hallel: »Hosianna« ist das hebräische hoschiʿa-na (»Hilf doch!«, Ps 118,25), und »Gepriesen sei, der da kommt im Namen des Herrn« zitiert wörtlich Ps 118,26 — den Segensgruß, mit dem die Pilger beim Tempelfest empfangen wurden. Der Ruf ordnet den Einziehenden in die erwartete Heilsankunft ein."
+    },
+    {
+      "vers_von": 9, "von": 104, "vers_bis": 9, "bis": 120, "typ": "at",
+      "referenz": "2. Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Messiastitel »Sohn Davids« (2. Sam 7,12) ist bei seinem ersten Auftreten in Mt 1,1 aktiv annotiert; hier wie in V15 in den Jubelruf der Menge eingefügt."
+    },
+    {
+      "vers_von": 11, "von": 35, "vers_bis": 11, "bis": 76, "typ": "at",
+      "referenz": "5. Mo 18,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der Prophet« ruft die Erwartung des Propheten »wie Mose« (5. Mo 18,15) auf, die bereits Mt 17,5 aktiv annotiert ist."
+    },
+    {
+      "vers_von": 12, "von": 38, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Sach 14,21", "url": "https://www.bibleserver.com/MENG/Sacharja14,21" },
+        { "label": "Mal 3,1-3", "url": "https://www.bibleserver.com/MENG/Maleachi3,1-3" }
+      ],
+      "begruendung": "Sach 14,21 verheißt für den Tag des Herrn: »Es wird kein Händler mehr im Hause des HERRN der Heerscharen sein.« Jesus vertreibt genau diese Händler und vollzieht damit sichtbar Sacharjas Vision — der dritte Anschlag im Dreiklang der Sacharja-Erfüllung (Ölberg V1, Esel V5, Tempel V12). Mal 3,1-3 kündigt zudem den zum Tempel kommenden Herrn als Läuterer an. Die von Jesus zitierten Worte (Jes 56,7 / Jer 7,11) folgen in V13."
+    },
+    { "vers_von": 13, "von": 20, "vers_bis": 13, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 13, "von": 43, "vers_bis": 13, "bis": 79, "typ": "at",
+      "referenz": "Jes 56,7", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja56,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Jes 56,7 (Menge-Fußnote): »Mein Haus wird ein Bethaus für alle Völker heißen.« Jesaja verheißt den Tempel als Ort des Gebets auch für die Fremden — der Handel im Vorhof der Heiden verkehrt gerade diese Bestimmung."
+    },
+    {
+      "vers_von": 13, "von": 107, "vers_bis": 13, "bis": 120, "typ": "at",
+      "referenz": "Jer 7,11", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jeremia7,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Räuberhöhle« greift Jer 7,11 auf (Menge-Fußnote): In seiner Tempelrede klagt Jeremia, das Volk mache Gottes Haus zur »Räuberhöhle« — zum Unterschlupf, in den man sich nach dem Unrecht flüchtet. Das Wort stellt den Tempelbetrieb unter Jeremias Gerichtsansage."
+    },
+    { "vers_von": 16, "von": 86, "vers_bis": 16, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 16, "von": 144, "vers_bis": 16, "bis": 221, "typ": "at",
+      "referenz": "Ps 8,3", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm8,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Ps 8,3 (Menge-Fußnote): »Aus dem Munde von Kindern und Säuglingen hast du dir Lobpreis bereitet.« Im Psalm gilt der Lobpreis Gott dem Schöpfer; auf die Kinder im Tempel angewandt deutet die Antwort ihr Hosianna als von Gott selbst bereiteten Lobpreis — und beantwortet so indirekt die Frage der Hohenpriester."
+    },
+    { "vers_von": 19, "von": 143, "vers_bis": 19, "bis": 198, "typ": "jesus" },
+    {
+      "vers_von": 19, "von": 78, "vers_bis": 19, "bis": 121, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jer 8,13", "url": "https://www.bibleserver.com/MENG/Jeremia8,13" },
+        { "label": "Mi 7,1", "url": "https://www.bibleserver.com/MENG/Micha7,1" }
+      ],
+      "begruendung": "Der verdorrende Feigenbaum ohne Frucht steht im Bildfeld des unfruchtbaren Israel (Jer 8,13: »keine Trauben am Weinstock, keine Feigen am Feigenbaum«; Mi 7,1; Hos 9,10). Das Bild wird jedoch nicht zitiert, sondern nur als Zeichenhandlung aufgeführt — evokativ, ohne kenntlichen Textverweis."
+    },
+    { "vers_von": 21, "von": 27, "vers_bis": 22, "bis": -1, "typ": "jesus" },
+    { "vers_von": 24, "von": 29, "vers_bis": 25, "bis": 72, "typ": "jesus" },
+    { "vers_von": 27, "von": 89, "vers_bis": 27, "bis": -1, "typ": "jesus" },
+    { "vers_von": 28, "von": 0, "vers_bis": 31, "bis": 56, "typ": "jesus" },
+    { "vers_von": 31, "von": 113, "vers_bis": 32, "bis": -1, "typ": "jesus" },
+    { "vers_von": 33, "von": 0, "vers_bis": 40, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 33, "von": 63, "vers_bis": 33, "bis": 160, "typ": "at",
+      "referenz": "Jes 5,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja5,1-2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Anfang des Gleichnisses zeichnet Zug um Zug das Weinberglied Jes 5,1-2 nach (Menge-Fußnote): einen Weinberg anlegen, mit einem Zaun umgeben, eine Kelter graben, einen Turm bauen. Bei Jesaja ist der Weinberg ausdrücklich »das Haus Israel« (Jes 5,7) — für einen jüdischen Hörer ist damit von Beginn an klar, dass das Gleichnis von Israel und seinen Führern handelt."
+    },
+    {
+      "vers_von": 35, "von": 44, "vers_bis": 35, "bis": 125, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Chr 24,20-21", "url": "https://www.bibleserver.com/MENG/2.Chronik24,20-21" },
+        { "label": "Neh 9,26", "url": "https://www.bibleserver.com/MENG/Nehemia9,26" }
+      ],
+      "begruendung": "Die geschlagenen, gesteinigten und getöteten Knechte stehen für die von Israel verfolgten Propheten (2. Chr 24,20-21; Neh 9,26) — ein Motiv, das bereits Mt 5,12 aktiv annotiert ist."
+    },
+    { "vers_von": 42, "von": 17, "vers_bis": 44, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 42, "von": 86, "vers_bis": 42, "bis": 239, "typ": "at",
+      "referenz": "Ps 118,22-23", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,22-23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus Ps 118,22-23 (Menge-Fußnote): »Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden.« Der verworfene Stein aus dem Wallfahrts-Hallel (vgl. V9) wird zum Schlussstein des Baus — das Zitat deutet die Verwerfung Jesu als von Gott gewendetes Geschehen."
+    },
+    {
+      "vers_von": 44, "von": 1, "vers_bis": 44, "bis": 114, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 8,14-15", "url": "https://www.bibleserver.com/MENG/Jesaja8,14-15" },
+        { "label": "Dan 2,34-35", "url": "https://www.bibleserver.com/MENG/Daniel2,34-35" }
+      ],
+      "begruendung": "Das Stein-Wort verbindet zwei AT-Bilder: den Stein des Anstoßes, an dem man fällt und zerschellt (Jes 8,14-15), und den Stein aus Dan 2,34-35.44-45, der die Weltreiche zermalmt und Gottes Reich aufrichtet. Der »Eckstein« aus V42 wird so zum Gerichtsstein."
+    }
+  ]
+}
