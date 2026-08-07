@@ -1,0 +1,156 @@
+{
+  "titel": "Die große Strafrede Jesu gegen die Schriftgelehrten und Pharisäer",
+  "markierungen": [
+    { "vers_von": 2, "von": 0, "vers_bis": 12, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 5, "von": 90, "vers_bis": 5, "bis": 113, "typ": "at",
+      "referenz": "5. Mo 6,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose6,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Gebetsriemen (Tefillin) setzen wörtlich das Gebot um, Gottes Worte »als Gedenkzeichen an die Hand zu binden und als Erinnerungsmal auf der Stirn zu tragen« (5. Mo 6,8). Diese fromme Praxis wird hier erstmals im Matthäusevangelium erwähnt."
+    },
+    {
+      "vers_von": 5, "von": 118, "vers_bis": 5, "bis": 141, "typ": "at",
+      "referenz": "4. Mo 15,38-40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,38",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "(nicht sichtbar) Die Mantelquasten (Zizit, 4. Mo 15,38-40) sind bereits bei der blutflüssigen Frau (Mt 9,20) aktiv annotiert und bei Mt 14,36 als Wiederholung dokumentiert. Auch hier notiert die Menge-Bibel eine Fußnote (4.Mose 15,38-39) — die Stelle bleibt wegen Wiederholung inaktiv."
+    },
+    {
+      "vers_von": 9, "von": 59, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 63,16", "url": "https://www.bibleserver.com/MENG/Jesaja63,16" },
+        { "label": "Jes 64,7", "url": "https://www.bibleserver.com/MENG/Jesaja64,7" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "(nicht sichtbar) Die Anrede »Vater im Himmel« (Jes 63,16 / Jes 64,7) ist bei ihrem ersten Auftreten in Mt 5,16 aktiv annotiert. Wiederholung."
+    },
+    {
+      "vers_von": 10, "von": 78, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "1 Sam 16,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel16,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "(nicht sichtbar) Der Messiastitel »Christus« (1 Sam 16,13) ist bei seinem ersten Auftreten in Mt 1,1 aktiv annotiert. Wiederholung."
+    },
+    { "vers_von": 13, "von": 0, "vers_bis": 33, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 16, "von": 11, "vers_bis": 16, "bis": 29, "typ": "at",
+      "referenz": "Jes 56,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja56,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Bild der »blinden Führer« greift Jes 56,10 auf: Dort tadelt der Prophet die Wächter Israels als blind — sie sehen die Gefahr nicht und warnen das Volk nicht. Der Text überträgt dieses Prophetenwort auf die religiösen Führer der Gegenwart (auch V19, V24)."
+    },
+    {
+      "vers_von": 19, "von": 54, "vers_bis": 19, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 29,37", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose29,37",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Argument setzt die Logik von 2. Mo 29,37 voraus: Der geweihte Altar überträgt seine Heiligkeit auf alles, was ihn berührt (»wer den Altar berührt, wird heilig«). Auf dieser Grundlage stuft der Text den Altar höher ein als die Gabe — und ebenso den Tempel höher als sein Gold (V17)."
+    },
+    {
+      "vers_von": 22, "von": 41, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "Jes 66,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja66,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "(nicht sichtbar) Der Gedanke »der Himmel ist mein Thron« (Jes 66,1) ist bei Mt 5,34 bereits aktiv annotiert. Wiederholung."
+    },
+    {
+      "vers_von": 23, "von": 71, "vers_bis": 23, "bis": 113, "typ": "at",
+      "referenz": "5. Mo 14,22-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose14,22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Zehntpflicht selbst ist Torah-Gebot (5. Mo 14,22-23). Dass die Pharisäer sie auch auf Gartenkräuter wie Minze, Anis und Kümmel ausdehnen, zeigt eine besonders genaue, über den Wortlaut hinausgehende Anwendung des Gebots."
+    },
+    {
+      "vers_von": 23, "von": 172, "vers_bis": 23, "bis": 217, "typ": "at",
+      "referenz": "Mi 6,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Micha6,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Trias »Gericht, Barmherzigkeit, Treue« entspricht der programmatischen Zusammenfassung aus Mi 6,8: »Gerechtigkeit üben, Güte lieben und demütig wandeln mit deinem Gott«. Der Text stellt diese drei Grundforderungen als das eigentliche Gewicht des Gesetzes den Detailvorschriften über Kräuter-Zehnten gegenüber."
+    },
+    {
+      "vers_von": 25, "von": 61, "vers_bis": 25, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 11,33", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,33",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach 3. Mo 11,33 wird ein irdenes Gefäß, in das etwas Unreines fällt, mitsamt seinem Inhalt unrein — Außenreinigung allein genügt nicht. Diese reale Kategorie der Reinheitstorah überträgt der Text auf die Pharisäer selbst."
+    },
+    {
+      "vers_von": 27, "von": 73, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 19,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose19,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gräber wurden vor dem Passahfest weiß getüncht, damit niemand versehentlich mit ihnen in Berührung kam — nach 4. Mo 19,16 macht der Kontakt mit einem Grab oder mit Totengebeinen sieben Tage lang unrein."
+    },
+    {
+      "vers_von": 31, "von": 46, "vers_bis": 31, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2 Chr 36,15-16", "url": "https://www.bibleserver.com/MENG/2.Chronik36,15" },
+        { "label": "Neh 9,26", "url": "https://www.bibleserver.com/MENG/Nehemia9,26" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "(nicht sichtbar) Die Verfolgung und Tötung der Propheten (2 Chr 36,15-16; Neh 9,26) ist bereits bei Mt 5,12 aktiv annotiert. Wiederholung — hier zugespitzt auf die eigene Abstammung von den Prophetenmördern."
+    },
+    {
+      "vers_von": 33, "von": 0, "vers_bis": 33, "bis": 30, "typ": "at",
+      "referenz": "Gen 3,1-15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose3,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "(nicht sichtbar) »Schlangenbrut« (Gen 3,1-15) ist bereits bei Johannes dem Täufer (Mt 3,7) aktiv annotiert und bei Mt 12,34 als Wiederholung dokumentiert. Dritte Verwendung im Matthäusevangelium."
+    },
+    { "vers_von": 34, "von": 0, "vers_bis": 39, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 35, "von": 82, "vers_bis": 35, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 4,8", "url": "https://www.bibleserver.com/MENG/1.Mose4,8" },
+        { "label": "2. Chr 24,19-22", "url": "https://www.bibleserver.com/MENG/2.Chronik24,19-22" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnoten verweisen auf 1. Mo 4,8 (Kains Mord an Abel) und 2. Chr 24,19-22 (Steinigung Sacharjas im Tempelvorhof). Da Chronik das letzte Buch des hebräischen Kanons ist, spannt »vom Blut Abels bis zum Blut Sacharjas« den gesamten Kanon auf. Auffällig: 2. Chr 24,20 nennt ihn »Sohn des Priesters Jojada«, der Text hier »Sohn Berechjas« — dieser Name gehört eigentlich zum Propheten Sacharja (Sach 1,1)."
+    },
+    {
+      "vers_von": 37, "von": 141, "vers_bis": 37, "bis": 195, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 91,4", "url": "https://www.bibleserver.com/MENG/Psalm91,4" },
+        { "label": "5. Mo 32,11", "url": "https://www.bibleserver.com/MENG/5.Mose32,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Schutz unter den Flügeln ist eine feste AT-Formel für Zuflucht bei Gott (Ps 91,4: »unter seinen Flügeln bist du geborgen«). Das Sammeln der »Kinder« erinnert zudem an 5. Mo 32,11, wo Gott als Adler über seinem Volk wacht und es auf seinen Schwingen trägt."
+    },
+    {
+      "vers_von": 38, "von": 0, "vers_bis": 38, "bis": -1, "typ": "at",
+      "referenz": "Jer 22,5", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jeremia22,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnote: Jer 22,5. Dort droht Gott: »so schwöre ich bei mir selbst... daß dieses Haus zur Wüstenei werden soll«. Die Ankündigung der Verödung greift damit eine bereits im AT ergangene Gerichtsdrohung gegen das Königshaus bzw. den Tempel auf."
+    },
+    {
+      "vers_von": 39, "von": 118, "vers_bis": 39, "bis": 165, "typ": "at",
+      "referenz": "Ps 118,26", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "(nicht sichtbar) Menge-Fußnote: Ps 118,26 — wörtliches Zitat, bereits beim Einzug in Jerusalem (Mt 21,9) aktiv annotiert, wo die Menge Jesus mit demselben Ruf begrüßt. Hier kündigt Jesus an, dass Jerusalem diesen Ruf erst bei seiner Wiederkunft erneut aussprechen wird — ein bewusster Rückbezug auf Mt 21,9, aber ohne neue AT-Stelle."
+    }
+  ]
+}
