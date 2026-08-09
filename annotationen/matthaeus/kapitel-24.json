@@ -1,0 +1,192 @@
+{
+  "titel": "Die Ölbergrede Jesu: Zeichen der Endzeit · Der Greuel der Verwüstung · Die Wiederkunft des Menschensohnes · Gleichnis vom treuen und vom untreuen Knecht",
+  "markierungen": [
+    {
+      "vers_von": 2,
+      "von": 41,
+      "vers_bis": 2,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 4,
+      "von": 24,
+      "vers_bis": 51,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 7,
+      "von": 0,
+      "vers_bis": 7,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 19,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja19,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Jes 19,2 kündigt Gott an, Ägypter gegen Ägypter aufzuhetzen, Bruder gegen Bruder — Bürgerkrieg als Zeichen seines Gerichts. Wer die Propheten kannte, hörte im Krieg von Volk gegen Volk deshalb keine bloße Zeitbeobachtung, sondern ein angekündigtes Vorzeichen."
+    },
+    {
+      "vers_von": 15,
+      "von": 18,
+      "vers_bis": 15,
+      "bis": 85,
+      "typ": "at",
+      "referenz": "Dan 9,27",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel9,27",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Greuel der Verwüstung« ist ein feststehender Ausdruck aus dem Danielbuch (Dan 9,27; 11,31; 12,11) für die Entweihung des Tempels durch ein heidnisches Götzenbild. Damalige Leser dachten dabei an Antiochus IV., der 167 v. Chr. im Jerusalemer Tempel einen heidnischen Altar errichten ließ."
+    },
+    {
+      "vers_von": 20,
+      "von": 33,
+      "vers_bis": 20,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Mo 16,29",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose16,29",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach 2. Mo 16,29 soll am Sabbat niemand seinen Wohnort verlassen. Daraus entwickelte sich eine feste Höchststrecke, die man am Sabbat gehen durfte — der »Sabbatweg« von rund einem Kilometer (vgl. Apg 1,12). An ihm wäre eine überstürzte Flucht gescheitert."
+    },
+    {
+      "vers_von": 21,
+      "von": 0,
+      "vers_bis": 21,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 12,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Dan 12,1 kündigt für das Ende eine Not an, wie sie noch nie gewesen ist, seit es Völker gibt. Diese Formel von der einmaligen, mit nichts vergleichbaren Drangsal gehörte zur festen Sprache der jüdischen Endzeiterwartung; der Satz greift sie erkennbar auf."
+    },
+    {
+      "vers_von": 24,
+      "von": 0,
+      "vers_bis": 24,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 13,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose13,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "5. Mo 13,2-4 regelt den Fall, dass ein Prophet Zeichen und Wunder ankündigt, die tatsächlich eintreffen — und der trotzdem von Gott wegführt. Auf ihn ist nicht zu hören. Wunder allein beglaubigen also niemanden; das war geltendes Recht, nicht bloß ein frommer Rat."
+    },
+    {
+      "vers_von": 28,
+      "von": 0,
+      "vers_bis": 28,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Hi 39,30",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hiob39,30",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Von Adler und Geier heißt es in Hi 39,30, sie seien dort, wo Erschlagene liegen. Das Sprichwort beantwortet die vorangehende Warnung, falschen Messiassen nachzulaufen: Wo der Menschensohn erscheint, wird es so unübersehbar sein wie kreisende Aasvögel — suchen muss ihn niemand."
+    },
+    {
+      "vers_von": 29,
+      "von": 0,
+      "vers_bis": 29,
+      "bis": -1,
+      "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 13,10", "url": "https://www.bibleserver.com/MENG/Jesaja13,10" },
+        { "label": "Jes 34,4",  "url": "https://www.bibleserver.com/MENG/Jesaja34,4" }
+      ],
+      "vgl": true,
+      "begruendung": "Verfinsterte Sonne und fallende Sterne sind bei den Propheten feste Bilder für den Gerichtstag Gottes: Jes 13,10 gebraucht sie für den Untergang Babylons, Jes 34,4 lässt das Sternenheer herabfallen wie Laub vom Weinstock. Gemeint ist nicht Astronomie, sondern das Ende einer Weltordnung."
+    },
+    {
+      "vers_von": 30,
+      "von": 76,
+      "vers_bis": 30,
+      "bis": 119,
+      "typ": "at",
+      "referenz": "Sach 12,10-12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja12,10-12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Sach 12,10-12 blickt Jerusalem auf einen, den es selbst durchbohrt hat, und hält Totenklage — jede Familie für sich. Das Wehklagen bei der Wiederkunft erscheint dadurch als Trauer über den Verkannten, nicht bloß als Schrecken vor dem Richter."
+    },
+    {
+      "vers_von": 30,
+      "von": 124,
+      "vers_bis": 30,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 7,13-14",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Dan 7,13-14 sieht der Prophet einen wie einen Menschensohn mit den Wolken des Himmels vor Gott treten und ewige Herrschaft über alle Völker empfangen. Die Formulierung hier ist fast wörtlich übernommen — für damalige Leser ein unüberhörbarer Anspruch auf genau diese Rolle."
+    },
+    {
+      "vers_von": 31,
+      "von": 24,
+      "vers_bis": 31,
+      "bis": 61,
+      "typ": "at",
+      "referenz": "Jes 27,13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja27,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jes 27,13 wird am Ende in ein großes Horn gestoßen, und die nach Assyrien und Ägypten Verschleppten kehren heim. Gemeint ist der Schofar, das Widderhorn — bei Menge »Posaune« —, mit dem Israel zu Fest, Alarm und Königskrönung gerufen wurde. Sein Klang stand für die Sammlung des zerstreuten Volkes."
+    },
+    {
+      "vers_von": 31,
+      "von": 97,
+      "vers_bis": 31,
+      "bis": -1,
+      "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Sach 2,6",   "url": "https://www.bibleserver.com/MENG/Sacharja2,6" },
+        { "label": "5. Mo 30,4", "url": "https://www.bibleserver.com/MENG/5.Mose30,4" }
+      ],
+      "vgl": true,
+      "begruendung": "Beide Stellen gehören zur Verheißung, dass Gott sein zerstreutes Volk wieder einsammelt: Sach 2,6 spricht von der Zerstreuung nach den vier Windrichtungen, 5. Mo 30,4 verspricht die Heimholung noch vom äußersten Ende des Himmels her. Diese Zusage an Israel wird hier auf die Auserwählten angewandt."
+    },
+    {
+      "vers_von": 35,
+      "von": 0,
+      "vers_bis": 35,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 40,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 40,8 stellt dem vergänglichen Gras und der welkenden Blume das Wort Gottes gegenüber, das ewig bleibt. Wer die eigenen Worte in genau dieser Figur für dauerhafter erklärt als Himmel und Erde, beansprucht für sie den Rang des Gotteswortes."
+    },
+    {
+      "vers_von": 37,
+      "von": 5,
+      "vers_bis": 39,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "1. Mo 6–8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose7,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Sintfluterzählung (1. Mo 6-8) ist der Bezugspunkt: Gegessen, getrunken und geheiratet wurde bis zu dem Tag, an dem Noah die Arche betrat — die Katastrophe traf eine ahnungslose Welt. Verglichen wird nicht die Bosheit der Menschen, sondern ihre Ahnungslosigkeit."
+    }
+  ]
+}
