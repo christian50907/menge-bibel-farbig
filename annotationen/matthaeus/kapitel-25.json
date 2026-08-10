@@ -1,0 +1,211 @@
+{
+  "titel": "Gleichnis von den zehn Jungfrauen · Gleichnis von den anvertrauten Talenten · Das Weltgericht: Die Scheidung der Schafe von den Böcken",
+  "markierungen": [
+    { "vers_von": 1, "von": 0, "vers_bis": 13, "bis": -1, "typ": "jesus" },
+
+    {
+      "vers_von": 1, "von": 94, "vers_bis": 1, "bis": 122, "typ": "at",
+      "referenz": "Jes 62,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja62,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Bräutigam als Bild für Gottes Verhältnis zu seinem Volk (Jes 62,5; Hos 2,21) ist bereits Mt 9,15 aktiv. Hier reine Gleichnisfigur."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 41, "typ": "at",
+      "referenz": "2. Mo 12,29-30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Motivische Nähe zum mitternächtlichen Schrei in Ägypten (2. Mo 12,29-30), aber keine Formulierungsübernahme; die Mitternacht ist Erzählzeit des Gleichnisses."
+    },
+    {
+      "vers_von": 10, "von": 156, "vers_bis": 10, "bis": 186, "typ": "at",
+      "referenz": "1. Mo 7,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose7,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Anklang an 1. Mo 7,16 (Gott schließt die Arche hinter Noah zu), zumal die Noah-Typologie in Mt 24,37 aktiv ist. Die Tür bleibt hier Gleichnisdetail — evokativ, ohne dass der Text den Bezug herstellt."
+    },
+    {
+      "vers_von": 12, "von": 56, "vers_bis": 12, "bis": 76, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 1,6", "url": "https://www.bibleserver.com/MENG/Psalm1,6" },
+        { "label": "Am 3,2", "url": "https://www.bibleserver.com/MENG/Amos3,2" }
+      ],
+      "begruendung": "»Kennen« (hebr. jada') meint im AT nicht Wissen, sondern Anerkennen — in Am 3,2 gibt Menge dasselbe Verb mit »erwählt« wieder. »Ich kenne euch nicht« ist deshalb keine Auskunft über fehlende Bekanntschaft, sondern förmliche Zurückweisung."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 13, "bis": 18, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholt Mt 24,42.44; keine bestimmte AT-Stelle."
+    },
+
+    { "vers_von": 14, "von": 0, "vers_bis": 30, "bis": -1, "typ": "jesus" },
+
+    {
+      "vers_von": 21, "von": 63, "vers_bis": 21, "bis": 130, "typ": "at",
+      "referenz": "1. Mo 41,40-41", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose41,40",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Beförderung des bewährten Verwalters (1. Mo 41,40-41; Dan 6,4) ist gängige Hofgeschichten-Topik ohne erkennbare Einzelvorlage."
+    },
+    {
+      "vers_von": 21, "von": 132, "vers_bis": 21, "bis": 169, "typ": "at",
+      "referenz": "Jes 25,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja25,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das eschatologische Festmahl (Jes 25,6) ist bereits Mt 8,11 aktiv. Hier Gleichnisdetail, ebenso V23."
+    },
+    {
+      "vers_von": 24, "von": 131, "vers_bis": 24, "bis": 165, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sprichwörtliche Rede über einen ausbeuterischen Herrn; keine AT-Vorlage."
+    },
+    {
+      "vers_von": 27, "von": 29, "vers_bis": 27, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "3. Mo 25,36-37", "url": "https://www.bibleserver.com/MENG/3.Mose25,36" },
+        { "label": "5. Mo 23,20-21", "url": "https://www.bibleserver.com/MENG/5.Mose23,20" }
+      ],
+      "begruendung": "Die Torah verbietet, von einem Volksgenossen Zinsen zu nehmen, erlaubt sie aber gegenüber Ausländern — verzinsliche Geschäfte liefen deshalb über Bankhalter. Was heute wie eine selbstverständliche Anlageempfehlung klingt, verweist den Knecht an die Grenze dessen, was die Torah zuließ."
+    },
+    {
+      "vers_von": 29, "von": 0, "vers_bis": 29, "bis": 53, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weisheitswort über Zuwachs und Verlust, wiederholt Mt 13,12; keine bestimmte AT-Stelle."
+    },
+    {
+      "vers_von": 30, "von": 67, "vers_bis": 30, "bis": 114, "typ": "at",
+      "referenz": "Ps 112,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm112,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Stereotyp-apokalyptische Gerichtssprache; Ps 112,10 bereits bei Mt 8,12, Mt 13,42 und Mt 22,13 inaktiv."
+    },
+
+    { "vers_von": 31, "von": 0, "vers_bis": 46, "bis": -1, "typ": "jesus" },
+
+    {
+      "vers_von": 31, "von": 1, "vers_bis": 31, "bis": 56, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Kommen des Menschensohns in Herrlichkeit (Dan 7,13-14) ist bereits Mt 8,20 und Mt 24,30 aktiv."
+    },
+    {
+      "vers_von": 31, "von": 57, "vers_bis": 31, "bis": 79, "typ": "at",
+      "referenz": "Sach 14,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja14,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sach 14,5 schließt die Schilderung des Tages des Herrn: »Dann wird der HERR, mein Gott, kommen und alle heiligen (Engel) mit ihm.« Das Engelgefolge ist kein schmückendes Beiwerk, sondern das feste Erkennungszeichen des göttlichen Gerichtstags."
+    },
+    {
+      "vers_von": 31, "von": 99, "vers_bis": 31, "bis": 132, "typ": "at",
+      "referenz": "Dan 7,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Thron seiner Herrlichkeit« ist AT-Formelsprache (Jer 17,12; 1. Sam 2,8). Die Danielszene deckt in diesem Vers der Eintrag zu Dan 7,13-14 ab, die Thronvision Dan 7,9-10 ist bei Mt 19,28 eingeordnet."
+    },
+    {
+      "vers_von": 32, "von": 0, "vers_bis": 32, "bis": 52, "typ": "at",
+      "referenz": "Joel 4,2.12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel4,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Joel 4 schildert das Endgericht als Versammlung: Gott führt alle Heidenvölker ins Tal Josaphat hinab, »denn dort will ich zu Gericht sitzen über alle Heidenvölker ringsum«. Dasselbe Bild, nur vom Tal auf den Thron des Menschensohns verlegt."
+    },
+    {
+      "vers_von": 32, "von": 92, "vers_bis": 32, "bis": 139, "typ": "at",
+      "referenz": "Hes 34,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel34,17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hes 34,17 gebraucht dasselbe Bild: »ich will nunmehr Gericht halten zwischen den Schafen untereinander und gegenüber den Widdern und den Böcken.« Hes 34 ist bisher für Gottes Fürsorge als Hirt aufgerufen (Mt 9,36; Mt 18,12); hier tritt die Gerichtsseite desselben Kapitels hinzu — derselbe Hirt sortiert seine Herde."
+    },
+    {
+      "vers_von": 33, "von": 12, "vers_bis": 33, "bis": 73, "typ": "at",
+      "referenz": "1. Kön 2,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige2,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Rechte und Linke als Ehrenränge (1. Kön 2,19; Ps 110,1) sind geläufiges Hofprotokoll ohne erkennbare Einzelvorlage; bereits Mt 20,21 so eingeordnet."
+    },
+    {
+      "vers_von": 34, "von": 73, "vers_bis": 34, "bis": 104, "typ": "at",
+      "referenz": "5. Mo 11,26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose11,26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Gesegnete« (V34) und »Verfluchte« (V41) sind deuteronomische Bundessprache (5. Mo 11,26; 27–30) ohne erkennbare Einzelvorlage; das Zwei-Wege-Motiv (5. Mo 30,19) ist bereits Mt 7,13 aktiv."
+    },
+    {
+      "vers_von": 34, "von": 106, "vers_bis": 34, "bis": 141, "typ": "at",
+      "referenz": "Dan 7,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,18",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Dan 7 empfängt nicht nur der Menschensohn Herrschaft: »Die Heiligen des Höchsten werden die Herrschaft erhalten … bis in Ewigkeit« (Dan 7,18). Dass die Gerechten das Königtum erben, greift diese zweite Zusage auf — nicht die Thronbesteigung aus V31, sondern die Beteiligung der Seinen daran."
+    },
+    {
+      "vers_von": 35, "von": 0, "vers_bis": 36, "bis": 58, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 58,7", "url": "https://www.bibleserver.com/MENG/Jesaja58,7" },
+        { "label": "Hes 18,7", "url": "https://www.bibleserver.com/MENG/Hesekiel18,7" }
+      ],
+      "begruendung": "Jes 58,7 nennt als das Fasten, das Gott will, dem Hungrigen das Brot zu brechen, Obdachlose ins Haus aufzunehmen und einen Halbnackten zu kleiden; Hes 18,7 führt Speisen und Kleiden unter den Kennzeichen des Gerechten. Die drei Werke sind damit kein beliebiges Beispiel für Nächstenliebe, sondern der geprägte Katalog, an dem Gerechtigkeit im AT gemessen wird. Krankenbesuch und Gefängnisbesuch gehen darüber hinaus."
+    },
+    {
+      "vers_von": 40, "von": 62, "vers_bis": 40, "bis": 154, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Spr 19,17", "url": "https://www.bibleserver.com/MENG/Sprueche19,17" },
+        { "label": "Spr 14,31", "url": "https://www.bibleserver.com/MENG/Sprueche14,31" }
+      ],
+      "begruendung": "Dass eine Wohltat am Geringen Gott selbst gilt, ist ausformulierte Weisheitslehre: »Wer sich des Armen erbarmt, gibt dem HERRN ein Darlehen« (Spr 19,17), und umgekehrt »Wer den Geringen bedrückt, beschimpft den, der ihn geschaffen hat« (Spr 14,31). Der Satz ist keine überraschende Gleichsetzung, sondern deren Zuspitzung auf die Person des Richters."
+    },
+    {
+      "vers_von": 41, "von": 62, "vers_bis": 41, "bis": 93, "typ": "at",
+      "referenz": "Ps 6,9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm6,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Verstoßungsformel »Hinweg von mir« stammt aus Ps 6,9 und ist bereits Mt 7,23 aktiv, Mt 13,41 inaktiv."
+    },
+    {
+      "vers_von": 41, "von": 95, "vers_bis": 41, "bis": 162, "typ": "at",
+      "referenz": "Jer 7,31-32", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia7,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Gehenna als Hintergrund des »ewigen Feuers« (Jer 7,31-32) ist bereits Mt 5,22 aktiv; das nicht erlöschende Feuer steht in Jes 66,24. Teufel und seine Engel als Adressaten sind frühjüdisch-apokalyptisch, nicht alttestamentlich."
+    },
+    {
+      "vers_von": 46, "von": 0, "vers_bis": 46, "bis": -1, "typ": "at",
+      "referenz": "Dan 12,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Dan 12,2 stellt dieselben zwei Ausgänge nebeneinander: Die Toten erwachen, »die einen zu ewigem Leben, die anderen zu Schmach, zu ewigem Abscheu«. Es ist die einzige AT-Stelle mit dem Ausdruck »ewiges Leben«. Das Gericht endet damit nicht in einem Urteil, sondern in zwei entgegengesetzten, gleich dauerhaften Zuständen."
+    }
+  ]
+}
