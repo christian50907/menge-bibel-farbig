@@ -1,0 +1,336 @@
+{
+  "titel": "Salbung in Bethanien · Verrat des Judas · Das letzte Passahmahl · Gethsemane · Verhaftung · Verhör vor dem Hohen Rat · Verleugnung des Petrus",
+  "markierungen": [
+    { "vers_von": 2, "von": 0, "vers_bis": 2, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 2, "von": 11, "vers_bis": 2, "bis": 48, "typ": "at",
+      "referenz": "2. Mo 12,1-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Passah ist das Gedächtnisfest des Auszugs: In der Nacht, in der jede Familie ein Lamm schlachtete und dessen Blut an die Türpfosten strich, ging der Würgeengel an Israel vorüber. Die Lämmer wurden am Nachmittag des 14. Nisan im Tempel geschlachtet — die Zeitangabe legt das Sterben des Menschensohnes genau auf diesen Tag."
+    },
+    {
+      "vers_von": 3, "von": 0, "vers_bis": 3, "bis": 58, "typ": "at",
+      "referenz": "Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Die Ratsversammlung gegen den Gesalbten erinnert an Ps 2,2, doch der Text setzt keinen sprachlichen Marker. Ps 2 ist bereits bei Mt 3,17 aktiv annotiert."
+    },
+    {
+      "vers_von": 6, "von": 42, "vers_bis": 6, "bis": 76, "typ": "at",
+      "referenz": "3. Mo 13,45-46", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose13,45",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Das Reinheitsrecht zum Aussatz ist bereits bei Mt 8,2-4 behandelt; »einstmals« zeigt zudem an, dass die Absonderungsvorschrift für Simon nicht mehr gilt."
+    },
+    {
+      "vers_von": 7, "von": 80, "vers_bis": 7, "bis": 105, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 10,1", "url": "https://www.bibleserver.com/MENG/1.Samuel10,1" },
+        { "label": "2. Kö 9,6", "url": "https://www.bibleserver.com/MENG/2.Koenige9,6" }
+      ],
+      "begruendung": "Öl über das Haupt zu gießen ist die Geste der Königseinsetzung: So salbt Samuel den Saul, so wird Jehu zum König gesalbt. »Christus« heißt genau das — »der Gesalbte«. Die Handlung der Frau ist damit mehr als ein Zeichen der Verehrung; sie ist der einzige Salbungsakt, den dieses Evangelium erzählt. Jesus deutet ihn in V12 auf sein Begräbnis um."
+    },
+    { "vers_von": 10, "von": 40, "vers_bis": 13, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 41, "typ": "at",
+      "referenz": "5. Mo 15,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose15,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Satz greift 5. Mo 15,11 auf: »Denn Arme werden niemals ganz aus dem Lande verschwinden.« Dort begründet er das Gebot, dem Bedürftigen die Hand weit zu öffnen — er ist keine Resignation. Die Antwort wertet damit nicht die Armenfürsorge ab: Für sie bleibt jeder Tag, für die Salbung nur dieser eine."
+    },
+    { "vers_von": 15, "von": 96, "vers_bis": 15, "bis": 116, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 11,12", "url": "https://www.bibleserver.com/MENG/Sacharja11,12" },
+        { "label": "2. Mo 21,32", "url": "https://www.bibleserver.com/MENG/2.Mose21,32" }
+      ],
+      "begruendung": "In Sach 11,12 wird dem verworfenen Hirten sein Lohn mit dreißig Silberstücken ausgezahlt — ein Betrag, den Gott dort als Hohn zurückweisen lässt. Nach 2. Mo 21,32 sind dreißig Silberschekel zugleich der Ersatz für einen getöteten Sklaven. Die Summe benennt also nicht einfach einen Preis, sondern den Preis eines Sklavenlebens."
+    },
+    {
+      "vers_von": 17, "von": 0, "vers_bis": 17, "bis": 37, "typ": "at",
+      "referenz": "2. Mo 12,15-20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Fest der ungesäuerten Brote schloss sich unmittelbar an das Passah an: sieben Tage lang durfte kein Sauerteig im Haus sein, davor wurde jeder Rest Gesäuertes entfernt. Erinnert wurde an den überstürzten Aufbruch aus Ägypten, bei dem der Teig keine Zeit zum Gehen hatte. Die Tagesangabe markiert den Beginn der Festwoche."
+    },
+    { "vers_von": 18, "von": 15, "vers_bis": 18, "bis": -1, "typ": "jesus" },
+    { "vers_von": 21, "von": 33, "vers_bis": 21, "bis": -1, "typ": "jesus" },
+    { "vers_von": 23, "von": 15, "vers_bis": 24, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 23, "von": 16, "vers_bis": 23, "bis": 74, "typ": "at",
+      "referenz": "Ps 41,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm41,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 41,10 klagt: »Sogar mein Freund, dem ich vertraute, der mein Brot aß, hat die Ferse gegen mich erhoben.« Aus einer Schüssel zu essen war Ausdruck engster Tischgemeinschaft und damit einer Schutzverpflichtung. Die Formulierung benennt den Verrat als Bruch dieser Gemeinschaft."
+    },
+    {
+      "vers_von": 24, "von": 0, "vers_bis": 24, "bis": 67, "typ": "at",
+      "referenz": "Jes 53", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Der Text verweist pauschal auf »die Schrift«, ohne eine bestimmte Stelle zu zitieren — ebenso die Erfüllungsformeln in V54 (»die Aussprüche der Schrift«) und V56 (»die Schriften der Propheten«). Das Motiv des leidenden Gerechten aus Jes 53 ist bereits bei Mt 8,17 und Mt 20,28 aktiv annotiert; die konkreten Schriftbezüge dieses Kapitels stehen bei V31, V62, V64 und V67."
+    },
+    { "vers_von": 25, "von": 116, "vers_bis": 25, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 26, "von": 45, "vers_bis": 26, "bis": 73, "typ": "at",
+      "referenz": "5. Mo 8,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose8,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Der Tischsegen nach 5. Mo 8,10 ist bereits bei Mt 14,19 und Mt 15,36 als bekanntes Motiv vermerkt worden. Er gehört zum selbstverständlichen Ablauf jeder Mahlzeit und trägt an dieser Stelle keine eigene Pointe."
+    },
+    { "vers_von": 26, "von": 129, "vers_bis": 26, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 26, "von": 144, "vers_bis": 26, "bis": 162, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 12,26-27", "url": "https://www.bibleserver.com/MENG/2.Mose12,26" },
+        { "label": "5. Mo 16,3", "url": "https://www.bibleserver.com/MENG/5.Mose16,3" }
+      ],
+      "begruendung": "Zum Passahmahl gehörte die Deutung der Speisen durch den Hausvater: Nach 2. Mo 12,26-27 erklärt er den Kindern »Es ist das Passahopfer für den HERRN«, und 5. Mo 16,3 nennt das ungesäuerte Brot »Brot des Elends«. »Dies ist mein Leib« hat genau die Form eines solchen Deutewortes — nur bezogen auf den Sprechenden selbst."
+    },
+    { "vers_von": 27, "von": 82, "vers_bis": 29, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 28, "von": 25, "vers_bis": 28, "bis": 52, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 24,8", "url": "https://www.bibleserver.com/MENG/2.Mose24,8" },
+        { "label": "Jer 31,31-34", "url": "https://www.bibleserver.com/MENG/Jeremia31,31" },
+        { "label": "Sach 9,11", "url": "https://www.bibleserver.com/MENG/Sacharja9,11" }
+      ],
+      "begruendung": "Am Sinai besprengte Mose das Volk mit Opferblut: »Dies ist das Blut des Bundes, den der HERR mit euch geschlossen hat« (2. Mo 24,8) — ein Bund wurde durch Blut rechtskräftig. Jer 31,31-34 verheißt darüber hinaus einen »neuen Bund«, bei dem Gott die Sünde nicht mehr anrechnet; nach Sach 9,11 kommen um des Bundesblutes willen die Gefangenen frei."
+    },
+    {
+      "vers_von": 28, "von": 54, "vers_bis": 28, "bis": 107, "typ": "at",
+      "referenz": "Jes 53,11-12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Das »für viele« aus dem vierten Gottesknechtslied ist bereits bei Mt 20,28 (Jes 53,10-12) aktiv annotiert. Der Bezug ist derselbe; eine zweite Darstellung wäre Wiederholung."
+    },
+    {
+      "vers_von": 29, "von": 138, "vers_bis": 29, "bis": 179, "typ": "at",
+      "referenz": "Jes 25,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja25,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Das eschatologische Freudenmahl mit »abgeklärten Weinen« aus Jes 25,6 ist bereits bei Mt 8,11 aktiv annotiert und bei Mt 22,2 sowie Mt 25,21 als Wiederholung vermerkt."
+    },
+    {
+      "vers_von": 30, "von": 17, "vers_bis": 30, "bis": 58, "typ": "at",
+      "referenz": "Ps 115-118", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm115",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der »Lobpreis« ist das Hallel, eine feste Psalmenfolge des Passahmahls: Ps 113–114 vor dem Mahl, Ps 115–118 zum Abschluss — kein spontanes Lied, sondern vorgeschriebene Liturgie. Ps 118 endet mit dem Dank dessen, der dem Tod entrissen wurde, und mit dem Ruf »Gepriesen sei, der da kommt im Namen des HERRN« — dem Vers, mit dem die Menge Jesus beim Einzug in Jerusalem begrüßt hatte (Mt 21,9)."
+    },
+    { "vers_von": 31, "von": 28, "vers_bis": 32, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 31, "von": 110, "vers_bis": 31, "bis": -1, "typ": "at",
+      "referenz": "Sach 13,7", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Sacharja13,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ausdrückliches Zitat, im Text durch »es steht geschrieben« eingeleitet. Bei Sacharja ergeht der Befehl an das Schwert, den Hirten zu schlagen, damit die Herde sich zerstreut — und aus dem Rest wird ein geläutertes Volk. Das Zitat ordnet die bevorstehende Flucht der Jünger nicht dem Versagen zu, sondern einem angekündigten Geschehen."
+    },
+    { "vers_von": 34, "von": 21, "vers_bis": 34, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 36, "von": 28, "vers_bis": 36, "bis": 58, "typ": "at",
+      "referenz": "2. Sam 15,30-31", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel15,30",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: David steigt weinend den Ölberg hinauf, verraten von seinem Ratgeber Ahitophel (2. Sam 15,30-31) — eine typologisch reizvolle Parallele. Der Text stellt sie jedoch nicht her: weder der Kidron noch eine Davidsanspielung wird genannt. Der Bezug entsteht erst durch Zusammenlesen."
+    },
+    { "vers_von": 36, "von": 85, "vers_bis": 36, "bis": -1, "typ": "jesus" },
+    { "vers_von": 38, "von": 22, "vers_bis": 38, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 38, "von": 23, "vers_bis": 38, "bis": 63, "typ": "at",
+      "referenz": "Ps 42,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm42,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Wendung greift den Kehrvers von Ps 42–43 auf: »Was betrübst du dich, meine Seele, und stürmst so in mir?« (Ps 42,6.12; 43,5). Dessen Beter ist fern vom Heiligtum, von Feinden verspottet, ringt mit Gott — und hält doch an ihm fest. Das ist die Sprache des klagenden Gerechten, nicht bloß eine Gefühlsäußerung."
+    },
+    {
+      "vers_von": 38, "von": 51, "vers_bis": 38, "bis": 63, "typ": "at",
+      "referenz": "Jona 4,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jona4,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Die Wendung »bis zum Tode« hat in Jona 4,9 eine Entsprechung, dort aber im Sinn von Zorn, nicht von Betrübnis. Der Anklang besteht nur im griechischen Text und ist in der deutschen Wiedergabe nicht erkennbar. Ps 42,6 ist die tragfähige Stelle und ist gesetzt."
+    },
+    { "vers_von": 39, "von": 112, "vers_bis": 39, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 39, "von": 146, "vers_bis": 39, "bis": 186, "typ": "at",
+      "referenz": "Jes 51,17-22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja51,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Der »Kelch« als Bild für das von Gott zugemessene Gerichtsgeschick (Jes 51,17-22) ist bereits bei Mt 20,22 aktiv annotiert. Hier liegt dieselbe Bildwelt vor, nun in der Gebetssituation."
+    },
+    { "vers_von": 40, "von": 82, "vers_bis": 41, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 41, "von": 58, "vers_bis": 41, "bis": 108, "typ": "at",
+      "referenz": "Jes 31,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja31,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Die Gegenüberstellung von »Geist« und »Fleisch« hat in Jes 31,3 zwar eine Entsprechung (»die Ägypter sind Menschen und nicht Gott, ihre Rosse sind Fleisch und nicht Geist«), doch dort geht es um die Ohnmacht menschlicher Militärmacht gegenüber Gott, nicht um die Schwäche des Beters. Der Satz ist sprichwörtlich, nicht zitierend — kein tragfähiger Textbezug."
+    },
+    { "vers_von": 42, "von": 63, "vers_bis": 42, "bis": -1, "typ": "jesus" },
+    { "vers_von": 45, "von": 60, "vers_bis": 46, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 48, "von": 68, "vers_bis": 48, "bis": 105, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Sam 20,9-10", "url": "https://www.bibleserver.com/MENG/2.Samuel20,9" },
+        { "label": "Spr 27,6", "url": "https://www.bibleserver.com/MENG/Sprueche27,6" }
+      ],
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Joab fasst Amasa zum Kuss am Bart und ersticht ihn dabei (2. Sam 20,9-10); Spr 27,6 spricht von den »reichlichen Küssen des Hassers«. Die Parallele ist szenisch, nicht sprachlich — und der Verräterkuss erschließt sich einem heutigen Leser ohne Zusatzwissen."
+    },
+    { "vers_von": 50, "von": 25, "vers_bis": 50, "bis": 69, "typ": "jesus" },
+    { "vers_von": 52, "von": 23, "vers_bis": 54, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 52, "von": 66, "vers_bis": 52, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 9,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose9,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Satz formuliert den Grundsatz des Noahbundes: »Wer Menschenblut vergießt, dessen Blut soll auch durch Menschen vergossen werden« (1. Mo 9,6) — eine Regel, die nach jüdischem Verständnis für die ganze Menschheit galt, nicht erst seit dem Sinai. Das Schwert des Jüngers greift damit nach einem Kreislauf, den Gott selbst begrenzt hat."
+    },
+    {
+      "vers_von": 53, "von": 86, "vers_bis": 53, "bis": 131, "typ": "at",
+      "referenz": "2. Kö 6,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige6,17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Als Elisa in Dothan von einem feindlichen Heer umstellt ist, betet er, seinem verzagten Diener mögen die Augen geöffnet werden — und dieser sieht den Berg voll feuriger Rosse und Wagen rings um Elisa. Das himmlische Heer, das auf Gottes Wort hin eingreift, war eine geläufige Vorstellung. Der Verzicht darauf ist keine Ohnmacht, sondern eine offen benannte Entscheidung."
+    },
+    { "vers_von": 55, "von": 43, "vers_bis": 56, "bis": 81, "typ": "jesus" },
+    {
+      "vers_von": 60, "von": 23, "vers_bis": 60, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 19,15", "url": "https://www.bibleserver.com/MENG/5.Mose19,15" },
+        { "label": "Ps 27,12", "url": "https://www.bibleserver.com/MENG/Psalm27,12" }
+      ],
+      "begruendung": "Nach 5. Mo 19,15 kann niemand auf die Aussage eines einzigen Zeugen hin verurteilt werden — erst zwei oder drei machen eine Sache rechtsgültig. Dass ausgerechnet »zwei« Falschzeugen auftreten, erfüllt die Form des Gesetzes und höhlt sie zugleich aus; nach 5. Mo 19,16-19 hätte falsche Zeugen selbst die Strafe des Angeklagten getroffen. Ps 27,12 gibt dazu die Gebetssprache: »Es sind falsche Zeugen gegen mich aufgetreten.«"
+    },
+    {
+      "vers_von": 61, "von": 46, "vers_bis": 61, "bis": 123, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 6,12-13", "url": "https://www.bibleserver.com/MENG/Sacharja6,12" },
+        { "label": "2. Sam 7,13", "url": "https://www.bibleserver.com/MENG/2.Samuel7,13" }
+      ],
+      "begruendung": "Den Tempel zu bauen war Aufgabe des von Gott eingesetzten Königs: Nach 2. Sam 7,13 soll der Davidsnachkomme dem Namen Gottes ein Haus bauen, Sach 6,12-13 kündigt den »Sproß« an, der den Tempel des HERRN baut und als Priesterkönig auf dem Thron sitzt. Die unterstellte Äußerung ist deshalb mehr als Tempelfrevel — sie klingt wie ein messianischer Anspruch, und genau das macht sie vor dem Hohen Rat verwertbar."
+    },
+    {
+      "vers_von": 62, "von": 116, "vers_bis": 62, "bis": -1, "typ": "at",
+      "referenz": "Jes 53,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vom Gottesknecht heißt es in Jes 53,7: »Er wurde mißhandelt, doch er beugte sich und tat seinen Mund nicht auf, wie ein Lamm, das zur Schlachtung geführt wird.« Vor Gericht war Schweigen keine Klugheit, sondern Preisgabe der eigenen Verteidigung."
+    },
+    {
+      "vers_von": 63, "von": 34, "vers_bis": 63, "bis": 77, "typ": "at",
+      "referenz": "3. Mo 5,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose5,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Beschwörungsformel ist ein Rechtsakt: Nach 3. Mo 5,1 lädt Schuld auf sich, wer eine förmliche Beschwörung hört und dennoch schweigt, obwohl er aussagen könnte. Der Hohepriester zwingt Jesus damit aus dem Schweigen von V62 heraus — weitere Verweigerung wäre nun selbst eine Verfehlung gewesen."
+    },
+    {
+      "vers_von": 63, "von": 89, "vers_bis": 63, "bis": -1, "typ": "at",
+      "referenz": "Ps 2,2.7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Die Verbindung von »Gesalbtem« und »Sohn« stammt aus dem Königspsalm Ps 2,2.7 und ist bereits bei Mt 3,17 aktiv annotiert; sie wurde seither mehrfach als Wiederholung vermerkt."
+    },
+    { "vers_von": 64, "von": 30, "vers_bis": 64, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 64, "von": 30, "vers_bis": 64, "bis": 46, "typ": "at",
+      "referenz": "2. Mo 3,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Menges »Ja, ich bin es!« legt einen Anklang an die Gottesnamen-Offenbarung von 2. Mo 3,14 nahe. Im griechischen Text steht hier jedoch die Bestätigungsformel »du hast es gesagt«, nicht das theophane »ich bin«. Der Bezug trägt an dieser Stelle nicht."
+    },
+    {
+      "vers_von": 64, "von": 84, "vers_bis": 64, "bis": 184, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": false,
+      "urls": [
+        { "label": "Dan 7,13", "url": "https://www.bibleserver.com/MENG/Daniel7,13" },
+        { "label": "Ps 110,1", "url": "https://www.bibleserver.com/MENG/Psalm110,1" }
+      ],
+      "begruendung": "Ps 110,1 lässt Gott zum König sagen: »Setze dich zu meiner Rechten«; Dan 7,13 sieht »einen wie eines Menschen Sohn« mit den Wolken des Himmels kommen und Herrschaft empfangen. Beide Bilder in einem Satz zu verbinden heißt, sich den Platz an Gottes Thron und die Wolkenherrschaft Daniels zuzusprechen — für den Hohen Rat der Punkt, an dem das Verfahren entschieden ist."
+    },
+    {
+      "vers_von": 65, "von": 0, "vers_bis": 65, "bis": 40, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Kö 18,37", "url": "https://www.bibleserver.com/MENG/2.Koenige18,37" },
+        { "label": "3. Mo 21,10", "url": "https://www.bibleserver.com/MENG/3.Mose21,10" }
+      ],
+      "begruendung": "Das Zerreißen der Kleider ist die vorgeschriebene Reaktion auf gehörte Gotteslästerung — so kommen Hiskias Beamte nach den Schmähreden des Rabsake zum König (2. Kö 18,37). Zugleich untersagt 3. Mo 21,10 dem Hohenpriester ausdrücklich, seine Kleider zu zerreißen. Die Geste ist damit doppeldeutig: rituell korrekt als Lästerungsanzeige, für das Amt selbst grenzwertig."
+    },
+    {
+      "vers_von": 65, "von": 52, "vers_bis": 65, "bis": 75, "typ": "at",
+      "referenz": "3. Mo 24,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose24,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Gotteslästerung« ist kein allgemeiner Vorwurf, sondern ein Straftatbestand: Nach 3. Mo 24,16 muss sterben, wer den Namen des HERRN lästert — die ganze Gemeinde soll ihn steinigen. Das Todesurteil des folgenden Verses ist damit juristisch vorgezeichnet."
+    },
+    {
+      "vers_von": 67, "von": 0, "vers_bis": 67, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 50,6", "url": "https://www.bibleserver.com/MENG/Jesaja50,6" },
+        { "label": "Mi 4,14", "url": "https://www.bibleserver.com/MENG/Micha4,14" }
+      ],
+      "begruendung": "Jes 50,6 beschreibt den Gottesknecht mit genau diesen Handlungen: »Meinen Rücken bot ich denen dar, die mich schlugen, ... mein Angesicht verbarg ich nicht vor Beschimpfungen und Speichel.« Mi 4,14 klagt, dass man »den Richter Israels mit dem Stabe auf die Wange schlägt«. Anspeien galt als äußerste Entehrung — die Szene schildert nicht bloße Rohheit, sondern vorgezeichnete Schmähung."
+    },
+    { "vers_von": 75, "von": 57, "vers_bis": 75, "bis": 117, "typ": "jesus" },
+    {
+      "vers_von": 75, "von": 141, "vers_bis": 75, "bis": 158, "typ": "at",
+      "referenz": "Jes 33,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja33,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geprüft, bewusst nicht dargestellt: Der Gleichklang mit Jes 33,7 besteht nur im griechischen Text; in der deutschen Wiedergabe ist kein Bezug erkennbar."
+    }
+  ]
+}

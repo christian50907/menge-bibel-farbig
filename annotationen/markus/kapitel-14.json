@@ -109,7 +109,7 @@
       "url": "https://www.bibleserver.com/MENG/Psalm41,10",
       "autor": "KI",
       "status": "aktiv",
-      "begruendung": "Einer, der hier mit mir ißt — Echo von Ps 41,10: »der meinen Brotlaib aß, hat die Ferse gegen mich erhoben.« Im 1. Jahrhundert kannte jeder fromme Jude diesen Psalm als Klage über den Verrat eines Tischgenossen. Die Menge-Bibel verweist in einer Fußnote ausdrücklich auf diese Stelle."
+      "begruendung": "Einer, der hier mit mir ißt — Echo von Ps 41,10: »der meinen Brotlaib aß, hat die Ferse gegen mich erhoben.« Im 1. Jahrhundert kannte jeder fromme Jude diesen Psalm als Klage über den Verrat eines Tischgenossen."
     },
     {
       "vers_von": 20,
@@ -145,7 +145,7 @@
         { "label": "2. Mo 24,8", "url": "https://www.bibleserver.com/MENG/2.Mose24,8" },
         { "label": "Sach 9,11", "url": "https://www.bibleserver.com/MENG/Sacharja9,11" }
       ],
-      "begruendung": "Das Bundesblut — in 2. Mo 24,8 besprengt Mose das Volk mit dem Blut des Bundesopfers (»Dies ist das Blut des Bundes«), und Sach 9,11 spricht vom »Blut deines Bundes« als Grundlage der Befreiung. Die Menge-Bibel verweist in einer Fußnote auf beide Stellen. Jesus nimmt diese Bundesformel auf und deutet den Kelch als Stiftung des neuen Bundesbluts."
+      "begruendung": "Das Bundesblut — in 2. Mo 24,8 besprengt Mose das Volk mit dem Blut des Bundesopfers (»Dies ist das Blut des Bundes«), und Sach 9,11 spricht vom »Blut deines Bundes« als Grundlage der Befreiung. Jesus nimmt diese Bundesformel auf und deutet den Kelch als Stiftung des neuen Bundesbluts."
     },
     {
       "vers_von": 26,
@@ -154,11 +154,11 @@
       "bis": 42,
       "typ": "at",
       "referenz": "Ps 115-118",
-      "vgl": false,
+      "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm115",
       "autor": "KI",
-      "status": "inaktiv",
-      "begruendung": "Das Passa-Hallel (Ps 115–118) — fester Abschluss des Passahmahlrituals. Kein Textzitat; die Menge-Bibel nennt die Psalmen nur in Klammern als liturgische Erläuterung. Kein load-bearing AT-Bezug, der über den bereits bekannten Passah-Kontext hinausgeht."
+      "status": "aktiv",
+      "begruendung": "Der »Lobpreis« ist das Hallel, eine feste Psalmenfolge des Passahmahls: Ps 113–114 vor dem Mahl, Ps 115–118 zum Abschluss — kein spontanes Lied, sondern vorgeschriebene Liturgie. Ps 118 endet mit dem Dank dessen, der dem Tod entrissen wurde, und mit dem Ruf »Gepriesen sei, der da kommt im Namen des HERRN« — dem Vers, mit dem die Menge Jesus beim Einzug in Jerusalem begrüßt hatte (Mk 11,9)."
     },
     {
       "vers_von": 27,
@@ -303,7 +303,7 @@
         { "label": "Ps 110,1", "url": "https://www.bibleserver.com/MENG/Psalm110,1" },
         { "label": "Dan 7,13", "url": "https://www.bibleserver.com/MENG/Daniel7,13" }
       ],
-      "begruendung": "Jesus kombiniert zwei messianische Schlüsseltexte: Ps 110,1 (»Setze dich zu meiner Rechten«) und Dan 7,13 (»mit den Wolken des Himmels kam einer wie ein Menschensohn«). Genau diese Kombination — Erhöhung zur Rechten Gottes und apokalyptische Weltherrschaft — ist der eigentliche Auslöser des Todesurteils. Die Menge-Bibel verweist in einer Fußnote auf beide Stellen."
+      "begruendung": "Jesus kombiniert zwei messianische Schlüsseltexte: Ps 110,1 (»Setze dich zu meiner Rechten«) und Dan 7,13 (»mit den Wolken des Himmels kam einer wie ein Menschensohn«). Genau diese Kombination — Erhöhung zur Rechten Gottes und apokalyptische Weltherrschaft — ist der eigentliche Auslöser des Todesurteils."
     },
     {
       "vers_von": 64, "von": 9, "vers_bis": 64, "bis": 28, "typ": "at",
