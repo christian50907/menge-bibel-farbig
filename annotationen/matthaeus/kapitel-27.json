@@ -1,0 +1,565 @@
+{
+  "titel": "Ende des Judas · Verhör vor Pilatus · Verspottung durch die Soldaten · Kreuzigung und Tod · Grablegung und Grabwache",
+  "markierungen": [
+    {
+      "vers_von": 4,
+      "von": 49,
+      "vers_bis": 4,
+      "bis": 66,
+      "typ": "at",
+      "referenz": "5. Mo 27,25",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 27,25", "url": "https://www.bibleserver.com/MENG/5.Mose27,25" },
+        { "label": "Jer 26,15", "url": "https://www.bibleserver.com/MENG/Jeremia26,15" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Unschuldiges Blut« ist ein feststehender Rechtsbegriff, kein Ausdruck des Bedauerns. Unter den Flüchen am Sinai steht: »Verflucht sei, wer sich durch Bestechung dazu bringen läßt, jemand zu erschlagen, unschuldiges Blut zu vergießen!« (5. Mo 27,25). Judas benennt damit genau den Tatbestand, den das Gesetz mit dem Fluch belegt — Geld für ein Todesurteil."
+    },
+    {
+      "vers_von": 5,
+      "von": 61,
+      "vers_bis": 5,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Sam 17,23",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel17,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ahithophel, Davids engster Ratgeber, lief zu dessen aufständischem Sohn Absalom über; als sein Rat verworfen wurde, ritt er heim, bestellte sein Haus und erhängte sich. Es ist der einzige Selbstmord durch Erhängen im Alten Testament und der klassische Fall des Vertrauten, der den Gesalbten verrät — aus derselben Erzählung stammt der Verratspsalm Ps 41,10 (zu Mt 26,23)."
+    },
+    {
+      "vers_von": 6,
+      "von": 81,
+      "vers_bis": 6,
+      "bis": 126,
+      "typ": "at",
+      "referenz": "5. Mo 23,18-19",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose23,18",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Dirnenlohn und Hundegeld dürfen nicht in das Haus des HERRN gebracht werden — beides gilt als Greuel (5. Mo 23,18-19). Die Hohenpriester wenden diese Reinheitsvorschrift auf das zurückgegebene Geld an: Der Tempelschatz muss geschützt werden, woher die Verunreinigung stammt, wird nicht gefragt."
+    },
+    {
+      "vers_von": 7,
+      "von": 76,
+      "vers_bis": 7,
+      "bis": 124,
+      "typ": "at",
+      "referenz": "Jer 19,1-13",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 19,1-13", "url": "https://www.bibleserver.com/MENG/Jeremia19,1" },
+        { "label": "Jer 32,6-9", "url": "https://www.bibleserver.com/MENG/Jeremia32,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jeremia kauft beim Töpfer einen Krug, geht damit in das Tal Ben-Hinnom und kündigt an, es werde »Würgetal« heißen: »und im Thopheth wird man begraben, weil sonst kein Platz mehr zum Begraben vorhanden ist« (Jer 19). In Jer 32 kauft er einen Acker und wägt das Silber dar. Das erklärt, warum V9 den Namen Jeremia nennt, obwohl der Wortlaut des Zitats aus Sacharja stammt."
+    },
+    {
+      "vers_von": 9,
+      "von": 0,
+      "vers_bis": 10,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Sach 11,12-13",
+      "vgl": false,
+      "urls": [
+        { "label": "Sach 11,12-13", "url": "https://www.bibleserver.com/MENG/Sacharja11,12" },
+        { "label": "Jer 32,6-9", "url": "https://www.bibleserver.com/MENG/Jeremia32,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Sacharja lässt sich der von seiner Herde verworfene Hirte auslöhnen und erhält dreißig Silberstücke — »den kostbaren Preis, dessen ich von ihnen wert geachtet worden bin« (Sach 11,13). Dreißig Silberstücke sind nach 2. Mo 21,32 der Ersatzwert für einen getöteten Sklaven (zu Mt 26,15). Das hebräische Wort für den Empfänger des Geldes kann »Töpfer« oder »Schatz« bedeuten; Menge übersetzt »Tempelschatz«, das Zitat hier folgt der Töpfer-Lesart — sie verbindet Sacharja mit dem Töpferacker und mit Jeremia, den die Erfüllungsformel nennt."
+    },
+    {
+      "vers_von": 11,
+      "von": 134,
+      "vers_bis": 11,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 12,
+      "von": 69,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 53,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Das Schweigen vor Gericht ist zu Mt 26,62 mit Jes 53,7 annotiert. Hier vor Pilatus setzt sich dasselbe Motiv fort."
+    },
+    {
+      "vers_von": 19,
+      "von": 90,
+      "vers_bis": 19,
+      "bis": 138,
+      "typ": "at",
+      "referenz": "Jes 53,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Dieser Gerechte« klingt nach dem leidenden Gerechten der Psalmen und nach Jes 53,11, war aber im jüdischen Sprachgebrauch so verbreitet, dass ein damaliger Leser dabei nicht an eine bestimmte Stelle dachte. Der Traum als Weg göttlicher Mitteilung wurde bereits zu Mt 2,13 erwogen und nicht annotiert."
+    },
+    {
+      "vers_von": 21,
+      "von": 0,
+      "vers_bis": 21,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "3. Mo 16,7-10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zwei Männer, einer freigelassen, einer schuldbeladen — die Parallele zum Losverfahren über die beiden Ziegenböcke am Versöhnungstag (3. Mo 16,7-10) liegt nahe. Der Text stellt aber keinen sprachlichen Bezug her: kein Los, kein Sündenbekenntnis, keine Anspielung auf den Versöhnungstag. Evokative Parallele ohne Textanker."
+    },
+    {
+      "vers_von": 24,
+      "von": 87,
+      "vers_bis": 24,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 21,6-9",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 21,6-9", "url": "https://www.bibleserver.com/MENG/5.Mose21,6" },
+        { "label": "Ps 26,6", "url": "https://www.bibleserver.com/MENG/Psalm26,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein Rechtsritual: Wird ein Erschlagener gefunden und der Täter ist unbekannt, waschen die Ältesten der nächsten Stadt ihre Hände über einem eigens getöteten Tier und sprechen: »Unsere Hände haben dieses Blut nicht vergossen« — »dann wird die Blutschuld für sie gesühnt sein« (5. Mo 21,6-9). Ps 26,6 gebraucht dieselbe Geste im Gebet. Pilatus vollzieht damit einen israelitischen Entsühnungsakt."
+    },
+    {
+      "vers_von": 25,
+      "von": 44,
+      "vers_bis": 25,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Sam 1,16",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Sam 1,16", "url": "https://www.bibleserver.com/MENG/2.Samuel1,16" },
+        { "label": "Jos 2,19", "url": "https://www.bibleserver.com/MENG/Josua2,19" },
+        { "label": "Hes 33,4-5", "url": "https://www.bibleserver.com/MENG/Hesekiel33,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Dein Blut komme über dein Haupt!« — mit dieser Formel spricht David dem Amalekiter das Todesurteil, der Sauls Tod eingestanden hat (2. Sam 1,16). Sie weist die Haftung dem zu, der sie durch sein eigenes Wort auf sich nimmt; dieselbe Rechtsfigur steht hinter Jos 2,19 und hinter dem Wächteramt Hesekiels (Hes 33,4-5). Der Ruf übernimmt damit ausdrücklich die Haftung, die Pilatus im Vers zuvor von sich abgewälzt hat."
+    },
+    {
+      "vers_von": 26,
+      "von": 53,
+      "vers_bis": 26,
+      "bis": 68,
+      "typ": "at",
+      "referenz": "Jes 53,5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Geißelung ist der Vorgang, bei dem entsteht, wovon Jes 53,5 spricht: »die Strafe war auf ihn gelegt zu unserm Frieden, und durch seine Striemen ist uns Heilung zuteil geworden«. Striemen sind genau das, was eine Geißelung hinterlässt. Weitere Verse desselben Gottesknechtsliedes sind bereits annotiert: Jes 53,4 zu Mt 8,17, 53,7 zu Mt 26,62, 53,10-12 zu Mt 20,28."
+    },
+    {
+      "vers_von": 29,
+      "von": 0,
+      "vers_bis": 29,
+      "bis": 30,
+      "typ": "at",
+      "referenz": "1. Mo 3,18",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose3,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dornen als Zeichen des verfluchten Ackerbodens (1. Mo 3,18) sind eine naheliegende Assoziation, aber der Text greift sie sprachlich nicht auf. Die Dornenkrone ist im Zusammenhang der Szene die Parodie eines Herrscherkranzes, nicht ein Verweis auf den Sündenfall."
+    },
+    {
+      "vers_von": 30,
+      "von": 0,
+      "vers_bis": 30,
+      "bis": 21,
+      "typ": "at",
+      "referenz": "Jes 50,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja50,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Das Anspeien und Schlagen ist zu Mt 26,67 mit Jes 50,6 annotiert. Hier wiederholen die römischen Soldaten, was zuvor im Hohen Rat geschah."
+    },
+    {
+      "vers_von": 32,
+      "von": 92,
+      "vers_bis": 32,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "1. Mo 22,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose22,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Isaak trägt das Holz für sein eigenes Brandopfer den Berg hinauf (1. Mo 22,6) — in der jüdischen Auslegung der Aqedah ein zentrales Bild. Der Text stellt jedoch keinen sprachlichen Bezug her, und das Kreuz trägt hier gerade nicht Jesus, sondern der herbeigezwungene Simon."
+    },
+    {
+      "vers_von": 34,
+      "von": 31,
+      "vers_bis": 34,
+      "bis": 58,
+      "typ": "at",
+      "referenz": "Ps 69,22",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm69,22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 69 ist neben Ps 22 der große Klagepsalm des zu Unrecht Verfolgten: »sie haben mir Gift in die Speise getan und Essig mich trinken lassen für meinen Durst« (Ps 69,22). Beide Züge werden hier der Reihe nach aufgenommen — der vergiftete Trank vor der Kreuzigung, der Essig in V48."
+    },
+    {
+      "vers_von": 35,
+      "von": 89,
+      "vers_bis": 35,
+      "bis": 120,
+      "typ": "at",
+      "referenz": "Ps 22,19",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,19",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Sie teilen meine Kleider unter sich und werfen das Los um mein Gewand« (Ps 22,19). Nach römischem Brauch fiel die Kleidung des Hingerichteten an das Exekutionskommando — die letzte Enteignung. Mit diesem Vers beginnt die Reihe von Ps-22-Bezügen, die die ganze Szene durchzieht (V39, V43, V46)."
+    },
+    {
+      "vers_von": 37,
+      "von": 102,
+      "vers_bis": 37,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 2,2",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 2,2", "url": "https://www.bibleserver.com/MENG/Psalm2,2" },
+        { "label": "Ps 2,6", "url": "https://www.bibleserver.com/MENG/Psalm2,6" }
+      ],
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "Die Tafel nennt den Hinrichtungsgrund in römischer Rechtsform: Anspruch auf ein Königtum. Ps 2 beschreibt genau diese Konstellation — »Die Könige der Erde rotten sich zusammen, und die Fürsten halten Rat miteinander gegen den HERRN und den von ihm Gesalbten« (Ps 2,2) —, während Gott dem entgegenhält: »Habe ich doch meinen König eingesetzt auf dem Zion, meinem heiligen Berge!« (Ps 2,6). Was hier als Schuldangabe über dem Kopf hängt, ist der Titel, den der Psalm dem Gesalbten zuspricht."
+    },
+    {
+      "vers_von": 38,
+      "von": 0,
+      "vers_bis": 38,
+      "bis": 44,
+      "typ": "at",
+      "referenz": "Jes 53,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 53,12 beschließt das vierte Gottesknechtslied: »daß er sein Leben in den Tod hingegeben hat und unter die Übeltäter gezählt worden ist«. Die Hinrichtung zwischen zwei Räubern ordnet den Gekreuzigten für jeden Zuschauer äußerlich dieser Gruppe zu."
+    },
+    {
+      "vers_von": 39,
+      "von": 40,
+      "vers_bis": 39,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 22,8",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 22,8", "url": "https://www.bibleserver.com/MENG/Psalm22,8" },
+        { "label": "Ps 109,25", "url": "https://www.bibleserver.com/MENG/Psalm109,25" },
+        { "label": "Klgl 2,15", "url": "https://www.bibleserver.com/MENG/Klagelieder2,15" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Kopfschütteln ist die feststehende Gebärde, mit der man einem Leidenden bedeutet, sein Unglück sei verdient: »alle, die mich sehen, spotten mein, reißen den Mund auf, schütteln den Kopf« (Ps 22,8; ebenso Ps 109,25). Klgl 2,15 verbindet beide Züge des Verses — »alle, die des Weges vorüberziehen … schütteln den Kopf über die Tochter Jerusalem« — und steht dort im Blick auf den zerstörten Tempel, wovon die Spötter im nächsten Vers reden."
+    },
+    {
+      "vers_von": 40,
+      "von": 16,
+      "vers_bis": 40,
+      "bis": 90,
+      "typ": "at",
+      "referenz": "Sach 6,12-13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja6,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Das Tempelwort und sein Hintergrund — der Messias baut den Tempel des HERRN (Sach 6,12-13; 2. Sam 7,13) — sind zu Mt 26,61 annotiert, wo dieselbe Aussage als Anklage vorgetragen wird."
+    },
+    {
+      "vers_von": 40,
+      "von": 112,
+      "vers_bis": 40,
+      "bis": 136,
+      "typ": "at",
+      "referenz": "2. Sam 7,14",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Sam 7,14", "url": "https://www.bibleserver.com/MENG/2.Samuel7,14" },
+        { "label": "Ps 2,6-7", "url": "https://www.bibleserver.com/MENG/Psalm2,6" }
+      ],
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "»Gottes Sohn« ist zuerst ein Königstitel, keine Aussage über Jesu Wesen: In der Nathan-Weissagung sagt Gott über den Nachkommen Davids »Ich will ihm Vater sein, und er soll mir Sohn sein« (2. Sam 7,14), und Ps 2 stellt beides unmittelbar nebeneinander — »Habe ich doch meinen König eingesetzt auf dem Zion« (V6), »Mein Sohn bist du« (V7). Deshalb gebrauchen die Spötter »Gottes Sohn« (V40.43) und »König von Israel« (V42) in einem Atemzug: Für sie ist es derselbe Anspruch, und der Kreuzestod widerlegt ihn."
+    },
+    {
+      "vers_von": 43,
+      "von": 0,
+      "vers_bis": 43,
+      "bis": 68,
+      "typ": "at",
+      "referenz": "Ps 22,9",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nahezu wörtlich Ps 22,9: »Er werf’s auf den HERRN: der möge ihn befreien, der möge ihn retten: er hat ja Wohlgefallen an ihm!« Im Psalm ist das der Spott der Umstehenden — die Hohenpriester sprechen hier die Worte, die dort die Feinde des Beters sprechen."
+    },
+    {
+      "vers_von": 43,
+      "von": 69,
+      "vers_bis": 43,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "2. Sam 7,14",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Sam 7,14", "url": "https://www.bibleserver.com/MENG/2.Samuel7,14" },
+        { "label": "Ps 2,7", "url": "https://www.bibleserver.com/MENG/Psalm2,7" }
+      ],
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "Hier schließt sich die Gleichung, die V42 eröffnet hat: »Er ist der König von Israel« — »Ich bin Gottes Sohn«. Nach der Nathan-Weissagung ist der Davidssohn eben dadurch Gottes Sohn, dass Gott ihn als König einsetzt (2. Sam 7,14; Ps 2,6-7). Der Spott macht die Rettung vom Kreuz zur Probe auf den Titel — bleibt sie aus, gilt der Anspruch als widerlegt."
+    },
+    {
+      "vers_von": 45,
+      "von": 0,
+      "vers_bis": 45,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Am 8,9-10",
+      "vgl": true,
+      "urls": [
+        { "label": "Am 8,9-10", "url": "https://www.bibleserver.com/MENG/Amos8,9" },
+        { "label": "2. Mo 10,21-23", "url": "https://www.bibleserver.com/MENG/2.Mose10,21" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Finsternis am hellen Mittag ist ein Gerichtszeichen: »da lasse ich die Sonne schon am Mittag untergehen und werde Finsternis über die Erde kommen lassen am lichten Tage« — und unmittelbar anschließend: »wie bei der Trauer um den einzigen Sohn« (Am 8,9-10). Dahinter steht die neunte ägyptische Plage, die dreitägige Finsternis vor der Passahnacht (2. Mo 10,21-23). Es ist die Stunde, in der im Tempel die Passahlämmer geschlachtet wurden."
+    },
+    {
+      "vers_von": 46,
+      "von": 60,
+      "vers_bis": 46,
+      "bis": 155,
+      "typ": "at",
+      "referenz": "Ps 22,2",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Ruf ist der Anfangsvers von Ps 22, und im jüdischen Gebrauch steht das erste Wort für den ganzen Text: Der Psalm beginnt mit der Gottverlassenheit, beschreibt in seiner Mitte die Züge genau dieser Szene — Verspottung, Kopfschütteln, durchgrabene Hände und Füße, Verlosung der Kleider — und endet mit dem Lobpreis dessen, den Gott erhört hat. Wer den Vers hörte, hörte den ganzen Psalm."
+    },
+    {
+      "vers_von": 46,
+      "von": 60,
+      "vers_bis": 46,
+      "bis": 89,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 46,
+      "von": 102,
+      "vers_bis": 46,
+      "bis": 155,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 47,
+      "von": 59,
+      "vers_bis": 47,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Mal 3,23",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Die Erwartung, dass Elia vor dem großen Tag des HERRN wiederkommt (Mal 3,23), ist zu Mt 11,14 und 17,11 annotiert. Das Missverständnis der Umstehenden — »Eli« klingt wie »Elia« — setzt sie voraus."
+    },
+    {
+      "vers_von": 48,
+      "von": 59,
+      "vers_bis": 48,
+      "bis": 80,
+      "typ": "at",
+      "referenz": "Ps 69,22",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm69,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zweite Hälfte desselben Verses, der zu V34 annotiert ist: Ps 69,22 nennt Gift in der Speise und Essig für den Durst — der Trank vor der Kreuzigung dort, der Essig hier."
+    },
+    {
+      "vers_von": 51,
+      "von": 0,
+      "vers_bis": 51,
+      "bis": 65,
+      "typ": "at",
+      "referenz": "2. Mo 26,31-33",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 26,31-33", "url": "https://www.bibleserver.com/MENG/2.Mose26,31" },
+        { "label": "3. Mo 16,2", "url": "https://www.bibleserver.com/MENG/3.Mose16,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Vorhang trennte das Allerheiligste vom übrigen Heiligtum (2. Mo 26,31-33). Hinter ihn durfte allein der Hohepriester treten, und nur einmal im Jahr — jedes andere Betreten war todeswürdig (3. Mo 16,2). Er war die sichtbare Markierung der Unzugänglichkeit Gottes; dass er von oben her zerreißt, betrifft nicht das Inventar des Tempels, sondern die Zugangsordnung selbst."
+    },
+    {
+      "vers_von": 51,
+      "von": 67,
+      "vers_bis": 51,
+      "bis": 110,
+      "typ": "at",
+      "referenz": "2. Mo 19,18",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 19,18", "url": "https://www.bibleserver.com/MENG/2.Mose19,18" },
+        { "label": "Ri 5,4-5", "url": "https://www.bibleserver.com/MENG/Richter5,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Erdbeben und berstende Felsen sind die stehenden Begleitzeichen einer Gotteserscheinung: Am Sinai erbebte der ganze Berg, als der HERR im Feuer herabfuhr (2. Mo 19,18); im Debora-Lied bebt die Erde, als Gott von Seir her auszieht (Ri 5,4-5). Die Zeichen kennzeichnen den Augenblick als Theophanie."
+    },
+    {
+      "vers_von": 52,
+      "von": 0,
+      "vers_bis": 53,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Hes 37,12-13",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 37,12-13", "url": "https://www.bibleserver.com/MENG/Hesekiel37,12" },
+        { "label": "Dan 12,2", "url": "https://www.bibleserver.com/MENG/Daniel12,2" },
+        { "label": "Jes 26,19", "url": "https://www.bibleserver.com/MENG/Jesaja26,19" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Öffnen der Gräber ist die Sprache von Hes 37,12: »ich will eure Gräber öffnen und euch, mein Volk, aus euren Gräbern hervorgehen lassen« — dort das Bild für die Heimführung des zerstreuten Israel. Von Entschlafenen spricht Dan 12,2 (»die im Staube der Erde schlafen, werden erwachen«), von leiblicher Auferweckung Jes 26,19. Alle drei Erwartungen galten der Endzeit."
+    },
+    {
+      "vers_von": 54,
+      "von": 161,
+      "vers_bis": 54,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Ps 2,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der königliche Hintergrund des Titels ist zu V40 annotiert, die Sohn-Anrede Gottes zu Mt 3,17. Hier tritt kein neuer alttestamentlicher Bezug hinzu — bemerkenswert ist der Sprecher: Ein römischer Hauptmann sagt, was die Ankläger bestritten und die Spötter zur Probe gemacht haben."
+    },
+    {
+      "vers_von": 55,
+      "von": 46,
+      "vers_bis": 55,
+      "bis": 71,
+      "typ": "at",
+      "referenz": "Ps 38,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm38,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ps 38,12 kennt die Freunde, die abseits bleiben — ein klassischer Zug des Leidenden. Hier sind die Frauen jedoch nicht die abgerückten Vertrauten, sondern die einzigen Nachfolgenden, die geblieben sind. Klangparallele ohne tragenden Bezug."
+    },
+    {
+      "vers_von": 57,
+      "von": 41,
+      "vers_bis": 57,
+      "bis": 89,
+      "typ": "at",
+      "referenz": "Jes 53,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 53,9 stellt ein Doppelbild auf: Das Grab des Gottesknechts liegt bei Gottlosen — und zugleich, so der hebräische Text und die damals gebräuchliche griechische Übersetzung, »bei einem Reichen in seinem Tode«. Beides trifft hier zusammen: hingerichtet zwischen zwei Räubern (V38), bestattet im Felsengrab eines reichen Mannes. Menge übersetzt die zweite Vershälfte nach einer anderen Lesart (»bei Missetätern seine Gruft«), sodass der Anklang im deutschen Text nicht sichtbar wird."
+    },
+    {
+      "vers_von": 58,
+      "von": 33,
+      "vers_bis": 58,
+      "bis": 61,
+      "typ": "at",
+      "referenz": "5. Mo 21,22-23",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 21,22-23", "url": "https://www.bibleserver.com/MENG/5.Mose21,22" },
+        { "label": "Jos 8,29", "url": "https://www.bibleserver.com/MENG/Josua8,29" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Dass der Leichnam noch am selben Tag vom Kreuz geholt wird, ist Gesetzesgehorsam: »so soll sein Leichnam nicht über Nacht an dem Baume hängen bleiben, sondern du sollst ihn unbedingt noch an demselben Tage begraben; denn ein Gehenkter ist von Gott verflucht« (5. Mo 21,22-23; so verfährt Josua in Jos 8,29). Dieselbe Vorschrift, die zur Eile drängt, legt auf einen am Holz Hängenden den Fluch."
+    },
+    {
+      "vers_von": 62,
+      "von": 23,
+      "vers_bis": 62,
+      "bis": 49,
+      "typ": "at",
+      "referenz": "2. Mo 16,23",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose16,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der »Rüsttag« ist der Freitag: Weil am Sabbat keine Arbeit erlaubt war, musste alles am Vortag zubereitet werden — schon beim Manna sammelte Israel am sechsten Tag doppelt und rüstete es zu (2. Mo 16,23). Das erklärt die Eile der Grablegung am Vorabend und macht sichtbar, dass diese Beratung bei Pilatus am Sabbat selbst stattfindet."
+    },
+    {
+      "vers_von": 63,
+      "von": 47,
+      "vers_bis": 63,
+      "bis": 61,
+      "typ": "at",
+      "referenz": "5. Mo 13,2-6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose13,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Betrüger« ist kein Schimpfwort, sondern ein Rechtsbegriff: Wer als Prophet oder Träumer ein Zeichen ankündigt und Israel damit zum Abfall verführt, »soll den Tod erleiden« (5. Mo 13,2-6). Die Ankläger ordnen mit diesem Wort das Wirken Jesu jener Bestimmung zu — es benennt die juristische Grundlage des Todesurteils."
+    },
+    {
+      "vers_von": 63,
+      "von": 100,
+      "vers_bis": 63,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Hos 6,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea6,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Das Drei-Tage-Motiv (Hos 6,2; 1. Mo 22,4) ist zu Mt 16,21 aktiv annotiert und bei 17,23 und 20,19 bereits als Wiederholung inaktiv gesetzt. Hier steht dieselbe Ankündigung im Mund der Ankläger."
+    },
+    {
+      "vers_von": 66,
+      "von": 80,
+      "vers_bis": 66,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 6,18",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel6,18",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "So wird in Dan 6,18 die Löwengrube verschlossen, in der Daniel liegt: ein Stein auf der Öffnung, vom König mit dem Siegelring versiegelt, »damit kein unbefugtes Eingreifen in die Sache Daniels möglich sei«. Am Morgen findet der König ihn unversehrt. Die Sicherung, die jede Möglichkeit ausschließen soll, entspricht der einen alttestamentlichen Erzählung, in der eben das misslingt."
+    }
+  ]
+}
