@@ -1,0 +1,341 @@
+{
+  "titel": "Der Auferstehungsbericht",
+  "markierungen": [
+    {
+      "vers_von": 1,
+      "von": 30,
+      "vers_bis": 1,
+      "bis": 63,
+      "typ": "at",
+      "referenz": "3. Mo 23,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose23,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der »Tag nach dem Sabbat« ist in 3. Mo 23,11 der Tag der Erstlingsgarbe. Hier steht die Wendung als Kalenderangabe; die Erstlingsfrucht-Deutung ist Auslegung, kein vom Text aufgerufener Bezug."
+    },
+    {
+      "vers_von": 2,
+      "von": 22,
+      "vers_bis": 2,
+      "bis": 42,
+      "typ": "at",
+      "referenz": "2. Mo 19,18",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Erdbeben als Begleitzeichen göttlichen Eingreifens (2. Mo 19,18) ist in Mt 27,51 derselben Erzählfolge bereits annotiert."
+    },
+    {
+      "vers_von": 2,
+      "von": 49,
+      "vers_bis": 2,
+      "bis": 68,
+      "typ": "at",
+      "referenz": "1. Mo 16,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose16,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Engel des Herrn« ist feste AT-Formel (1. Mo 16,7; 2. Mo 3,2; Ri 13,3), begleitet das Buch aber seit Mt 1,20 als Standardtitel — kein Verständnisverlust."
+    },
+    {
+      "vers_von": 3,
+      "von": 18,
+      "vers_bis": 3,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 7,9",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 7,9", "url": "https://www.bibleserver.com/MENG/Daniel7,9" },
+        { "label": "Dan 10,6", "url": "https://www.bibleserver.com/MENG/Daniel10,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gewand »weiß wie der Schnee« ist in Dan 7,9 das Kleid des Hochbetagten auf dem Gerichtsthron, das Aussehen »wie der Blitz« in Dan 10,6 das des himmlischen Boten. Der Engel am Grab wird mit dem Formelvorrat der Danielvisionen gezeichnet: Das Geschehen gehört in die Reihe der Endzeitoffenbarungen, nicht in die eines Grabbesuchs."
+    },
+    {
+      "vers_von": 4,
+      "von": 19,
+      "vers_bis": 4,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 10,8-9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Dan 10,8-9 verläßt den Seher beim Anblick des himmlischen Boten alle Kraft, er fällt betäubt zu Boden. Dieselbe Reaktion trifft hier die Wächter: Die Mannschaft, die das Grab sichern soll, wird mit dem AT-Bild für die Begegnung mit dem Himmel als ohnmächtig gezeichnet."
+    },
+    {
+      "vers_von": 5,
+      "von": 58,
+      "vers_bis": 5,
+      "bis": 82,
+      "typ": "at",
+      "referenz": "Dan 10,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Fürchte dich nicht« ist feste Eröffnung himmlischer Boten (Dan 10,12.19; 1. Mo 15,1); der Danielhintergrund ist in V3 und V4 annotiert."
+    },
+    {
+      "vers_von": 6,
+      "von": 31,
+      "vers_bis": 6,
+      "bis": 55,
+      "typ": "at",
+      "referenz": "Hos 6,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea6,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Auferweckung ist mit Hos 6,2 (Mt 16,21; 17,23; 20,19; 27,63) und Hes 37,12-13 (Mt 27,52) bereits annotiert."
+    },
+    {
+      "vers_von": 7,
+      "von": 90,
+      "vers_bis": 7,
+      "bis": 118,
+      "typ": "at",
+      "referenz": "Sach 13,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja13,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Hirte, der der zerstreuten Herde vorangeht (Sach 13,7; Mi 2,12-13), ist in Mt 26,31 derselben Erzählfolge bereits annotiert."
+    },
+    {
+      "vers_von": 9,
+      "von": 52,
+      "vers_bis": 9,
+      "bis": 67,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 9,
+      "von": 94,
+      "vers_bis": 9,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 6,13",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 6,13", "url": "https://www.bibleserver.com/MENG/5.Mose6,13" },
+        { "label": "2. Kön 4,27", "url": "https://www.bibleserver.com/MENG/2.Koenige4,27" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Niederwerfen gilt nach 5. Mo 6,13 Gott allein, das Umfassen der Füße ist Bittgebärde (2. Kön 4,27). 5. Mo 6,13 ist in Mt 4,10 annotiert, die Gebärde gegenüber Jesus begleitet die Erzählung seit Mt 2,11."
+    },
+    {
+      "vers_von": 10,
+      "von": 30,
+      "vers_bis": 10,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 10,
+      "von": 76,
+      "vers_bis": 10,
+      "bis": 90,
+      "typ": "at",
+      "referenz": "Ps 22,23",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Psalm 22 ist in der Kreuzigungserzählung viermal aufgenommen (Mt 27,35.39.43.46). Mit »meinen Brüdern« ist die Wende dieses Psalms erreicht: Nach der Klage setzt in Ps 22,23 das Kundtun des Gottesnamens vor den Brüdern ein. Wer den Psalm ganz kannte, hörte den Ruf vom Kreuz nie ohne diesen Ausgang."
+    },
+    {
+      "vers_von": 12,
+      "von": 36,
+      "vers_bis": 12,
+      "bis": 63,
+      "typ": "at",
+      "referenz": "Ps 2,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Beratung der Volksführer gegen den Gesalbten (Ps 2,2) ist in Mt 26,3-4 und 27,1 bereits annotiert."
+    },
+    {
+      "vers_von": 12,
+      "von": 72,
+      "vers_bis": 12,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "5. Mo 16,19",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose16,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bestechung ist nach 5. Mo 16,19 verboten, die Formulierung nimmt aber keinen AT-Text auf; 5. Mo 27,25 (Geld für Blutschuld) ist in Mt 27,4 annotiert."
+    },
+    {
+      "vers_von": 13,
+      "von": 39,
+      "vers_bis": 13,
+      "bis": 99,
+      "typ": "at",
+      "referenz": "2. Mo 20,16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die angeordnete Falschaussage verstößt gegen 2. Mo 20,16; das Gebot ist in Mt 15,19 und 19,18 annotiert, und die Erkennbarkeit hängt hier an keiner Formulierung."
+    },
+    {
+      "vers_von": 15,
+      "von": 140,
+      "vers_bis": 15,
+      "bis": 160,
+      "typ": "at",
+      "referenz": "Jos 4,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua4,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Bis zum heutigen Tag« ist ätiologische Erzählformel des AT (1. Mo 26,33; Jos 4,9), hier Sprachidiom ohne aufgerufene Stelle."
+    },
+    {
+      "vers_von": 16,
+      "von": 0,
+      "vers_bis": 16,
+      "bis": 14,
+      "typ": "at",
+      "referenz": "1. Mo 35,22-26",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose35,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Zwölfzahl als Stämmezahl ist in Mt 10,1-2 und 19,28 annotiert; »die Elf« markiert deren Fehlbestand, ruft aber keinen eigenen AT-Text auf."
+    },
+    {
+      "vers_von": 16,
+      "von": 46,
+      "vers_bis": 16,
+      "bis": 58,
+      "typ": "at",
+      "referenz": "2. Mo 19,3",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Berg als Ort von Offenbarung und Beauftragung (2. Mo 19,3) ist in Mt 5,1 und 15,29 annotiert."
+    },
+    {
+      "vers_von": 18,
+      "von": 54,
+      "vers_bis": 20,
+      "bis": -1,
+      "typ": "jesus"
+    },
+    {
+      "vers_von": 18,
+      "von": 55,
+      "vers_bis": 18,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 7,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Dan 7,14 wird dem Menschensohn vor Gottes Thron Herrschaft »verliehen«, damit alle Völker ihm dienen. Dieselbe Formel steht hier: verliehene, nicht eigene Gewalt — und zwar über Himmel und Erde. Die Menschensohn-Szene, die von Mt 8,20 bis 26,64 immer nur angekündigt wird, ist damit als eingetreten benannt."
+    },
+    {
+      "vers_von": 19,
+      "von": 26,
+      "vers_bis": 19,
+      "bis": 57,
+      "typ": "at",
+      "referenz": "Jes 2,2-3",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 2,2-3", "url": "https://www.bibleserver.com/MENG/Jesaja2,2" },
+        { "label": "Jes 66,18-19", "url": "https://www.bibleserver.com/MENG/Jesaja66,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Alle Völker« ist Zielpunkt zweier AT-Linien: In Jes 2,2-3 strömen die Völker von selbst zum Zion, um Weisung zu holen; in Jes 66,18-19 sendet Gott Boten hinaus zu den fernen Völkern. Der Auftrag folgt der zweiten Linie — nicht die Völker kommen, sondern die Jünger gehen."
+    },
+    {
+      "vers_von": 19,
+      "von": 59,
+      "vers_bis": 19,
+      "bis": 82,
+      "typ": "at",
+      "referenz": "Hes 36,25",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel36,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hes 36,25-27 verbindet reines Wasser und neuen Geist, also dieselbe Paarung; die Taufe wird jedoch in Mt 3 unannotiert eingeführt, und »auf den Namen« hat keinen AT-Wortkontakt."
+    },
+    {
+      "vers_von": 19,
+      "von": 73,
+      "vers_bis": 19,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Jes 63,16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja63,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vater (Jes 63,16; 64,7), Sohn (Ps 2,7) und Geist (Joel 3,1) sind einzeln annotiert — erstmals in Mt 3,16-17 bzw. 6,9. Die Dreiheit als Taufformel hat keine AT-Vorlage."
+    },
+    {
+      "vers_von": 20,
+      "von": 4,
+      "vers_bis": 20,
+      "bis": 54,
+      "typ": "at",
+      "referenz": "5. Mo 6,1",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 6,1", "url": "https://www.bibleserver.com/MENG/5.Mose6,1" },
+        { "label": "2. Mo 24,3", "url": "https://www.bibleserver.com/MENG/2.Mose24,3" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Alles halten, was ich euch geboten habe« ist die Formel der Tora-Weitergabe: In 5. Mo 6,1 lehrt Mose die Gebote, die der HERR ihm geboten hat, damit Israel sie tut; in 2. Mo 24,3 verpflichtet sich das Volk, alles zu tun, was der HERR geboten hat. Lehren, Gebieten und Halten stehen hier in derselben Verbindung — nur steht an der Stelle, an der im AT der HERR gebietet, jetzt »ich«."
+    },
+    {
+      "vers_von": 20,
+      "von": 72,
+      "vers_bis": 20,
+      "bis": 98,
+      "typ": "at",
+      "referenz": "Jes 7,14",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 7,14", "url": "https://www.bibleserver.com/MENG/Jesaja7,14" },
+        { "label": "2. Mo 3,12", "url": "https://www.bibleserver.com/MENG/2.Mose3,12" },
+        { "label": "Jos 1,5", "url": "https://www.bibleserver.com/MENG/Josua1,5" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Ich bin mit dir« ist die Zusage, mit der Gott Beauftragte losschickt — Mose (2. Mo 3,12), Josua (Jos 1,5). Zugleich schließt der Satz den Bogen zum Buchanfang: Mt 1,23 legt den Namen Immanuel aus Jes 7,14 als »Gott mit uns« aus."
+    },
+    {
+      "vers_von": 20,
+      "von": 99,
+      "vers_bis": 20,
+      "bis": -1,
+      "typ": "at",
+      "referenz": "Dan 12,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ende der Weltzeit« gehört zum geläufigen apokalyptischen Zeitvokabular (vgl. Dan 12,4) und ruft keine bestimmte Stelle auf — wie in Mt 13,39 und 24,3 nicht annotiert."
+    }
+  ]
+}
