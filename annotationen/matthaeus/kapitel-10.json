@@ -10,6 +10,13 @@
     },
     { "vers_von": 5, "von": 81, "vers_bis": 16, "bis": -1, "typ": "jesus" },
     {
+      "vers_von": 5, "von": 133, "vers_bis": 5, "bis": 172, "typ": "at",
+      "referenz": "2 Kö 17,33", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige17,33",
+      "autor": "Mensch", "status": "aktiv",
+      "begruendung": "Nach dem Fall des Nordreichs siedelte Assyrien fremde Völker in Samaria an. Sie verehrten den HERRN und zugleich ihre mitgebrachten Götter (2 Kö 17,33). Deshalb galten die Samariter den Juden nicht als Teil des Gottesvolkes."
+    },
+    {
       "vers_von": 6, "von": 0, "vers_bis": 6, "bis": -1, "typ": "at",
       "referenz": "Hes 34,5-6", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel34,5",
