@@ -39,7 +39,7 @@ body {
   height: 56px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  gap: 4px;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -51,6 +51,7 @@ body {
   letter-spacing: 0.1em;
   color: var(--farbe-header-text);
   text-decoration: none;
+  margin-right: auto; /* schiebt den Hell/Dunkel-Button an den rechten Rand */
 }
 .site-title em { color: var(--farbe-gold); font-style: normal; }
 .site-nav { display: flex; gap: 1.5rem; align-items: center; }
@@ -67,8 +68,8 @@ body {
 /* --- Layout (2-spaltig) --- */
 .layout {
   display: grid;
-  grid-template-columns: 220px 1fr;
-  max-width: 960px;
+  grid-template-columns: 180px 1fr;
+  max-width: 920px;
   margin: 0 auto;
   min-height: calc(100vh - 56px - 52px);
 }
@@ -77,7 +78,7 @@ body {
 .sidebar-nav {
   background: var(--farbe-sidebar);
   border-right: 1px solid var(--farbe-border);
-  padding: 2rem 1.25rem 4rem;
+  padding: 2rem 1.25rem;
   position: sticky;
   top: 56px;
   height: calc(100vh - 56px);
@@ -107,6 +108,54 @@ body {
 .book-list a:hover { background: #e0d8cc; }
 .book-list a.aktiv {
   background: var(--farbe-header);
+  color: var(--farbe-header-text);
+}
+
+/* --- Aufklappbare Bücher mit Kapitel-Raster (Sidebar kapitel.html) --- */
+.buch-eintrag { margin-bottom: 2px; }
+.buch-eintrag > summary {
+  list-style: none; /* Browsereigenen Pfeil entfernen */
+  font-family: var(--schrift-ui);
+  font-size: 13px;
+  color: #5a4e3c;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  user-select: none;
+}
+.buch-eintrag > summary::-webkit-details-marker { display: none; }
+.buch-eintrag > summary::before {
+  content: '▶';
+  font-size: 9px;
+  color: var(--farbe-gold);
+  margin-right: 7px;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+.buch-eintrag[open] > summary::before { transform: rotate(90deg); }
+.buch-eintrag[open] > summary { font-weight: 600; }
+.buch-eintrag > summary:hover { background: #e0d8cc; }
+.kapitel-raster {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(28px, 1fr)); /* 180px-Leiste → 4 Spalten */
+  gap: 4px;
+  padding: 4px 0 10px 8px;
+}
+.kapitel-raster a {
+  font-family: var(--schrift-ui);
+  font-size: 12px;
+  line-height: 1.4;
+  color: #5a4e3c;
+  text-decoration: none;
+  text-align: center;
+  padding: 3px 0;
+  border: 1px solid var(--farbe-border);
+  border-radius: 4px;
+}
+.kapitel-raster a:not(.aktiv):hover { background: #e0d8cc; }
+.kapitel-raster a.aktiv {
+  background: var(--farbe-header);
+  border-color: var(--farbe-header);
   color: var(--farbe-header-text);
 }
 
@@ -322,47 +371,23 @@ body {
   margin-left: 3px;
 }
 
-/* --- Dark-Mode-Toggle (Sidebar unten) --- */
-.theme-toggle {
-  position: absolute;
-  bottom: 1.5rem;
-  left: 1.25rem;
-  right: 1.25rem;
-}
-.theme-toggle button {
-  font-family: var(--schrift-ui);
-  font-size: 12px;
-  color: #888;
+/* --- Header-Buttons: Hamburger (nur mobil, links) + Hell/Dunkel (rechts) --- */
+.hamburger-btn,
+.theme-btn {
   background: none;
-  border: 1px solid var(--farbe-border);
-  border-radius: 4px;
-  padding: 5px 10px;
+  border: none;
+  color: #a09080;
+  font-size: 20px;
   cursor: pointer;
-  width: 100%;
-  text-align: left;
+  padding: 4px 8px;
+  line-height: 1;
 }
-.theme-toggle button:hover { color: var(--farbe-text); border-color: #888; }
-
-/* --- Mobile Header-Aktionen (Hamburger + Dark-Toggle) --- */
-.header-mobile-actions { display: none; }
+.hamburger-btn:hover,
+.theme-btn:hover { color: var(--farbe-header-text); }
+.hamburger-btn { display: none; }
 @media (max-width: 900px) {
-  .header-mobile-actions {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-  }
-  .hamburger-btn,
-  .theme-btn-mobile {
-    background: none;
-    border: none;
-    color: #a09080;
-    font-size: 20px;
-    cursor: pointer;
-    padding: 4px 8px;
-    line-height: 1;
-  }
-  .hamburger-btn:hover,
-  .theme-btn-mobile:hover { color: var(--farbe-header-text); }
+  .site-header { padding: 0 0.75rem; }
+  .hamburger-btn { display: inline-block; }
 }
 
 /* --- Sidebar-Overlay (Mobile) --- */
@@ -405,6 +430,16 @@ body {
 [data-theme="dark"] .book-list a { color: #a89880; }
 [data-theme="dark"] .book-list a:hover { background: #2e2a24; color: #d4c9b5; }
 [data-theme="dark"] .sidebar-nav h4 { color: #6a5e4e; }
+[data-theme="dark"] .buch-eintrag > summary,
+[data-theme="dark"] .kapitel-raster a:not(.aktiv) { color: #a89880; }
+[data-theme="dark"] .buch-eintrag > summary:hover,
+[data-theme="dark"] .kapitel-raster a:not(.aktiv):hover { background: #2e2a24; color: #d4c9b5; }
+/* Header-Farbe hebt sich im Dunkelmodus kaum von der Sidebar ab → Gold */
+[data-theme="dark"] .kapitel-raster a.aktiv {
+  background: var(--farbe-gold);
+  border-color: var(--farbe-gold);
+  color: var(--farbe-seite);
+}
 
 /* --- Footer --- */
 .site-footer {
@@ -540,5 +575,11 @@ body {
   }
   .main-content { padding: 1.5rem; border: none; max-width: 100%; }
   .index-content { grid-column: 1; padding: 1.5rem; }
-  .theme-toggle { display: none; } /* Im Header-Button bereits vorhanden */
+  /* Größere Tippflächen für Touch */
+  .buch-eintrag > summary { font-size: 15px; padding: 8px; }
+  .kapitel-raster {
+    grid-template-columns: repeat(auto-fill, minmax(44px, 1fr));
+    gap: 6px;
+  }
+  .kapitel-raster a { font-size: 15px; padding: 9px 0; }
 }

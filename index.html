@@ -10,11 +10,9 @@
 <body>
 
 <header class="site-header">
+  <button class="hamburger-btn" onclick="toggleSidebar()" aria-label="Navigation">☰</button>
   <a class="site-title" href="index.html"><em>Menge-Bibel</em> farbig</a>
-  <div class="header-mobile-actions">
-    <button class="hamburger-btn" onclick="toggleSidebar()" aria-label="Navigation">☰</button>
-    <button class="theme-btn-mobile" onclick="toggleTheme()" aria-label="Design umschalten">☀️</button>
-  </div>
+  <button class="theme-btn" id="theme-btn" onclick="toggleTheme()" aria-label="Design umschalten">🌙</button>
 </header>
 <div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleSidebar()"></div>
 
@@ -166,7 +164,6 @@ async function ladeIndex() {
       sidebarHtml += `<li><a href="kapitel.html?buch=${buch.id}&kapitel=${erstesKapitel}">${buch.name}</a></li>`;
     }
     sidebarHtml += '</ul>';
-    sidebarHtml += `<div class="theme-toggle"><button onclick="toggleTheme()" id="theme-btn">🌙 Dunkles Design</button></div>`;
     document.getElementById("sidebar-nav").innerHTML = sidebarHtml;
 
     // ── Buch-Grid: verfügbare Bücher in Manifest-Reihenfolge, dann Rest als "bald" ──
@@ -217,8 +214,15 @@ function toggleTheme() {
   const isDark = html.getAttribute('data-theme') === 'dark';
   html.setAttribute('data-theme', isDark ? 'light' : 'dark');
   localStorage.setItem('theme', isDark ? 'light' : 'dark');
+  setzeThemeIcon();
+}
+
+// Header-Button zeigt das Ziel-Design: 🌙 im hellen, ☀️ im dunklen Design
+function setzeThemeIcon() {
+  const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
   const btn = document.getElementById('theme-btn');
-  if (btn) btn.textContent = isDark ? '🌙 Dunkles Design' : '☀️ Helles Design';
+  btn.textContent = isDark ? '☀️' : '🌙';
+  btn.title = isDark ? 'Helles Design' : 'Dunkles Design';
 }
 
 function toggleSidebar() {
@@ -235,6 +239,7 @@ function toggleSidebar() {
   if (saved === 'dark') {
     document.documentElement.setAttribute('data-theme', 'dark');
   }
+  setzeThemeIcon();
 })();
 </script>
 

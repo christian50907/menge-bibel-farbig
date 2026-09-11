@@ -9,11 +9,9 @@
 <body>
 
 <header class="site-header">
+  <button class="hamburger-btn" onclick="toggleSidebar()" aria-label="Navigation">☰</button>
   <a class="site-title" href="index.html"><em>Menge-Bibel</em> farbig</a>
-  <div class="header-mobile-actions">
-    <button class="hamburger-btn" onclick="toggleSidebar()" aria-label="Navigation">☰</button>
-    <button class="theme-btn-mobile" onclick="toggleTheme()" aria-label="Design umschalten">☀️</button>
-  </div>
+  <button class="theme-btn" id="theme-btn" onclick="toggleTheme()" aria-label="Design umschalten">🌙</button>
 </header>
 <div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleSidebar()"></div>
 
@@ -373,20 +371,24 @@ function renderHeading(heading) {
 // aktBuch:  id des aktuellen Buchs
 // aktKap:   Nummer des aktuellen Kapitels
 function baueSidebar(manifest, aktBuch, aktKap) {
-  let html = '';
-  // Bücher in Manifest-Reihenfolge
+  // Bücher in Manifest-Reihenfolge. Nur das aktuelle Buch ist aufgeklappt;
+  // ein Klick auf einen Buchnamen klappt es auf/zu (<details>), ohne die
+  // Seite zu wechseln. Der gemeinsame name="buecher" macht daraus ein
+  // Akkordeon: Öffnen eines Buchs schließt das zuvor offene.
+  // Kapitel erscheinen als kompaktes Zahlen-Raster.
+  let html = '<h4>Neues Testament</h4>';
   for (const buch of manifest.buecher) {
     const buchAktiv = buch.id === aktBuch;
-    html += `<h4>${buch.name}</h4><ul class="book-list">`;
+    html += `<details class="buch-eintrag" name="buecher"${buchAktiv ? ' open' : ''}>`;
+    html += `<summary>${buch.name}</summary><div class="kapitel-raster">`;
     for (const k of buch.kapitel) {
-      const aktiv = buchAktiv && k === aktKap ? ' class="aktiv"' : '';
-      html += `<li><a href="kapitel.html?buch=${buch.id}&kapitel=${k}"${aktiv}>Kapitel ${k}</a></li>`;
+      const aktiv = buchAktiv && k === aktKap ? ' class="aktiv" aria-current="page"' : '';
+      html += `<a href="kapitel.html?buch=${buch.id}&kapitel=${k}"${aktiv} aria-label="${buch.name} ${k}">${k}</a>`;
     }
-    html += `</ul>`;
+    html += `</div></details>`;
   }
   html += `<h4>Weitere</h4><ul class="book-list">`;
   html += `<li><a href="index.html">← Zur Übersicht</a></li></ul>`;
-  html += `<div class="theme-toggle"><button onclick="toggleTheme()" id="theme-btn">🌙 Dunkles Design</button></div>`;
   return html;
 }
 
@@ -481,8 +483,15 @@ function toggleTheme() {
   const isDark = html.getAttribute('data-theme') === 'dark';
   html.setAttribute('data-theme', isDark ? 'light' : 'dark');
   localStorage.setItem('theme', isDark ? 'light' : 'dark');
+  setzeThemeIcon();
+}
+
+// Header-Button zeigt das Ziel-Design: 🌙 im hellen, ☀️ im dunklen Design
+function setzeThemeIcon() {
+  const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
   const btn = document.getElementById('theme-btn');
-  if (btn) btn.textContent = isDark ? '🌙 Dunkles Design' : '☀️ Helles Design';
+  btn.textContent = isDark ? '☀️' : '🌙';
+  btn.title = isDark ? 'Helles Design' : 'Dunkles Design';
 }
 
 // ─── Tooltip-Hilfsfunktionen ─────────────────────────────────────────────────
@@ -580,6 +589,7 @@ function toggleSidebar() {
   if (saved === 'dark') {
     document.documentElement.setAttribute('data-theme', 'dark');
   }
+  setzeThemeIcon();
 })();
 </script>
 </body>
