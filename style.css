@@ -300,11 +300,15 @@ body {
   border-right: 5px solid transparent;
   border-top: 5px solid var(--farbe-header);
 }
-/* Hover (Desktop) + Tap (Mobile) */
-.at-tooltip-wrap:hover .at-tooltip-text,
+/* Tap (Mobile) bzw. Klick — per Klasse aus kapitel.html */
 .at-tooltip-wrap.tooltip-offen .at-tooltip-text,
-.fn-wrap:hover .fn-popup,
 .fn-wrap.tooltip-offen .fn-popup { display: block; }
+/* Hover nur auf Geräten, die wirklich hovern können — sonst hält iOS den
+   Hover-Zustand fest und schluckt den ersten Tap */
+@media (hover: hover) {
+  .at-tooltip-wrap:hover .at-tooltip-text,
+  .fn-wrap:hover .fn-popup { display: block; }
+}
 
 /* Gespiegelt wenn Tooltip rechts aus dem Fenster liefe */
 .at-tooltip-wrap.tooltip-flip .at-tooltip-text,

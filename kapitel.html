@@ -518,11 +518,20 @@ function tooltipPositionPruefen(wrap) {
   }
 }
 
-// ─── AT-Tooltip: Zweistufiges Tippen (Mobile) ────────────────────────────────
-// Erster Tap auf Link → Tooltip zeigen, Navigation verhindern
-// Zweiter Tap auf denselben Link → Navigation zulassen
+// ─── AT-Tooltip: Zweistufiges Tippen (nur Touch) ─────────────────────────────
+// Maus/Stift: Tooltip erscheint per Hover, ein Klick navigiert sofort.
+// Touch: Erster Tap auf Link → Tooltip zeigen, Navigation verhindern
+//        Zweiter Tap auf denselben Link → Navigation zulassen
 // Tap außerhalb → Tooltip schließen
+//
+// Der Zeigertyp wird bei pointerdown gemerkt und nach jedem Klick
+// zurückgesetzt — so navigiert auch Enter per Tastatur sofort.
+let letzterZeigertyp = '';
+document.addEventListener('pointerdown', e => { letzterZeigertyp = e.pointerType; }, true);
+
 document.addEventListener('click', function(e) {
+  const perTouch = letzterZeigertyp === 'touch';
+  letzterZeigertyp = '';
   const atLink = e.target.closest('.at-tooltip-wrap a');
   const atWrap = e.target.closest('.at-tooltip-wrap');
   const fnWrap = e.target.closest('.fn-wrap');
@@ -535,7 +544,7 @@ document.addEventListener('click', function(e) {
 
   // AT-Tooltip
   if (atLink) {
-    if (!atWrap.classList.contains('tooltip-offen')) {
+    if (perTouch && !atWrap.classList.contains('tooltip-offen')) {
       e.preventDefault();
       alleTooltipsSchliessen();
       atWrap.classList.add('tooltip-offen');
