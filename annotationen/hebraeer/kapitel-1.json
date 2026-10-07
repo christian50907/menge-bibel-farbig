@@ -1,0 +1,112 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 1,
+  "titel": "Der Brief an die Hebräer",
+  "abschnitte": [
+    { "id": "allgemein", "vers_von": 1, "vers_bis": 4, "titel": "Allgemeine Darlegung dieser Hoheit" },
+    { "id": "at-belege", "vers_von": 5, "vers_bis": 14, "titel": "Alttestamentliche Belege für die Erhabenheit des Gottessohnes über die Engel" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 5, "von": 57, "vers_bis": 5, "bis": 105, "typ": "at",
+      "referenz": "Ps 2,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat: Die Inthronisationsformel »Mein Sohn bist du, heute habe ich dich gezeugt« stammt aus dem königlichen Krönungspsalm. Der Text stellt fest, dass diese Zusage keinem Engel je gegeben wurde."
+    },
+    {
+      "vers_von": 5, "von": 125, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "2 Sam 7,14",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus der Nathan-Verheißung an David: »Ich will ihm Vater sein, und er soll mir Sohn sein«. Die Vater-Sohn-Zusage des Davidsbunds wird hier auf den Gottessohn übertragen — eine Zusage, die laut dem Text keinem Engel galt."
+    },
+    {
+      "vers_von": 6, "von": 106, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 97,7", "url": "https://www.bibleserver.com/MENG/Psalm97,7" },
+        { "label": "5. Mo 32,43", "url": "https://www.bibleserver.com/MENG/5.Mose32,43" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Aufforderung »Alle Engel Gottes sollen vor ihm huldigend sich neigen« stammt aus der griechischen Septuaginta-Fassung von 5. Mo 32,43 bzw. Ps 96(97),7 — einer Erweiterung, die im hebräischen Grundtext fehlt. Die Menge-Bibel übersetzt das Alte Testament aus dem Hebräischen, daher weicht der deutsche Wortlaut dieser Stellen vom Zitat ab."
+    },
+    {
+      "vers_von": 7, "von": 42, "vers_bis": 7, "bis": 107, "typ": "at",
+      "referenz": "Ps 104,4",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm104,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat: »Er macht seine Engel zu Winden und seine Diener zur Feuerflamme« — die Engel werden hier als vergängliche Dienstgeister dargestellt, im Gegensatz zum ewigen Thron des Sohnes in den folgenden Versen."
+    },
+    {
+      "vers_von": 8, "von": 28, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Ps 45,7-8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm45,7-8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat aus dem königlichen Hochzeitspsalm, der dort den irdischen Davidskönig mit »Gott« (Elohim) anspricht. Der Text liest diese Anrede als Bestätigung der Gottessohnschaft Christi."
+    },
+    {
+      "vers_von": 10, "von": 12, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "Ps 102,26-28",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm102,26-28",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat: Der Psalm preist Gott als Schöpfer, der im Gegensatz zum vergänglichen Himmel und Erde selbst unveränderlich bleibt. Diese Schöpfer-Aussage wird dem Sohn zugeschrieben, um seine Ewigkeit gegenüber den Engeln zu unterstreichen."
+    },
+    {
+      "vers_von": 13, "von": 48, "vers_bis": 13, "bis": 132, "typ": "at",
+      "referenz": "Ps 110,1",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtliches Zitat des im Judentum messianisch gelesenen Psalms: »Setze dich zu meiner Rechten, bis ich deine Feinde hinlege zum Schemel deiner Füße«. Die Ehrenstellung zur Rechten Gottes wird keinem Engel, sondern allein dem Sohn zugesprochen."
+    },
+    {
+      "vers_von": 1, "von": 13, "vers_bis": 1, "bis": 100, "typ": "at",
+      "referenz": "vgl. allgemein die Propheten",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Aussage über die Offenbarungsgeschichte Israels, kein Zitat einer konkreten Einzelstelle — zu allgemein für eine Einzelstellen-Annotation."
+    },
+    {
+      "vers_von": 2, "von": 51, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 2,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Thematische Nähe zur Erbe-Einsetzung in Ps 2,8 und zur Schöpfungsmittlerschaft der Weisheit (Spr 8,22-31), aber ohne wörtliche Formulierungsvorlage, die ein jüdischer Leser des 1. Jahrhunderts konkret erkannt hätte. Ps 2 ist über die Annotation zu V5 bereits abgedeckt."
+    },
+    {
+      "vers_von": 3, "von": 11, "vers_bis": 3, "bis": 61, "typ": "at",
+      "referenz": "vgl. Weish 7,25-26",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Formulierung entspricht Weish 7,25-26, doch die Weisheit Salomos gehört nicht zum protestantischen Kanon, den die Menge-Bibel übersetzt — keine kanonische AT-Stelle verfügbar, auf die verlinkt werden könnte."
+    },
+    {
+      "vers_von": 3, "von": 193, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 110,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Proleptische Vorwegnahme desselben Ps 110,1-Motivs, das in V13 explizit mit Guillemets zitiert und dort bereits aktiv annotiert ist — Intra-Kapitel-Redundanz, hier keine eigene wörtliche Zitatform."
+    }
+  ]
+}
