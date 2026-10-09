@@ -1,0 +1,163 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 2,
+  "titel": "Mahnung zum Gehorsam · Erniedrigung des Sohnes unter die Engel · Christus als Bruder und Hoherpriester",
+  "abschnitte": [
+    { "id": "gehorsam", "vers_von": 1, "vers_bis": 4, "titel": "Daraus ergibt sich für uns die Verpflichtung, den durch diesen Sohn zu uns geredeten Worten willigen Gehorsam entgegenzubringen" },
+    { "id": "erniedrigung", "vers_von": 5, "vers_bis": 9, "titel": "Seine Erniedrigung (Menschwerdung und Todesleiden) beschränkt seine Erhabenheit nicht" },
+    { "id": "notwendigkeit", "vers_von": 10, "vers_bis": 13, "titel": "Die Notwendigkeit der Erniedrigung (besonders des Todesleidens)" },
+    { "id": "folgen", "vers_von": 14, "vers_bis": 18, "titel": "Die segensreichen Folgen der Erniedrigung" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 16, "vers_bis": 2, "bis": 64, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 33,2", "url": "https://www.bibleserver.com/MENG/5.Mose33,2" },
+        { "label": "Ps 68,18", "url": "https://www.bibleserver.com/MENG/Psalm68,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gemeint ist das Gesetz vom Sinai. Dass Engel bei seiner Übergabe mitwirkten, war im Judentum allgemeine Überzeugung. Sie stützte sich auf 5. Mo 33,2: Gott kam vom Sinai »aus der Mitte heiliger Zehntausend-Scharen«, und die griechische Übersetzung ergänzt dort ausdrücklich Engel zu seiner Rechten. Hinzu kommt Ps 68,18, wo Gottes himmlisches Heer »vieltausendmal tausend« am Sinai bei ihm ist. Der Schluss läuft vom Geringeren zum Größeren: War schon das durch Engel vermittelte Wort verbindlich, dann erst recht das durch den Sohn, der nach Kap. 1 über den Engeln steht."
+    },
+    {
+      "vers_von": 6, "von": 58, "vers_bis": 8, "bis": 46, "typ": "at",
+      "referenz": "Ps 8,5-7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm8,5-7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 8 staunt über die Würde des Menschen in der Schöpfung: »Menschensohn« heißt dort einfach »Mensch«, und die Herrschaft über alles ist der Schöpfungsauftrag aus 1. Mo 1,28. Der hebräische Text sagt, Gott habe den Menschen »nur wenig hinter die Gottheit gestellt«; der Hebräerbrief folgt der griechischen Übersetzung (»unter die Engel«), deren »ein wenig« auch »für kurze Zeit« bedeuten kann. Genau diese Lesart trägt V8-9: Dem Menschen ist noch nicht alles unterworfen — wohl aber ist Jesus nach kurzer Erniedrigung gekrönt."
+    },
+    {
+      "vers_von": 11, "von": 12, "vers_bis": 11, "bis": 81, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 21,8", "url": "https://www.bibleserver.com/MENG/3.Mose21,8" },
+        { "label": "3. Mo 20,8", "url": "https://www.bibleserver.com/MENG/3.Mose20,8" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Ich bin der HERR, der euch heiligt« ist im Heiligkeitsgesetz eine wiederkehrende Selbstbezeichnung Gottes (3. Mo 20,8; 21,8, dort im Zusammenhang mit dem Priesterdienst). Die griechische Übersetzung hat dort dasselbe Wort wie hier: »der Heiligende«. In V11 bezeichnet es Jesus. Ein Titel, der im AT Gott vorbehalten ist, steht hier für den Sohn, und zugleich klingt das Priestermotiv von V17 an."
+    },
+    {
+      "vers_von": 12, "von": 15, "vers_bis": 12, "bis": 110, "typ": "at",
+      "referenz": "Ps 22,23",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm22,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 22 ist der Psalm des leidenden Gerechten, dessen Anfang »Mein Gott, mein Gott, warum hast du mich verlassen?« Jesus am Kreuz betet (Mk 15,34). Mit V23 schlägt der Psalm von der Klage in den Dank des Geretteten um, der vor der Gemeinde Gottes Namen »meinen Brüdern« kundtun will. Der Text legt diese Worte Jesus in den Mund: Nach dem Leiden (V9-10) nennt er die Glaubenden seine Brüder."
+    },
+    {
+      "vers_von": 13, "von": 28, "vers_bis": 13, "bis": 68, "typ": "at",
+      "referenz": "Jes 8,17",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja8,17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja spricht diesen Satz in einer Krise: König Ahas sucht gegen Aram und das Nordreich Israel Hilfe bei Assyrien, statt Gott zu vertrauen (Jes 7-8). Der Prophet zieht sich mit seinen Jüngern zurück und hält an Gott fest, obwohl dieser »sein Angesicht vor dem Hause Jakobs verbirgt«. Der Wortlaut folgt der griechischen Übersetzung (hebräisch: »und will auf ihn hoffen«). Im Mund Jesu zeigt das Zitat ihn als Menschen, der wie seine Brüder ganz auf Gott angewiesen ist."
+    },
+    {
+      "vers_von": 13, "von": 84, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "Jes 8,18",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja8,18",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja sind die »Kinder« seine eigenen Söhne, deren symbolische Namen (Sear-Jasub »Ein Rest kehrt um«, Jes 7,3; »Raubebald-Schnellbeute«, Jes 8,3) als Zeichen für Israel dienten. Im Mund Jesu werden daraus die Menschen, die Gott ihm anvertraut hat — das Stichwort »Kinder« greift V14 sofort auf."
+    },
+    {
+      "vers_von": 17, "von": 96, "vers_bis": 17, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 16,30-34", "url": "https://www.bibleserver.com/MENG/3.Mose16,30-34" },
+        { "label": "1. Sam 2,35", "url": "https://www.bibleserver.com/MENG/1.Samuel2,35" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Erste Nennung des Hohenpriesters, des Leitthemas des ganzen Briefes. Seine wichtigste Aufgabe war der Versöhnungstag (Jom Kippur): Einmal im Jahr betrat er das Allerheiligste und erwirkte dem Volk Sühne »für all ihre Sünden« (3. Mo 16,30-34). Die Verbindung »treuer Priester« erinnert an 1. Sam 2,35. Nachdem das Priesterhaus Elis versagt hatte, verheißt Gott dort: »Mir aber will ich einen treuen Priester erstehen lassen … dem will ich ein Haus bauen, das Bestand hat.«"
+    },
+    {
+      "vers_von": 2, "von": 88, "vers_bis": 2, "bis": 159, "typ": "at",
+      "referenz": "vgl. 5. Mo 17,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose17,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hebr 10,28 begründet die Todesstrafe nach dem Gesetz Moses ausdrücklich mit 5. Mo 17,6. Hier nur allgemeine Aussage über die Strafandrohung des Gesetzes — Annotation bei 10,28."
+    },
+    {
+      "vers_von": 4, "von": 48, "vers_bis": 4, "bis": 72, "typ": "at",
+      "referenz": "vgl. 5. Mo 4,34",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zeichen und Wunder« ist im AT die stehende Wendung für die Machttaten beim Auszug aus Ägypten. Hier ist sie allgemeine Beglaubigungsformel ohne erkennbaren Rückgriff auf eine bestimmte Stelle — nicht load-bearing."
+    },
+    {
+      "vers_von": 4, "von": 107, "vers_bis": 4, "bis": 140, "typ": "at",
+      "referenz": "vgl. Joel 3,1-2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1-2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Geistausgießung der Endzeit (Joel 3,1-2) bzw. die Verteilung des Geistes auf die Ältesten (4. Mo 11,25-29) ist thematisch verwandt, die Formulierung »Austeilungen« hat aber keine AT-Vorlage."
+    },
+    {
+      "vers_von": 5, "von": 25, "vers_bis": 5, "bis": 44, "typ": "at",
+      "referenz": "vgl. allgemein",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die zukünftige Welt« (olam ha-ba) ist ein Begriff der jüdischen Theologie zur Zeit des NT, aber keine AT-Formulierung — kein Einzelstellen-Bezug möglich."
+    },
+    {
+      "vers_von": 8, "von": 71, "vers_bis": 8, "bis": 98, "typ": "at",
+      "referenz": "vgl. Ps 8,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm8,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederaufnahme aus dem unmittelbar vorangehenden Zitat Ps 8,5-7 zur Auslegung — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 9, "von": 25, "vers_bis": 9, "bis": 167, "typ": "at",
+      "referenz": "vgl. Ps 8,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm8,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Auslegende Wiederaufnahme von Ps 8,6 (»kurze Zeit unter die Engel«, »mit Herrlichkeit und Ehre gekrönt«), jetzt auf Jesus bezogen — bereits in der Begründung zu V6-8 erklärt, Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 10, "von": 155, "vers_bis": 10, "bis": 202, "typ": "at",
+      "referenz": "vgl. 2. Mo 29,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose29,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Vollenden« (teleioun) ist in der griechischen Übersetzung des AT ein Fachbegriff der Priesterweihe (2. Mo 29,9; 3. Mo 8,33: »die Hände füllen«). Im Deutschen nicht erkennbar und hier noch nicht tragend — erneut prüfen bei Hebr 5,9 und 7,28."
+    },
+    {
+      "vers_von": 14, "von": 137, "vers_bis": 14, "bis": 203, "typ": "at",
+      "referenz": "vgl. Weish 2,24",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Verbindung von Teufel und Tod entspricht Weish 2,24 (»durch den Neid des Teufels kam der Tod in die Welt«), die Weisheit Salomos gehört aber nicht zum protestantischen Kanon der Menge-Bibel. Eine kanonische AT-Stelle mit dieser Formulierung gibt es nicht; 1. Mo 3 nennt den Teufel nicht."
+    },
+    {
+      "vers_von": 16, "von": 80, "vers_bis": 16, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jes 41,8-9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja41,8-9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "In der griechischen Fassung von Jes 41,8-9 »ergreift« Gott den »Samen Abrahams«; die Wortnähe ist eine Beobachtung der Forschung, im Deutschen (»Sprößling Abrahams … hergeholt«) nicht erkennbar und für einen damaligen Leser nicht zwingend. »Nachkommenschaft Abrahams« steht hier allgemein für das Volk Gottes."
+    }
+  ]
+}
