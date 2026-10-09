@@ -21,6 +21,17 @@
       "begruendung": "Gemeint ist das Gesetz vom Sinai. Dass Engel bei seiner Übergabe mitwirkten, war im Judentum allgemeine Überzeugung. Sie stützte sich auf 5. Mo 33,2: Gott kam vom Sinai »aus der Mitte heiliger Zehntausend-Scharen«, und die griechische Übersetzung ergänzt dort ausdrücklich Engel zu seiner Rechten. Hinzu kommt Ps 68,18, wo Gottes himmlisches Heer »vieltausendmal tausend« am Sinai bei ihm ist. Der Schluss läuft vom Geringeren zum Größeren: War schon das durch Engel vermittelte Wort verbindlich, dann erst recht das durch den Sohn, der nach Kap. 1 über den Engeln steht."
     },
     {
+      "vers_von": 4, "von": 107, "vers_bis": 4, "bis": 140, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 11,25-29", "url": "https://www.bibleserver.com/MENG/4.Mose11,25-29" },
+        { "label": "Joel 3,1-2", "url": "https://www.bibleserver.com/MENG/Joel3,1-2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott teilt vom Geist des Mose den siebzig Ältesten zu, und Mose wünscht, das ganze Volk möge Propheten werden (4. Mo 11,25-29). Joel 3,1-2 verheißt das für die Endzeit. Dass Gott den Geist jetzt an viele austeilt, zeigt: Die Endzeit hat begonnen — die Botschaft ist beglaubigt."
+    },
+    {
       "vers_von": 6, "von": 58, "vers_bis": 8, "bis": 46, "typ": "at",
       "referenz": "Ps 8,5-7",
       "vgl": false,
@@ -97,15 +108,6 @@
       "begruendung": "»Zeichen und Wunder« ist im AT die stehende Wendung für die Machttaten beim Auszug aus Ägypten. Hier ist sie allgemeine Beglaubigungsformel ohne erkennbaren Rückgriff auf eine bestimmte Stelle — nicht load-bearing."
     },
     {
-      "vers_von": 4, "von": 107, "vers_bis": 4, "bis": 140, "typ": "at",
-      "referenz": "vgl. Joel 3,1-2",
-      "vgl": true,
-      "url": "https://www.bibleserver.com/MENG/Joel3,1-2",
-      "autor": "KI",
-      "status": "inaktiv",
-      "begruendung": "Die Geistausgießung der Endzeit (Joel 3,1-2) bzw. die Verteilung des Geistes auf die Ältesten (4. Mo 11,25-29) ist thematisch verwandt, die Formulierung »Austeilungen« hat aber keine AT-Vorlage."
-    },
-    {
       "vers_von": 5, "von": 25, "vers_bis": 5, "bis": 44, "typ": "at",
       "referenz": "vgl. allgemein",
       "vgl": true,
@@ -143,12 +145,14 @@
     },
     {
       "vers_von": 14, "von": 137, "vers_bis": 14, "bis": 203, "typ": "at",
-      "referenz": "vgl. Weish 2,24",
       "vgl": true,
-      "url": "https://www.bibleserver.com/MENG",
+      "urls": [
+        { "label": "Hiob 2,6", "url": "https://www.bibleserver.com/MENG/Hiob2,6" },
+        { "label": "Sach 3,1", "url": "https://www.bibleserver.com/MENG/Sacharja3,1" }
+      ],
       "autor": "KI",
       "status": "inaktiv",
-      "begruendung": "Die Verbindung von Teufel und Tod entspricht Weish 2,24 (»durch den Neid des Teufels kam der Tod in die Welt«), die Weisheit Salomos gehört aber nicht zum protestantischen Kanon der Menge-Bibel. Eine kanonische AT-Stelle mit dieser Formulierung gibt es nicht; 1. Mo 3 nennt den Teufel nicht."
+      "begruendung": "Die Verbindung von Teufel und Tod entspricht Weish 2,24 (»durch den Neid des Teufels kam der Tod in die Welt«), die Weisheit Salomos gehört aber nicht zum protestantischen Kanon der Menge-Bibel. Im kanonischen AT ist der Satan nur Ankläger im himmlischen Rat (Hiob 1-2; Sach 3,1-2; 1. Chr 21,1); Macht über das Leben hat er allein mit Gottes Erlaubnis (Hiob 2,6: »nur sein Leben sollst du schonen«). 1. Mo 3 nennt den Teufel nicht. Die Vorstellung vom Teufel als Herrn des Todes ist frühjüdisch, nicht alttestamentlich (vgl. Mt 25,41) — keine Formulierungsvorlage."
     },
     {
       "vers_von": 16, "von": 80, "vers_bis": 16, "bis": -1, "typ": "at",
