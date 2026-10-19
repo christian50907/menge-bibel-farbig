@@ -1,0 +1,140 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 4,
+  "titel": "Die verheißene Sabbatruhe · Die Kraft des Wortes Gottes · Jesus, der mitfühlende Hohepriester",
+  "abschnitte": [
+    { "id": "ruhe", "vers_von": 1, "vers_bis": 10, "titel": "Ausdeutung der Verheißung des Psalmwortes bezüglich der Ruhe des Gottesvolkes" },
+    { "id": "ermahnung", "vers_von": 11, "vers_bis": 13, "titel": "Abschließende Ermahnung mit Hinweis auf den Ernst und die Kraft des Wortes Gottes" },
+    { "id": "hohepriester", "vers_von": 14, "vers_bis": 16, "titel": "Jesus kennt die menschlichen Schwächen aus eigener Erfahrung" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 3, "von": 90, "vers_bis": 3, "bis": 173, "typ": "at",
+      "referenz": "Ps 95,11",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm95,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Schwur aus Ps 95,11 (s. 3,11) bekommt eine neue Pointe: »Meine Ruhe« ist Gottes eigene Ruhe, die seit der Vollendung der Schöpfung besteht (V4) — mehr als das Land Kanaan."
+    },
+    {
+      "vers_von": 4, "von": 70, "vers_bis": 4, "bis": 122, "typ": "at",
+      "referenz": "1. Mo 2,2",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose2,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In der griechischen Übersetzung, die hier zitiert wird, steht in 1. Mo 2,2 und Ps 95,11 dasselbe Wort für »Ruhe«. Nach jüdischer Auslegungsregel erklären Stellen mit gleichem Wort einander: Die verheißene Ruhe ist Gottes Ruhe am siebten Schöpfungstag."
+    },
+    {
+      "vers_von": 5, "von": 36, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "Ps 95,11",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm95,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gegenstelle zu V4: Gottes Ruhe gibt es seit der Schöpfung, doch die Wüstengeneration kam nicht hinein. Also steht sie anderen noch offen (V6)."
+    },
+    {
+      "vers_von": 7, "von": 145, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "Ps 95,7-8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm95,7-8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 95 hat im hebräischen Text keine Überschrift; die griechische Übersetzung schreibt ihn David zu. David lebte Jahrhunderte nach Josua — und doch spricht Gott noch von einem »Heute«."
+    },
+    {
+      "vers_von": 8, "von": 5, "vers_bis": 8, "bis": 57, "typ": "at",
+      "referenz": "Jos 21,44",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua21,44",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Unter Josua heißt es: »Der HERR verschaffte ihnen Ruhe auf allen Seiten« (Jos 21,44). Wäre das schon Gottes Ruhe gewesen, hätte David nicht später neu davon geredet. Josua und Jesus sind im Griechischen derselbe Name."
+    },
+    {
+      "vers_von": 9, "von": 34, "vers_bis": 9, "bis": 44, "typ": "at",
+      "referenz": "2. Mo 20,8-11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,8-11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtlich »Sabbatfeier«. Das Sabbatgebot begründet den wöchentlichen Ruhetag mit Gottes Ruhen nach der Schöpfung (2. Mo 20,11). Die verheißene Ruhe ist der vollendete Sabbat."
+    },
+    {
+      "vers_von": 12, "von": 5, "vers_bis": 12, "bis": 99, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 49,2", "url": "https://www.bibleserver.com/MENG/Jesaja49,2" },
+        { "label": "Jes 55,11", "url": "https://www.bibleserver.com/MENG/Jesaja55,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei den Propheten ist Gottes Wort Waffe und wirksame Kraft: Gott macht den Mund seines Knechts »einem scharfen Schwerte gleich« (Jes 49,2); sein Wort »kehrt nicht leer zu mir zurück« (Jes 55,11). Dasselbe Wort, das die Wüstengeneration ausschloss, prüft nun die Herzen der Leser (V7)."
+    },
+    {
+      "vers_von": 16, "von": 19, "vers_bis": 16, "bis": 75, "typ": "at",
+      "referenz": "3. Mo 16,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Aaron durfte nicht »zu jeder beliebigen Zeit« hinter den Vorhang vor die Deckplatte über der Lade, wo Gott sich offenbart — sonst müsste er sterben (3. Mo 16,2). Daran erinnert der »Thron der Gnade«: Durch Jesus (V14) dürfen alle jederzeit zuversichtlich hinzutreten."
+    },
+    {
+      "vers_von": 1, "von": 11, "vers_bis": 1, "bis": 49, "typ": "at",
+      "referenz": "vgl. 5. Mo 12,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose12,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ruhe« als das verheißene Land ist bei 3,7-11 erklärt (5. Mo 12,9) — Wiederholung."
+    },
+    {
+      "vers_von": 2, "von": 5, "vers_bis": 2, "bis": 65, "typ": "at",
+      "referenz": "vgl. 4. Mo 13,27",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose13,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die »Heilsbotschaft« an jene ist der Bericht der Kundschafter vom guten Land (4. Mo 13,27; 14,7-8). Kadesch ist bei 3,17 erklärt — Wiederholung."
+    },
+    {
+      "vers_von": 10, "von": 71, "vers_bis": 10, "bis": 141, "typ": "at",
+      "referenz": "vgl. 1. Mo 2,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederaufnahme von 1. Mo 2,2 aus V4 — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 11, "von": 72, "vers_bis": 11, "bis": 98, "typ": "at",
+      "referenz": "vgl. 4. Mo 14,29",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose14,29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zu Fall kommen« erinnert an die in der Wüste gefallenen Leiber (4. Mo 14,29), bei 3,17 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 13, "von": 74, "vers_bis": 13, "bis": 130, "typ": "at",
+      "referenz": "vgl. Ps 139,1-4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm139,1-4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dass Gott Herz und Gedanken durchschaut, ist geläufige AT-Frömmigkeit (Ps 139,1-4; Jer 17,10; 1. Sam 16,7) — kein Bezug auf eine bestimmte Stelle."
+    },
+    {
+      "vers_von": 14, "von": 11, "vers_bis": 14, "bis": 86, "typ": "at",
+      "referenz": "vgl. 3. Mo 16,12-15",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,12-15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Hohepriester ist bei 2,17 annotiert. Sein Gang ins Allerheiligste wird bei V16 erklärt (3. Mo 16,2) und in 9,11-12.24 entfaltet — hier keine eigene Annotation."
+    }
+  ]
+}
