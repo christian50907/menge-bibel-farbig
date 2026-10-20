@@ -1,0 +1,184 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 6,
+  "titel": "Unterweisung über die Vollkommenheit in Erkenntnis, Glaube und Hoffnungsgewißheit",
+  "abschnitte": [
+    { "id": "fortschreiten", "vers_von": 1, "vers_bis": 8, "titel": "Es gilt fortzuschreiten; Rückfall ist gefährlich und kann zu unheilbarem Schaden führen" },
+    { "id": "hoffnung", "vers_von": 9, "vers_bis": 12, "titel": "Zuversichtliche Hoffnung auf Überwindung dieses betrübenden Zustandes der Leser und der ihnen drohenden Gefahr" },
+    { "id": "verheissung", "vers_von": 13, "vers_bis": 20, "titel": "Der feste Grund der Hoffnung auf die sicher zu erwartende Herrlichkeit liegt in den zuverlässigen Verheißungen Gottes" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 23, "vers_bis": 2, "bis": 51, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 19,19", "url": "https://www.bibleserver.com/MENG/4.Mose19,19" },
+        { "label": "3. Mo 1,4", "url": "https://www.bibleserver.com/MENG/3.Mose1,4" },
+        { "label": "4. Mo 27,23", "url": "https://www.bibleserver.com/MENG/4.Mose27,23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Plural »Waschungen« erinnert an die vielen Reinigungsbäder der Tora (4. Mo 19,19). Handauflegung kennt sie beim Opfer (3. Mo 1,4) und bei der Amtseinsetzung (4. Mo 27,23). Diese Grundlehren kannten jüdische Leser schon vor Christus — der Text drängt darüber hinaus."
+    },
+    {
+      "vers_von": 2, "von": 58, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "Dan 12,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die deutlichste AT-Grundlage für Auferstehung und ewiges Gericht: Die »im Staube der Erde schlafen, werden erwachen, die einen zu ewigem Leben, die anderen zu Schmach, zu ewigem Abscheu« (Dan 12,2)."
+    },
+    {
+      "vers_von": 4, "von": 31, "vers_bis": 5, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Neh 9,12-20", "url": "https://www.bibleserver.com/MENG/Nehemia9,12-20" },
+        { "label": "2. Mo 16,4", "url": "https://www.bibleserver.com/MENG/2.Mose16,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Gaben gleichen denen der Wüstengeneration (Kap. 3-4): Licht durch die Feuersäule, gute Gebote, »Brot vom Himmel«, »deinen guten Geist« (Neh 9,12-20). Sie hat davon gekostet und fiel doch ab (Neh 9,16-17) — davor warnt V6."
+    },
+    {
+      "vers_von": 8, "von": 18, "vers_bis": 8, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 3,17-18", "url": "https://www.bibleserver.com/MENG/1.Mose3,17-18" },
+        { "label": "Jes 5,2-6", "url": "https://www.bibleserver.com/MENG/Jesaja5,2-6" },
+        { "label": "5. Mo 29,22-24", "url": "https://www.bibleserver.com/MENG/5.Mose29,22-24" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Dornen sind der Fluch über den Ackerboden seit dem Sündenfall (1. Mo 3,17-18). Gottes Weinberg soll trotz aller Pflege »in Dornen und Disteln« aufschießen (Jes 5,2-6). Wer den Bund verlässt, dessen Land wird zur »Brandstätte« (5. Mo 29,22-24)."
+    },
+    {
+      "vers_von": 13, "von": 63, "vers_bis": 14, "bis": 92, "typ": "at",
+      "referenz": "1. Mo 22,16-17",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose22,16-17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott schwört nach der Opferung Isaaks, weil Abraham ihm seinen einzigen Sohn nicht vorenthalten hat (1. Mo 22,16-17). Verheißung und Eid sind die »zwei unabänderlichen Tatsachen« (V18)."
+    },
+    {
+      "vers_von": 18, "von": 47, "vers_bis": 18, "bis": 92, "typ": "at",
+      "referenz": "4. Mo 23,19",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose23,19",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bileam muss bekennen: »Gott ist nicht ein Mensch, daß er lüge … Sollte er etwas verheißen und es nicht erfüllen?« (4. Mo 23,19). »Getäuscht haben« heißt wörtlich »gelogen haben«."
+    },
+    {
+      "vers_von": 1, "von": 178, "vers_bis": 1, "bis": 194, "typ": "at",
+      "referenz": "vgl. allgemein",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Tote Werke« ist keine AT-Formulierung — kein Einzelstellen-Bezug. Bei 9,14 (Reinigung des Gewissens, vgl. 4. Mo 19) erneut prüfen."
+    },
+    {
+      "vers_von": 4, "von": 72, "vers_bis": 4, "bis": 108, "typ": "at",
+      "referenz": "vgl. Ps 34,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm34,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Geschmeckt« erinnert an Ps 34,9 (»Schmecket und sehet, wie freundlich der HERR ist«; vgl. 1. Petr 2,3). Das Bild vom Schmecken ist aber allgemein — nur evokativ. Die Wüstengaben sind bei V4-5 (Neh 9) annotiert."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 73, "typ": "at",
+      "referenz": "vgl. 4. Mo 14,40-42",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose14,40-42",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nach Kadesch will das Volk doch noch hinaufziehen, aber Mose sagt: »Das wird euch nicht gelingen!« (4. Mo 14,40-42) — eine Umkehr, die zu spät kommt. Nur thematisch, keine Formulierungsvorlage; Kadesch ist bei 3,17 annotiert."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 73, "typ": "at",
+      "referenz": "vgl. 4. Mo 15,30-31",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,30-31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Für vorsätzliche Sünde kennt das Gesetz keine Sühne (4. Mo 15,30-31). Bei 5,2 bereits annotiert; ausdrücklich entfaltet in 10,26-29 — dort aktiv annotieren."
+    },
+    {
+      "vers_von": 7, "von": 20, "vers_bis": 7, "bis": 78, "typ": "at",
+      "referenz": "vgl. 5. Mo 11,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose11,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das verheißene Land wird »vom Regen des Himmels getränkt« (5. Mo 11,11); Regen gilt als Gottes Segen (5. Mo 11,14). Allgemeine Agrarbildsprache — das Bild ist bei V8 mit 1. Mo 3 und Jes 5 annotiert."
+    },
+    {
+      "vers_von": 10, "von": 5, "vers_bis": 10, "bis": 29, "typ": "at",
+      "referenz": "vgl. 5. Mo 32,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes Gerechtigkeit ist ein allgemeines Gottesprädikat (5. Mo 32,4) — kein Bezug auf eine bestimmte Stelle."
+    },
+    {
+      "vers_von": 15, "von": 20, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "vgl. 1. Mo 21,5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose21,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Abraham wartete 25 Jahre auf den verheißenen Sohn (1. Mo 12,4: 75 Jahre; 21,5: 100 Jahre). Erzählter Hintergrund ohne Formulierungsvorlage; die Abrahamsverheißung ist bei V13-14 annotiert."
+    },
+    {
+      "vers_von": 16, "von": 51, "vers_bis": 16, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 22,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose22,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Eid als Streitentscheidung entspricht 2. Mo 22,10 (»ein Eid bei Gott« soll »zwischen den beiden Parteien entscheiden«). Allgemeine Rechtspraxis, kein Bezug auf eine bestimmte Stelle."
+    },
+    {
+      "vers_von": 17, "von": 69, "vers_bis": 17, "bis": 107, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 33,11", "url": "https://www.bibleserver.com/MENG/Psalm33,11" },
+        { "label": "Jes 46,10", "url": "https://www.bibleserver.com/MENG/Jesaja46,10" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der beständige Ratschluss Gottes (Ps 33,11; Jes 46,10) ist ein allgemeiner Gedanke — nur evokativ. Der tragende Bezug, der Eid aus 1. Mo 22, ist bei V13-14 annotiert."
+    },
+    {
+      "vers_von": 18, "von": 131, "vers_bis": 18, "bis": 174, "typ": "at",
+      "referenz": "vgl. 4. Mo 35,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose35,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zuflucht nehmen« erinnert an die Freistädte (4. Mo 35,11; Jos 20). Die Wortnähe besteht nur in der griechischen Übersetzung (5. Mo 4,42) — nur evokativ."
+    },
+    {
+      "vers_von": 19, "von": 95, "vers_bis": 19, "bis": -1, "typ": "at",
+      "referenz": "vgl. 3. Mo 16,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Hinter den Vorhang« ist die Wendung für den Gang des Hohenpriesters ins Allerheiligste (3. Mo 16,2.12) — bei 4,16 erklärt, Wiederholung. Entfaltet in 9,3-12 und 10,19-20."
+    },
+    {
+      "vers_von": 20, "von": 71, "vers_bis": 20, "bis": 116, "typ": "at",
+      "referenz": "Ps 110,4",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ps 110,4 ist bei 5,6 annotiert — Wiederholung. Auch Ps 110,4 ist ein Schwur Gottes (»Geschworen hat der HERR«) — Brücke vom Eid in V13-17 zu 7,20-21."
+    }
+  ]
+}

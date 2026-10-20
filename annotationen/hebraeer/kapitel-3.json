@@ -1,0 +1,167 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 3,
+  "titel": "Der Sohn über dem Diener Mose · Warnung des Psalmwortes · Das Beispiel der Wüstengeneration",
+  "abschnitte": [
+    { "id": "mose", "vers_von": 1, "vers_bis": 6, "titel": "Der Gottessohn Jesus in seiner Erhabenheit über den Gottesdiener Mose" },
+    { "id": "warnung", "vers_von": 7, "vers_bis": 14, "titel": "Die Warnung des Psalmwortes vor Unglauben und Abfall" },
+    { "id": "wueste", "vers_von": 15, "vers_bis": 19, "titel": "Das Warnungsbeispiel der Israeliten in der Wüste" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 7, "vers_bis": 2, "bis": 104, "typ": "at",
+      "referenz": "4. Mo 12,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/4.Mose12,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott stellt Mose über alle Propheten: Er »ist mit meinem ganzen Hause betraut« (griechisch: »treu«). Der Text gibt Jesus dieselbe Würde und überbietet sie in V5-6 aus demselben Vers: Mose ist Gottes »Knecht« im Haus, Christus der Sohn über das Haus."
+    },
+    {
+      "vers_von": 7, "von": 50, "vers_bis": 11, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Ps 95,7-11", "url": "https://www.bibleserver.com/MENG/Psalm95,7-11" },
+        { "label": "2. Mo 17,1-7", "url": "https://www.bibleserver.com/MENG/2.Mose17,1-7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Hebräerbrief folgt der griechischen Übersetzung: Sie gibt die Ortsnamen Meriba und Massa (2. Mo 17,1-7) als »Erbitterung« und »Versuchung« wieder — daher weicht der Menge-Wortlaut im Psalm ab. Der Schwur in V11 gehört zu Kadesch (s. V17). »Ruhe« meint das verheißene Land (5. Mo 12,9); das »Heute« gilt jetzt den Lesern."
+    },
+    {
+      "vers_von": 15, "von": 15, "vers_bis": 15, "bis": 115, "typ": "at",
+      "referenz": "Ps 95,7-8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm95,7-8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Psalmanfang wird wiederholt und in V16-18 Stichwort für Stichwort ausgelegt: Wer hat erbittert? Über wen war Gott entrüstet? Wem hat er geschworen?"
+    },
+    {
+      "vers_von": 17, "von": 122, "vers_bis": 17, "bis": 170, "typ": "at",
+      "referenz": "4. Mo 14,29-33",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose14,29-33",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Kadesch weigert sich das Volk nach dem Bericht der Kundschafter, ins Land zu ziehen. Gott schwört: »In der Wüste hier sollen eure Leiber tot hinfallen« (14,28-29) — vierzig Jahre lang, bis diese Generation gestorben ist (14,33). Nur Kaleb und Josua kommen hinein; der Grund war »Unglaube« (V19)."
+    },
+    {
+      "vers_von": 1, "von": 89, "vers_bis": 1, "bis": 100, "typ": "at",
+      "referenz": "vgl. 2. Mo 3,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Gottesbote« (griech. apostolos, »Gesandter«) wird nur hier im NT für Jesus gebraucht. Die Parallele zu Mose als dem von Gott Gesandten (2. Mo 3,10: »ich will dich zum Pharao senden«) liegt inhaltlich nahe, hat aber keine Formulierungsvorlage. Hoherpriester ist bei 2,17 annotiert."
+    },
+    {
+      "vers_von": 2, "von": 23, "vers_bis": 2, "bis": 45, "typ": "at",
+      "referenz": "vgl. 1. Sam 12,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel12,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Menge-Fußnote übersetzt alternativ »der ihn dazu gemacht hat« — gemeint ist die Einsetzung ins Amt, nicht die Erschaffung. Die griechische Übersetzung von 1. Sam 12,6 sagt dasselbe von Mose und Aaron (»der HERR, der Mose und Aaron bestellt hat«). Die Wortnähe ist im Deutschen nicht erkennbar; die Fußnote erklärt die Stelle hinreichend."
+    },
+    {
+      "vers_von": 3, "von": 94, "vers_bis": 3, "bis": 131, "typ": "at",
+      "referenz": "vgl. Sach 6,12-13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja6,12-13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der »Spross« baut den Tempel, trägt Herrlichkeit und ist Priester auf dem Thron — thematische Nähe zu Baumeister, größerer Herrlichkeit und Hoherpriester. V3-4 ist aber ein allgemeiner Vergleich (Baumeister > Bau, Gott als Schöpfer) ohne Formulierungsvorlage."
+    },
+    {
+      "vers_von": 5, "von": 38, "vers_bis": 5, "bis": 105, "typ": "at",
+      "referenz": "4. Mo 12,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/4.Mose12,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederaufnahme von 4. Mo 12,7 aus V2; das Stichwort »Diener« (»mein Knecht Mose«) ist in der Begründung zu V2 erklärt — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 5, "von": 107, "vers_bis": 5, "bis": 181, "typ": "at",
+      "referenz": "vgl. 5. Mo 18,15-18",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,15-18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Mose als Zeuge für Künftiges erinnert an die Verheißung eines Propheten wie Mose. Der Text greift aber weder ihren Wortlaut noch das Prophetenmotiv auf — nur thematisch verwandt."
+    },
+    {
+      "vers_von": 6, "von": 32, "vers_bis": 6, "bis": 63, "typ": "at",
+      "referenz": "vgl. 1. Chr 17,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Chronik17,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "In der Nathan-Verheißung verbinden sich Sohn und Haus (1. Chr 17,13-14; 2. Sam 7,14). Die griechische Fassung von 1. Chr 17,14 (»ich will ihn treu machen in meinem Hause«) berührt sich wörtlich mit 4. Mo 12,7, ebenso 1. Sam 2,35 (»treuer Priester … beständiges Haus«, bei 2,17 annotiert) — das ist die eigentliche Brücke von 2,17 zu 3,1-6. Im Deutschen nicht erkennbar; die Wendungen in V6 sind aus dem Gegensatz zu 4. Mo 12,7 (Diener — Sohn) gebildet. Die Nathan-Verheißung ist bei 1,5 annotiert."
+    },
+    {
+      "vers_von": 7, "von": 19, "vers_bis": 7, "bis": 48, "typ": "at",
+      "referenz": "vgl. 2. Sam 23,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel23,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dass der Geist durch die Schrift redet, entspricht 2. Sam 23,2 (David: »Der Geist des HERRN hat durch mich geredet«); Hebr 4,7 nennt David als Sprecher von Ps 95. Der heilige Geist ist bei 2,4 annotiert; die Redeformel ist allgemeine Schriftauffassung, kein Einzelstellen-Bezug."
+    },
+    {
+      "vers_von": 12, "von": 83, "vers_bis": 12, "bis": 92, "typ": "at",
+      "referenz": "vgl. 4. Mo 14,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose14,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die griechische Fassung von 4. Mo 14,9 warnt in der Kadesch-Geschichte »werdet nicht abtrünnig« — dasselbe Wortfeld wie »Abfall« hier. Die Verbindung ist nur im Griechischen sichtbar; Kadesch ist bei V17 erklärt."
+    },
+    {
+      "vers_von": 12, "von": 97, "vers_bis": 12, "bis": 116, "typ": "at",
+      "referenz": "vgl. 5. Mo 5,26",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose5,26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der lebendige Gott« ist eine häufige AT-Wendung (5. Mo 5,26; Jos 3,10; Ps 42,3), so geläufig, dass kein Leser an eine bestimmte Stelle dachte — allgemeines Vokabular."
+    },
+    {
+      "vers_von": 13, "von": 56, "vers_bis": 13, "bis": 63, "typ": "at",
+      "referenz": "Ps 95,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm95,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Stichwort-Wiederaufnahme aus dem Zitat V7 — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 14, "von": 5, "vers_bis": 14, "bis": 21, "typ": "at",
+      "referenz": "vgl. Ps 45,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm45,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Genossen« (griech. metochoi, auch in 3,1) nimmt das Wort aus Ps 45,8 (»mehr als deine Genossen«) auf, das bei 1,9 zitiert ist — Wiederholung eines bereits annotierten Motivs, kein eigener AT-Bezug."
+    },
+    {
+      "vers_von": 18, "von": 25, "vers_bis": 18, "bis": 92, "typ": "at",
+      "referenz": "vgl. 4. Mo 14,21-23",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose14,21-23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Schwur greift Ps 95,11 (V11) und 4. Mo 14,21-23 auf; beides ist bei V7-11 und V17 erklärt — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 19, "von": 61, "vers_bis": 19, "bis": 87, "typ": "at",
+      "referenz": "vgl. Ps 106,24-26",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm106,24-26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ps 106,24-26 fasst Kadesch ebenso zusammen: verschmähtes Land, Unglaube, Schwur, Fall in der Wüste. Durch 4. Mo 14 bei V17 bereits abgedeckt — Intra-Kapitel-Redundanz."
+    }
+  ]
+}

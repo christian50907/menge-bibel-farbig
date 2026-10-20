@@ -1,0 +1,112 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 1,
+  "titel": "Der Brief an die Hebräer",
+  "abschnitte": [
+    { "id": "allgemein", "vers_von": 1, "vers_bis": 4, "titel": "Allgemeine Darlegung dieser Hoheit" },
+    { "id": "at-belege", "vers_von": 5, "vers_bis": 14, "titel": "Alttestamentliche Belege für die Erhabenheit des Gottessohnes über die Engel" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 5, "von": 57, "vers_bis": 5, "bis": 105, "typ": "at",
+      "referenz": "Ps 2,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Formel aus dem Krönungspsalm: Am Tag der Thronbesteigung erklärt Gott den König zu seinem Sohn. Diese Zusage hat nach dem Text kein Engel je erhalten."
+    },
+    {
+      "vers_von": 5, "von": 125, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "2. Sam 7,14",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Aus der Nathan-Verheißung: Gott sagt dem Sohn Davids zu, ihm Vater zu sein. Diese Zusage des Davidsbunds wird auf den Gottessohn übertragen — keinem Engel galt sie."
+    },
+    {
+      "vers_von": 6, "von": 106, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 97,7", "url": "https://www.bibleserver.com/MENG/Psalm97,7" },
+        { "label": "5. Mo 32,43", "url": "https://www.bibleserver.com/MENG/5.Mose32,43" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Satz steht so nur in der griechischen Übersetzung von 5. Mo 32,43 (ähnlich Ps 97,7), nicht im hebräischen Text. Die Menge-Bibel übersetzt das AT aus dem Hebräischen — daher weicht ihr Wortlaut dort ab."
+    },
+    {
+      "vers_von": 7, "von": 42, "vers_bis": 7, "bis": 107, "typ": "at",
+      "referenz": "Ps 104,4",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm104,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Engel erscheinen als wandelbare Diener Gottes, wie Wind und Feuer. Dagegen steht in V8 der ewige Thron des Sohnes."
+    },
+    {
+      "vers_von": 8, "von": 28, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Ps 45,7-8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm45,7-8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der königliche Hochzeitspsalm redet den Davidskönig als »Gott« an. Der Text bezieht diese Anrede auf den Sohn."
+    },
+    {
+      "vers_von": 10, "von": 12, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "Ps 102,26-28",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm102,26-28",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Psalm preist Gott als Schöpfer, der bleibt, während Himmel und Erde vergehen. Der Text spricht diese Schöpferaussage dem Sohn zu."
+    },
+    {
+      "vers_von": 13, "von": 48, "vers_bis": 13, "bis": 132, "typ": "at",
+      "referenz": "Ps 110,1",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Psalm wurde im Judentum messianisch gelesen. Den Ehrenplatz zur Rechten Gottes spricht der Text allein dem Sohn zu, keinem Engel."
+    },
+    {
+      "vers_von": 1, "von": 13, "vers_bis": 1, "bis": 100, "typ": "at",
+      "referenz": "vgl. allgemein die Propheten",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Aussage über die Offenbarungsgeschichte Israels, kein Zitat einer konkreten Einzelstelle — zu allgemein für eine Einzelstellen-Annotation."
+    },
+    {
+      "vers_von": 2, "von": 51, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 2,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Thematische Nähe zur Erbe-Einsetzung in Ps 2,8 und zur Schöpfungsmittlerschaft der Weisheit (Spr 8,22-31), aber ohne wörtliche Formulierungsvorlage, die ein jüdischer Leser des 1. Jahrhunderts konkret erkannt hätte. Ps 2 ist über die Annotation zu V5 bereits abgedeckt."
+    },
+    {
+      "vers_von": 3, "von": 11, "vers_bis": 3, "bis": 61, "typ": "at",
+      "referenz": "vgl. Weish 7,25-26",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Formulierung entspricht Weish 7,25-26, doch die Weisheit Salomos gehört nicht zum protestantischen Kanon, den die Menge-Bibel übersetzt — keine kanonische AT-Stelle verfügbar, auf die verlinkt werden könnte."
+    },
+    {
+      "vers_von": 3, "von": 193, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 110,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Proleptische Vorwegnahme desselben Ps 110,1-Motivs, das in V13 explizit mit Guillemets zitiert und dort bereits aktiv annotiert ist — Intra-Kapitel-Redundanz, hier keine eigene wörtliche Zitatform."
+    }
+  ]
+}
