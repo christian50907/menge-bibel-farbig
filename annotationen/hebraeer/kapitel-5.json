@@ -1,0 +1,159 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 5,
+  "titel": "Christus, Hoherpriester nach der Ordnung Melchisedeks · Klage über die Unmündigkeit der Leser",
+  "abschnitte": [
+    { "id": "melchisedek", "vers_von": 1, "vers_bis": 10, "titel": "Bei Christus finden sich die notwendigen, in Melchisedek vorgeschatteten Erfordernisse des Hohenpriesters" },
+    { "id": "unmuendigkeit", "vers_von": 11, "vers_bis": 14, "titel": "Klage über die Unmündigkeit, über die geistige Trägheit und Rückständigkeit der Leser" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 32, "vers_bis": 2, "bis": 81, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 4,2", "url": "https://www.bibleserver.com/MENG/3.Mose4,2" },
+        { "label": "4. Mo 15,27-31", "url": "https://www.bibleserver.com/MENG/4.Mose15,27-31" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gesetz kennt Sühne nur für unvorsätzliche Verfehlungen (3. Mo 4,2; 4. Mo 15,27-28). Wer vorsätzlich sündigt, soll »ohne Gnade ausgerottet werden« (4. Mo 15,30-31). Für die »Unwissenden und Irrenden« tritt der Hohepriester ein — vgl. 6,4-6; 10,26."
+    },
+    {
+      "vers_von": 3, "von": 28, "vers_bis": 3, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 9,7", "url": "https://www.bibleserver.com/MENG/3.Mose9,7" },
+        { "label": "3. Mo 16,6", "url": "https://www.bibleserver.com/MENG/3.Mose16,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Aarons Amtsantritt und am Versöhnungstag bringt der Hohepriester zuerst ein Sündopfer für sich selbst dar, dann für das Volk (3. Mo 9,7; 16,6). Christus braucht das nicht (7,27)."
+    },
+    {
+      "vers_von": 4, "von": 59, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 28,1", "url": "https://www.bibleserver.com/MENG/2.Mose28,1" },
+        { "label": "4. Mo 16,10", "url": "https://www.bibleserver.com/MENG/4.Mose16,10" },
+        { "label": "4. Mo 17,20-23", "url": "https://www.bibleserver.com/MENG/4.Mose17,20-23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott selbst bestimmt Aaron zum Priester (2. Mo 28,1). Als Korah auch »die Priesterwürde« verlangt (4. Mo 16,10), bestätigt Gott seine Wahl: Aarons Stab grünt und trägt Mandeln (4. Mo 17,20-23)."
+    },
+    {
+      "vers_von": 5, "von": 150, "vers_bis": 5, "bis": 205, "typ": "at",
+      "referenz": "Ps 2,7",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 2,7 belegte in 1,5 die Sohnschaft; hier die Berufung: Wer Jesus zum Sohn einsetzt, beruft ihn auch zum Hohenpriester (V6)."
+    },
+    {
+      "vers_von": 6, "von": 42, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Ps 110,4", "url": "https://www.bibleserver.com/MENG/Psalm110,4" },
+        { "label": "1. Mo 14,18", "url": "https://www.bibleserver.com/MENG/1.Mose14,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Psalm, der den König zur Rechten Gottes setzt (1,13), nennt ihn mit einem Schwur Gottes auch Priester. Melchisedek war König von Salem und »Priester des höchsten Gottes« (1. Mo 14,18) — lange vor Aaron, ohne levitische Abstammung. Kap. 7 entfaltet das."
+    },
+    {
+      "vers_von": 9, "von": 14, "vers_bis": 9, "bis": 36, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 8,33", "url": "https://www.bibleserver.com/MENG/3.Mose8,33" },
+        { "label": "3. Mo 21,10", "url": "https://www.bibleserver.com/MENG/3.Mose21,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Vollenden« ist in der griechischen Übersetzung des AT ein Fachwort der Priesterweihe: Der Hohepriester ist der, »den man in sein Amt eingesetzt hat« (3. Mo 21,10; vgl. 8,33 »Einweihung«). Durch sein Leiden wird Jesus in sein Priesteramt eingesetzt."
+    },
+    {
+      "vers_von": 14, "von": 129, "vers_bis": 14, "bis": 172, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 1,39", "url": "https://www.bibleserver.com/MENG/5.Mose1,39" },
+        { "label": "1. Kön 3,9", "url": "https://www.bibleserver.com/MENG/1.Koenige3,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Gutes und Böses unterscheiden« ist im AT das Kennzeichen des Mündigen: Unmündig sind die Kinder, »die heute noch nicht Gutes und Böses zu unterscheiden wissen« (5. Mo 1,39); Salomo erbittet diese Fähigkeit als König (1. Kön 3,9)."
+    },
+    {
+      "vers_von": 1, "von": 113, "vers_bis": 1, "bis": 173, "typ": "at",
+      "referenz": "vgl. 3. Mo 2,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose2,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Unblutige (Speisopfer, 3. Mo 2) und blutige Opfer (3. Mo 1; 3-7) — allgemeine Beschreibung des Opferdienstes. Der Hohepriester ist bei 2,17 annotiert."
+    },
+    {
+      "vers_von": 5, "von": 26, "vers_bis": 5, "bis": 88, "typ": "at",
+      "referenz": "vgl. 2. Chr 26,16-21",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Chronik26,16-21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Könige, die sich eigenmächtig Priesterdienst anmaßen — Usija (2. Chr 26,16-21), Saul (1. Sam 13,9-14) —, bilden eine sachliche Kontrastfolie. Keine Formulierungsvorlage; der Gedanke ist durch Korah bei V4 abgedeckt."
+    },
+    {
+      "vers_von": 7, "von": 68, "vers_bis": 7, "bis": 98, "typ": "at",
+      "referenz": "vgl. Ps 116,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm116,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tränen und Rettung vom Tod erinnern an Dank- und Klagepsalmen (Ps 116,8: »mein Leben vom Tode errettet, meine Augen vom Weinen«; Ps 22,25). Ps 22 ist bei 2,12 annotiert; ein bestimmter Wortlaut wird nicht aufgegriffen — nur evokativ."
+    },
+    {
+      "vers_von": 8, "von": 36, "vers_bis": 8, "bis": 73, "typ": "at",
+      "referenz": "vgl. Jes 50,5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja50,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gehorsam im Leiden erinnert an den Gottesknecht, der sich »nicht gesträubt« hat (Jes 50,5-6). Keine Formulierungsvorlage; das Wortspiel »lernen/leiden« (griech. emathen/epathen) ist griechisch, nicht alttestamentlich. Erziehung des Sohnes durch Leiden: Spr 3,11-12 bei 12,5-6."
+    },
+    {
+      "vers_von": 9, "von": 82, "vers_bis": 9, "bis": 106, "typ": "at",
+      "referenz": "vgl. Jes 45,17",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja45,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jes 45,17 verheißt Israel »eine ewige Rettung« durch den HERRN; die griechische Übersetzung hat dieselbe Wendung wie hier. »Ewiges Heil« ist aber zu allgemein für einen erkennbaren Bezug, und dass Gottes Werk dem Sohn zugeschrieben wird, ist bei 1,10 (Ps 102) annotiert."
+    },
+    {
+      "vers_von": 10, "von": 37, "vers_bis": 10, "bis": 82, "typ": "at",
+      "referenz": "Ps 110,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederaufnahme von Ps 110,4 aus V6 — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 12, "von": 132, "vers_bis": 12, "bis": 164, "typ": "at",
+      "referenz": "vgl. 5. Mo 33,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose33,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Offenbarungsworte« (griech. logia) ist in der griechischen Übersetzung des AT eine Bezeichnung für Gottes Worte (z. B. 5. Mo 33,9: »dein Gebot«) — allgemeines Vokabular, nicht load-bearing."
+    },
+    {
+      "vers_von": 12, "von": 198, "vers_bis": 12, "bis": 224, "typ": "at",
+      "referenz": "vgl. Jes 28,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja28,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Milch für Unmündige erinnert an den Spott über Jesajas Lehre für »Kinder, die eben von der Milch entwöhnt« sind (Jes 28,9). Das Bild ist aber allgemeine Lehrersprache (vgl. 1. Kor 3,2) — nur evokativ."
+    }
+  ]
+}
