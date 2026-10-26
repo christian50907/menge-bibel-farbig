@@ -1,0 +1,347 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 7,
+  "titel": "Jesus der vollkommene Hohepriester auf ewig nach der Ordnung Melchisedeks",
+  "abschnitte": [
+    { "id": "person", "vers_von": 1, "vers_bis": 3, "titel": "Angaben über die Person Melchisedeks" },
+    { "id": "wuerde", "vers_von": 4, "vers_bis": 10, "titel": "Melchisedek steht an Würde höher als die levitischen Priester" },
+    { "id": "aenderung", "vers_von": 11, "vers_bis": 17, "titel": "Die durch das eigenartige Priestertum Jesu bewirkte Änderung (Aufhebung) der Priesterordnung" },
+    { "id": "buerge", "vers_von": 18, "vers_bis": 25, "titel": "Der Grund für den Wechsel der Priesterordnung ist, daß Jesus Bürge eines höheren Bundes werden sollte" },
+    { "id": "zusammenfassung", "vers_von": 26, "vers_bis": 28, "titel": "Abschließende Zusammenfassung: Jesus als der vollkommene und ewige Hohepriester" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 2, "bis": 71, "typ": "at",
+      "referenz": "1. Mo 14,17-20",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose14,17-20",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Melchisedek erscheint im AT nur zweimal: in dieser kurzen Szene (1. Mo 14,18-20) und in Ps 110,4. Nach dem Sieg über die Könige bringt er Abram Brot und Wein, segnet ihn und empfängt von ihm »den Zehnten von allem«. Der Text legt die Szene Zug um Zug aus."
+    },
+    {
+      "vers_von": 2, "von": 119, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 14,18", "url": "https://www.bibleserver.com/MENG/1.Mose14,18" },
+        { "label": "Ps 76,3", "url": "https://www.bibleserver.com/MENG/Psalm76,3" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hebräische Namensdeutung: Malki-zedek heißt »König der Gerechtigkeit«, Salem klingt an schalom, »Friede«, an. Salem ist ein alter Name Jerusalems (Ps 76,3: »in Salem erstand seine Hütte«)."
+    },
+    {
+      "vers_von": 3, "von": 31, "vers_bis": 3, "bis": 75, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Esra 2,62", "url": "https://www.bibleserver.com/MENG/Esra2,62" },
+        { "label": "Neh 7,64", "url": "https://www.bibleserver.com/MENG/Nehemia7,64" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein Priester ohne Stammbaum war undenkbar: Wer seine Geschlechtsurkunde nicht fand, wurde »als unrein vom Priestertum ausgeschlossen« (Esra 2,62). 1. Mo 14 nennt bei Melchisedek weder Eltern noch Herkunft noch Tod — gerade dieses Schweigen deutet der Text."
+    },
+    {
+      "vers_von": 5, "von": 75, "vers_bis": 5, "bis": 163, "typ": "at",
+      "referenz": "4. Mo 18,20-30",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose18,20-30",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnote. Das Gesetz weist den Leviten den Zehnten der Israeliten zu; sie geben davon wiederum »den Zehnten vom Zehnten« für die Priester ab (4. Mo 18,21.26). Abraham aber gab den Zehnten einem Priester außerhalb dieser Ordnung."
+    },
+    {
+      "vers_von": 13, "von": 26, "vers_bis": 13, "bis": 41, "typ": "at",
+      "referenz": "Ps 110,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnote: »Jener Ausspruch« ist Ps 110,4. Der Psalm gilt dem König auf dem Thron Davids (1,13) — und der stammt aus Juda, nicht aus Levi (V14)."
+    },
+    {
+      "vers_von": 14, "von": 50, "vers_bis": 14, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 49,10", "url": "https://www.bibleserver.com/MENG/1.Mose49,10" },
+        { "label": "4. Mo 3,10", "url": "https://www.bibleserver.com/MENG/4.Mose3,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Juda ist der Königsstamm: »Nicht wird das Zepter von Juda weichen« (1. Mo 49,10). Das Priestertum gab die Tora allein Aaron und seinen Söhnen; »ein Unbefugter aber, der das Amt ausübt, soll sterben« (4. Mo 3,10). König und Priester in einer Person sah das Gesetz nicht vor."
+    },
+    {
+      "vers_von": 17, "von": 23, "vers_bis": 17, "bis": -1, "typ": "at",
+      "referenz": "Ps 110,4",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnote. Ps 110,4 (s. 5,6) wird jetzt am Wort »in Ewigkeit« ausgelegt: Die levitischen Priester wurden durch Abstammung Priester, dieser durch »unzerstörbares Leben« (V16)."
+    },
+    {
+      "vers_von": 19, "von": 169, "vers_bis": 19, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 16,5", "url": "https://www.bibleserver.com/MENG/4.Mose16,5" },
+        { "label": "4. Mo 18,7", "url": "https://www.bibleserver.com/MENG/4.Mose18,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Gott nahen« ist im AT ein Vorrecht der Priester: Wen Gott erwählt, »den wird er zu sich nahen lassen« (4. Mo 16,5); den Dienst »hinter dem Vorhange« versahen allein Aaron und seine Söhne (4. Mo 18,7). Hier ist das Nahen allen Gläubigen offen: »wir«."
+    },
+    {
+      "vers_von": 21, "von": 74, "vers_bis": 21, "bis": 160, "typ": "at",
+      "referenz": "Ps 110,4",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Menge-Fußnote. Jetzt wird der Anfang des Verses zitiert: »Geschworen hat der HERR und wird sich’s nicht leid sein lassen« (Menge zu Ps 110,4). Aarons Söhne wurden ohne Eid eingesetzt (V20); dieses Priestertum ruht auf einem Schwur Gottes — vgl. 6,13-18."
+    },
+    {
+      "vers_von": 23, "von": 60, "vers_bis": 23, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 20,26-28",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose20,26-28",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "So ging das Amt von Hand zu Hand: Auf dem Berg Hor zieht Mose Aaron die Gewänder aus und legt sie »dessen Sohne Eleasar an; darauf starb Aaron« (4. Mo 20,28)."
+    },
+    {
+      "vers_von": 26, "von": 63, "vers_bis": 26, "bis": 124, "typ": "at",
+      "referenz": "3. Mo 21,10-15",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose21,10-15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Für den Hohenpriester galten die strengsten Reinheitsgebote: keine Berührung mit einer Leiche, »sogar an seinem Vater und an seiner Mutter« nicht; »aus dem Heiligtum darf er sich nicht entfernen« (3. Mo 21,11-12). Was dort äußerlich gesichert wird, ist bei Jesus ganz erfüllt."
+    },
+    {
+      "vers_von": 27, "von": 47, "vers_bis": 27, "bis": 149, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 29,38-42", "url": "https://www.bibleserver.com/MENG/2.Mose29,38-42" },
+        { "label": "3. Mo 6,13", "url": "https://www.bibleserver.com/MENG/3.Mose6,13" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Täglich brannte am Altar das »regelmäßige Brandopfer« (2. Mo 29,38-42), dazu das Speisopfer des Hohenpriesters, »die eine Hälfte davon am Morgen, die andere Hälfte am Abend« (3. Mo 6,13). Erst für sich, dann für das Volk opferte er am Versöhnungstag (s. 5,3)."
+    },
+    {
+      "vers_von": 3, "von": 172, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "Ps 110,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vorwegnahme von Ps 110,4 (»in Ewigkeit«), das bei V17 aktiv annotiert ist — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 4, "von": 74, "vers_bis": 4, "bis": 121, "typ": "at",
+      "referenz": "vgl. 1. Mo 14,20",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose14,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Zehnte aus der Beute ist bei V1 (1. Mo 14,17-20) annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 6, "von": 133, "vers_bis": 6, "bis": 172, "typ": "at",
+      "referenz": "vgl. 1. Mo 12,2-3",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose12,2-3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Abrahamsverheißungen (1. Mo 12,2-3) sind bei 6,13-14 (1. Mo 22,16-17) annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 7, "von": 40, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "vgl. 1. Mo 14,19",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose14,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeiner Grundsatz, keine AT-Formulierung. Der Segen Melchisedeks ist bei V1 annotiert."
+    },
+    {
+      "vers_von": 10, "von": 36, "vers_bis": 10, "bis": 72, "typ": "at",
+      "referenz": "vgl. 1. Mo 35,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose35,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Aus den Lenden hervorgehen« ist hebräische Redeweise für leibliche Nachkommen (1. Mo 35,11; 46,26). Die Menge-Bibel übersetzt dort »leibliche Nachkommen«, sodass kein Wortanklang sichtbar wird; der Gedanke (Levi im Stammvater enthalten) braucht keine Einzelstelle."
+    },
+    {
+      "vers_von": 11, "von": 226, "vers_bis": 11, "bis": 319, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 110,4", "url": "https://www.bibleserver.com/MENG/Psalm110,4" },
+        { "label": "2. Mo 28,1", "url": "https://www.bibleserver.com/MENG/2.Mose28,1" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ps 110,4 ist bei 5,6 und V17 annotiert, Aarons Berufung (2. Mo 28,1) bei 5,4 — Wiederholung. »Nach der Ordnung Aarons« ist kein AT-Zitat, sondern Gegenbildung zum Psalmwort."
+    },
+    {
+      "vers_von": 16, "von": 103, "vers_bis": 16, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 110,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Unzerstörbares Leben« ist keine AT-Formulierung, sondern Auslegung von »in Ewigkeit« aus Ps 110,4 (V17) — dort erklärt."
+    },
+    {
+      "vers_von": 22, "von": 37, "vers_bis": 22, "bis": 68, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 31,31", "url": "https://www.bibleserver.com/MENG/Jeremia31,31" },
+        { "label": "1. Mo 43,9", "url": "https://www.bibleserver.com/MENG/1.Mose43,9" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Erste Nennung des »Bundes« im Brief. Der neue Bund aus Jer 31,31-34 wird in 8,8-12 ausdrücklich zitiert — dort annotieren. Juda, der sich als »Bürge« für Benjamin anbietet (1. Mo 43,9), ist nur evokativ."
+    },
+    {
+      "vers_von": 24, "von": 43, "vers_bis": 24, "bis": 56, "typ": "at",
+      "referenz": "Ps 110,4",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Stichwort-Wiederaufnahme aus Ps 110,4 (V17, V21) — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 25, "von": 110, "vers_bis": 25, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jes 53,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Gottesknecht ist »für die Übeltäter fürbittend eingetreten« (Jes 53,12, Menge). Der deutsche Gleichklang ist auffällig, die griechische Übersetzung hat dort aber ein anderes Wort, und der Text greift Jes 53 nicht erkennbar auf — nur evokativ."
+    },
+    {
+      "vers_von": 26, "von": 129, "vers_bis": 26, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 110,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Erhöhung zur Rechten Gottes (Ps 110,1) ist bei 1,13 annotiert; »durch die Himmel hindurchgegangen« schon 4,14 — Wiederholung."
+    },
+    {
+      "vers_von": 27, "von": 208, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jes 53,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dass der Priester sich selbst als Opfer darbringt, hat im Opferrecht keine Vorlage; nächste Parallele ist der Gottesknecht, der »sein Leben als Sühne einsetzen« wird (Jes 53,10; Fußnote: »Schuldopfer«). Kein Wortbezug — das Selbstopfer wird in 9,12-14.26 entfaltet."
+    },
+    {
+      "vers_von": 28, "von": 100, "vers_bis": 28, "bis": 191, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 110,4", "url": "https://www.bibleserver.com/MENG/Psalm110,4" },
+        { "label": "Ps 2,7", "url": "https://www.bibleserver.com/MENG/Psalm2,7" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zusammenfassung: Schwur aus Ps 110,4 (V21) und Sohn aus Ps 2,7 (1,5; 5,5). Dass der Psalm jünger ist als das Gesetz, argumentiert wie 4,7 — Wiederholung."
+    },
+    {
+      "vers_von": 8, "von": 90, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 110,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Bezeugt« greift das Schweigen von 1. Mo 14 über Melchisedeks Tod (V3) und vorab das »in Ewigkeit« (V17) auf. Die Menge-Fußnote verweist nur auf V3 — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 9, "von": 54, "vers_bis": 9, "bis": 79, "typ": "at",
+      "referenz": "vgl. 4. Mo 18,21",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose18,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Zehntrecht der Leviten ist bei V5 annotiert — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 11, "von": 15, "vers_bis": 11, "bis": 30, "typ": "at",
+      "referenz": "vgl. 3. Mo 8,33",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose8,33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Vollendung« ist in der griechischen Übersetzung des AT ein Fachwort der Priesterweihe — bei 5,9 erklärt, Wiederholung."
+    },
+    {
+      "vers_von": 12, "von": 70, "vers_bis": 12, "bis": 96, "typ": "at",
+      "referenz": "vgl. Jer 31,31-33",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,31-33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Gesetz des neuen Bundes (Jer 31,31-33) wird in 8,8-12 ausdrücklich zitiert — dort annotieren."
+    },
+    {
+      "vers_von": 13, "von": 94, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Chr 26,16-21",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Chronik26,16-21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "König Usija aus Juda wollte im Tempel räuchern und wurde aussätzig (2. Chr 26,16-21) — passende Illustration, aber der Text spielt nicht darauf an. Das Verbot für Nicht-Aaroniden ist bei V14 (4. Mo 3,10) abgedeckt."
+    },
+    {
+      "vers_von": 14, "von": 50, "vers_bis": 14, "bis": 86, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 6,12-13", "url": "https://www.bibleserver.com/MENG/Sacharja6,12-13" },
+        { "label": "4. Mo 24,17", "url": "https://www.bibleserver.com/MENG/4.Mose24,17" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das griechische Wort für »hervorgegangen« heißt auch »aufgehen« und erinnert an den »Spross«, der in Sach 6,13 Priester an seinem Thron ist, und an den »Stern aus Jakob« (4. Mo 24,17). In der Menge-Übersetzung ist kein Anklang sichtbar, der Brief zitiert Sacharja nirgends — nur evokativ."
+    },
+    {
+      "vers_von": 19, "von": 44, "vers_bis": 19, "bis": 78, "typ": "at",
+      "referenz": "vgl. 3. Mo 8,33",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose8,33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Vollendung« als Fachwort der Priesterweihe — bei 5,9 erklärt, Wiederholung (vgl. V11)."
+    },
+    {
+      "vers_von": 20, "von": 69, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 29,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose29,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das aaronitische Priestertum besteht »kraft einer ewig gültigen Einsetzung« (2. Mo 29,9), nicht auf einem Eid. Der Gegensatz ist in der Begründung zu V21 genannt."
+    },
+    {
+      "vers_von": 25, "von": 28, "vers_bis": 25, "bis": 75, "typ": "at",
+      "referenz": "vgl. 4. Mo 16,5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose16,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das priesterliche Nahen zu Gott ist bei V19 annotiert — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 28, "von": 193, "vers_bis": 28, "bis": -1, "typ": "at",
+      "referenz": "vgl. 3. Mo 8,33",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose8,33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Vollendet« als Fachwort der Priesterweihe — bei 5,9 erklärt, Wiederholung."
+    }
+  ]
+}
