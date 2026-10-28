@@ -1,0 +1,317 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 12,
+  "titel": "Der Glaubenslauf · Züchtigung als Erziehung · Warnung am Beispiel Esaus · Sinai und Zion",
+  "abschnitte": [
+    { "id": "vorbild-jesu", "vers_von": 1, "vers_bis": 3, "titel": "Ermahnung zur Bewährung der Glaubenstreue besonders im Hinblick auf das Vorbild Jesu" },
+    { "id": "leidensanfechtungen", "vers_von": 4, "vers_bis": 11, "titel": "Mahnung, die Leidensanfechtungen als Förderungsmittel für das Glaubensleben dienen zu lassen" },
+    { "id": "schwache-glieder", "vers_von": 12, "vers_bis": 17, "titel": "Mahnung an die Gemeinde, sich aufzuraffen und sich der schwachen und gefährdeten Glieder anzunehmen" },
+    { "id": "hoheit-neuer-bund", "vers_von": 18, "vers_bis": 24, "titel": "Nochmaliger Hinweis auf die Hoheit des neuen Bundes und auf die nahende Endentscheidung" },
+    { "id": "endzeit", "vers_von": 25, "vers_bis": 29, "titel": "Die für die Widerstrebenden erschreckende und für die Gehorsamen beseligende Herrlichkeit des Eintritts der Endzeit" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 5, "von": 68, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "Spr 3,11-12", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Sprueche3,11-12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Spruchweisheit: Gott erzieht wie ein Vater den Sohn, den er liebt — Strafe ist Zeichen der Zuwendung. Hebräisch endet der Spruch »wie ein Vater den Sohn, mit dem er’s gut meint«; die griechische Übersetzung, hier zitiert: »geißelt jeden Sohn«. Daraus folgern V7-8: Leiden beweist Sohnschaft."
+    },
+    {
+      "vers_von": 7, "von": 50, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 8,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose8,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose deutet die Wüstenjahre mit Hunger und Mühsal (5. Mo 8,2-3) als Erziehung: Gott ist »ebenso dein Erzieher, wie ein Vater seinen Sohn erzieht« (8,5). Die Leser stehen wie Israel in der Wüste (Kap. 3-4) — ihr Leiden ist Erziehung, nicht Verwerfung."
+    },
+    {
+      "vers_von": 9, "von": 152, "vers_bis": 9, "bis": 173, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 16,22", "url": "https://www.bibleserver.com/MENG/4.Mose16,22" },
+        { "label": "4. Mo 27,16", "url": "https://www.bibleserver.com/MENG/4.Mose27,16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Anklang an die Gebetsanrede »Gott der Geister alles Fleisches« (4. Mo 16,22; 27,16 wörtlich; Menge: »Herr über Leben und Tod alles Fleisches«): Gott gibt jedem Menschen den Lebensatem. Der Text teilt die Formel: leibliche Väter (wörtlich »Väter unseres Fleisches«) — und der Vater der Geister, der zum Leben führt."
+    },
+    {
+      "vers_von": 12, "von": 6, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Jes 35,3", "url": "https://www.bibleserver.com/MENG/Jesaja35,3" },
+        { "label": "Jes 35,6", "url": "https://www.bibleserver.com/MENG/Jesaja35,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 35 schildert die Heimkehr der Erlösten durch die aufblühende Wüste nach Zion (35,10). Die Erschöpften sollen gestärkt werden: »Stärkt die erschlafften Hände und festigt die wankenden Knie!« (35,3). Auf diesem Weg »wird der Lahme springen wie ein Hirsch« (35,6) — vgl. »das Lahme« in V13. Das Ziel Zion folgt in V22."
+    },
+    {
+      "vers_von": 13, "von": 4, "vers_bis": 13, "bis": 44, "typ": "at",
+      "referenz": "Spr 4,26", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Sprueche4,26",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie in Spr 3 (V5) mahnt der Vater den Sohn: »Laß deinen Fuß auf gerader Bahn gehen« (Spr 4,26). Hier gilt die Mahnung der Gemeinde: Sie soll den Weg so ebnen, dass die Schwachen (»das Lahme«) nicht abirren."
+    },
+    {
+      "vers_von": 14, "von": 71, "vers_bis": 14, "bis": 110, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 33,20", "url": "https://www.bibleserver.com/MENG/2.Mose33,20" },
+        { "label": "Ps 24,3-4", "url": "https://www.bibleserver.com/MENG/Psalm24,3-4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott sagt zu Mose: »kein Mensch, der mich schaut, bleibt am Leben« (2. Mo 33,20). Auf den Berg des HERRN darf nur, »wer schuldlos ist an Händen und reinen Herzens« (Ps 24,3-4). Heiligung ist die Bedingung, vor Gott zu treten — am Berg Zion (V22)."
+    },
+    {
+      "vers_von": 15, "von": 82, "vers_bis": 15, "bis": 136, "typ": "at",
+      "referenz": "5. Mo 29,17-19", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose29,17-19",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Beim Bundesschluss in Moab warnt Mose vor dem Einzelnen, dessen Herz sich fremden Göttern zuwendet: eine »Wurzel, die Schierling und Wermut als Frucht hervorbringt« (5. Mo 29,17; hier nach der griechischen Übersetzung). Wer sich dabei sicher fühlt, dem will Gott nicht verzeihen; der Schaden trifft das ganze Land (29,18-19). Ein Abtrünniger gefährdet die ganze Gemeinde."
+    },
+    {
+      "vers_von": 16, "von": 61, "vers_bis": 16, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 25,29-34", "url": "https://www.bibleserver.com/MENG/1.Mose25,29-34" },
+        { "label": "5. Mo 21,17", "url": "https://www.bibleserver.com/MENG/5.Mose21,17" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Esau verkauft sein Erstgeburtsrecht für ein Linsengericht: »So gab Esau sein Erstgeburtsrecht geringschätzig preis« (1. Mo 25,34). Es sicherte dem Erstgeborenen den doppelten Erbteil (5. Mo 21,17). Esau tauscht das Künftige gegen sofortige Sättigung — Gegenbild zur »Gemeinde der Erstgeborenen« (V23)."
+    },
+    {
+      "vers_von": 17, "von": 33, "vers_bis": 17, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 27,30-40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose27,30-40",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Als Esau vom erschlichenen Segen erfährt, bittet er: »Segne auch mich, mein Vater!« und »begann laut zu weinen« (1. Mo 27,34.38). Isaak kann den Segen nicht zurücknehmen (27,33). Was verspielt war, ließ sich nicht rückgängig machen — Warnung wie 6,4-6."
+    },
+    {
+      "vers_von": 18, "von": 23, "vers_bis": 18, "bis": 146, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 4,11", "url": "https://www.bibleserver.com/MENG/5.Mose4,11" },
+        { "label": "2. Mo 19,16", "url": "https://www.bibleserver.com/MENG/2.Mose19,16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Gottesoffenbarung am Sinai: Der Berg brannte »in Feuerglut«, »von Finsternis, Gewölk und Wetterdunkel umgeben« (5. Mo 4,11); dazu Donnern, Blitze und Posaunenschall (2. Mo 19,16). Der Name Sinai fällt nicht — die Schilderung genügt. Gegenbild: der Berg Zion (V22)."
+    },
+    {
+      "vers_von": 19, "von": 9, "vers_bis": 19, "bis": 133, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 20,18-19", "url": "https://www.bibleserver.com/MENG/2.Mose20,18-19" },
+        { "label": "5. Mo 4,12", "url": "https://www.bibleserver.com/MENG/5.Mose4,12" },
+        { "label": "5. Mo 5,25", "url": "https://www.bibleserver.com/MENG/5.Mose5,25" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Donnerworte« heißt wörtlich »Schall von Worten«: Am Sinai hörte Israel nur »den Schall seiner Worte« (5. Mo 4,12). Das Volk bat Mose: »Rede du mit uns … Gott aber möge nicht mit uns reden, sonst müssen wir sterben!« (2. Mo 20,19; vgl. 5. Mo 5,25). Die Leser dagegen sollen den, der jetzt redet, nicht abweisen (V25)."
+    },
+    {
+      "vers_von": 20, "von": 51, "vers_bis": 20, "bis": 115, "typ": "at",
+      "referenz": "2. Mo 19,12-13", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,12-13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Um den Sinai wird eine Grenze gezogen; wer den Berg berührt, »soll gesteinigt oder erschossen werden: weder ein Tier noch ein Mensch darf am Leben bleiben« (2. Mo 19,13). Der Text hebt das Äußerste hervor — selbst ein Tier. Der heilige Berg war tödlich unnahbar."
+    },
+    {
+      "vers_von": 21, "von": 65, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 9,19", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose9,19",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose sagt »mir war bange vor dem Zorn und Grimm« (5. Mo 9,19) nach dem Goldenen Kalb, als Gott das Volk vertilgen wollte — nicht beim Empfang der Gebote. Der Text zieht beides zusammen: Selbst Mose, der Mittler, fürchtete sich vor Gott."
+    },
+    {
+      "vers_von": 22, "von": 15, "vers_bis": 22, "bis": 95, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 132,13-14", "url": "https://www.bibleserver.com/MENG/Psalm132,13-14" },
+        { "label": "Jes 2,2-3", "url": "https://www.bibleserver.com/MENG/Jesaja2,2-3" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zion ist der Berg, den Gott zur Wohnung erwählt hat: »Dies ist meine Ruhstatt für immer« (Ps 132,13-14; griechisch dasselbe Wort wie »Ruhe« in Kap. 4). Bei den Propheten ist er Ziel der Völker, denn »von Zion wird Belehrung ausgehen« (Jes 2,2-3) — Gegenbild zum Sinai (V18-21). Gemeint ist die himmlische Stadt, auf die Abraham wartete (11,10.16)."
+    },
+    {
+      "vers_von": 23, "von": 8, "vers_bis": 23, "bis": 61, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 4,22", "url": "https://www.bibleserver.com/MENG/2.Mose4,22" },
+        { "label": "Dan 12,1", "url": "https://www.bibleserver.com/MENG/Daniel12,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Israel ist mein erstgeborener Sohn« (2. Mo 4,22): Das Gottesvolk hat das Vorrecht des Erstgeborenen — anders als Esau, der es verkaufte (V16). Gerettet wird, »wer sich im Buch (des Lebens) aufgezeichnet findet« (Dan 12,1; vgl. 2. Mo 32,32)."
+    },
+    {
+      "vers_von": 24, "von": 75, "vers_bis": 24, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 4,10-11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose4,10-11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Abels Blut schreit aus dem Erdboden zu Gott und klagt den Mörder an; Kain wird verflucht (1. Mo 4,10-11; s. 11,4). Das Blut Jesu »redet Besseres«: Es bewirkt Vergebung und Zugang zu Gott (9,12-14)."
+    },
+    {
+      "vers_von": 26, "von": 0, "vers_bis": 26, "bis": 44, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 19,18", "url": "https://www.bibleserver.com/MENG/2.Mose19,18" },
+        { "label": "Ps 68,9", "url": "https://www.bibleserver.com/MENG/Psalm68,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Als Gott auf den Sinai herabkam, »erbebte« der ganze Berg (2. Mo 19,18); der Psalm erinnert: »da bebte die Erde … der Sinai dort vor dem Angesicht Gottes« (Ps 68,9). Dieses Beben ist Vorbild für das endzeitliche im folgenden Zitat."
+    },
+    {
+      "vers_von": 26, "von": 90, "vers_bis": 26, "bis": -1, "typ": "at",
+      "referenz": "Hag 2,6-9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Haggai2,6-9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Haggai spricht 520 v. Chr. zu den Heimkehrern aus dem Exil, die den Tempel ärmlich wieder aufbauen: Gott wird Himmel und Erde erschüttern, und »größer wird die künftige Herrlichkeit dieses Tempels sein« (Hag 2,6-9). Die griechische Übersetzung hat nur »noch einmal« (Menge: »Nur noch [einmal] eine kurze Zeit«); V27 liest es als letztes, endgültiges Beben."
+    },
+    {
+      "vers_von": 28, "von": 27, "vers_bis": 28, "bis": 72, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 2,44", "url": "https://www.bibleserver.com/MENG/Daniel2,44" },
+        { "label": "Dan 7,18", "url": "https://www.bibleserver.com/MENG/Daniel7,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach den vergehenden Weltreichen errichtet Gott ein Reich, »das in Ewigkeit nicht zerstört werden wird« (Dan 2,44). »Die Heiligen des Höchsten« werden es empfangen (Dan 7,18; aramäisch wörtlich »das Reich empfangen«, Menge: »die Herrschaft erhalten«)."
+    },
+    {
+      "vers_von": 29, "von": 10, "vers_bis": 29, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 4,24", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,24",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose warnt nach der Erinnerung an den Sinai vor Gottesbildern: »denn der HERR, dein Gott, ist ein verzehrendes Feuer, ein eifersüchtiger Gott« (5. Mo 4,23-24). Der Gott vom Sinai (V18) ist derselbe wie auf Zion — die Gnade macht ihn nicht harmloser (vgl. 10,27.31)."
+    },
+    {
+      "vers_von": 2, "von": 220, "vers_bis": 2, "bis": 250, "typ": "at",
+      "referenz": "Ps 110,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Erhöhung zur Rechten Gottes (Ps 110,1) ist bei 1,13 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 2, "von": 144, "vers_bis": 2, "bis": 203, "typ": "at",
+      "referenz": "vgl. 5. Mo 21,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose21,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ein Gehenkter galt als »von Gott verflucht« (5. Mo 21,23; vgl. Gal 3,13) — Hintergrund für die Schmach des Kreuzes. Der Text nimmt die Stelle aber nicht auf, und die Kreuzigung galt auch in der römischen Welt als schändlichste Strafe — nur thematisch."
+    },
+    {
+      "vers_von": 3, "von": 22, "vers_bis": 3, "bis": 66, "typ": "at",
+      "referenz": "vgl. 4. Mo 20,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose20,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Widersprechen« (griech. antilogia) gibt in der griechischen Übersetzung den Namen Meriba wieder (»Haderwasser«, 4. Mo 20,13). Die Wortnähe ist nur im Griechischen sichtbar; Meriba ist bei 3,7 erklärt."
+    },
+    {
+      "vers_von": 10, "von": 115, "vers_bis": 10, "bis": 160, "typ": "at",
+      "referenz": "vgl. 3. Mo 19,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose19,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ihr sollt heilig sein, denn ich … bin heilig« (3. Mo 19,2) ist der Grundsatz des Heiligkeitsgesetzes; dieses ist bei 2,11 annotiert (3. Mo 20,8; 21,8) — Wiederholung."
+    },
+    {
+      "vers_von": 11, "von": 170, "vers_bis": 11, "bis": 209, "typ": "at",
+      "referenz": "vgl. Jes 32,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja32,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die Wirkung der Gerechtigkeit wird Friede sein« (Jes 32,17) — Gerechtigkeit und Friede gehören im AT oft zusammen. Allgemeine Wendung, keine Formulierungsvorlage — nur evokativ."
+    },
+    {
+      "vers_von": 14, "von": 0, "vers_bis": 14, "bis": 46, "typ": "at",
+      "referenz": "vgl. Ps 34,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm34,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Suche den Frieden und jage ihm nach« (Ps 34,15; zitiert in 1. Petr 3,11) — griechisch dasselbe Verb wie hier. Geläufige Mahnung, nicht load-bearing."
+    },
+    {
+      "vers_von": 22, "von": 115, "vers_bis": 22, "bis": 145, "typ": "at",
+      "referenz": "vgl. Dan 7,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes Hofstaat aus »tausendmal Tausende« (Dan 7,10; 5. Mo 33,2). Die Engel am Sinai sind bei 2,2 annotiert; hier allgemeine Schilderung des himmlischen Gottesdienstes."
+    },
+    {
+      "vers_von": 23, "von": 69, "vers_bis": 23, "bis": 96, "typ": "at",
+      "referenz": "vgl. 1. Mo 18,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose18,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der Richter der ganzen Erde« (1. Mo 18,25) — allgemeines Gottesprädikat. Das Gericht ist bei 6,2 und 10,30 annotiert."
+    },
+    {
+      "vers_von": 24, "von": 7, "vers_bis": 24, "bis": 42, "typ": "at",
+      "referenz": "Jer 31,31", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der neue Bund (Jer 31,31-34) ist bei 8,8-12 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 24, "von": 48, "vers_bis": 24, "bis": 73, "typ": "at",
+      "referenz": "vgl. 2. Mo 24,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Besprengung mit Bundesblut (2. Mo 24,8) ist bei 9,19-20 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 25, "von": 127, "vers_bis": 25, "bis": 159, "typ": "at",
+      "referenz": "vgl. 2. Mo 20,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gemeint ist Gottes Reden am Sinai (V18-21, bei V19 annotiert). Der Schluss vom Geringeren aufs Größere entspricht 2,2-3 und 10,28-29 — Wiederholung."
+    },
+    {
+      "vers_von": 27, "von": 9, "vers_bis": 27, "bis": 22, "typ": "at",
+      "referenz": "Hag 2,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Haggai2,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Auslegende Wiederaufnahme von Hag 2,6 aus V26 — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 16, "von": 16, "vers_bis": 16, "bis": 56, "typ": "at",
+      "referenz": "vgl. 1. Mo 26,34-35", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose26,34-35",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das AT nennt Esau nicht unzüchtig; es erwähnt nur seine hetitischen Frauen, die den Eltern »ein Herzenskummer« waren (1. Mo 26,34-35). Das Wort ist im Sinn von »abtrünnig« zu verstehen. Keine Formulierungsvorlage; die tragende Esau-Stelle ist im selben Vers aktiv."
+    },
+    {
+      "vers_von": 27, "von": 33, "vers_bis": 27, "bis": 54, "typ": "at",
+      "referenz": "vgl. Ps 102,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm102,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dass Himmel und Erde wie ein Kleid gewechselt werden (Ps 102,27), ist bei 1,10-12 annotiert — Wiederholung."
+    }
+  ]
+}
