@@ -1,0 +1,262 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 1,
+  "titel": "Die Offenbarung des Johannes",
+  "abschnitte": [
+    { "id": "ueberschrift", "vers_von": 1, "vers_bis": 3, "titel": "Die Überschrift mit Angabe des Ursprungs, des Zwecks und der Bedeutung der vorliegenden Schrift" },
+    { "id": "segensgruss", "vers_von": 4, "vers_bis": 6, "titel": "Segensgruß an die sieben Gemeinden der römischen Provinz Asien" },
+    { "id": "inhaltsangabe", "vers_von": 7, "vers_bis": 8, "titel": "Inhaltsangabe: Ankündigung des Kommens Jesu zum Gericht" },
+    { "id": "erstes-gesicht", "vers_von": 9, "vers_bis": 20, "titel": "Das erste Gesicht (auf Patmos) von den sieben Sternen und sieben Leuchtern" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 65, "vers_bis": 1, "bis": 123, "typ": "at",
+      "referenz": "Dan 2,28-29",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,28-29",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Daniel enthüllt Gott dem König Geheimnisse und tut kund, »was in der Endzeit geschehen wird«. Was dort ferne Endzeit war, steht hier »in Bälde« bevor."
+    },
+    {
+      "vers_von": 4, "von": 115, "vers_bis": 4, "bis": 157, "typ": "at",
+      "referenz": "2. Mo 3,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Umschreibung des Gottesnamens »Ich bin, der ich bin«. Jüdische Auslegung deutete ihn als den, der war, ist und sein wird. Statt »sein wird« steht hier »der da kommt«: Gott ist der Kommende."
+    },
+    {
+      "vers_von": 4, "von": 167, "vers_bis": 4, "bis": 215, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 4,2.10", "url": "https://www.bibleserver.com/MENG/Sacharja4,2-10" },
+        { "label": "Jes 11,2", "url": "https://www.bibleserver.com/MENG/Jesaja11,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Gruß zwischen Gott und Jesus Christus genannt: wohl Gottes Geist in seiner Fülle (Sieben = Vollzahl). Bei Sacharja sind die sieben Lampen des Leuchters »die Augen des HERRN, die über die ganze Erde schweifen«. Jes 11,2 zählt die Gaben des Geistes auf, der auf dem Messias ruht."
+    },
+    {
+      "vers_von": 5, "von": 24, "vers_bis": 5, "bis": 113, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 89,28", "url": "https://www.bibleserver.com/MENG/Psalm89,28" },
+        { "label": "Ps 89,38", "url": "https://www.bibleserver.com/MENG/Psalm89,38" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Alle drei Titel stammen aus Ps 89, dem Psalm von Gottes Bund mit David: der »Erstgeborene«, »der höchste unter den Königen der Erde« und der treue »Zeuge in Wolkenhöhen«. Jesus erscheint als der verheißene Davidskönig — Erstgeborener, weil er als Erster von den Toten auferstand."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 59, "typ": "at",
+      "referenz": "2. Mo 19,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach der Befreiung aus Ägypten erhielt Israel am Sinai den Titel »Königreich von Priestern«. Der Text überträgt ihn auf die Gemeinde: befreit durch Jesu Blut (V5), mit unmittelbarem Zugang zu Gott wie Priester."
+    },
+    {
+      "vers_von": 7, "von": 6, "vers_bis": 7, "bis": 164, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Dan 7,13", "url": "https://www.bibleserver.com/MENG/Daniel7,13" },
+        { "label": "Sach 12,10-14", "url": "https://www.bibleserver.com/MENG/Sacharja12,10-14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zwei Prophetenworte verbunden: Bei Daniel kommt einer wie eines Menschen Sohn mit den Wolken des Himmels und erhält von Gott die Weltherrschaft. Bei Sacharja blickt Jerusalem auf den, »den sie durchbohrt haben«, und klagt um ihn, Geschlecht für Geschlecht. Dort klagen Israels Familien, hier »alle Geschlechter der Erde«."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 8, "bis": 25, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 41,4", "url": "https://www.bibleserver.com/MENG/Jesaja41,4" },
+        { "label": "Jes 44,6", "url": "https://www.bibleserver.com/MENG/Jesaja44,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "A und O (Alpha und Omega): erster und letzter Buchstabe des griechischen Alphabets. Das entspricht Gottes Selbstbezeichnung bei Jesaja als »der Erste« und »der Letzte«: Er steht am Anfang der Geschichte und bestimmt ihr Ende."
+    },
+    {
+      "vers_von": 10, "von": 14, "vers_bis": 10, "bis": 123, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 3,12", "url": "https://www.bibleserver.com/MENG/Hesekiel3,12" },
+        { "label": "2. Mo 19,16", "url": "https://www.bibleserver.com/MENG/2.Mose19,16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Berufung wie bei Hesekiel: Die Gotteskraft ergreift den Propheten, und er hört hinter sich ein gewaltiges Getöse. Posaunenschall kündigte am Sinai Gottes Erscheinen an."
+    },
+    {
+      "vers_von": 11, "von": 17, "vers_bis": 11, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 12, "von": 124, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 25,31", "url": "https://www.bibleserver.com/MENG/2.Mose25,31" },
+        { "label": "Sach 4,2", "url": "https://www.bibleserver.com/MENG/Sacharja4,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der goldene Leuchter (Menora) stand im Heiligtum; Sacharja sah ihn mit sieben Lampen. Hier sind es sieben einzelne Leuchter — nach V20 die sieben Gemeinden: Sie tragen Gottes Licht."
+    },
+    {
+      "vers_von": 13, "von": 30, "vers_bis": 13, "bis": 68, "typ": "at",
+      "referenz": "Dan 7,13-14",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13-14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wortlaut aus Dan 7,13: Einer, »der wie eines Menschen Sohn aussah« — eine menschengestaltige Himmelsgestalt, der Gott die ewige Herrschaft über alle Völker überträgt. V18 zeigt, wer es ist: der Auferstandene."
+    },
+    {
+      "vers_von": 13, "von": 70, "vers_bis": 13, "bis": 152, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 10,5", "url": "https://www.bibleserver.com/MENG/Daniel10,5" },
+        { "label": "2. Mo 28,4", "url": "https://www.bibleserver.com/MENG/2.Mose28,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "So erscheint der Himmelsbote bei Daniel: in Linnen gekleidet, mit goldenem Gürtel. Langes Gewand und Gürtel sind zugleich Priesterkleidung — passend zu dem, der inmitten der Leuchter steht; die Lampen zu versorgen war Priesterdienst."
+    },
+    {
+      "vers_von": 14, "von": 0, "vers_bis": 14, "bis": 79, "typ": "at",
+      "referenz": "Dan 7,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Haar »wie reine Wolle« hat bei Daniel der »ehrwürdige Greis« auf dem Thron — Gott selbst. Der Menschensohn trägt hier Gottes Züge: Was Daniel als zwei Gestalten sah, fällt in eins."
+    },
+    {
+      "vers_von": 14, "von": 84, "vers_bis": 15, "bis": 76, "typ": "at",
+      "referenz": "Dan 10,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Züge der Himmelsgestalt aus Dan 10,6: »Augen wie Feuerflammen«, Arme und Beine »wie poliertes Erz«. Die Feueraugen durchschauen alles (vgl. 2,18.23)."
+    },
+    {
+      "vers_von": 15, "von": 82, "vers_bis": 15, "bis": 133, "typ": "at",
+      "referenz": "Hes 43,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel43,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Hesekiel klingt so die Herrlichkeit des Gottes Israels selbst: wie »das Rauschen gewaltiger Wasserfluten«. Die Stimme des Menschensohns ist Gottes Stimme."
+    },
+    {
+      "vers_von": 16, "von": 47, "vers_bis": 16, "bis": 113, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 49,2", "url": "https://www.bibleserver.com/MENG/Jesaja49,2" },
+        { "label": "Jes 11,4", "url": "https://www.bibleserver.com/MENG/Jesaja11,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Schwert kommt aus dem Mund: Es ist das richtende Wort. Den Mund des Gottesknechts macht Gott »einem scharfen Schwerte gleich«; der Messias schlägt die Erde »mit dem Stabe seines Mundes«."
+    },
+    {
+      "vers_von": 17, "von": 19, "vers_bis": 17, "bis": 95, "typ": "at",
+      "referenz": "Dan 10,9-12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,9-12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gleicher Ablauf wie bei Daniels Vision: Er sinkt ohnmächtig nieder, eine Hand berührt ihn, und er hört: »Fürchte dich nicht!«"
+    },
+    {
+      "vers_von": 17, "von": 107, "vers_bis": 20, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 17, "von": 128, "vers_bis": 17, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Jes 44,6", "url": "https://www.bibleserver.com/MENG/Jesaja44,6" },
+        { "label": "Jes 48,12", "url": "https://www.bibleserver.com/MENG/Jesaja48,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja Gottes exklusive Selbstbezeichnung: »Ich bin der Erste und ich der Letzte, und außer mir gibt es keinen Gott.« Hier spricht Christus sie von sich selbst — denselben Titel, den V8 Gott dem Herrn gibt."
+    },
+    {
+      "vers_von": 3, "von": 132, "vers_bis": 3, "bis": 165, "typ": "at",
+      "referenz": "vgl. Dan 12,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gegenbild zu Dan 12,4 (Buch versiegelt bis zur Endzeit); vgl. Offb 22,10. Die Formulierung selbst ist zu allgemein, der Daniel-Rahmen ist mit V1 bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 8, "von": 50, "vers_bis": 8, "bis": 92, "typ": "at",
+      "referenz": "vgl. 2. Mo 3,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung der Gottesformel aus V4 (2. Mo 3,14), dort bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 8, "von": 94, "vers_bis": 8, "bis": 109, "typ": "at",
+      "referenz": "vgl. Am 4,13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos4,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der Allmächtige« (griech. Pantokrator) gibt im griechischen AT meist »HERR der Heerscharen« wieder. Im Deutschen ohne dieses Wissen verständlich — nicht load-bearing."
+    },
+    {
+      "vers_von": 10, "von": 44, "vers_bis": 10, "bis": 61, "typ": "at",
+      "referenz": "vgl. Am 5,18",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos5,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wortgleich mit dem prophetischen »Tag des HERRN« (Gerichtstag). Gemeint ist nach Menge aber der Sonntag; ein Doppelsinn ist möglich, aber nicht gesichert."
+    },
+    {
+      "vers_von": 16, "von": 147, "vers_bis": 16, "bis": 188, "typ": "at",
+      "referenz": "vgl. Ri 5,31",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Richter5,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wortgleiche Wendung »wie der Sonne Aufgang in ihrer Kraft«, dort aber über die, die Gott lieben — evokativ, ohne inhaltliche Übertragung."
+    },
+    {
+      "vers_von": 18, "von": 4, "vers_bis": 18, "bis": 15, "typ": "at",
+      "referenz": "vgl. Dan 4,31",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel4,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der (ewig) Lebende« ist im AT Gottesprädikat (Dan 4,31; 5. Mo 32,40). Ohne Vorwissen verständlich; die Gottesprädikate Christi sind mit V17 bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 18, "von": 71, "vers_bis": 18, "bis": 120, "typ": "at",
+      "referenz": "vgl. 1. Sam 2,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel2,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Macht über Tod und Totenreich ist im AT Gottes Vorrecht (1. Sam 2,6). Für das Bild der Schlüssel gibt es keine Formulierungsvorlage; die Aussage ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 19, "von": 78, "vers_bis": 19, "bis": 108, "typ": "at",
+      "referenz": "vgl. Dan 2,29",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Anklang an Dan 2,29 (»was geschehen wird«) — Daniel-2-Bezug bereits in V1 aktiv annotiert."
+    }
+  ]
+}
