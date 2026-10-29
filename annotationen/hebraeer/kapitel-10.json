@@ -1,0 +1,263 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 10,
+  "titel": "Das einmalige Opfer Christi · Mahnung zur Treue · Warnung vor Abfall · Aufruf zum Ausharren",
+  "abschnitte": [
+    { "id": "schattenhaftes-vorbild", "vers_von": 1, "vers_bis": 10, "titel": "Das schattenhafte Vorbild und die Unzulänglichkeit des alljährlichen Versöhnungsopfers des levitischen Hohenpriesters; die Vollkommenheit des Opfers Jesu" },
+    { "id": "einmaliges-selbstopfer", "vers_von": 11, "vers_bis": 18, "titel": "Das einmalige und in Vollkommenheit gültige Selbstopfer Jesu macht alle anderen Sündopfer unnötig" },
+    { "id": "mahnung-ausharren", "vers_von": 19, "vers_bis": 25, "titel": "Allgemeine Mahnung zum Ausharren im Glauben, Hoffen und Lieben, und zwar in Gemeinschaft mit der ganzen Gemeinde" },
+    { "id": "warnung-abfall", "vers_von": 26, "vers_bis": 31, "titel": "Warnung vor Abfall und vor dem göttlichen Gericht, welches die der Gnade Spottenden treffen wird" },
+    { "id": "glaubenstreue", "vers_von": 32, "vers_bis": 39, "titel": "Mahnung zur Glaubenstreue und Hoffnungszuversicht bei den zunehmenden Leiden im Hinblick auf den verheißenen Lohn" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 4, "von": 5, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 1,11", "url": "https://www.bibleserver.com/MENG/Jesaja1,11" },
+        { "label": "Jer 11,15", "url": "https://www.bibleserver.com/MENG/Jeremia11,15" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Schon die Propheten sagen es: Gott hat »am Blut von Jungstieren, Lämmern und Böcken« kein Wohlgefallen (Jes 1,11); Opferfleisch kann Bosheit nicht »wegschaffen« (Jer 11,15). Gemeint waren dort Opfer ohne Gehorsam — daran knüpft V5-9 an."
+    },
+    {
+      "vers_von": 5, "von": 52, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "Ps 40,7-9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm40,7-9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Psalm stellt David Gehorsam über die Opfer; die vier Begriffe umfassen die Hauptopfer der Tora (3. Mo 1-5). Hier spricht Christus den Psalm. Statt »offne Ohren hast du mir gegeben« (Menge nach dem Hebräischen) hat die griechische Übersetzung »einen Leib hast du mir bereitet« — darauf baut V10."
+    },
+    {
+      "vers_von": 11, "von": 4, "vers_bis": 11, "bis": 44, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 10,8", "url": "https://www.bibleserver.com/MENG/5.Mose10,8" },
+        { "label": "5. Mo 18,7", "url": "https://www.bibleserver.com/MENG/5.Mose18,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Stamm Levi war bestimmt, »als seine Diener vor ihm zu stehen« (5. Mo 10,8); einen Sitz gab es im Heiligtum nicht. Dagegen V12: Christus hat sich gesetzt (Ps 110,1) — sein Opfer ist abgeschlossen."
+    },
+    {
+      "vers_von": 16, "von": 0, "vers_bis": 17, "bis": 75, "typ": "at",
+      "referenz": "Jer 31,33-34", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,33-34",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Aus der Verheißung des neuen Bundes greift der Text zwei Zusagen heraus: das Gesetz im Herzen und die Vergebung. Gedenkt Gott der Sünden nicht mehr, braucht es kein Opfer mehr (V18) — anders als die jährliche »Erinnerung an Sünden« (V3)."
+    },
+    {
+      "vers_von": 22, "von": 93, "vers_bis": 22, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 36,25-26", "url": "https://www.bibleserver.com/MENG/Hesekiel36,25-26" },
+        { "label": "3. Mo 8,6", "url": "https://www.bibleserver.com/MENG/3.Mose8,6" },
+        { "label": "3. Mo 8,30", "url": "https://www.bibleserver.com/MENG/3.Mose8,30" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hesekiel verheißt: »reines Wasser über euch sprengen« und ein neues Herz (Hes 36,25-26). Zugleich klingt die Priesterweihe an: Aaron und seine Söhne wurden mit Wasser gewaschen und mit Blut und Salböl besprengt (3. Mo 8,6.30). So dürfen alle wie Priester »hinzutreten«."
+    },
+    {
+      "vers_von": 25, "von": 150, "vers_bis": 25, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Zef 1,14", "url": "https://www.bibleserver.com/MENG/Zefanja1,14" },
+        { "label": "Joel 2,1", "url": "https://www.bibleserver.com/MENG/Joel2,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Der Tag« ist bei den Propheten der Tag des HERRN, der Tag seines Gerichts: »Nahe ist der große Tag des HERRN« (Zef 1,14; vgl. Joel 2,1). Der Text bezieht ihn auf die Wiederkunft Christi — daher die Warnung V26-31."
+    },
+    {
+      "vers_von": 26, "von": 5, "vers_bis": 26, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 15,30-31", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,30-31",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Für Sünden aus Versehen gab es Sühnopfer; wer »sich vorsätzlich vergeht«, sollte »ohne Gnade ausgerottet werden« (4. Mo 15,30-31). Diese Grenze überträgt der Text auf den bewussten Abfall von Christus: Ein anderes Opfer gibt es nicht."
+    },
+    {
+      "vers_von": 27, "von": 55, "vers_bis": 27, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 26,11", "url": "https://www.bibleserver.com/MENG/Jesaja26,11" },
+        { "label": "Zef 1,18", "url": "https://www.bibleserver.com/MENG/Zefanja1,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Gier des Feuers« heißt wörtlich »Eifer des Feuers«. Die griechische Fassung von Jes 26,11 spricht vom Feuer, das »deine Widersacher« verzehrt, Zef 1,18 vom »Feuer seines Eifers«. Dort trifft es Gottes Feinde — hier die Abtrünnigen."
+    },
+    {
+      "vers_von": 28, "von": 0, "vers_bis": 28, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 17,6", "url": "https://www.bibleserver.com/MENG/5.Mose17,6" },
+        { "label": "4. Mo 15,30-31", "url": "https://www.bibleserver.com/MENG/4.Mose15,30-31" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wer anderen Göttern diente, wurde »auf die Aussage von zwei oder drei Zeugen hin« hingerichtet (5. Mo 17,2-6); wer vorsätzlich sündigte, hatte »das Wort des HERRN verachtet« (4. Mo 15,31). Der Schluss vom Leichteren aufs Schwerere folgt in V29."
+    },
+    {
+      "vers_von": 29, "von": 167, "vers_bis": 29, "bis": 187, "typ": "at",
+      "referenz": "3. Mo 10,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose10,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Für wertlos geachtet« heißt wörtlich »für gemein (unheilig) gehalten«. Die Priester sollten »einen Unterschied zwischen dem Heiligen und Unheiligen« machen (3. Mo 10,10). Wer das Blut, das ihn geheiligt hat, für unheilig erklärt, kehrt diese Ordnung um."
+    },
+    {
+      "vers_von": 29, "von": 196, "vers_bis": 29, "bis": 215, "typ": "at",
+      "referenz": "Sach 12,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja12,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Geist der Gnade« steht im AT nur in Sach 12,10: Gott gießt ihn über Jerusalem aus, und sie blicken klagend auf den, »den sie durchbohrt haben«. Der Geist, der zur Umkehr führen sollte, wird hier verhöhnt."
+    },
+    {
+      "vers_von": 30, "von": 35, "vers_bis": 30, "bis": 75, "typ": "at",
+      "referenz": "5. Mo 32,35", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,35",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Aus dem Lied des Mose, das Israels Abfall zu fremden Göttern besingt (5. Mo 32,15-21). Menge übersetzt »Mir steht die Rache und Vergeltung zu«; die Kurzform hier steht gleichlautend in Röm 12,19."
+    },
+    {
+      "vers_von": 30, "von": 106, "vers_bis": 30, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "5. Mo 32,36", "url": "https://www.bibleserver.com/MENG/5.Mose32,36" },
+        { "label": "Ps 135,14", "url": "https://www.bibleserver.com/MENG/Psalm135,14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Lied des Mose und in Ps 135,14 heißt »richten« Recht schaffen: Gott tritt für sein Volk gegen dessen Feinde ein (Menge zu Ps 135,14: »schafft Recht seinem Volk«). Hier wendet sich der Satz gegen das eigene Volk."
+    },
+    {
+      "vers_von": 31, "von": 20, "vers_bis": 31, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 32,39-41", "url": "https://www.bibleserver.com/MENG/5.Mose32,39-41" },
+        { "label": "2. Sam 24,14", "url": "https://www.bibleserver.com/MENG/2.Samuel24,14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Lied des Mose sagt Gott: »niemand kann aus meiner Hand erretten« (5. Mo 32,39). David wollte lieber »in die Hand des HERRN fallen, denn sein Erbarmen ist groß« (2. Sam 24,14). Für den, der die Gnade verhöhnt (V29), kehrt sich das um."
+    },
+    {
+      "vers_von": 37, "von": 14, "vers_bis": 37, "bis": 52, "typ": "at",
+      "referenz": "Jes 26,20", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja26,20",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Wendung stammt aus der griechischen Fassung von Jes 26,20 (Menge: »einen kurzen Augenblick, bis das Zorngericht vorübergegangen ist«). Dort soll sich Gottes Volk verbergen, bis das Gericht vorbei ist — hier ist die Wartezeit bis zur Wiederkunft kurz."
+    },
+    {
+      "vers_von": 37, "von": 54, "vers_bis": 37, "bis": -1, "typ": "at",
+      "referenz": "Hab 2,3", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Habakuk2,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Habakuk ist es die verheißene Offenbarung: »sie trifft sicher ein und bleibt nicht aus« (Hab 2,3). Die griechische Übersetzung macht daraus ein »er«; der Text setzt den Artikel — »der kommen soll« ist der erwartete Messias."
+    },
+    {
+      "vers_von": 38, "von": 0, "vers_bis": 38, "bis": -1, "typ": "at",
+      "referenz": "Hab 2,4", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Habakuk2,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hab 2,4 nach der griechischen Fassung, mit vertauschten Vershälften. Menge übersetzt aus dem Hebräischen: »vermessen, nicht aufrichtig ist er« und »infolge seines treuen Festhaltens« — Glaube heißt hier Treue im Warten. Daran schließt Kap. 11 an."
+    },
+    {
+      "vers_von": 1, "von": 37, "vers_bis": 1, "bis": 88, "typ": "at",
+      "referenz": "vgl. 3. Mo 16,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Schattenhaftes Abbild« ist griechische Denkfigur (s. 8,5); der jährliche Versöhnungstag ist bei 9,7 erklärt — Wiederholung."
+    },
+    {
+      "vers_von": 3, "von": 37, "vers_bis": 3, "bis": 80, "typ": "at",
+      "referenz": "vgl. 4. Mo 5,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose5,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die griechische Fassung von 4. Mo 5,15 nennt das Eifersuchtsopfer eines, das »Sünde in Erinnerung bringt« — Gleichklang ohne sachlichen Bezug. Der Gegensatz zu Jer 31,34 (»nicht mehr gedenken«) ist bei V16-17 genannt."
+    },
+    {
+      "vers_von": 8, "von": 27, "vers_bis": 9, "bis": 65, "typ": "at",
+      "referenz": "Ps 40,7-9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm40,7-9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Auslegende Wiederholung des Zitats aus V5-7 — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 11, "von": 30, "vers_bis": 11, "bis": 41, "typ": "at",
+      "referenz": "vgl. 2. Mo 29,38-42", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose29,38-42",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das tägliche Opfer (2. Mo 29,38-42) ist bei 7,27 annotiert — Wiederholung. Der Gegensatz Stehen/Sitzen ist im selben Vers annotiert."
+    },
+    {
+      "vers_von": 12, "von": 75, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "Ps 110,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ps 110,1 samt »Schemel seiner Füße« ist bei 1,13 annotiert — Wiederholung. Der Gegensatz Stehen/Sitzen ist bei V11 erklärt."
+    },
+    {
+      "vers_von": 15, "von": 25, "vers_bis": 15, "bis": 55, "typ": "at",
+      "referenz": "vgl. 2. Sam 23,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel23,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Geist redet durch die Schrift — allgemeine Schriftauffassung, wie bei 3,7 inaktiv."
+    },
+    {
+      "vers_von": 20, "von": 44, "vers_bis": 20, "bis": 100, "typ": "at",
+      "referenz": "vgl. 2. Mo 26,33", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose26,33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Vorhang vor dem Allerheiligsten ist bei 9,3 annotiert — Wiederholung. Die Deutung auf Jesu Fleisch hat keine AT-Vorlage (vgl. Mk 15,38)."
+    },
+    {
+      "vers_von": 21, "von": 11, "vers_bis": 21, "bis": 76, "typ": "at",
+      "referenz": "vgl. 3. Mo 21,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose21,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Großer Priester« entspricht dem hebräischen Ausdruck für den Hohenpriester (3. Mo 21,10). Hoherpriester ist bei 2,17, das Haus Gottes (4. Mo 12,7) bei 3,2-6 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 23, "von": 70, "vers_bis": 23, "bis": -1, "typ": "at",
+      "referenz": "vgl. 5. Mo 7,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose7,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes Treue ist allgemeines Gottesprädikat (5. Mo 7,9); Verheißung und Eid sind bei 6,13-18 annotiert."
+    },
+    {
+      "vers_von": 29, "von": 111, "vers_bis": 29, "bis": 130, "typ": "at",
+      "referenz": "vgl. 2. Mo 24,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das »Blut des Bundes« (2. Mo 24,8) ist bei 9,20 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 39, "von": 22, "vers_bis": 39, "bis": 43, "typ": "at",
+      "referenz": "vgl. Hab 2,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Habakuk2,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Stichwort-Wiederaufnahme aus Hab 2,4 (V38) — Intra-Kapitel-Redundanz."
+    }
+  ]
+}

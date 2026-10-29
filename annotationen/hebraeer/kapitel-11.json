@@ -1,0 +1,427 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 11,
+  "titel": "Wesen des Glaubens · Glaubensvorbilder von Abel bis Abraham · Mose und Josua · Spätere Glaubenszeugen Israels",
+  "abschnitte": [
+    { "id": "glaubenstreue", "vers_von": 1, "vers_bis": 1, "titel": "Mahnung zur Glaubenstreue und Hoffnungszuversicht bei den zunehmenden Leiden im Hinblick auf den verheißenen Lohn" },
+    { "id": "vorbilder", "vers_von": 2, "vers_bis": 3, "titel": "Alttestamentliche Vorbilder solchen Glaubens" },
+    { "id": "abel-bis-noah", "vers_von": 4, "vers_bis": 7, "titel": "Drei Beispiele von Glaubenshelden aus der Zeit der Urväter von Abel bis Noah" },
+    { "id": "abraham", "vers_von": 8, "vers_bis": 22, "titel": "Beispiele aus der Zeit Abrahams und der Seinen" },
+    { "id": "mose-josua", "vers_von": 23, "vers_bis": 31, "titel": "Beispiele aus der Zeit Moses und Josuas" },
+    { "id": "spaetere-geschichte", "vers_von": 32, "vers_bis": 40, "titel": "Beispiele von Glaubenshelden aus der späteren Geschichte Israels" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 3, "von": 32, "vers_bis": 3, "bis": 88, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 1,3", "url": "https://www.bibleserver.com/MENG/1.Mose1,3" },
+        { "label": "Ps 33,6", "url": "https://www.bibleserver.com/MENG/Psalm33,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott spricht, und es geschieht: »Es werde Licht!« (1. Mo 1,3). »Durch das Wort des HERRN sind die Himmel geschaffen« (Ps 33,6). Die Welt entsteht nicht aus vorhandenem Stoff."
+    },
+    {
+      "vers_von": 4, "von": 18, "vers_bis": 4, "bis": 71, "typ": "at",
+      "referenz": "1. Mo 4,3-5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose4,3-5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Kain bringt Früchte des Ackers, Abel »von den Erstgeburten seiner Herde«; Gott schaut »auf Abel und seine Opfergabe«, nicht auf Kains (1. Mo 4,3-5). Einen Grund nennt das AT nicht — der Text sieht ihn im Glauben. »Gerecht« nennt Abel erst Jesus (Mt 23,35)."
+    },
+    {
+      "vers_von": 4, "von": 192, "vers_bis": 4, "bis": 243, "typ": "at",
+      "referenz": "1. Mo 4,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose4,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott zu Kain: »Ich höre das Blut deines Bruders zu mir aus dem Erdboden schreien!« (1. Mo 4,10). Der Tote »redet« noch — vgl. 12,24."
+    },
+    {
+      "vers_von": 5, "von": 70, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 5,24", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose5,24",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zitat nach der griechischen Übersetzung. Hebräisch: »Henoch wandelte mit Gott und war plötzlich nicht mehr da« (Menge); griechisch: »Henoch gefiel Gott« — daher »Wohlgefallen« hier und in V6. Als Einziger in der Geschlechterliste 1. Mo 5 stirbt Henoch nicht."
+    },
+    {
+      "vers_von": 7, "von": 18, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 6,13-22", "url": "https://www.bibleserver.com/MENG/1.Mose6,13-22" },
+        { "label": "1. Mo 6,9", "url": "https://www.bibleserver.com/MENG/1.Mose6,9" },
+        { "label": "1. Mo 7,1", "url": "https://www.bibleserver.com/MENG/1.Mose7,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott kündigt Noah die Flut an und befiehlt den Bau der Arche (1. Mo 6,13-22). Noah ist der erste Mensch, den das AT »gerecht« nennt (1. Mo 6,9, Menge: »fromm«; 7,1)."
+    },
+    {
+      "vers_von": 8, "von": 23, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 12,1-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose12,1-4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Verlaß dein Land … und ziehe in das Land, das ich dir zeigen werde« (1. Mo 12,1). Das Ziel nennt Gott nicht — daher »ohne zu wissen wohin«."
+    },
+    {
+      "vers_von": 9, "von": 31, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 23,4", "url": "https://www.bibleserver.com/MENG/1.Mose23,4" },
+        { "label": "1. Mo 26,3", "url": "https://www.bibleserver.com/MENG/1.Mose26,3" },
+        { "label": "1. Mo 28,13", "url": "https://www.bibleserver.com/MENG/1.Mose28,13" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vom verheißenen Land besaß Abraham nur ein gekauftes Grab; vor den Hetitern nennt er sich »Fremdling und Beisasse« (1. Mo 23,4). Die Landverheißung wird Isaak (1. Mo 26,3) und Jakob (1. Mo 28,13) erneuert."
+    },
+    {
+      "vers_von": 11, "von": 34, "vers_bis": 11, "bis": 91, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 18,11-14", "url": "https://www.bibleserver.com/MENG/1.Mose18,11-14" },
+        { "label": "1. Mo 21,1-2", "url": "https://www.bibleserver.com/MENG/1.Mose21,1-2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sara war neunzig (1. Mo 17,17) und »lachte in sich hinein«, als sie die Verheißung hörte (18,12). Gott fragt: »Ist etwa für den HERRN irgend etwas unmöglich?« (18,14). Ein Jahr später wird Isaak geboren (21,1-2)."
+    },
+    {
+      "vers_von": 12, "von": 16, "vers_bis": 12, "bis": 202, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 21,5", "url": "https://www.bibleserver.com/MENG/1.Mose21,5" },
+        { "label": "Jes 51,2", "url": "https://www.bibleserver.com/MENG/Jesaja51,2" },
+        { "label": "1. Mo 15,5", "url": "https://www.bibleserver.com/MENG/1.Mose15,5" },
+        { "label": "1. Mo 22,17", "url": "https://www.bibleserver.com/MENG/1.Mose22,17" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Abraham war hundert, als Isaak geboren wurde (1. Mo 21,5). »Er war nur ein einzelner, als ich ihn berief, aber ich habe ihn gesegnet und zahlreich gemacht« (Jes 51,2). Sterne und Sand sind die Bilder der Verheißung (1. Mo 15,5; 22,17) — hier als erfüllt beschrieben."
+    },
+    {
+      "vers_von": 13, "von": 156, "vers_bis": 13, "bis": 216, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 47,9", "url": "https://www.bibleserver.com/MENG/1.Mose47,9" },
+        { "label": "Ps 39,13", "url": "https://www.bibleserver.com/MENG/Psalm39,13" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jakob nennt sein Leben und das seiner Väter »Wanderschaft« (1. Mo 47,9); der Beter in Ps 39,13: »ein Gast (nur) bin ich bei dir, ein Beisaß wie all meine Väter«. Der Text liest das als Bekenntnis: Ihre Heimat liegt nicht auf der Erde (V14-16)."
+    },
+    {
+      "vers_von": 15, "von": 83, "vers_bis": 15, "bis": 129, "typ": "at",
+      "referenz": "1. Mo 24,6-8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose24,6-8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Abraham verbietet seinem Knecht, Isaak in die alte Heimat zu bringen: »Hüte dich wohl, meinen Sohn dorthin zurückzuführen!« (1. Mo 24,6). Die Rückkehr war möglich — sie wurde nicht gewählt."
+    },
+    {
+      "vers_von": 16, "von": 92, "vers_bis": 16, "bis": 159, "typ": "at",
+      "referenz": "2. Mo 3,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Dornbusch stellt Gott sich vor: »Ich bin … der Gott Abrahams, der Gott Isaaks und der Gott Jakobs« (2. Mo 3,6). Er verbindet seinen Namen mit ihnen — Jesus folgert daraus die Auferstehung (Mk 12,26-27)."
+    },
+    {
+      "vers_von": 17, "von": 18, "vers_bis": 17, "bis": 128, "typ": "at",
+      "referenz": "1. Mo 22,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose22,1-2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott will Abraham »auf die Probe stellen«: »Nimm Isaak, deinen Sohn, deinen einzigen, … und bringe ihn dort als Brandopfer dar« (1. Mo 22,1-2). Einzig ist Isaak als Erbe der Verheißung; Ismael war fortgeschickt (21,14). Den Schwur danach zitiert 6,13-14."
+    },
+    {
+      "vers_von": 18, "von": 29, "vers_bis": 18, "bis": 82, "typ": "at",
+      "referenz": "1. Mo 21,12", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose21,12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gottes Wort, als Abraham Hagar und Ismael fortschicken soll: Nur über Isaak läuft die verheißene Linie. Der Befehl, Isaak zu opfern, scheint diese Verheißung aufzuheben."
+    },
+    {
+      "vers_von": 19, "von": 22, "vers_bis": 19, "bis": 129, "typ": "at",
+      "referenz": "1. Mo 22,5-8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose22,5-8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zu den Knechten sagt Abraham: »dann kommen wir wieder zu euch zurück« (1. Mo 22,5), zu Isaak: »Gott wird schon für ein Schaf zum Brandopfer sorgen« (22,8). Der Text deutet das als Vertrauen auf Auferweckung: Isaak bekam er wie vom Tod zurück."
+    },
+    {
+      "vers_von": 20, "von": 14, "vers_bis": 20, "bis": 88, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 27,27-29", "url": "https://www.bibleserver.com/MENG/1.Mose27,27-29" },
+        { "label": "1. Mo 27,33", "url": "https://www.bibleserver.com/MENG/1.Mose27,33" },
+        { "label": "1. Mo 27,39-40", "url": "https://www.bibleserver.com/MENG/1.Mose27,39-40" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Isaak segnet Jakob und Esau (1. Mo 27,27-29.39-40). Obwohl Jakob den Segen erschlichen hat, hält Isaak daran fest: »so wird er nun auch gesegnet bleiben« (27,33). Die Segen gelten den künftigen Völkern Israel und Edom."
+    },
+    {
+      "vers_von": 21, "von": 14, "vers_bis": 21, "bis": 79, "typ": "at",
+      "referenz": "1. Mo 48,14-20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose48,14-20",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jakob segnet Ephraim und Manasse und legt dabei die Arme übers Kreuz: Der Jüngere erhält den Vorrang (1. Mo 48,14.19-20)."
+    },
+    {
+      "vers_von": 21, "von": 84, "vers_bis": 21, "bis": 136, "typ": "at",
+      "referenz": "1. Mo 47,31", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose47,31",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zitat nach der griechischen Übersetzung: Sie liest das hebräische Wort für »Bett« (mitta) als »Stab« (matte). Menge nach dem Hebräischen: »beugte sich anbetend auf das Kopfende des Bettes hin«."
+    },
+    {
+      "vers_von": 22, "von": 14, "vers_bis": 22, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 50,24-25", "url": "https://www.bibleserver.com/MENG/1.Mose50,24-25" },
+        { "label": "2. Mo 13,19", "url": "https://www.bibleserver.com/MENG/2.Mose13,19" },
+        { "label": "Jos 24,32", "url": "https://www.bibleserver.com/MENG/Josua24,32" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sterbend kündigt Joseph die Rückführung ins verheißene Land an und lässt schwören: »dann sollt ihr meine Gebeine von hier mitnehmen« (1. Mo 50,24-25). Mose nimmt sie beim Auszug mit (2. Mo 13,19); begraben werden sie in Sichem (Jos 24,32)."
+    },
+    {
+      "vers_von": 23, "von": 30, "vers_bis": 23, "bis": 218, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 1,22", "url": "https://www.bibleserver.com/MENG/2.Mose1,22" },
+        { "label": "2. Mo 2,2", "url": "https://www.bibleserver.com/MENG/2.Mose2,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Pharao befiehlt, jeden neugeborenen hebräischen Knaben in den Nil zu werfen (2. Mo 1,22). Die Mutter sieht, »daß es ein schönes Kind war«, und verbirgt es drei Monate (2. Mo 2,2). In der griechischen Übersetzung verbergen ihn wie hier beide Eltern."
+    },
+    {
+      "vers_von": 24, "von": 14, "vers_bis": 24, "bis": 104, "typ": "at",
+      "referenz": "2. Mo 2,10-12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,10-12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Pharaos Tochter nimmt Mose »als Sohn an« (2. Mo 2,10). »Als Mose zum Mann geworden war« (griechisch wie hier: »herangewachsen«), stellt er sich zu seinen geschundenen Volksgenossen und erschlägt einen Ägypter (2,11-12). Der Text deutet das als Entscheidung gegen Pharaos Hof."
+    },
+    {
+      "vers_von": 26, "von": 11, "vers_bis": 26, "bis": 30, "typ": "at",
+      "referenz": "Ps 89,51-52", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm89,51-52",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 89,51-52 klagt über »die Schmach deiner Knechte«, mit der die Feinde »die Fußstapfen deines Gesalbten« geschmäht haben — griechisch: »deines Christus«. Die Schmach des Gottesvolkes ist die seines Gesalbten; Mose trug sie schon."
+    },
+    {
+      "vers_von": 27, "von": 14, "vers_bis": 27, "bis": 69, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 2,14-15", "url": "https://www.bibleserver.com/MENG/2.Mose2,14-15" },
+        { "label": "2. Mo 10,28-29", "url": "https://www.bibleserver.com/MENG/2.Mose10,28-29" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei seiner ersten Flucht aus Ägypten »erschrak« Mose und floh vor dem Pharao (2. Mo 2,14-15). Gemeint ist daher wohl der Auszug: Zuvor trotzt Mose dem Pharao, der ihm mit dem Tod droht (2. Mo 10,28-29)."
+    },
+    {
+      "vers_von": 28, "von": 21, "vers_bis": 28, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 12,21-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,21-23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Blut des Passahlammes wird mit Ysop an Oberschwelle und Türpfosten gestrichen. Wo der HERR es sieht, wird er »schonend vorübergehen und dem Würgengel nicht gestatten«, einzutreten (2. Mo 12,22-23) — davon hat das Passah seinen Namen."
+    },
+    {
+      "vers_von": 29, "von": 14, "vers_bis": 29, "bis": 105, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 14,21-28", "url": "https://www.bibleserver.com/MENG/2.Mose14,21-28" },
+        { "label": "2. Mo 13,18", "url": "https://www.bibleserver.com/MENG/2.Mose13,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Israeliten gehen »trocknen Fußes mitten durch das Meer« (2. Mo 14,22); die nachsetzenden Ägypter kommen in den zurückflutenden Wassern um (14,23-28). Hebräisch heißt es »Schilfmeer« (2. Mo 13,18), griechisch »Rotes Meer«."
+    },
+    {
+      "vers_von": 30, "von": 30, "vers_bis": 30, "bis": 115, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jos 6,3-5", "url": "https://www.bibleserver.com/MENG/Josua6,3-5" },
+        { "label": "Jos 6,20", "url": "https://www.bibleserver.com/MENG/Josua6,20" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sechs Tage zieht Israel einmal um Jericho, am siebten Tag siebenmal, die Lade voran. Beim Posaunenschall und Kriegsgeschrei stürzt die Mauer ein (Jos 6,3-5.20) — ohne Kampf."
+    },
+    {
+      "vers_von": 31, "von": 18, "vers_bis": 31, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jos 2,1-21", "url": "https://www.bibleserver.com/MENG/Josua2,1-21" },
+        { "label": "Jos 6,22-25", "url": "https://www.bibleserver.com/MENG/Josua6,22-25" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Rahab versteckt die Kundschafter Josuas und bekennt: »der HERR, euer Gott, ist Gott im Himmel oben und auf der Erde unten« (Jos 2,11). Bei der Eroberung Jerichos bleibt sie mit ihrer Familie verschont (Jos 6,22-25)."
+    },
+    {
+      "vers_von": 32, "von": 75, "vers_bis": 32, "bis": 159, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ri 6,11-14", "url": "https://www.bibleserver.com/MENG/Richter6,11-14" },
+        { "label": "Ri 4,6-7", "url": "https://www.bibleserver.com/MENG/Richter4,6-7" },
+        { "label": "Ri 13,24-25", "url": "https://www.bibleserver.com/MENG/Richter13,24-25" },
+        { "label": "Ri 11,29", "url": "https://www.bibleserver.com/MENG/Richter11,29" },
+        { "label": "1. Sam 16,13", "url": "https://www.bibleserver.com/MENG/1.Samuel16,13" },
+        { "label": "1. Sam 3,19-20", "url": "https://www.bibleserver.com/MENG/1.Samuel3,19-20" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Retter aus der Richterzeit: Gideon (Ri 6-8), Barak, der Heerführer der Richterin Debora (Ri 4-5), Simson (Ri 13-16), Jephtha (Ri 11). Dazu König David und Samuel, den ganz Israel als Propheten erkannte (1. Sam 3,19-20)."
+    },
+    {
+      "vers_von": 33, "von": 133, "vers_bis": 33, "bis": 157, "typ": "at",
+      "referenz": "Dan 6,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel6,23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Daniel in der Löwengrube: »Mein Gott hat seinen Engel gesandt und den Löwen den Rachen verschlossen« (Dan 6,23)."
+    },
+    {
+      "vers_von": 34, "von": 0, "vers_bis": 34, "bis": 32, "typ": "at",
+      "referenz": "Dan 3,23-27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel3,23-27",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die drei Freunde Daniels im Feuerofen: Das Feuer hatte »jenen Männern an ihrem Leibe nichts … antun können« (Dan 3,27)."
+    },
+    {
+      "vers_von": 35, "von": 0, "vers_bis": 35, "bis": 57, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 17,17-24", "url": "https://www.bibleserver.com/MENG/1.Koenige17,17-24" },
+        { "label": "2. Kön 4,18-37", "url": "https://www.bibleserver.com/MENG/2.Koenige4,18-37" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Elia erweckt den Sohn einer Witwe: »Sieh her, dein Sohn lebt!« (1. Kön 17,23); Elisa den Sohn der Sunamitin: »Nimm da deinen Sohn!« (2. Kön 4,36)."
+    },
+    {
+      "vers_von": 35, "von": 59, "vers_bis": 35, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Makk 6,18-31 Luther", "url": "https://www.bibleserver.com/LUT/2.Makkabaeer6,18-31" },
+        { "label": "2. Makk 7 Luther", "url": "https://www.bibleserver.com/LUT/2.Makkabaeer7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gemeint sind die Märtyrer der Makkabäerzeit (2. Makk 6-7, nicht in der Menge-Bibel): Der greise Eleasar weist die angebotene Rettung zurück und stirbt unter Folter, ebenso sieben Brüder und ihre Mutter — in der Hoffnung auf Auferstehung. »Herrlicher« ist sie als die Rückkehr ins irdische Leben (V35a): Auferstehung zum ewigen Leben."
+    },
+    {
+      "vers_von": 37, "von": 0, "vers_bis": 37, "bis": 79, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Chr 24,20-22", "url": "https://www.bibleserver.com/MENG/2.Chronik24,20-22" },
+        { "label": "1. Kön 19,10", "url": "https://www.bibleserver.com/MENG/1.Koenige19,10" },
+        { "label": "Jer 26,23", "url": "https://www.bibleserver.com/MENG/Jeremia26,23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Prophet Sacharja wird »im Vorhof des Tempels« gesteinigt (2. Chr 24,21; vgl. Mt 23,35). Elia klagt, man habe Gottes Propheten »mit dem Schwert getötet« (1. Kön 19,10); so stirbt Uria (Jer 26,23). »Zersägt« wurde nach jüdischer Überlieferung Jesaja — das steht nicht im AT."
+    },
+    {
+      "vers_von": 37, "von": 86, "vers_bis": 37, "bis": 117, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 19,19", "url": "https://www.bibleserver.com/MENG/1.Koenige19,19" },
+        { "label": "Sach 13,4", "url": "https://www.bibleserver.com/MENG/Sacharja13,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Elia wirft Elisa »sein Fell über« (1. Kön 19,19) — die griechische Übersetzung hat dafür dasselbe Wort wie hier. Der »härene Mantel« war Kennzeichen des Propheten (Sach 13,4)."
+    },
+    {
+      "vers_von": 38, "von": 42, "vers_bis": 38, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 18,4", "url": "https://www.bibleserver.com/MENG/1.Koenige18,4" },
+        { "label": "1. Kön 19,4-9", "url": "https://www.bibleserver.com/MENG/1.Koenige19,4-9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Als Isebel die Propheten ausrottet, versteckt Obadja hundert von ihnen »in einer Höhle« (1. Kön 18,4). Elia flieht in die Wüste und übernachtet in einer Höhle am Horeb (1. Kön 19,4-9)."
+    },
+    {
+      "vers_von": 6, "von": 136, "vers_bis": 6, "bis": 183, "typ": "at",
+      "referenz": "vgl. 5. Mo 4,29", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott suchen und finden ist geläufige AT-Frömmigkeit (5. Mo 4,29; Jer 29,13) — kein Bezug auf eine bestimmte Stelle. »Gott nahen« ist bei 7,19 annotiert."
+    },
+    {
+      "vers_von": 10, "von": 20, "vers_bis": 10, "bis": 64, "typ": "at",
+      "referenz": "vgl. Ps 87,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm87,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dass Abraham auf eine von Gott gebaute Stadt wartete, steht nicht im AT. Die Gottesstadt auf festem Grund (Ps 87,1; Jes 54,11) ist die Hoffnung auf das künftige Jerusalem — ausdrücklich bei 12,22. Gilt auch für V16 (»eine Stadt bereitet«)."
+    },
+    {
+      "vers_von": 33, "von": 35, "vers_bis": 33, "bis": 93, "typ": "at",
+      "referenz": "vgl. 2. Sam 8,1-15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel8,1-15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Zusammenfassung; passt auf David, der die Nachbarreiche unterwarf und Recht und Gerechtigkeit übte (2. Sam 8,1-15). Kein sicherer Einzelbezug."
+    },
+    {
+      "vers_von": 34, "von": 43, "vers_bis": 34, "bis": 114, "typ": "at",
+      "referenz": "vgl. Ri 16,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Richter16,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Zusammenfassung. Denkbar sind Elia vor Isebel (1. Kön 19,2-3) und Simson: »verleihe mir nur dies eine Mal noch Kraft« (Ri 16,28) — kein sicherer Einzelbezug."
+    },
+    {
+      "vers_von": 27, "von": 71, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "vgl. 4. Mo 12,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose12,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Evokativ: Mose schaut »die Gestalt des HERRN« (4. Mo 12,8), Gott ist für Menschen nicht sichtbar (2. Mo 33,20). Keine Formulierungsvorlage."
+    },
+    {
+      "vers_von": 33, "von": 95, "vers_bis": 33, "bis": 131, "typ": "at",
+      "referenz": "vgl. Jos 21,45", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua21,45",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Zusammenfassung. Denkbar ist Jos 21,45 (keine Verheißung blieb unerfüllt) — kein Einzelbezug."
+    },
+    {
+      "vers_von": 36, "von": 20, "vers_bis": 36, "bis": 73, "typ": "at",
+      "referenz": "vgl. Jer 20,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia20,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Prophetenschicksal: Jeremia wird geschlagen und in den Block gelegt (Jer 20,2), später eingekerkert (Jer 37,15). Allgemeine Aufzählung — kein sicherer Einzelbezug."
+    },
+    {
+      "vers_von": 38, "von": 42, "vers_bis": 38, "bis": -1, "typ": "at",
+      "referenz": "vgl. 1. Makk 2,28-31", "vgl": true,
+      "url": "https://www.bibleserver.com/LUT/1.Makkabaeer2,28-31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Auch die Makkabäer-Treuen flohen in Berge und Höhlen (1. Makk 2,28-31; 2. Makk 6,11). Außerkanonisch und neben Obadja und Elia (aktiv) nicht nötig."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 13,
+  "titel": "Schlußworte",
+  "abschnitte": [
+    { "id": "allgemeine-ermahnungen", "vers_von": 1, "vers_bis": 6, "titel": "Allgemeine Ermahnungen" },
+    { "id": "treue-vorsteher-jesus", "vers_von": 7, "vers_bis": 15, "titel": "Hauptmahnung zur Treue gegen die Vorsteher und gegen Jesus, den in Ewigkeit Bleibenden und den Beendiger des jüdischen Sündopferdienstes" },
+    { "id": "einzelermahnungen", "vers_von": 16, "vers_bis": 19, "titel": "Nochmalige Einzelermahnungen (besonders bezüglich des Verhaltens gegen die Gemeindevorsteher)" },
+    { "id": "briefschluss", "vers_von": 20, "vers_bis": 25, "titel": "Abschluß des Briefes (Segenswunsch, persönliche Mitteilungen, Grüße)" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 67, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 18,1-8", "url": "https://www.bibleserver.com/MENG/1.Mose18,1-8" },
+        { "label": "1. Mo 19,1-3", "url": "https://www.bibleserver.com/MENG/1.Mose19,1-3" },
+        { "label": "Ri 13,15-16", "url": "https://www.bibleserver.com/MENG/Richter13,15-16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Abraham bewirtet drei fremde Männer an seinem Zelt — es sind der HERR und zwei Engel (1. Mo 18). Lot nimmt die beiden Engel in Sodom auf und rettet so sein Leben (1. Mo 19). Manoah will einen Fremden bewirten: »Manoah wußte nämlich nicht, daß es der Engel des HERRN war« (Ri 13,16)."
+    },
+    {
+      "vers_von": 5, "von": 115, "vers_bis": 5, "bis": 186, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Jos 1,5", "url": "https://www.bibleserver.com/MENG/Josua1,5" },
+        { "label": "5. Mo 31,6-8", "url": "https://www.bibleserver.com/MENG/5.Mose31,6-8" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gottes Zusage an Israel und Josua vor dem Einzug ins verheißene Land (5. Mo 31,6.8; Jos 1,5). Wer Gottes Beistand hat, braucht keine Sicherheit durch Besitz — daher die Mahnung gegen Geldgier."
+    },
+    {
+      "vers_von": 6, "von": 44, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "Ps 118,6", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 118 beschließt das Hallel (Ps 113-118), das an Passa und den Wallfahrtsfesten gesungen wurde. Der von Feinden umringte Beter bekennt Gott als Helfer. Auf Gottes Zusage (V5) antwortet die Gemeinde mit diesem Bekenntnis. »Meine Hilfe« nach der griechischen Übersetzung; Menge: »Ist der HERR für mich«."
+    },
+    {
+      "vers_von": 10, "von": 0, "vers_bis": 10, "bis": 94, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 6,19", "url": "https://www.bibleserver.com/MENG/3.Mose6,19" },
+        { "label": "3. Mo 6,23", "url": "https://www.bibleserver.com/MENG/3.Mose6,23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vom gewöhnlichen Sündopfer aß der Priester (3. Mo 6,19). Kam aber sein Blut ins Heiligtum, durfte niemand davon essen — es wurde verbrannt (3. Mo 6,23). Jesu Opfer entspricht dem Versöhnungstag (V11): Wer am Dienst des Zeltes festhält, hat keinen Anteil daran."
+    },
+    {
+      "vers_von": 11, "von": 5, "vers_bis": 11, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 16,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,27",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Versöhnungstag wurden Stier und Bock, deren Blut ins Allerheiligste kam, nicht gegessen: Man sollte sie »vor das Lager hinausschaffen« und verbrennen (3. Mo 16,27). Das stärkste Sühnopfer endete außerhalb des Lagers — darauf bauen V12-13 auf."
+    },
+    {
+      "vers_von": 12, "von": 73, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 24,14", "url": "https://www.bibleserver.com/MENG/3.Mose24,14" },
+        { "label": "4. Mo 15,35-36", "url": "https://www.bibleserver.com/MENG/4.Mose15,35-36" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Außerhalb des Lagers wurden Gotteslästerer und Gesetzesbrecher hingerichtet (3. Mo 24,14; 4. Mo 15,35-36); Jerusalem galt als das Lager. Jesus stirbt am Ort der Verstoßenen — und zugleich wie das Versöhnungsopfer (V11) draußen."
+    },
+    {
+      "vers_von": 13, "von": 26, "vers_bis": 13, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 13,46", "url": "https://www.bibleserver.com/MENG/3.Mose13,46" },
+        { "label": "2. Mo 33,7", "url": "https://www.bibleserver.com/MENG/2.Mose33,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Draußen vor dem Lager wohnten die Unreinen, etwa Aussätzige (3. Mo 13,46) — wer hinausgeht, teilt ihre Schmach. Nach dem Goldenen Kalb stand aber auch das Offenbarungszelt draußen: Wer den HERRN befragen wollte, »ging … hinaus« (2. Mo 33,7)."
+    },
+    {
+      "vers_von": 15, "von": 43, "vers_bis": 15, "bis": 66, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 50,14", "url": "https://www.bibleserver.com/MENG/Psalm50,14" },
+        { "label": "Ps 50,23", "url": "https://www.bibleserver.com/MENG/Psalm50,23" },
+        { "label": "3. Mo 7,12", "url": "https://www.bibleserver.com/MENG/3.Mose7,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Lobopfer« ist das Dankopfer der Tora (3. Mo 7,12). In Ps 50 weist Gott Stiere und Böcke zurück und verlangt stattdessen: »Bringe Dank dem HERRN als Opfer dar« (50,14). Nach dem Ende der Tieropfer (V10-12) bleibt dieses Opfer."
+    },
+    {
+      "vers_von": 15, "von": 82, "vers_bis": 15, "bis": 105, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Hos 14,3", "url": "https://www.bibleserver.com/MENG/Hosea14,3" },
+        { "label": "Jes 57,19", "url": "https://www.bibleserver.com/MENG/Jesaja57,19" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Israel kehrt um und bringt Gott »statt der Farren die Frucht unserer Lippen als Opfer« (Hos 14,3): Worte ersetzen Stieropfer. Jes 57,19: Gott schafft die »Frucht der Lippen«, Frieden für Ferne und Nahe."
+    },
+    {
+      "vers_von": 17, "von": 49, "vers_bis": 17, "bis": 127, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 33,7-8", "url": "https://www.bibleserver.com/MENG/Hesekiel33,7-8" },
+        { "label": "Hes 3,17-18", "url": "https://www.bibleserver.com/MENG/Hesekiel3,17-18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott bestellt Hesekiel zum »Wächter für das Haus Israel«: Warnt er nicht, macht Gott ihn für das verlorene Leben »verantwortlich« (Hes 33,7-8; 3,17-18). Ebenso müssen die Führer für die ihnen Anvertrauten Rechenschaft geben."
+    },
+    {
+      "vers_von": 20, "von": 32, "vers_bis": 20, "bis": 113, "typ": "at",
+      "referenz": "Jes 63,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja63,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 63,11 erinnert an den Auszug: »Wo ist der, welcher den Hirten seiner Herde aus dem Meer heraufgeholt hat?« — gemeint ist Mose. Die griechische Übersetzung sagt wörtlich »den Hirten der Schafe heraufgeführt«. Hier führt Gott den größeren Hirten aus dem Tod herauf."
+    },
+    {
+      "vers_von": 20, "von": 120, "vers_bis": 20, "bis": 146, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 37,24-26", "url": "https://www.bibleserver.com/MENG/Hesekiel37,24-26" },
+        { "label": "Sach 9,11", "url": "https://www.bibleserver.com/MENG/Sacharja9,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hesekiel verheißt einen einzigen Hirten, den neuen David, und einen »Friedensbund«, einen »ewigen Bund« (Hes 37,24-26) — Hirte, Friede und ewiger Bund stehen auch hier beisammen. Sach 9,11: »um des Blutbundes willen« befreit Gott die Gefangenen aus der Grube."
+    },
+    {
+      "vers_von": 4, "von": 82, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 20,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Ehebruchsverbot ist allgemein bekanntes Gebot, keine Anspielung auf eine bestimmte Stelle."
+    },
+    {
+      "vers_von": 5, "von": 165, "vers_bis": 5, "bis": 185, "typ": "at",
+      "referenz": "vgl. 1. Mo 28,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose28,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dieselbe Zusage erhält Jakob in Bethel (1. Mo 28,15). Der Wortlaut folgt aber 5. Mo 31,6-8 und Jos 1,5, die aktiv annotiert sind."
+    },
+    {
+      "vers_von": 6, "von": 101, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 56,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm56,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ps 56,5.12 stellt dieselbe Frage. Zitiert wird aber Ps 118,6 (aktiv) — Parallele ohne eigene Dimension."
+    },
+    {
+      "vers_von": 8, "von": 19, "vers_bis": 8, "bis": 45, "typ": "at",
+      "referenz": "vgl. Ps 102,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm102,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Du aber bleibst derselbe« (Ps 102,28) ist bei 1,10-12 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 9, "von": 126, "vers_bis": 9, "bis": 145, "typ": "at",
+      "referenz": "vgl. 3. Mo 11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Speisegebote sind bei 9,10 annotiert — Wiederholung. Hier sind eher Opfermahlzeiten gemeint, erklärt bei V10."
+    },
+    {
+      "vers_von": 13, "von": 56, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 89,51-52", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm89,51-52",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Schmach Christi mit Ps 89,51-52 ist bei 11,26 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 14, "von": 20, "vers_bis": 14, "bis": -1, "typ": "at",
+      "referenz": "vgl. Mi 2,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Micha2,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die zukünftige Stadt ist bei 11,10-16 und 12,22 (Zion) behandelt — Wiederholung. Mi 2,10 (»hier ist eures Bleibens nicht«) klingt nur evokativ an."
+    },
+    {
+      "vers_von": 16, "von": 46, "vers_bis": 16, "bis": 93, "typ": "at",
+      "referenz": "vgl. Hos 6,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea6,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»An Liebe habe ich Wohlgefallen, aber nicht an Schlachtopfern« (Hos 6,6) ist geläufige Prophetenkritik; die Opferkritik ist bei 10,4-5 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 20, "von": 32, "vers_bis": 20, "bis": 60, "typ": "at",
+      "referenz": "vgl. Hes 34,23-25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel34,23-25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hes 34,23.25 hat ebenfalls den einen Hirten David und den »Friedensbund« — dasselbe Motiv wie Hes 37,24-26 (aktiv), Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 20, "von": 120, "vers_bis": 20, "bis": 146, "typ": "at",
+      "referenz": "vgl. 2. Mo 24,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das »Blut des Bundes« vom Sinai (2. Mo 24,8) ist bei 9,20 annotiert — Wiederholung. Das »ewig« deckt Hes 37,26 ab."
+    }
+  ]
+}

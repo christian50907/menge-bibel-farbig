@@ -1,0 +1,350 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 9,
+  "titel": "Die Unvollkommenheit des levitischen Priesterdienstes und die Vollkommenheit des hohepriesterlichen Dienstes Christi",
+  "abschnitte": [
+    { "id": "levitischer-dienst", "vers_von": 1, "vers_bis": 14, "titel": "Die Unvollkommenheit des levitischen Priesterdienstes und die Vollkommenheit (oder: Überlegenheit) des hohepriesterlichen Dienstes Christi" },
+    { "id": "mittler-neuer-bund", "vers_von": 15, "vers_bis": 22, "titel": "Christus als Mittler eines neuen Bundes und sein einmaliger Opfertod als ewiggültiges Mittel seines himmlischen Hohepriesterdienstes" },
+    { "id": "selbstopfer", "vers_von": 23, "vers_bis": 28, "titel": "Jesu vollkommenes Opfer und die Vollendung der Gläubigen in Christus: Das einmalige blutige Selbstopfer Christi und seine gewaltige Heilsbedeutung für die Gläubigen" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 74, "vers_bis": 2, "bis": 134, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 26,35", "url": "https://www.bibleserver.com/MENG/2.Mose26,35" },
+        { "label": "3. Mo 24,5-9", "url": "https://www.bibleserver.com/MENG/3.Mose24,5-9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Heiligen standen der siebenarmige Leuchter und der Tisch (2. Mo 26,35). Darauf lagen zwölf Brote, ständig vor Gottes Angesicht und jeden Sabbat erneuert (3. Mo 24,5-9)."
+    },
+    {
+      "vers_von": 3, "von": 0, "vers_bis": 3, "bis": 26, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 26,33", "url": "https://www.bibleserver.com/MENG/2.Mose26,33" },
+        { "label": "2. Mo 26,36", "url": "https://www.bibleserver.com/MENG/2.Mose26,36" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Wohnung hatte zwei Vorhänge: einen am Eingang (2. Mo 26,36) und einen inneren, der das Heilige vom Allerheiligsten trennte (2. Mo 26,33)."
+    },
+    {
+      "vers_von": 4, "von": 0, "vers_bis": 4, "bis": 29, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 30,6", "url": "https://www.bibleserver.com/MENG/2.Mose30,6" },
+        { "label": "3. Mo 16,12-13", "url": "https://www.bibleserver.com/MENG/3.Mose16,12-13" },
+        { "label": "1. Kön 6,22", "url": "https://www.bibleserver.com/MENG/1.Koenige6,22" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Räucheraltar stand vor dem Vorhang, im Heiligen (2. Mo 30,6). Er gehörte aber zum Dienst des Allerheiligsten: Am Versöhnungstag trug der Hohepriester Glut und Räucherwerk hinter den Vorhang (3. Mo 16,12-13). Hebräisch heißt er in 1. Kön 6,22 »der Altar, der zum Hinterraum gehört« (Menge: »der vor dem Allerheiligsten stand«)."
+    },
+    {
+      "vers_von": 4, "von": 34, "vers_bis": 4, "bis": 203, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 10,5", "url": "https://www.bibleserver.com/MENG/5.Mose10,5" },
+        { "label": "2. Mo 16,33-34", "url": "https://www.bibleserver.com/MENG/2.Mose16,33-34" },
+        { "label": "4. Mo 17,25", "url": "https://www.bibleserver.com/MENG/4.Mose17,25" },
+        { "label": "1. Kön 8,9", "url": "https://www.bibleserver.com/MENG/1.Koenige8,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In der Lade lagen die Gesetzestafeln (5. Mo 10,5), davor der Mannakrug als Andenken an die Wüstenzeit (2. Mo 16,33-34; »golden« nur in der griechischen Übersetzung). Aarons grünender Stab kam »vor die Gesetzeslade« als Mahnzeichen gegen Aufruhr (4. Mo 17,25). Unter Salomo waren nur noch die Tafeln darin (1. Kön 8,9)."
+    },
+    {
+      "vers_von": 5, "von": 26, "vers_bis": 5, "bis": 119, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 25,18-22", "url": "https://www.bibleserver.com/MENG/2.Mose25,18-22" },
+        { "label": "Jes 37,16", "url": "https://www.bibleserver.com/MENG/Jesaja37,16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zwei goldene Cherube überspannten die Deckplatte der Lade; von dort aus wollte Gott mit Mose reden (2. Mo 25,18-22). Gott ist der, »der du über den Cheruben thronst« (Jes 37,16) — die Lade ist sein Thronort."
+    },
+    {
+      "vers_von": 7, "von": 33, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 16,14-15", "url": "https://www.bibleserver.com/MENG/3.Mose16,14-15" },
+        { "label": "3. Mo 16,34", "url": "https://www.bibleserver.com/MENG/3.Mose16,34" },
+        { "label": "4. Mo 15,22-31", "url": "https://www.bibleserver.com/MENG/4.Mose15,22-31" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nur am Versöhnungstag, einmal im Jahr (3. Mo 16,34), sprengte der Hohepriester Blut auf die Deckplatte: erst vom Stier für sich, dann vom Bock für das Volk (3. Mo 16,14-15). »Verfehlungen« sind unvorsätzliche Sünden (4. Mo 15,22-31; s. 5,2)."
+    },
+    {
+      "vers_von": 10, "von": 42, "vers_bis": 10, "bis": 85, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 11,32-34", "url": "https://www.bibleserver.com/MENG/3.Mose11,32-34" },
+        { "label": "3. Mo 10,9", "url": "https://www.bibleserver.com/MENG/3.Mose10,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Speisegebote regeln auch Getränke: Was in einem unrein gewordenen Gefäß ist, wird selbst unrein (3. Mo 11,32-34). Priester durften im Dienst keinen Wein trinken (3. Mo 10,9). Die Waschungen sind bei 6,2 erklärt."
+    },
+    {
+      "vers_von": 13, "von": 52, "vers_bis": 13, "bis": 113, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 19,2-13", "url": "https://www.bibleserver.com/MENG/4.Mose19,2-13" },
+        { "label": "4. Mo 19,17-20", "url": "https://www.bibleserver.com/MENG/4.Mose19,17-20" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Eine rötliche Kuh wurde verbrannt; ihre Asche, mit Wasser vermischt, reinigte jeden, der einen Toten berührt hatte (4. Mo 19). Wer sich nicht reinigte, verunreinigte das Heiligtum (19,13.20). Daran knüpft V14 an: Christi Blut reinigt von »toten Werken«."
+    },
+    {
+      "vers_von": 14, "von": 80, "vers_bis": 14, "bis": 101, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 22,19-21", "url": "https://www.bibleserver.com/MENG/3.Mose22,19-21" },
+        { "label": "4. Mo 19,2", "url": "https://www.bibleserver.com/MENG/4.Mose19,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Opfertiere mussten »fehlerlos« sein (3. Mo 22,19-21), auch die rötliche Kuh aus V13 (4. Mo 19,2). Christus bringt sich selbst als solches Opfer dar: ohne Sünde (4,15)."
+    },
+    {
+      "vers_von": 19, "von": 100, "vers_bis": 19, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 24,3-8", "url": "https://www.bibleserver.com/MENG/2.Mose24,3-8" },
+        { "label": "3. Mo 14,4-7", "url": "https://www.bibleserver.com/MENG/3.Mose14,4-7" },
+        { "label": "4. Mo 19,6.18", "url": "https://www.bibleserver.com/MENG/4.Mose19,6-18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Bundesschluss am Sinai (2. Mo 24,3-8) nennt nur Stiere und das Besprengen von Altar und Volk. Wasser, Scharlachwolle und Ysop gehören zu den Reinigungsriten (3. Mo 14,4-7; 4. Mo 19,6.18). Der Text verbindet beides: Der Bund beginnt mit Reinigung durch Blut."
+    },
+    {
+      "vers_von": 20, "von": 24, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 24,8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Moses Wort beim Bundesschluss am Sinai (2. Mo 24,8). Hebräisch und griechisch beginnt es mit »Siehe«; das »Dies ist« gleicht dem Abendmahlswort Jesu vom Blut des Bundes (Mk 14,24)."
+    },
+    {
+      "vers_von": 21, "von": 0, "vers_bis": 21, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 8,10-19", "url": "https://www.bibleserver.com/MENG/3.Mose8,10-19" },
+        { "label": "3. Mo 16,16-19", "url": "https://www.bibleserver.com/MENG/3.Mose16,16-19" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Sinai gab es das Zelt noch nicht. Bei der Priesterweihe salbte Mose Wohnung und Geräte mit Öl und strich Blut an den Altar (3. Mo 8,10-15.19); dass er das Zelt mit Blut besprengte, berichtet das AT nicht. Jährlich wurden Zelt und Altar am Versöhnungstag mit Blut entsühnt (3. Mo 16,16-19)."
+    },
+    {
+      "vers_von": 22, "von": 15, "vers_bis": 22, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 17,11", "url": "https://www.bibleserver.com/MENG/3.Mose17,11" },
+        { "label": "3. Mo 5,11-13", "url": "https://www.bibleserver.com/MENG/3.Mose5,11-13" },
+        { "label": "4. Mo 31,22-24", "url": "https://www.bibleserver.com/MENG/4.Mose31,22-24" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Grundsatz der Tora: Das Blut bewirkt Sühne, weil das Leben im Blut ist (3. Mo 17,11). »Beinahe«: Arme durften als Sündopfer Mehl bringen (3. Mo 5,11-13); Metall wurde durch Feuer und Wasser gereinigt (4. Mo 31,22-24)."
+    },
+    {
+      "vers_von": 28, "von": 89, "vers_bis": 28, "bis": 121, "typ": "at",
+      "referenz": "Jes 53,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vom Gottesknecht heißt es: »während er doch die Sünde der Vielen getragen hat« (Jes 53,12). Die griechische Übersetzung hat dort dieselbe Wendung wie hier: »die Sünden vieler hinauftragen« (Menge hier: »wegnehmen«)."
+    },
+    {
+      "vers_von": 28, "von": 123, "vers_bis": 28, "bis": 211, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 16,17.23-24", "url": "https://www.bibleserver.com/MENG/3.Mose16,17-24" },
+        { "label": "3. Mo 9,22-23", "url": "https://www.bibleserver.com/MENG/3.Mose9,22-23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Versöhnungstag durfte niemand im Zelt sein, bis der Hohepriester wieder herauskam (3. Mo 16,17.23-24). Bei Aarons erstem Dienst segnete er beim Heraustreten das Volk (3. Mo 9,22-23). So »erscheint« Christus nach seinem Eintritt vor Gott (V24) ein zweites Mal."
+    },
+    {
+      "vers_von": 1, "von": 39, "vers_bis": 1, "bis": 69, "typ": "at",
+      "referenz": "vgl. allgemein",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Einleitung zum Kultus des Sinaibundes (2. Mo 25-31) — die Einzelheiten sind ab V2 annotiert."
+    },
+    {
+      "vers_von": 6, "von": 45, "vers_bis": 6, "bis": 165, "typ": "at",
+      "referenz": "vgl. 2. Mo 30,7-8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose30,7-8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Täglicher Dienst im Heiligen: Lampen und Räucherwerk morgens und abends (2. Mo 30,7-8). Sachliche Beschreibung; der tägliche Opferdienst ist bei 7,27 annotiert."
+    },
+    {
+      "vers_von": 8, "von": 48, "vers_bis": 8, "bis": 107, "typ": "at",
+      "referenz": "vgl. 3. Mo 16,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der verschlossene Zugang zum Allerheiligsten (3. Mo 16,2) ist bei 4,16 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 9, "von": 75, "vers_bis": 9, "bis": 102, "typ": "at",
+      "referenz": "vgl. 3. Mo 2,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose2,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Unblutige und blutige Opfer — wie 5,1 und 8,3 allgemeine Beschreibung des Opferdienstes — Wiederholung."
+    },
+    {
+      "vers_von": 11, "von": 118, "vers_bis": 11, "bis": 150, "typ": "at",
+      "referenz": "vgl. 2. Mo 25,8-9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose25,8-9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das himmlische Zelt ist bei 8,2 annotiert. »Nicht mit Händen gemacht« ist keine AT-Formulierung (vgl. Mk 14,58); die Götzenpolemik (Ps 115,4) klingt nur von fern an."
+    },
+    {
+      "vers_von": 12, "von": 19, "vers_bis": 12, "bis": 52, "typ": "at",
+      "referenz": "vgl. 3. Mo 16,3",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Opfertiere des Versöhnungstags (3. Mo 16,3.5) sind bei V7 erklärt — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 12, "von": 158, "vers_bis": 12, "bis": 183, "typ": "at",
+      "referenz": "vgl. allgemein",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ewiggültige Erlösung« ist keine AT-Formulierung — kein Einzelstellen-Bezug."
+    },
+    {
+      "vers_von": 14, "von": 124, "vers_bis": 14, "bis": 164, "typ": "at",
+      "referenz": "vgl. 4. Mo 19,11-13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose19,11-13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Tote Werke« ist keine AT-Formulierung; die Reinigung von Totenunreinheit (4. Mo 19) ist bei V13 erklärt. »Lebendiger Gott« ist allgemeines Vokabular (s. 3,12)."
+    },
+    {
+      "vers_von": 15, "von": 38, "vers_bis": 15, "bis": 64, "typ": "at",
+      "referenz": "vgl. Jer 31,31",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der neue Bund (Jer 31,31-34) ist bei 8,8-12 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 15, "von": 200, "vers_bis": 15, "bis": 235, "typ": "at",
+      "referenz": "vgl. 1. Mo 22,16-17",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose22,16-17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Verheißung und Erbe sind bei 6,12-17 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 16, "von": 13, "vers_bis": 16, "bis": 34, "typ": "at",
+      "referenz": "vgl. allgemein",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wortspiel im Griechischen: diatheke heißt »Bund« und »Testament«. Das Testamentsrecht ist griechisch-römisch, kein AT-Bezug."
+    },
+    {
+      "vers_von": 18, "von": 33, "vers_bis": 18, "bis": 59, "typ": "at",
+      "referenz": "vgl. 1. Kön 8,63",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige8,63",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Einweihen« ist im Griechischen das Wort der Tempelweihe (1. Kön 8,63). Der Bundesschluss selbst ist bei V19-20 annotiert."
+    },
+    {
+      "vers_von": 21, "von": 10, "vers_bis": 21, "bis": 58, "typ": "at",
+      "referenz": "vgl. 4. Mo 19,18",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose19,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "4. Mo 19,18 spricht ebenfalls vom Besprengen »das Zelt samt allen Geräten« — gemeint ist dort aber das Zelt eines Verstorbenen, nicht die Stiftshütte. Gleichklang, kein Bezug."
+    },
+    {
+      "vers_von": 23, "von": 20, "vers_bis": 23, "bis": 78, "typ": "at",
+      "referenz": "vgl. 2. Mo 25,40",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose25,40",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das irdische Heiligtum als Abbild des himmlischen (2. Mo 25,40) ist bei 8,5 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 24, "von": 205, "vers_bis": 24, "bis": 243, "typ": "at",
+      "referenz": "vgl. 2. Mo 28,29",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose28,29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Aaron trägt die Namen der Stämme Israels auf dem Herzen »vor den HERRN« (2. Mo 28,29) — passendes Bild für ein Erscheinen »uns zum Heil«, aber ohne Formulierungsvorlage. Nur evokativ."
+    },
+    {
+      "vers_von": 25, "von": 113, "vers_bis": 25, "bis": 169, "typ": "at",
+      "referenz": "vgl. 3. Mo 16,34",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose16,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der jährliche Eintritt mit Blut ist bei V7 erklärt — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 26, "von": 18, "vers_bis": 26, "bis": 43, "typ": "at",
+      "referenz": "vgl. allgemein",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose1,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Zeitangabe, kein Bezug auf eine bestimmte Stelle. »Ende der Weltzeiten« entspricht »Ende dieser Tage« in 1,2."
+    },
+    {
+      "vers_von": 27, "von": 41, "vers_bis": 27, "bis": 83, "typ": "at",
+      "referenz": "vgl. 1. Mo 3,19",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose3,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Sterblichkeit (1. Mo 3,19) und das Gericht (Pred 12,14) sind allgemeine Glaubensüberzeugung; Auferstehung und Gericht sind bei 6,2 (Dan 12,2) annotiert."
+    },
+    {
+      "vers_von": 28, "von": 165, "vers_bis": 28, "bis": 190, "typ": "at",
+      "referenz": "vgl. Jes 25,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja25,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Harren auf Gottes Rettung (Jes 25,9) klingt thematisch an, ohne gemeinsamen Wortlaut — nur evokativ."
+    }
+  ]
+}

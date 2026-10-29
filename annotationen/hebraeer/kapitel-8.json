@@ -1,0 +1,134 @@
+{
+  "buch": "Hebräer",
+  "kapitel": 8,
+  "titel": "Jesus waltet als Hoherpriester im Himmel aufgrund seines abschließenden Selbstopfers",
+  "abschnitte": [
+    { "id": "neuer-bund", "vers_von": 1, "vers_bis": 13, "titel": "Die Überlegenheit des himmlischen Hohepriesterdienstes Jesu und des neuen Bundes, dessen Mittler er ist" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 23, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 25,8-9", "url": "https://www.bibleserver.com/MENG/2.Mose25,8-9" },
+        { "label": "4. Mo 24,6", "url": "https://www.bibleserver.com/MENG/4.Mose24,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das »Zelt« ist die Stiftshütte, das tragbare Heiligtum der Wüstenzeit (2. Mo 25,8-9). Das »wahre Zelt« ist ihr himmlisches Urbild (V5). »Das der Herr errichtet hat« steht so in der griechischen Fassung von 4. Mo 24,6 (Menge nach dem Hebräischen: »Aloebäume«)."
+    },
+    {
+      "vers_von": 5, "von": 200, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 25,40",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose25,40",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Auf dem Sinai zeigt Gott Mose das »Musterbild der Wohnung« (2. Mo 25,9.40). Das irdische Heiligtum ist danach nur Abbild des himmlischen."
+    },
+    {
+      "vers_von": 8, "von": 79, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Jer 31,31-32",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,31-32",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jeremia kündigt den neuen Bund kurz vor dem Fall Jerusalems an (587 v. Chr.). Der »Tadel« trifft das Volk: »sie« haben den Bund vom Auszug gebrochen. V9 folgt der griechischen Übersetzung; Menge zu Jer 31,32: »wiewohl ich Herrenrecht über sie hatte«."
+    },
+    {
+      "vers_von": 10, "von": 0, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Jer 31,33", "url": "https://www.bibleserver.com/MENG/Jeremia31,33" },
+        { "label": "2. Mo 31,18", "url": "https://www.bibleserver.com/MENG/2.Mose31,18" },
+        { "label": "3. Mo 26,12", "url": "https://www.bibleserver.com/MENG/3.Mose26,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gesetz vom Sinai stand auf »steinernen Tafeln« (2. Mo 31,18), jetzt im Herzen. »Euer Gott sein … mein Volk sein« ist die alte Bundesformel (3. Mo 26,12)."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Jer 31,34", "url": "https://www.bibleserver.com/MENG/Jeremia31,34" },
+        { "label": "5. Mo 33,10", "url": "https://www.bibleserver.com/MENG/5.Mose33,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bisher lehrten die Priester Israel das Gesetz (5. Mo 33,10); jetzt kennen alle Gott selbst. V12 folgt der griechischen Übersetzung; Menge zu Jer 31,34: »ihre Schuld vergeben«."
+    },
+    {
+      "vers_von": 1, "von": 124, "vers_bis": 1, "bis": 174, "typ": "at",
+      "referenz": "vgl. Ps 110,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Erhöhung zur Rechten Gottes (Ps 110,1) ist bei 1,13 annotiert; »Erhabenheit« wie in 1,3 — Wiederholung."
+    },
+    {
+      "vers_von": 3, "von": 52, "vers_bis": 3, "bis": 79, "typ": "at",
+      "referenz": "vgl. 3. Mo 2,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose2,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Unblutige und blutige Opfer — wörtlich wie 5,1, dort als allgemeine Beschreibung des Opferdienstes inaktiv — Wiederholung."
+    },
+    {
+      "vers_von": 4, "von": 74, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "vgl. 4. Mo 3,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose3,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Priesteramt allein für Aarons Nachkommen (4. Mo 3,10) ist bei 7,14 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 5, "von": 42, "vers_bis": 5, "bis": 104, "typ": "at",
+      "referenz": "vgl. allgemein",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Nachbildung und Schattenbild« ist keine AT-Formulierung, sondern griechische Denkfigur (vgl. 10,1; Kol 2,17). Der AT-Anknüpfungspunkt ist das Musterbild aus 2. Mo 25,40, im selben Vers annotiert."
+    },
+    {
+      "vers_von": 6, "von": 79, "vers_bis": 6, "bis": 108, "typ": "at",
+      "referenz": "vgl. 5. Mo 5,5",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose5,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Mose stand am Sinai »zwischen dem HERRN und euch« (5. Mo 5,5) — sachlich der Mittler des ersten Bundes. »Mittler« ist kein AT-Bundesbegriff; nur thematisch. Der bessere Bund ist bei V8-12 annotiert."
+    },
+    {
+      "vers_von": 7, "von": 13, "vers_bis": 7, "bis": 31, "typ": "at",
+      "referenz": "vgl. 2. Mo 24,8",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der »erste Bund« ist der Sinaibund, den V9 benennt (Jer 31,32). Seine Schließung mit dem »Blut des Bundes« (2. Mo 24,8) wird in 9,18-20 zitiert — dort annotieren."
+    },
+    {
+      "vers_von": 13, "von": 24, "vers_bis": 13, "bis": 39, "typ": "at",
+      "referenz": "Jer 31,31",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Stichwort-Wiederaufnahme aus dem Zitat V8 — Intra-Kapitel-Redundanz."
+    },
+    {
+      "vers_von": 13, "von": 69, "vers_bis": 13, "bis": 77, "typ": "at",
+      "referenz": "vgl. Ps 102,27",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm102,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Veralten wie ein Kleid« (Ps 102,27) ist bei 1,10-12 annotiert — Wiederholung."
+    }
+  ]
+}
