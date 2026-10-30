@@ -1,0 +1,227 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 2,
+  "titel": "Die sieben Sendschreiben: Ephesus · Smyrna · Pergamon · Thyatira",
+  "abschnitte": [
+    { "id": "ephesus", "vers_von": 1, "vers_bis": 7, "titel": "Sendschreiben an die Gemeinde in Ephesus: »Laß die erste Liebe nicht!«" },
+    { "id": "smyrna", "vers_von": 8, "vers_bis": 11, "titel": "Sendschreiben an die Gemeinde in Smyrna: »Sei bis in den Tod getreu!«" },
+    { "id": "pergamon", "vers_von": 12, "vers_bis": 17, "titel": "Sendschreiben an die Gemeinde in Pergamon: »Folge nicht der eitlen Welt!«" },
+    { "id": "thyatira", "vers_von": 18, "vers_bis": 29, "titel": "Sendschreiben an die Gemeinde in Thyatira: »Prüfe weislich jeden Geist!«" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 29, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 7, "von": 109, "vers_bis": 7, "bis": 160, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 2,9", "url": "https://www.bibleserver.com/MENG/1.Mose2,9" },
+        { "label": "1. Mo 3,22-24", "url": "https://www.bibleserver.com/MENG/1.Mose3,22-24" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Baum des Lebens stand im Garten Eden; nach dem Sündenfall wurde der Mensch von ihm ausgesperrt. Dem Überwinder wird der verlorene Zugang zurückgegeben. »Paradies« ist im griechischen AT das Wort für den Garten Eden."
+    },
+    {
+      "vers_von": 8, "von": 59, "vers_bis": 8, "bis": 83, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Jes 44,6", "url": "https://www.bibleserver.com/MENG/Jesaja44,6" },
+        { "label": "Jes 48,12", "url": "https://www.bibleserver.com/MENG/Jesaja48,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gottes Selbstbezeichnung bei Jesaja, wie in 1,17 auf Christus bezogen. Für Smyrna, dem Leiden bis in den Tod bevorsteht (V10), zugespitzt: Der Erste und Letzte war selbst tot und lebt."
+    },
+    {
+      "vers_von": 10, "von": 129, "vers_bis": 10, "bis": 217, "typ": "at",
+      "referenz": "Dan 1,12-14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel1,12-14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Daniel und seine Freunde wurden in der Gefangenschaft »zehn Tage lang« auf die Probe gestellt und blieben treu. Zehn Tage: eine kurze, von Gott begrenzte Prüfungszeit."
+    },
+    {
+      "vers_von": 14, "von": 91, "vers_bis": 14, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 31,16", "url": "https://www.bibleserver.com/MENG/4.Mose31,16" },
+        { "label": "4. Mo 25,1-2", "url": "https://www.bibleserver.com/MENG/4.Mose25,1-2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bileam, Seher im Dienst des Moabiterkönigs Balak, riet, Israel durch moabitische Frauen zu Unzucht und Götzenopfermahlen für den Baal-Peor zu verführen. »Bileam« steht für Lehrer, die die Teilnahme am heidnischen Kult für unbedenklich erklären."
+    },
+    {
+      "vers_von": 17, "von": 94, "vers_bis": 17, "bis": 119, "typ": "at",
+      "referenz": "2. Mo 16,32-34",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose16,32-34",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein Krug Manna wurde in der Bundeslade aufbewahrt — verborgen im Allerheiligsten. Jüdische Erwartung: In der Heilszeit gibt Gott wieder Manna. Das Himmelsbrot ist Gegenbild zum Götzenopferfleisch (V14)."
+    },
+    {
+      "vers_von": 17, "von": 190, "vers_bis": 17, "bis": 222, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 62,2", "url": "https://www.bibleserver.com/MENG/Jesaja62,2" },
+        { "label": "Jes 65,15", "url": "https://www.bibleserver.com/MENG/Jesaja65,15" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja verheißt dem erneuerten Zion »einen neuen Namen, den der Mund des HERRN bestimmen wird«. Der Name steht im AT für das Wesen: ein neuer Name ist eine neue, von Gott verliehene Identität."
+    },
+    {
+      "vers_von": 18, "von": 61, "vers_bis": 18, "bis": 76, "typ": "at",
+      "referenz": "Ps 2,7",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Einziges »Sohn Gottes« der Offenbarung. In Ps 2,7 sagt Gott zum eingesetzten König: »Mein Sohn bist du«. Derselbe Psalm schließt diesen Brief ab (V26-28)."
+    },
+    {
+      "vers_von": 20, "von": 41, "vers_bis": 20, "bis": 56, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 16,31", "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige16,31" },
+        { "label": "2. Kön 9,22", "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige9,22" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Isebel, phönizische Königstochter und Frau König Ahabs, brachte den Baalskult nach Israel und verfolgte die Propheten des HERRN. Ihr Name steht für Götzendienst und Zauberei. So wird die angebliche Prophetin in Thyatira gekennzeichnet."
+    },
+    {
+      "vers_von": 20, "von": 164, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 25,1-2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose25,1-2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Derselbe Doppelvorwurf wie bei Bileam (V14): Unzucht und Götzenopfermahl, wie bei Israels Abfall zum Baal-Peor. »Unzucht« meint im AT oft zugleich Untreue gegen Gott."
+    },
+    {
+      "vers_von": 23, "von": 110, "vers_bis": 23, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 17,10", "url": "https://www.bibleserver.com/MENG/Jeremia17,10" },
+        { "label": "Jer 11,20", "url": "https://www.bibleserver.com/MENG/Jeremia11,20" },
+        { "label": "Ps 7,10", "url": "https://www.bibleserver.com/MENG/Psalm7,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jeremia spricht Gott: »Ich, der HERR, erforsche das Herz und prüfe die Nieren, … um einem jeden zu vergelten nach seinem Wandel.« Die Nieren galten als Sitz der verborgenen Regungen. Christus beansprucht dieses Gottesprädikat."
+    },
+    {
+      "vers_von": 26, "von": 66, "vers_bis": 28, "bis": 59, "typ": "at",
+      "referenz": "Ps 2,8-9",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,8-9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zitat aus Ps 2: Gott gibt seinem König, seinem »Sohn«, die Völker zum Erbe; er soll sie »mit eiserner Keule zerschmettern, wie Töpfergeschirr«. Christus teilt diese Vollmacht mit dem Überwinder. »Weiden« folgt der griechischen Übersetzung des Psalms."
+    },
+    {
+      "vers_von": 28, "von": 78, "vers_bis": 28, "bis": 93, "typ": "at",
+      "referenz": "4. Mo 24,17",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose24,17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bileam sah »einen Stern aus Jakob« aufgehen, einen Herrscher aus Israel — gedeutet auf den Messias. In 22,16 nennt sich Christus selbst »der helle Morgenstern«: Der Überwinder erhält ihn selbst."
+    },
+    {
+      "vers_von": 1, "von": 128, "vers_bis": 1, "bis": 173, "typ": "at",
+      "referenz": "vgl. Sach 4,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja4,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sterne und Leuchter wiederholen 1,12-20; der Menora-Bezug ist in 1,12 bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 1, "von": 166, "vers_bis": 1, "bis": 173, "typ": "at",
+      "referenz": "vgl. 3. Mo 26,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose26,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ich will unter euch wandeln« — möglicher Anklang, nicht load-bearing; das Bild erklärt sich aus 1,13.20."
+    },
+    {
+      "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 25, "typ": "at",
+      "referenz": "vgl. Hes 3,27",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel3,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weckruf aus Jesu Gleichnisrede (Mk 4,9). Hes 3,27 (»wer hören will, der höre«) ist nur entfernt verwandt; ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 11, "von": 89, "vers_bis": 11, "bis": 103, "typ": "at",
+      "referenz": "vgl. Jes 65,15",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja65,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zweiter Tod« stammt aus der aramäischen Bibelauslegung (Targum, u.a. zu Jes 65,15), kein AT-Wortlaut. Die Offenbarung erklärt ihn selbst (20,14; 21,8)."
+    },
+    {
+      "vers_von": 12, "von": 74, "vers_bis": 12, "bis": 109, "typ": "at",
+      "referenz": "vgl. Jes 49,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,16 (Jes 49,2; 11,4), dort bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 16, "von": 65, "vers_bis": 16, "bis": 94, "typ": "at",
+      "referenz": "vgl. 4. Mo 22,31",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose22,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Schwert des Mundes: Wiederholung von 1,16. Möglicher Anklang: Der Engel des HERRN trat Bileam mit gezücktem Schwert entgegen (4. Mo 22,31) — passend zu den Bileam-Anhängern (V14), aber nicht formuliert."
+    },
+    {
+      "vers_von": 17, "von": 156, "vers_bis": 17, "bis": 180, "typ": "at",
+      "referenz": "vgl. 2. Mo 28,21",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose28,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hintergrund eher griechisch-römisch (Stimmstein, Einlassmarke); Bezug auf die Namenssteine des Hohepriesters spekulativ und nicht formuliert."
+    },
+    {
+      "vers_von": 18, "von": 78, "vers_bis": 18, "bis": 162, "typ": "at",
+      "referenz": "vgl. Dan 10,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,14-15 (Dan 10,6), dort bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 23, "von": 0, "vers_bis": 23, "bis": 55, "typ": "at",
+      "referenz": "vgl. 2. Kön 10,1-11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige10,1-11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jehu ließ die Söhne Ahabs und Isebels töten. Nur evokativ: »Kinder« meint hier die Anhänger."
+    },
+    {
+      "vers_von": 28, "von": 78, "vers_bis": 28, "bis": 93, "typ": "at",
+      "referenz": "vgl. Jes 14,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja14,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Glanzstern, Sohn der Morgenröte« (gestürzter König von Babel) — nur Wortanklang; die Offenbarung deutet den Morgenstern auf Christus (22,16)."
+    }
+  ]
+}
