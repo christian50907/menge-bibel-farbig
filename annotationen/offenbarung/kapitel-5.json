@@ -1,0 +1,189 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 5,
+  "titel": "Das Schicksalsbuch mit den sieben Siegeln und das Lamm Gottes auf dem Thron",
+  "abschnitte": [
+    { "id": "schicksalsbuch", "vers_von": 1, "vers_bis": 10, "titel": "Das Schicksalsbuch mit den sieben Siegeln und das Lamm Gottes auf dem Thron" },
+    { "id": "lobgesang", "vers_von": 11, "vers_bis": 14, "titel": "Der Lobgesang der Engel und der ganzen Schöpfung" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 62, "vers_bis": 1, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 2,9-10", "url": "https://www.bibleserver.com/MENG/Hesekiel2,9-10" },
+        { "label": "Dan 12,4", "url": "https://www.bibleserver.com/MENG/Daniel12,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gemeint ist eine Schriftrolle. Hesekiel erhielt eine Rolle, »auf der Vorderseite und auf der Rückseite beschrieben« mit Klagen und Wehe. Daniel soll »das Buch bis zur Endzeit« versiegeln. Wer die Siegel löst, setzt die Endzeit-Ereignisse in Gang (ab Kap. 6)."
+    },
+    {
+      "vers_von": 5, "von": 63, "vers_bis": 5, "bis": 110, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 49,9-10", "url": "https://www.bibleserver.com/MENG/1.Mose49,9-10" },
+        { "label": "Jes 11,1.10", "url": "https://www.bibleserver.com/MENG/Jesaja11,1-10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zwei Messiastitel: Jakob segnet Juda: »Ein junger Löwe ist Juda«, von ihm soll das Zepter nicht weichen. Jesaja verheißt den »Wurzelsproß Isais«, des Vaters Davids. Angekündigt wird der siegreiche Davidskönig — zu sehen ist dann ein Lamm (V6)."
+    },
+    {
+      "vers_von": 6, "von": 105, "vers_bis": 6, "bis": 167, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 53,7", "url": "https://www.bibleserver.com/MENG/Jesaja53,7" },
+        { "label": "2. Mo 12,5-13", "url": "https://www.bibleserver.com/MENG/2.Mose12,5-13" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Gottesknecht geht »wie ein Lamm, das zur Schlachtung geführt wird«, in den Tod. Das Blut des Passalammes schützte Israel in Ägypten vor dem Tod und leitete die Befreiung ein (vgl. V9). Das Lamm »steht«: geschlachtet und doch lebendig."
+    },
+    {
+      "vers_von": 6, "von": 169, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 2,10", "url": "https://www.bibleserver.com/MENG/1.Samuel2,10" },
+        { "label": "Sach 4,10", "url": "https://www.bibleserver.com/MENG/Sacharja4,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hörner stehen im AT für Macht: Gott »erhöht das Horn seines Gesalbten« (1. Sam 2,10). Die sieben Lampen sind bei Sacharja »die Augen des HERRN, die über die ganze Erde schweifen« (vgl. 1,4). Sieben ist die Vollzahl: Das Lamm hat alle Macht und sieht alles."
+    },
+    {
+      "vers_von": 8, "von": 157, "vers_bis": 8, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 141,2", "url": "https://www.bibleserver.com/MENG/Psalm141,2" },
+        { "label": "2. Mo 30,7-8", "url": "https://www.bibleserver.com/MENG/2.Mose30,7-8" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Tempel wurde morgens und abends Räucherwerk verbrannt; das Volk betete dabei (vgl. Lk 1,10). Ps 141,2: »Laß mein Gebet dir als Räucherwerk gelten«. Die Gebete der Gemeinde steigen vor Gottes Thron auf (vgl. 8,3-4)."
+    },
+    {
+      "vers_von": 9, "von": 15, "vers_bis": 9, "bis": 29, "typ": "at",
+      "referenz": "Ps 98,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm98,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein »neues Lied« besingt in den Psalmen eine neue Rettungstat Gottes: »Singet dem HERRN ein neues Lied! Denn Wunderbares hat er vollbracht« (Ps 98,1). Die neue Rettungstat ist hier der Tod des Lammes."
+    },
+    {
+      "vers_von": 9, "von": 181, "vers_bis": 9, "bis": 249, "typ": "at",
+      "referenz": "Dan 7,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Reihe »alle Völker, Volksstämme und Zungen« stammt aus Daniel: Dort werden sie dem Menschensohn untertan. Hier erwirbt das Lamm aus ihnen ein Volk für Gott."
+    },
+    {
+      "vers_von": 11, "von": 134, "vers_bis": 11, "bis": 183, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Dan 7,10", "url": "https://www.bibleserver.com/MENG/Daniel7,10" },
+        { "label": "Dan 7,13-14", "url": "https://www.bibleserver.com/MENG/Daniel7,13-14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Aus Daniels Thronvision: »tausendmal Tausende dienten ihm, und zehntausendmal Zehntausende« standen vor Gott. Danach tritt dort der Menschensohn vor Gott und erhält Macht und Herrschaft — wie hier das Lamm, das das Buch empfängt (V7) und gepriesen wird (V12)."
+    },
+    {
+      "vers_von": 3, "von": 13, "vers_bis": 3, "bis": 58, "typ": "at",
+      "referenz": "vgl. 2. Mo 20,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dreiteilige Welt: Himmel, Erde, Totenreich (vgl. Phil 2,10). Allgemeines Weltbild ohne AT-Formulierungsvorlage, ohne Vorwissen verständlich. Gilt auch für V13."
+    },
+    {
+      "vers_von": 7, "von": 0, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 7,13-14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13-14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Lamm empfängt das Buch aus Gottes Hand wie der Menschensohn die Herrschaft vom Greis (Dan 7,13-14) — Szenenparallele ohne Formulierung; in V11 aktiv angesprochen."
+    },
+    {
+      "vers_von": 8, "von": 142, "vers_bis": 8, "bis": 152, "typ": "at",
+      "referenz": "vgl. Ps 33,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm33,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Harfe (Zither) als Instrument des Gotteslobs (Ps 33,2) — ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 9, "von": 165, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 15,16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose15,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Israel als Volk, »das du erworben« (2. Mo 15,16). Der Exodus-Hintergrund ist über das Passalamm (V6) und 1,5-6 bereits aktiv."
+    },
+    {
+      "vers_von": 10, "von": 29, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 19,6", "url": "https://www.bibleserver.com/MENG/2.Mose19,6" },
+        { "label": "Dan 7,27", "url": "https://www.bibleserver.com/MENG/Daniel7,27" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,6 (2. Mo 19,6) und 3,21 (Dan 7,27), dort aktiv annotiert."
+    },
+    {
+      "vers_von": 12, "von": 71, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "vgl. 1. Chr 29,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Chronik29,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Lobreihe wie in Davids Gebet (1. Chr 29,11) — allgemeines Lobvokabular. Die Pointe (das Lamm erhält, was 4,11 Gott zuspricht) steht im Text selbst."
+    },
+    {
+      "vers_von": 2, "von": 13, "vers_bis": 2, "bis": 63, "typ": "at",
+      "referenz": "vgl. Dan 4,10-11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel4,10-11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Himmelsbote, der mit lauter Stimme ruft (Dan 4,10-11) — allgemeines Motiv, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 3, "von": 59, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jes 29,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja29,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Versiegeltes Buch, das niemand lesen kann: »Ich kann nicht, es ist ja versiegelt!« (Jes 29,11). Ohne Vorwissen verständlich; die Siegel sind über V1 aktiv."
+    },
+    {
+      "vers_von": 13, "von": 74, "vers_bis": 13, "bis": 116, "typ": "at",
+      "referenz": "vgl. Ps 69,35",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm69,35",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Himmel, Erde, Meere »und alles, was in ihnen sich regt« loben Gott (Ps 69,35) — allgemeines Schöpfungslob, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 14, "von": 32, "vers_bis": 14, "bis": 36, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Chr 16,36", "url": "https://www.bibleserver.com/MENG/1.Chronik16,36" },
+        { "label": "Ps 106,48", "url": "https://www.bibleserver.com/MENG/Psalm106,48" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gemeinde-Amen als Abschluss des Lobpreises (1. Chr 16,36; Ps 106,48) — liturgischer Brauch; Amen ist in 3,14 aktiv."
+    }
+  ]
+}
