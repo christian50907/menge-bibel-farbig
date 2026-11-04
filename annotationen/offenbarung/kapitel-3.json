@@ -1,0 +1,226 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 3,
+  "titel": "Die sieben Sendschreiben: Sardes · Philadelphia · Laodizea",
+  "abschnitte": [
+    { "id": "sardes", "vers_von": 1, "vers_bis": 6, "titel": "Sendschreiben an die Gemeinde in Sardes: »Sei nicht wie die andern tot!«" },
+    { "id": "philadelphia", "vers_von": 7, "vers_bis": 13, "titel": "Sendschreiben an die Gemeinde in Philadelphia: »Halte deine Krone fest!«" },
+    { "id": "laodizea", "vers_von": 14, "vers_bis": 22, "titel": "Sendschreiben an die Gemeinde in Laodizea: »Laß nicht lau und träg dich finden!«" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 22, "bis": -1, "typ": "jesus"
+    },
+    {
+      "vers_von": 5, "von": 78, "vers_bis": 5, "bis": 139, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 32,32-33", "url": "https://www.bibleserver.com/MENG/2.Mose32,32-33" },
+        { "label": "Dan 12,1", "url": "https://www.bibleserver.com/MENG/Daniel12,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott führt ein Buch der Seinen: »Wer gegen mich gesündigt hat, nur den werde ich aus meinem Buche ausstreichen« (2. Mo 32,33). In der Endzeit wird gerettet »ein jeder, der sich im Buch (des Lebens) aufgezeichnet findet« (Dan 12,1). Dem Überwinder ist zugesagt: Sein Name bleibt stehen."
+    },
+    {
+      "vers_von": 7, "von": 95, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "Jes 22,22",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja22,22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja erhält Eljakim als Palastverwalter »den Schlüssel zum Hause Davids«: Wem er öffnet oder verschließt, das gilt. Christus hat diese Vollmacht über den Zugang zum Reich des Davidssohns. Daran knüpft die »offene Tür« (V8) an."
+    },
+    {
+      "vers_von": 9, "von": 162, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 60,14", "url": "https://www.bibleserver.com/MENG/Jesaja60,14" },
+        { "label": "Jes 49,23", "url": "https://www.bibleserver.com/MENG/Jesaja49,23" },
+        { "label": "Jes 43,4", "url": "https://www.bibleserver.com/MENG/Jesaja43,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja verheißt Israel: Seine Verächter werden »sich zu deinen Fußsohlen niederwerfen« (Jes 60,14; vgl. 49,23). Gott sagt: »ich dich liebgewonnen habe« (Jes 43,4). Hier kehrt sich das Bild um: Die Gegner aus der Synagoge (vgl. 2,9) müssen anerkennen, dass Christus die Gemeinde liebt."
+    },
+    {
+      "vers_von": 12, "von": 192, "vers_bis": 12, "bis": 293, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 48,35", "url": "https://www.bibleserver.com/MENG/Hesekiel48,35" },
+        { "label": "Jes 65,17-18", "url": "https://www.bibleserver.com/MENG/Jesaja65,17-18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hesekiels Schau der künftigen Stadt endet mit ihrem Namen: »Gottesheim« (hebr. »Der HERR ist dort«). Jesaja verheißt mit neuem Himmel und neuer Erde ein neu geschaffenes Jerusalem. Hier kommt es aus dem Himmel herab (ausgeführt in Kap. 21)."
+    },
+    {
+      "vers_von": 14, "von": 74, "vers_bis": 14, "bis": 84, "typ": "at",
+      "referenz": "Jes 65,16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja65,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 65,16 nennt Gott hebräisch zweimal »Gott des Amen« (übersetzt »Gott der Wahrhaftigkeit«, »Gott der Treue«). »Amen« heißt »fest, zuverlässig«. Christus trägt diesen Gottesnamen: Auf sein Wort ist Verlass."
+    },
+    {
+      "vers_von": 14, "von": 123, "vers_bis": 14, "bis": 154, "typ": "at",
+      "referenz": "Spr 8,22-30",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Spr%C3%BCche8,22-30",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Weisheit sagt: »Der HERR hat mich geschaffen als den Erstling seiner Schöpfertätigkeit«; sie war dabei, als Gott die Welt schuf. Diesen Platz nimmt Christus ein. Griech. archē heißt auch »Ursprung«: Er steht am Ausgangspunkt der Schöpfung."
+    },
+    {
+      "vers_von": 17, "von": 15, "vers_bis": 17, "bis": 83, "typ": "at",
+      "referenz": "Hos 12,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea12,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie Ephraim bei Hosea: »Ich bin ja doch reich geworden, habe mir ein Vermögen erworben!« — Selbstsicherheit, die den eigenen Zustand vor Gott nicht sieht. Laodizea war eine reiche Handels- und Bankenstadt."
+    },
+    {
+      "vers_von": 18, "von": 17, "vers_bis": 18, "bis": 70, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 55,1", "url": "https://www.bibleserver.com/MENG/Jesaja55,1" },
+        { "label": "Sach 13,9", "url": "https://www.bibleserver.com/MENG/Sacharja13,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja ruft Gott die, »die ihr kein Geld habt«: »kauft ohne Zahlung«. So rät Christus der armen Gemeinde (V17), bei ihm zu kaufen. Gold im Feuer läutern ist bei Sacharja Bild für das geprüfte, bewährte Gottesvolk."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 51, "typ": "at",
+      "referenz": "Spr 3,11-12",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Spr%C3%BCche3,11-12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Spr 3,12: »wen der HERR lieb hat, den züchtigt er, und zwar wie ein Vater den Sohn«. Die harte Rüge an Laodizea ist Ausdruck von Liebe, nicht von Verwerfung."
+    },
+    {
+      "vers_von": 21, "von": 44, "vers_bis": 21, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 110,1", "url": "https://www.bibleserver.com/MENG/Psalm110,1" },
+        { "label": "Dan 7,27", "url": "https://www.bibleserver.com/MENG/Daniel7,27" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 110,1: Gott sagt zum König »Setze dich zu meiner Rechten« — Christus teilt Gottes Thron. Dan 7,27: Die Herrschaft wird »dem Volke der Heiligen des Höchsten verliehen«. Beides verbunden: Die Überwinder herrschen mit Christus."
+    },
+    {
+      "vers_von": 1, "von": 68, "vers_bis": 1, "bis": 115, "typ": "at",
+      "referenz": "vgl. Sach 4,2.10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja4,2-10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sieben Geister: Wiederholung von 1,4 (Sach 4,2.10), dort aktiv. Die sieben Sterne erklärt der Text selbst in 1,20."
+    },
+    {
+      "vers_von": 4, "von": 39, "vers_bis": 4, "bis": 129, "typ": "at",
+      "referenz": "vgl. Sach 3,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja3,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dem Hohepriester Josua werden die schmutzigen Kleider aus- und Prachtgewänder angezogen (Sach 3,4). Nur evokativ; das Bild (befleckt/weiß = schuldig/rein) ist ohne Vorwissen verständlich. Gilt auch für V5 und V18."
+    },
+    {
+      "vers_von": 7, "von": 65, "vers_bis": 7, "bis": 76, "typ": "at",
+      "referenz": "vgl. Jes 40,25",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der Heilige« ist im AT Gottesbezeichnung (Jes 40,25). Ohne Vorwissen verständlich; Gottesprädikate Christi sind bereits mehrfach aktiv annotiert (1,17; 2,23)."
+    },
+    {
+      "vers_von": 10, "von": 95, "vers_bis": 10, "bis": 162, "typ": "at",
+      "referenz": "vgl. Dan 12,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Anklang an die endzeitliche »Zeit der Bedrängnis« (Dan 12,1); keine Formulierungsvorlage, Dan 12,1 bereits in V5 aktiv."
+    },
+    {
+      "vers_von": 12, "von": 33, "vers_bis": 12, "bis": 71, "typ": "at",
+      "referenz": "vgl. 1. Kön 7,21",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige7,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Tempelsäulen Jachin und Boas trugen Namen (1. Kön 7,21) — möglicher Hintergrund zur beschriebenen Säule, aber nicht formuliert; das Bild ist aus sich verständlich."
+    },
+    {
+      "vers_von": 12, "von": 304, "vers_bis": 12, "bis": 322, "typ": "at",
+      "referenz": "vgl. Jes 62,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja62,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung des »neuen Namens« aus 2,17 (Jes 62,2; 65,15), dort bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 14, "von": 90, "vers_bis": 14, "bis": 121, "typ": "at",
+      "referenz": "vgl. Ps 89,38",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm89,38",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,5 (Ps 89,38 »treuer Zeuge«), dort bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 16, "von": 52, "vers_bis": 16, "bis": 92, "typ": "at",
+      "referenz": "vgl. 3. Mo 18,28",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose18,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Land »speit« die Bewohner aus, die es verunreinigen (3. Mo 18,28) — nur Wortanklang. Das Bild (lauwarmes Wasser) ist ohne AT verständlich."
+    },
+    {
+      "vers_von": 20, "von": 7, "vers_bis": 20, "bis": 42, "typ": "at",
+      "referenz": "vgl. Hld 5,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hoheslied5,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Da klopft mein Geliebter! Mach mir auf« (Hld 5,2) — evokativ, aber nicht formuliert; das Bild ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 12, "von": 154, "vers_bis": 12, "bis": 187, "typ": "at",
+      "referenz": "vgl. 2. Mo 28,36-38",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose28,36-38",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Mögliche Parallele zum Stirnblatt des Hohepriesters mit Gottesweihe (2. Mo 28,36-38). Wortlaut weicht ab; das Bild ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 18, "von": 139, "vers_bis": 18, "bis": 182, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 47,3", "url": "https://www.bibleserver.com/MENG/Jesaja47,3" },
+        { "label": "Hes 16,37", "url": "https://www.bibleserver.com/MENG/Hesekiel16,37" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Aufgedeckte Blöße ist bei den Propheten Gerichtsbild (Jes 47,3; Hes 16,37). Nur Anklang; die Schande der Nacktheit ist ohne AT verständlich."
+    },
+    {
+      "vers_von": 20, "von": 129, "vers_bis": 20, "bis": 167, "typ": "at",
+      "referenz": "vgl. Jes 25,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja25,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das endzeitliche Mahl (Jes 25,6) ist nur evokativ: Hier geht es um persönliche Tischgemeinschaft, ohne Formulierungsvorlage."
+    }
+  ]
+}

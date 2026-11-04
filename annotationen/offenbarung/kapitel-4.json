@@ -1,0 +1,185 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 4,
+  "titel": "Zweite Gruppe der Gesichte: Die Heilsmacht Gottes und die sieben Gerichtsabschnitte in der Endzeit; die sieben Siegel",
+  "abschnitte": [
+    { "id": "thronsaal", "vers_von": 1, "vers_bis": 11, "titel": "Eingangsgesicht: Gott der Vater und die himmlische Ratsversammlung im Thronsaal Gottes" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 164, "vers_bis": 1, "bis": 238, "typ": "jesus"
+    },
+    {
+      "vers_von": 2, "von": 11, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "Hes 1,26-28",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel1,26-28",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie in Hesekiels Berufungsvision: ein Thron, darauf jemand, ringsum Lichtglanz wie ein Regenbogen – für Hesekiel die »Erscheinung der Herrlichkeit des HERRN«. Anders als dort wird keine menschliche Gestalt genannt, nur Edelsteinglanz."
+    },
+    {
+      "vers_von": 4, "von": 44, "vers_bis": 4, "bis": 126, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Chr 24,7-19", "url": "https://www.bibleserver.com/MENG/1.Chronik24,7-19" },
+        { "label": "Jes 24,23", "url": "https://www.bibleserver.com/MENG/Jesaja24,23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Tempel taten 24 Priesterklassen im Wechsel Dienst (vgl. Lk 1,5). Jesaja sieht Gott als König auf dem Zion, »angesichts seiner Ältesten«. Mit Thronen und Kronen sind die Ältesten Priester und Könige zugleich (vgl. 1,6)."
+    },
+    {
+      "vers_von": 5, "von": 26, "vers_bis": 5, "bis": 59, "typ": "at",
+      "referenz": "2. Mo 19,16",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Sinai kündigten »Donnern und Blitzen« Gottes Erscheinen an. »Stimmen« (griech. phōnai) ist dort im griechischen AT das Wort für den Donner."
+    },
+    {
+      "vers_von": 6, "von": 30, "vers_bis": 6, "bis": 66, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 7,23", "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige7,23" },
+        { "label": "Hes 1,22", "url": "https://www.bibleserver.com/MENG/Hesekiel1,22" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Tempelhof Salomos stand ein riesiges gegossenes Wasserbecken, das »Meer«. Bei Hesekiel ist über den Lebewesen ein Gewölbe »wie wundervoll glänzender Bergkristall«. Vor Gottes Thron liegt das Meer still und klar wie Glas."
+    },
+    {
+      "vers_von": 6, "von": 128, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 1,5-10", "url": "https://www.bibleserver.com/MENG/Hesekiel1,5-10" },
+        { "label": "Hes 10,12-20", "url": "https://www.bibleserver.com/MENG/Hesekiel10,12-20" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hesekiel sah unter Gottes Thron vier lebende Wesen mit Gesichtern von Mensch, Löwe, Stier und Adler, »ringsum voll von Augen«. Er erkannte sie als Cherube, die Thronwächter Gottes. Hier trägt jedes nur ein Gesicht."
+    },
+    {
+      "vers_von": 8, "von": 31, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "Jes 6,2-3",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja6,2-3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja sah den Allherrn auf hohem Thron; Seraphe mit je sechs Flügeln riefen beständig: »Heilig, heilig, heilig ist der HERR der Heerscharen!« Das dreifache Heilig ist höchste Steigerung. »Der allmächtige Gott« steht für »HERR der Heerscharen«, wie oft im griechischen AT (vgl. 1,8)."
+    },
+    {
+      "vers_von": 1, "von": 44, "vers_bis": 1, "bis": 73, "typ": "at",
+      "referenz": "vgl. Hes 1,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel1,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geöffneter Himmel wie Hes 1,1 — gängiges Visionsmotiv, ohne Vorwissen verständlich. Hesekiels Thronvision ist in V2-3 aktiv annotiert."
+    },
+    {
+      "vers_von": 1, "von": 211, "vers_bis": 1, "bis": 236, "typ": "at",
+      "referenz": "vgl. Dan 2,29",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,1.19 (Dan 2,28-29), in 1,1 bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 1, "von": 259, "vers_bis": 1, "bis": -1, "typ": "at",
+      "referenz": "vgl. Hes 3,12",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel3,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,10 (Hes 3,12), dort bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 2, "von": 11, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "vgl. 1. Kön 22,19",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige22,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Himmlischer Thronrat wie bei Micha (1. Kön 22,19). Die Thronvision ist über Hes 1,26-28 bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 3, "von": 87, "vers_bis": 3, "bis": 101, "typ": "at",
+      "referenz": "vgl. 1. Mo 9,13",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose9,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Regenbogen als Bundeszeichen nach der Flut (1. Mo 9,13) — nur evokativ; das Bild kommt aus Hes 1,28 (aktiv)."
+    },
+    {
+      "vers_von": 3, "von": 31, "vers_bis": 3, "bis": 55, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 28,17-18", "url": "https://www.bibleserver.com/MENG/2.Mose28,17-18" },
+        { "label": "Hes 28,13", "url": "https://www.bibleserver.com/MENG/Hesekiel28,13" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Karneol, Jaspis und Smaragd stehen auf der Brusttasche des Hohepriesters (2. Mo 28,17-18) und unter den Edensteinen (Hes 28,13). Bezug nicht formuliert; die Edelsteine beschreiben Glanz, nicht Gestalt."
+    },
+    {
+      "vers_von": 4, "von": 44, "vers_bis": 4, "bis": 65, "typ": "at",
+      "referenz": "vgl. Dan 7,9",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bei Daniel werden vor dem Gericht Stühle (Throne) aufgestellt — Anklang, aber dort Gerichtsszene ohne Ältestenzahl; Dan 7,9 bereits in 1,14 aktiv."
+    },
+    {
+      "vers_von": 5, "von": 72, "vers_bis": 5, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 4,2.10", "url": "https://www.bibleserver.com/MENG/Sacharja4,2-10" },
+        { "label": "Hes 1,13", "url": "https://www.bibleserver.com/MENG/Hesekiel1,13" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sieben Geister: Wiederholung von 1,4 (Sach 4,2.10), dort aktiv. Fackeln auch zwischen Hesekiels Lebewesen (Hes 1,13) — nur Anklang."
+    },
+    {
+      "vers_von": 6, "von": 30, "vers_bis": 6, "bis": 66, "typ": "at",
+      "referenz": "vgl. 2. Mo 24,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Am Sinai sahen Mose und die Ältesten unter Gottes Füßen etwas »wie der Himmel selbst an hellem Glanz« — passende Parallele, aber der Tooltip zu V6 (Tempelmeer, Hes 1,22) trägt bereits."
+    },
+    {
+      "vers_von": 8, "von": 207, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 3,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung der Gottesformel aus 1,4.8 (2. Mo 3,14), in 1,4 bereits aktiv annotiert."
+    },
+    {
+      "vers_von": 9, "von": 115, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 4,31",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel4,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der ewig Lebende« ist AT-Gottesprädikat (Dan 4,31), schon in 1,18 erwogen; ohne Vorwissen verständlich. Gilt auch für V10."
+    },
+    {
+      "vers_von": 11, "von": 89, "vers_bis": 11, "bis": -1, "typ": "at",
+      "referenz": "vgl. Neh 9,6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Nehemia9,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Lob Gottes als Schöpfer aller Dinge ist allgemeines Gebetsvokabular (vgl. Neh 9,6) — kein spezifischer Textverweis."
+    }
+  ]
+}

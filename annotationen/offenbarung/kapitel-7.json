@@ -1,0 +1,214 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 7,
+  "titel": "Zwei tröstliche Zwischengesichte zwischen dem sechsten und siebenten Siegel",
+  "abschnitte": [
+    { "id": "versiegelung", "vers_von": 1, "vers_bis": 8, "titel": "Die Versiegelung einer Auswahl (von 144000 aus den zwölf Stämmen Israels)" },
+    { "id": "grosse-schar", "vers_von": 9, "vers_bis": 17, "titel": "Die Huldigung der unzählbaren Schar aus allen Völkern vor Gottes Thron" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 26, "vers_bis": 1, "bis": 101, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 6,5", "url": "https://www.bibleserver.com/MENG/Sacharja6,5" },
+        { "label": "Jer 49,36", "url": "https://www.bibleserver.com/MENG/Jeremia49,36" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Sacharja sind die vier Rossegespanne »die vier Winde des Himmels« (Sach 6,5; vgl. Offb 6,2). Bei Jeremia lässt Gott »die vier Winde von den vier Enden des Himmels« als Gericht hereinbrechen. Die Winde sind die Gerichte (V2: »Unheil«) – hier noch zurückgehalten."
+    },
+    {
+      "vers_von": 3, "von": 82, "vers_bis": 3, "bis": 157, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 9,4-6", "url": "https://www.bibleserver.com/MENG/Hesekiel9,4-6" },
+        { "label": "2. Mo 12,13", "url": "https://www.bibleserver.com/MENG/2.Mose12,13" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vor dem Gericht über Jerusalem erhalten bei Hesekiel alle, die über die Greuel seufzen, »ein Zeichen auf der Stirn«: »alle, die das Zeichen an sich tragen, laßt unberührt!« In Ägypten schützte das Blut an den Häusern vor dem Schlag Gottes. Das Siegel kennzeichnet Gottes Eigentum, bevor die Gerichte losbrechen."
+    },
+    {
+      "vers_von": 4, "von": 52, "vers_bis": 4, "bis": 125, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 1,2-3", "url": "https://www.bibleserver.com/MENG/4.Mose1,2-3" },
+        { "label": "4. Mo 31,4-5", "url": "https://www.bibleserver.com/MENG/4.Mose31,4-5" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gezählt wird nach Stämmen wie bei Israels Musterung der Wehrfähigen (4. Mo 1,2-3); für den Kriegszug gegen Midian stellte jeder Stamm tausend Mann, »im ganzen zwölftausend« (4. Mo 31,4-5). 12 × 12 × 1000: das vollständige Gottesvolk, geordnet wie ein Heer."
+    },
+    {
+      "vers_von": 5, "von": 0, "vers_bis": 5, "bis": 43, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 49,8-10", "url": "https://www.bibleserver.com/MENG/1.Mose49,8-10" },
+        { "label": "Ri 18,30", "url": "https://www.bibleserver.com/MENG/Richter18,30" },
+        { "label": "1. Kön 12,29", "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige12,29" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ungewöhnliche Stammesliste (V5-8): Juda, der Stamm des Messias (1. Mo 49,10; vgl. 5,5), steht vor Ruben, dem Erstgeborenen. Dan fehlt – mit Dan verbindet das AT Götzenbild und Stierbild (Ri 18,30; 1. Kön 12,29). Für Ephraim steht Joseph, Levi ist mitgezählt."
+    },
+    {
+      "vers_von": 9, "von": 38, "vers_bis": 9, "bis": 81, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 15,5", "url": "https://www.bibleserver.com/MENG/1.Mose15,5" },
+        { "label": "1. Mo 22,17-18", "url": "https://www.bibleserver.com/MENG/1.Mose22,17-18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Abraham wurden Nachkommen verheißen, unzählbar wie die Sterne (1. Mo 15,5), und Segen für »alle Völker der Erde« (1. Mo 22,18). Auf die gezählten 144000 aus Israel folgt hier eine Schar, »die niemand zählen konnte«, aus allen Völkern."
+    },
+    {
+      "vers_von": 9, "von": 220, "vers_bis": 9, "bis": 249, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 23,40-43", "url": "https://www.bibleserver.com/MENG/3.Mose23,40-43" },
+        { "label": "Sach 14,16", "url": "https://www.bibleserver.com/MENG/Sacharja14,16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Palmwedel gehörten zum Laubhüttenfest, das an Israels Wüstenzeit in Hütten erinnert (3. Mo 23,40-43). Nach Sach 14,16 feiern es in der Heilszeit alle Völker in Jerusalem. Hier feiert es die Schar aus allen Völkern vor Gottes Thron."
+    },
+    {
+      "vers_von": 10, "von": 31, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 3,9", "url": "https://www.bibleserver.com/MENG/Psalm3,9" },
+        { "label": "Ps 118,25-27", "url": "https://www.bibleserver.com/MENG/Psalm118,25-27" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie Ps 3,9: »Beim HERRN steht die Hilfe«. Ps 118 wurde am Laubhüttenfest gesungen: »Ach hilf doch, HERR« (hebr. hoschiʿa-na, »Hosianna«), dazu der Reigen »mit Zweigen«. Hier ist der Hilferuf Bekenntnis geworden: Die Rettung ist da – bei Gott und dem Lamm."
+    },
+    {
+      "vers_von": 14, "von": 87, "vers_bis": 14, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 12,1.10", "url": "https://www.bibleserver.com/MENG/Daniel12,1-10" },
+        { "label": "2. Mo 19,10", "url": "https://www.bibleserver.com/MENG/2.Mose19,10" },
+        { "label": "Jes 1,18", "url": "https://www.bibleserver.com/MENG/Jesaja1,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Daniel kündigt eine »Zeit der Bedrängnis« an, »wie noch keine dagewesen ist«; viele werden darin »gereinigt und geläutert« (Dan 12,1.10). Vor der Begegnung mit Gott am Sinai musste das Volk seine Kleider waschen (2. Mo 19,10). Paradox: Blut macht weiß – vgl. Jes 1,18: »rot wie Scharlach«, »weiß wie Schnee«; das Blut des Lammes reinigt (vgl. 1,5; 5,9)."
+    },
+    {
+      "vers_von": 15, "von": 96, "vers_bis": 15, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 37,27", "url": "https://www.bibleserver.com/MENG/Hesekiel37,27" },
+        { "label": "Jes 4,5-6", "url": "https://www.bibleserver.com/MENG/Jesaja4,5-6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Wohnen« heißt griech. »sein Zelt aufschlagen« – wie Gottes Gegenwart über der Stiftshütte. Hesekiel verheißt: »Meine Wohnung aber wird über ihnen sein«. Nach Jes 4,5-6 ist Gottes Herrlichkeit über Zion »Schutz und Schirm«, Schatten »vor der Sonnenglut« (vgl. V16)."
+    },
+    {
+      "vers_von": 16, "von": 0, "vers_bis": 16, "bis": -1, "typ": "at",
+      "referenz": "Jes 49,10",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jes 49,10: »sie sollen nicht hungern und nicht dürsten, und weder der Glutwind noch der Sonnenbrand soll sie treffen«. Dort verheißen den Verbannten auf dem Heimweg; ihr Erbarmer führt sie zu Wasserquellen (vgl. V17). Hier ist das Ziel erreicht."
+    },
+    {
+      "vers_von": 17, "von": 5, "vers_bis": 17, "bis": 98, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 23,1-2", "url": "https://www.bibleserver.com/MENG/Psalm23,1-2" },
+        { "label": "Hes 34,23", "url": "https://www.bibleserver.com/MENG/Hesekiel34,23" },
+        { "label": "Ps 36,10", "url": "https://www.bibleserver.com/MENG/Psalm36,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Hirte ist im AT Gott selbst (»Der HERR ist mein Hirt«, Ps 23,1) und der verheißene Davidsherrscher (Hes 34,23). Hier weidet das Lamm: Das Opfer ist zugleich der Hirte. »Wasserquellen« nimmt Jes 49,10 auf; bei Gott ist »der Brunnquell des Lebens« (Ps 36,10)."
+    },
+    {
+      "vers_von": 17, "von": 104, "vers_bis": 17, "bis": 151, "typ": "at",
+      "referenz": "Jes 25,8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja25,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jes 25,8: »Den Tod wird er auf ewig verschwinden lassen, die Tränen wird Gott der HERR von jedem Antlitz abwischen.« Dort beim Festmahl Gottes für alle Völker auf dem Zion. Mit dem Tod enden die Tränen (vgl. 21,4)."
+    },
+    {
+      "vers_von": 2, "von": 35, "vers_bis": 2, "bis": 56, "typ": "at",
+      "referenz": "vgl. Hes 43,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel43,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes Herrlichkeit kommt bei Hesekiel »von Osten her« (Hes 43,2) — nur Anklang; die Herkunft vom Sonnenaufgang ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 1, "von": 73, "vers_bis": 1, "bis": 96, "typ": "at",
+      "referenz": "vgl. Dan 7,2",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die vier Winde des Himmels« erregen bei Daniel das große Meer (Dan 7,2) — Anklang; die Winde als Gerichte sind über Sach 6,5 und Jer 49,36 aktiv annotiert."
+    },
+    {
+      "vers_von": 9, "von": 83, "vers_bis": 9, "bis": 141, "typ": "at",
+      "referenz": "vgl. Dan 7,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung der Völkerreihe aus 5,9 (Dan 7,14), dort aktiv annotiert."
+    },
+    {
+      "vers_von": 9, "von": 187, "vers_bis": 9, "bis": 215, "typ": "at",
+      "referenz": "vgl. Sach 3,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja3,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weißes Gewand: Wiederholung von 3,4-5.18 und 6,11 (dort inaktiv); in V14 aktiv erklärt."
+    },
+    {
+      "vers_von": 12, "von": 19, "vers_bis": 12, "bis": 93, "typ": "at",
+      "referenz": "vgl. 1. Chr 29,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Chronik29,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Lobreihe und Amen: Wiederholung von 5,12.14 (dort inaktiv) — allgemeines Lobvokabular."
+    },
+    {
+      "vers_von": 14, "von": 20, "vers_bis": 14, "bis": 43, "typ": "at",
+      "referenz": "vgl. Hes 37,3",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel37,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wortgleich mit Hesekiels Antwort »HERR, mein Gott, du weißt es« (Hes 37,3); der Deutedialog mit einem Himmelswesen folgt dem Muster Sach 4,5; Dan 7,16. Nur evokativ, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 14, "von": 121, "vers_bis": 14, "bis": 179, "typ": "at",
+      "referenz": "vgl. 1. Mo 49,11",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose49,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Juda »wäscht im Wein sein Gewand und im Blut der Trauben seinen Mantel« (1. Mo 49,11) — Wortanklang mit Bildumkehr: dort das Gewand des Herrschers, hier die Kleider der Erlösten."
+    },
+    {
+      "vers_von": 15, "von": 41, "vers_bis": 15, "bis": 90, "typ": "at",
+      "referenz": "vgl. Ps 134,1",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm134,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tempeldienst auch »in den Nächten« (Ps 134,1) — Anklang; die Priesterwürde der Erlösten ist in 1,6 aktiv, das Bild ist ohne Vorwissen verständlich."
+    }
+  ]
+}
