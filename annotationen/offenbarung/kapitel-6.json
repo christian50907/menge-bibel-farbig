@@ -1,0 +1,173 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 6,
+  "titel": "Die Öffnung der ersten sechs Siegel durch das Lamm",
+  "abschnitte": [
+    { "id": "vier-reiter", "vers_von": 1, "vers_bis": 8, "titel": "Die vier Reiter" },
+    { "id": "maertyrer", "vers_von": 9, "vers_bis": 11, "titel": "Die Märtyrer" },
+    { "id": "naturereignisse", "vers_von": 12, "vers_bis": 17, "titel": "Schreckliche Gerichte im Bild von Naturereignissen" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 34, "vers_bis": 2, "bis": 48, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 1,8", "url": "https://www.bibleserver.com/MENG/Sacharja1,8" },
+        { "label": "Sach 6,2-5", "url": "https://www.bibleserver.com/MENG/Sacharja6,2-5" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sacharja sah Rosse in vier Farben – rotbraun, schwarz, weiß, scheckig –, vor vier Wagen: »die vier Winde des Himmels«, von Gott über die ganze Erde ausgesandt. Hier bringt jeder der vier Reiter ein Gericht (V2-8)."
+    },
+    {
+      "vers_von": 5, "von": 141, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 26,26", "url": "https://www.bibleserver.com/MENG/3.Mose26,26" },
+        { "label": "Hes 4,16", "url": "https://www.bibleserver.com/MENG/Hesekiel4,16" },
+        { "label": "5. Mo 7,13", "url": "https://www.bibleserver.com/MENG/5.Mose7,13" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Brot »abgewogen« essen ist im AT Zeichen der Hungersnot (3. Mo 26,26; Hes 4,16). Ein Denar war ein Tageslohn, ein Speisemaß Weizen die Tagesration eines Menschen: Der Lohn reicht für einen, mit Gerste für drei. Öl und Wein, mit dem Getreide die Grundgüter des Landes (5. Mo 7,13), bleiben verschont: Das Gericht ist begrenzt."
+    },
+    {
+      "vers_von": 8, "von": 225, "vers_bis": 8, "bis": 301, "typ": "at",
+      "referenz": "Hes 14,21",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel14,21",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Hesekiel kündigt Gott »meine vier schlimmen Strafgerichte« an: »Schwert und Hunger, wilde Tiere und Pest« – die klassischen Gerichte über ein abtrünniges Land. Hier erhält der Tod Vollmacht darüber, begrenzt auf ein Viertel der Erde."
+    },
+    {
+      "vers_von": 9, "von": 55, "vers_bis": 9, "bis": 119, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 4,7", "url": "https://www.bibleserver.com/MENG/3.Mose4,7" },
+        { "label": "3. Mo 17,11", "url": "https://www.bibleserver.com/MENG/3.Mose17,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Opferblut wurde an den Fuß des Brandopferaltars geschüttet (3. Mo 4,7), denn »das Leben des Leibes liegt im Blut« (3. Mo 17,11). »Leben« heißt dort hebr. nefesch, griech. psychē – dasselbe Wort wie »Seele«. Die Ermordeten erscheinen als Opfer: Ihr Leben ist vor Gott ausgegossen."
+    },
+    {
+      "vers_von": 10, "von": 30, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 79,5.10", "url": "https://www.bibleserver.com/MENG/Psalm79,5-10" },
+        { "label": "5. Mo 32,43", "url": "https://www.bibleserver.com/MENG/5.Mose32,43" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ruf der Klagepsalmen: »Wie lange, o HERR?« Ps 79 bittet, die Rache für »das vergossne Blut deiner Knechte« an den Heiden kundwerden zu lassen. Nach 5. Mo 32,43 rächt Gott selbst »das Blut seiner Knechte«. Der Ruf gilt Gottes Recht, nicht eigener Vergeltung."
+    },
+    {
+      "vers_von": 12, "von": 59, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Joel 2,10", "url": "https://www.bibleserver.com/MENG/Joel2,10" },
+        { "label": "Joel 3,4", "url": "https://www.bibleserver.com/MENG/Joel3,4" },
+        { "label": "Jes 50,3", "url": "https://www.bibleserver.com/MENG/Jesaja50,3" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bildsprache der Propheten für den Gerichtstag Gottes, keine Astronomie: Die Erde bebt, Sonne und Mond verfinstern sich (Joel 2,10); »der Mond in Blut, ehe der Tag des HERRN kommt« (Joel 3,4). Gott kleidet den Himmel in Sackleinen, das Trauergewand (Jes 50,3). Die ganze Schöpfung wankt."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 14, "bis": 63, "typ": "at",
+      "referenz": "Jes 34,4",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja34,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jes 34,4: Das Sternenheer zerfällt, »wie dürre Blätter vom Feigenbaum abfallen«, der Himmel rollt sich zusammen »wie eine Schriftrolle«. Dort Bild für Gottes Gericht über die Völker. Die Weltordnung selbst bricht zusammen."
+    },
+    {
+      "vers_von": 15, "von": 118, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "Jes 2,10-21",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja2,10-21",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie an Jesajas Gerichtstag: Die Menschen verkriechen sich in Felshöhlen und Erdlöcher »vor dem Schreckensanblick des HERRN« (Jes 2,19); erniedrigt wird »alles Hohe und Stolze«. Hier trifft es alle Stände, vom König bis zum Sklaven."
+    },
+    {
+      "vers_von": 16, "von": 4, "vers_bis": 16, "bis": 69, "typ": "at",
+      "referenz": "Hos 10,8",
+      "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Hosea10,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Hosea ruft das abgöttische Israel im Gericht den Bergen zu: »Bedeckt uns!«, und den Hügeln: »Fallet über uns!« (vgl. Lk 23,30). Lieber verschüttet werden, als Gott begegnen."
+    },
+    {
+      "vers_von": 16, "von": 121, "vers_bis": 16, "bis": 144, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 2,2", "url": "https://www.bibleserver.com/MENG/Psalm2,2" },
+        { "label": "Ps 2,12", "url": "https://www.bibleserver.com/MENG/Psalm2,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Ps 2 rotten sich »die Könige der Erde« zusammen »gegen den HERRN und den von ihm Gesalbten«; gewarnt wird: »Küsset (= huldigt) den Sohn, auf daß er nicht zürne«. Hier ist es so weit: Die Könige (V15) fliehen vor dem Zorn Gottes und des Lammes."
+    },
+    {
+      "vers_von": 17, "von": 5, "vers_bis": 17, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Joel 2,11", "url": "https://www.bibleserver.com/MENG/Joel2,11" },
+        { "label": "Zef 1,14-15", "url": "https://www.bibleserver.com/MENG/Zefanja1,14-15" },
+        { "label": "Mal 3,2", "url": "https://www.bibleserver.com/MENG/Maleachi3,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der »Tag des HERRN« ist bei den Propheten Gottes Gerichtstag: »Nahe ist der große Tag des HERRN … Ein Tag des Zorns« (Zef 1,14-15); »groß ist der Tag des HERRN und gar furchtbar: wer mag ihn bestehen?« (Joel 2,11; vgl. Mal 3,2). Hier ist er gekommen – als Tag Gottes und des Lammes."
+    },
+    {
+      "vers_von": 2, "von": 84, "vers_bis": 2, "bis": 101, "typ": "at",
+      "referenz": "vgl. Ps 45,5-6",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm45,5-6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der König in Ps 45 fährt siegreich aus, seine Pfeile sind scharf — nur Anklang. Ob der weiße Reiter Christus (vgl. 19,11) oder Eroberungsmacht meint, ist umstritten; Sach-Bezug in V2 aktiv."
+    },
+    {
+      "vers_von": 4, "von": 193, "vers_bis": 4, "bis": 225, "typ": "at",
+      "referenz": "vgl. Hes 38,21",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel38,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Schwert eines jeden, das »sich gegen den andern kehrt« (Hes 38,21) — Anklang ohne Formulierungsvorlage; Krieg und Bürgerkrieg sind ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 8, "von": 80, "vers_bis": 8, "bis": 139, "typ": "at",
+      "referenz": "vgl. Hos 13,14",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea13,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tod und Totenreich als Paar wie Hos 13,14; schon in 1,18 erwogen. Die Personifizierung ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 11, "von": 31, "vers_bis": 11, "bis": 48, "typ": "at",
+      "referenz": "vgl. Sach 3,4",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja3,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weißes Gewand: Wiederholung von 3,4-5.18 (dort inaktiv, Sach 3,4); ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 14, "von": 69, "vers_bis": 14, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jes 54,10",
+      "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja54,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weichende Berge (Jes 54,10) — gängiges Bild für Erschütterung, ohne Formulierungsvorlage; die Erschütterung ist über V12-14 aktiv annotiert."
+    }
+  ]
+}
