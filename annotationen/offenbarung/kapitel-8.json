@@ -1,0 +1,230 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 8,
+  "titel": "Dritte Gruppe der Gesichte: Die siebenfache Gerichtsandrohung für die christusfeindliche Welt; die sieben Posaunen",
+  "abschnitte": [
+    { "id": "siebtes-siegel", "vers_von": 1, "vers_bis": 1, "titel": "Die Lösung des siebten Siegels und die Stille im Himmel" },
+    { "id": "vorbereitung", "vers_von": 2, "vers_bis": 6, "titel": "Die Vorbereitung im Himmel" },
+    { "id": "posaunen-1-4", "vers_von": 7, "vers_bis": 12, "titel": "Die ersten vier Posaunen" },
+    { "id": "adlerruf", "vers_von": 13, "vers_bis": 13, "titel": "Der erste Adlerruf" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 45, "vers_bis": 1, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Zef 1,7", "url": "https://www.bibleserver.com/MENG/Zefanja1,7" },
+        { "label": "Hab 2,20", "url": "https://www.bibleserver.com/MENG/Habakuk2,20" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei den Propheten geht dem Gericht Stille voraus: »(Seid) still vor Gott dem HERRN! Denn nahe ist der Tag des HERRN« (Zef 1,7); »stille vor ihm, du ganze Erde!« (Hab 2,20). Bevor die Posaunengerichte beginnen, verstummt der Himmel."
+    },
+    {
+      "vers_von": 2, "von": 51, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jos 6,4.20", "url": "https://www.bibleserver.com/MENG/Josua6,4-20" },
+        { "label": "Joel 2,1", "url": "https://www.bibleserver.com/MENG/Joel2,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sieben Priester mit sieben Posaunen umzogen Jericho; beim Posaunenschall stürzte die Mauer (Jos 6,4.20). Bei Joel kündigt die Posaune den Gerichtstag an: »Stoßt in die Posaune auf dem Zion … Denn der Tag des HERRN kommt heran« (Joel 2,1). Die Posaunen eröffnen Gottes Gericht."
+    },
+    {
+      "vers_von": 3, "von": 183, "vers_bis": 3, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 30,1-6", "url": "https://www.bibleserver.com/MENG/2.Mose30,1-6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der goldene Altar ist der Räucheraltar des Heiligtums: mit Gold überzogen, aufgestellt »vor dem Vorhang, der sich vor der Gesetzeslade befindet« (2. Mo 30,6). Über der Lade thronte Gott zwischen den Cheruben – darum steht der Altar hier »vor dem Throne«. Räucherwerk als Bild des Gebets: vgl. 5,8."
+    },
+    {
+      "vers_von": 5, "von": 42, "vers_bis": 5, "bis": 122, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 10,2", "url": "https://www.bibleserver.com/MENG/Hesekiel10,2" },
+        { "label": "3. Mo 16,12", "url": "https://www.bibleserver.com/MENG/3.Mose16,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Versöhnungstag trug der Hohepriester die »Räucherpfanne voll glühender Kohlen von dem Altar« ins Allerheiligste (3. Mo 16,12). Bei Hesekiel soll der Mann in Linnen glühende Kohlen zwischen den Cheruben nehmen und »über die Stadt« streuen: Gericht über Jerusalem (Hes 10,2). Hier wird das Altarfeuer zum Gericht über die Erde – Antwort auf die Gebete (V3-4; vgl. 6,10)."
+    },
+    {
+      "vers_von": 7, "von": 42, "vers_bis": 7, "bis": 122, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 9,23-25", "url": "https://www.bibleserver.com/MENG/2.Mose9,23-25" },
+        { "label": "Joel 3,3", "url": "https://www.bibleserver.com/MENG/Joel3,3" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Siebte Plage in Ägypten: Der HERR ließ »hageln, und Feuer fuhr zur Erde nieder«; der Hagel zerschlug Feldgewächse und Bäume (2. Mo 9,23-25). Auch die nächsten Posaunen greifen Plagen Ägyptens auf (Blut V8, Finsternis V12): Gericht wie vor dem Auszug. »Blut, Feuer« sind bei Joel Vorzeichen des Tages des HERRN (Joel 3,3)."
+    },
+    {
+      "vers_von": 7, "von": 124, "vers_bis": 7, "bis": 162, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 5,2", "url": "https://www.bibleserver.com/MENG/Hesekiel5,2" },
+        { "label": "Hes 5,12", "url": "https://www.bibleserver.com/MENG/Hesekiel5,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Hesekiel wird Jerusalem in Dritteln gerichtet: »ein Drittel verbrenne im Feuer inmitten der Stadt«, eines fällt durchs Schwert, eines wird in den Wind zerstreut (Hes 5,2.12). Hier trifft jede Posaune ein Drittel – mehr als das Viertel in 6,8, aber noch nicht das Ganze. Die Übrigen kehren dennoch nicht um (9,20-21)."
+    },
+    {
+      "vers_von": 8, "von": 124, "vers_bis": 9, "bis": 62, "typ": "at",
+      "referenz": "2. Mo 7,20-21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose7,20-21",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Erste Plage in Ägypten: Das Nilwasser »verwandelte sich … in Blut«, »die Fische im Strom starben sämtlich« (2. Mo 7,20-21). Hier trifft es ein Drittel des Meeres."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 85, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 9,14", "url": "https://www.bibleserver.com/MENG/Jeremia9,14" },
+        { "label": "Jer 23,15", "url": "https://www.bibleserver.com/MENG/Jeremia23,15" },
+        { "label": "5. Mo 29,17", "url": "https://www.bibleserver.com/MENG/5.Mose29,17" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wermut: bittere, als giftig geltende Pflanze. Gott droht dem abtrünnigen Volk: »ich will sie … mit Wermut speisen und ihnen Giftwasser zu trinken geben« (Jer 9,14; 23,15). Im AT ist Wermut die bittere Frucht des Götzendienstes (5. Mo 29,17). Hier wird das Bild wirklich: Das Wasser selbst wird bitter."
+    },
+    {
+      "vers_von": 12, "von": 43, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 10,21-23", "url": "https://www.bibleserver.com/MENG/2.Mose10,21-23" },
+        { "label": "Am 8,9", "url": "https://www.bibleserver.com/MENG/Amos8,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Neunte Plage in Ägypten: »eine Finsternis im ganzen Land Ägypten drei Tage lang« (2. Mo 10,22). Am Gerichtstag lässt Gott »die Sonne schon am Mittag untergehen« (Am 8,9). Hier verliert ein Drittel der Gestirne sein Licht."
+    },
+    {
+      "vers_von": 13, "von": 34, "vers_bis": 13, "bis": 75, "typ": "at",
+      "referenz": "Hos 8,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea8,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Hosea gehören Posaune und Adler zusammen: »(Setze) die Posaune an den Mund! Ein dem Adler gleicher Feind stürzt sich auf das Haus des HERRN« (Hos 8,1). Der Adler kündigt hier die drei schwersten Posaunengerichte an."
+    },
+    {
+      "vers_von": 2, "von": 30, "vers_bis": 2, "bis": 49, "typ": "at",
+      "referenz": "vgl. Tob 12,15", "vgl": true,
+      "url": "https://www.bibleserver.com/EU/Tobit12,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Raphael nennt sich einen der sieben Engel, die vor Gott stehen (Tob 12,15; Apokryphen; vgl. Gabriel Lk 1,19). Kein Text der hebräischen Bibel; ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 4, "von": 4, "vers_bis": 4, "bis": 64, "typ": "at",
+      "referenz": "vgl. Ps 141,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm141,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 5,8 (Räucherwerk als Gebet, Ps 141,2), dort aktiv annotiert."
+    },
+    {
+      "vers_von": 5, "von": 137, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 19,16.18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,16-18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung der Sinai-Zeichen aus 4,5 (2. Mo 19,16), dort aktiv. Neu ist das Erdbeben — auch der Sinai »erbebte stark« (2. Mo 19,18); ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 8, "von": 64, "vers_bis": 8, "bis": 118, "typ": "at",
+      "referenz": "vgl. Jer 51,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Babel heißt bei Jeremia »Berg des Verderbens«, den Gott »zu einem verbrannten Berge« macht (Jer 51,25). Nur Wortanklang: Hier ein Vergleich (»als würde«) ohne Babel-Bezug."
+    },
+    {
+      "vers_von": 10, "von": 43, "vers_bis": 10, "bis": 114, "typ": "at",
+      "referenz": "vgl. Jes 14,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja14,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vom Himmel gefallener Stern wie beim König von Babel (Jes 14,12), schon in 2,28 erwogen. Hier Werkzeug des Gerichts, keine gestürzte Macht — nur Anklang."
+    },
+    {
+      "vers_von": 11, "von": 141, "vers_bis": 11, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 15,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose15,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bitteres, untrinkbares Wasser wie in Mara (2. Mo 15,23) und am Nil (2. Mo 7,24) — Anklang; die Wermut-Pointe ist in V11 aktiv annotiert."
+    },
+    {
+      "vers_von": 13, "von": 104, "vers_bis": 13, "bis": 144, "typ": "at",
+      "referenz": "vgl. Jes 5,8-22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja5,8-22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Weheruf ist prophetische Gerichtsform (Jes 5,8-22) — allgemein, ohne Vorwissen verständlich. Die drei Wehe entsprechen den drei letzten Posaunen (9,12; 11,14)."
+    },
+    {
+      "vers_von": 1, "von": 45, "vers_bis": 1, "bis": 75, "typ": "at",
+      "referenz": "vgl. Lk 1,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Lukas1,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Stille während des Räucheropfers ist Tempelbrauch (Mischna Tamid; vgl. Lk 1,10), kein AT-Text. Die prophetische Stille vor dem Gericht ist mit Zef 1,7; Hab 2,20 aktiv annotiert."
+    },
+    {
+      "vers_von": 3, "von": 36, "vers_bis": 3, "bis": 68, "typ": "at",
+      "referenz": "vgl. 1. Kön 7,50", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige7,50",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Goldene Räucherpfannen gehörten zum Tempelgerät (1. Kön 7,50) — ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 6, "von": 82, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 23,24", "url": "https://www.bibleserver.com/MENG/3.Mose23,24" },
+        { "label": "4. Mo 10,9", "url": "https://www.bibleserver.com/MENG/4.Mose10,9" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Posaunenschall zum »Gedenktag« (3. Mo 23,24) und zum Gedenken vor Gott (4. Mo 10,9) — der Text stellt diesen Bezug nicht her; die Gerichtsposaune ist in V2 aktiv annotiert."
+    },
+    {
+      "vers_von": 12, "von": 43, "vers_bis": 12, "bis": 73, "typ": "at",
+      "referenz": "vgl. Sach 13,8-9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja13,8-9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bei Sacharja bleibt ein Drittel übrig und wird geläutert (Sach 13,8-9) — umgekehrtes Verhältnis; die Vorlage für die Drittel ist Hes 5,2.12 (V7 aktiv)."
+    },
+    {
+      "vers_von": 13, "von": 34, "vers_bis": 13, "bis": 75, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 28,49", "url": "https://www.bibleserver.com/MENG/5.Mose28,49" },
+        { "label": "Hab 1,8", "url": "https://www.bibleserver.com/MENG/Habakuk1,8" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Adler als Bild des heranstürzenden Gerichts (5. Mo 28,49; Hab 1,8) — durch Hos 8,1 bereits abgedeckt, wo Posaune und Adler zusammen stehen."
+    },
+    {
+      "vers_von": 13, "von": 122, "vers_bis": 13, "bis": 144, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 24,6", "url": "https://www.bibleserver.com/MENG/Jesaja24,6" },
+        { "label": "Jes 26,21", "url": "https://www.bibleserver.com/MENG/Jesaja26,21" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Bewohner der Erde« als Gerichtsadressaten bei Jesaja (Jes 24,6; 26,21: das vergossene Blut kommt ans Licht, vgl. 6,10) — feststehender Ausdruck der Offenbarung, ohne Vorwissen verständlich."
+    }
+  ]
+}
