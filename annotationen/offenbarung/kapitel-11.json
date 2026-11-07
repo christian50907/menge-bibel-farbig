@@ -1,0 +1,321 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 11,
+  "titel": "Die Ausmessung des Tempels · Die zwei Zeugen · Die siebte Posaune",
+  "abschnitte": [
+    { "id": "tempel", "vers_von": 1, "vers_bis": 2, "titel": "Die Ausmessung des Tempels; die Bewahrung der treuen Gläubigen während der schweren Heimsuchung der heiligen Stadt durch die Heiden" },
+    { "id": "zeugen", "vers_von": 3, "vers_bis": 14, "titel": "Wirksamkeit, Tod und Himmelfahrt der zwei Zeugen Gottes" },
+    { "id": "siebte-posaune", "vers_von": 15, "vers_bis": 19, "titel": "Die siebte Posaune; Siegesjubel im Himmel; das Erscheinen der Bundeslade" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 0, "vers_bis": 1, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 40,3", "url": "https://www.bibleserver.com/MENG/Hesekiel40,3" },
+        { "label": "Sach 2,5-9", "url": "https://www.bibleserver.com/MENG/Sacharja2,5-9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hesekiel sieht einen Mann mit Meßstab, der den künftigen Tempel ausmisst (Hes 40-42); bei Sacharja wird Jerusalem vermessen, und Gott verheißt: »ich selbst aber … will ihm ringsum eine feurige Mauer sein« (Sach 2,9). Messen heißt abgrenzen und unter Schutz stellen: Was gemessen wird, bewahrt Gott."
+    },
+    {
+      "vers_von": 2, "von": 0, "vers_bis": 2, "bis": 37, "typ": "at",
+      "referenz": "vgl. Hes 42,20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel42,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hesekiels Vermessung trennt Heiliges von Unheiligem (Hes 42,20); im Herodes-Tempel war der äußere Vorhof Nichtjuden zugänglich. Hintergrund, aber ohne Formulierungsvorlage; die Pointe (Schutz nur für das Innere) steht im Tooltip zu V1."
+    },
+    {
+      "vers_von": 2, "von": 108, "vers_bis": 2, "bis": 174, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 8,13", "url": "https://www.bibleserver.com/MENG/Daniel8,13" },
+        { "label": "Dan 7,25", "url": "https://www.bibleserver.com/MENG/Daniel7,25" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Daniel sieht das Heiligtum »zur Zertretung dahingegeben« (Dan 8,13); die Heiligen sind dem Feind preisgegeben »ein Jahr und zwei Jahre und ein halbes Jahr« (Dan 7,25). Erinnert an Antiochus IV., der den Tempel 167-164 v. Chr. entweihte. 42 Monate = 3½ Jahre = 1260 Tage (V3): die halbe Sieben, eine schwere, aber von Gott begrenzte Zeit."
+    },
+    {
+      "vers_von": 2, "von": 119, "vers_bis": 2, "bis": 136, "typ": "at",
+      "referenz": "vgl. Jes 63,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja63,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Unsere Widersacher haben dein Heiligtum zertreten« (Jes 63,18) – durch Dan 8,13 (aktiv) abgedeckt."
+    },
+    {
+      "vers_von": 3, "von": 1, "vers_bis": 3, "bis": 24, "typ": "at",
+      "referenz": "vgl. 5. Mo 19,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose19,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach dem Gesetz gilt eine Aussage erst »aufgrund der Aussage von zwei oder von drei Zeugen« (5. Mo 19,15). Zwei Zeugen machen das Zeugnis rechtsgültig: Die Welt kann nicht sagen, sie sei nicht gewarnt worden."
+    },
+    {
+      "vers_von": 3, "von": 54, "vers_bis": 3, "bis": 72, "typ": "at",
+      "referenz": "vgl. Jona 3,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jona3,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sack als Buß- und Trauergewand (Jona 3,5; vgl. Jes 50,3 in 6,12) – allgemeiner Brauch, die Fußnote erklärt ihn bereits."
+    },
+    {
+      "vers_von": 3, "von": 74, "vers_bis": 3, "bis": 106, "typ": "at",
+      "referenz": "vgl. Dan 7,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "1260 Tage = 42 Monate (V2); Dan 7,25 dort aktiv erklärt."
+    },
+    {
+      "vers_von": 4, "von": 0, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "Sach 4,3.11-14", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Sacharja4,3-14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Sacharja sieht neben dem Leuchter zwei Ölbäume: »die beiden Söhne des Öls, die … vor dem Herrn der ganzen Erde stehen« (Sach 4,14) – die zwei Gesalbten seiner Zeit, Hoherpriester Josua und Statthalter Serubbabel. Hier sind die Zeugen Ölbäume und Leuchter zugleich: von Gott gesalbt und Träger seines Lichts (vgl. 1,20)."
+    },
+    {
+      "vers_von": 5, "von": 47, "vers_bis": 5, "bis": 108, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Kön 1,10", "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige1,10" },
+        { "label": "Jer 5,14", "url": "https://www.bibleserver.com/MENG/Jeremia5,14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Elia ließ Feuer vom Himmel fallen, das die gegen ihn ausgesandten Soldaten verzehrte (2. Kön 1,10). Zu Jeremia sagt Gott: »ich will meine Worte in deinem Munde zu Feuer machen und dieses Volk zu Brennholz« (Jer 5,14). Das Feuer kommt aus dem Mund: Es ist das Gerichtswort der Zeugen."
+    },
+    {
+      "vers_von": 6, "von": 23, "vers_bis": 6, "bis": 115, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 17,1", "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige17,1" },
+        { "label": "Mal 3,23", "url": "https://www.bibleserver.com/MENG/Maleachi3,23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Elia kündigte an: »es soll in den nächsten Jahren weder Tau noch Regen fallen, es sei denn auf mein Wort!« (1. Kön 17,1); nach Lk 4,25 dauerte die Dürre 3½ Jahre – wie die Zeit der Zeugen (V3). Elia sollte vor dem Tag des HERRN wiederkommen (Mal 3,23)."
+    },
+    {
+      "vers_von": 6, "von": 132, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 7,17-20", "url": "https://www.bibleserver.com/MENG/2.Mose7,17-20" },
+        { "label": "5. Mo 18,15", "url": "https://www.bibleserver.com/MENG/5.Mose18,15" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose verwandelte das Wasser Ägyptens in Blut und schlug das Land mit Plagen (2. Mo 7,17-20). Ein »Prophet gleich mir« war verheißen (5. Mo 18,15). Die Zeugen tragen die Züge von Mose und Elia, den beiden für die Endzeit erwarteten Propheten (vgl. Mk 9,4)."
+    },
+    {
+      "vers_von": 7, "von": 65, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 7,3", "url": "https://www.bibleserver.com/MENG/Daniel7,3" },
+        { "label": "Dan 7,21", "url": "https://www.bibleserver.com/MENG/Daniel7,21" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Daniel steigen vier Tiere aus dem Meer, Bilder für gottfeindliche Weltreiche (Dan 7,3.17). Daniel sah, »wie jenes Horn (des vierten Tieres) Krieg mit den Heiligen führte und sie überwältigte« (Dan 7,21). Erstmals erscheint hier »das Tier« der Offenbarung (ausgeführt in Kap. 13)."
+    },
+    {
+      "vers_von": 8, "von": 43, "vers_bis": 8, "bis": 59, "typ": "at",
+      "referenz": "vgl. Jer 22,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia22,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jerusalem als »diese große Stadt« (Jer 22,8) – Anklang ohne Last; der Jerusalem-Bezug steht im Tooltip zu V8. Später ist »die große Stadt« Babel (Kap. 17-18)."
+    },
+    {
+      "vers_von": 8, "von": 70, "vers_bis": 8, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 1,10", "url": "https://www.bibleserver.com/MENG/Jesaja1,10" },
+        { "label": "Hes 16,46", "url": "https://www.bibleserver.com/MENG/Hesekiel16,46" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Propheten nannten das abtrünnige Jerusalem »Sodom«: »Höret das Wort des HERRN, ihr Sodomsfürsten!« (Jes 1,10; vgl. Hes 16,46). Ägypten steht für Unterdrückung des Gottesvolks. »Wo ihr Herr gekreuzigt wurde« weist auf Jerusalem – zugleich Bild für jede gottfeindliche Stadt."
+    },
+    {
+      "vers_von": 9, "von": 0, "vers_bis": 9, "bis": 70, "typ": "at",
+      "referenz": "vgl. Dan 7,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Völkerreihe: Wiederholung von 5,9 (Dan 7,14), dort aktiv."
+    },
+    {
+      "vers_von": 9, "von": 138, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 79,2-3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm79,2-3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Unbestattet liegen zu bleiben galt als äußerste Schande. Ps 79 klagt über die Heiden, die die Leichen der Knechte Gottes den Tieren überließen: »niemand hat sie begraben!« (Ps 79,3). 3½ Tage spiegeln die 3½ Jahre (V2-3)."
+    },
+    {
+      "vers_von": 10, "von": 51, "vers_bis": 10, "bis": 106, "typ": "at",
+      "referenz": "vgl. Est 9,19.22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Ester9,19-22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie am Purimfest, an dem man »sich gegenseitig (leckere) Gerichte zusendet« (Est 9,19.22) – dort zur Freude über die Rettung der Juden vor ihren Feinden. Hier umgekehrt: Die Welt feiert den Tod von Gottes Zeugen."
+    },
+    {
+      "vers_von": 10, "von": 108, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "vgl. 1. Kön 18,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige18,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ahab nannte Elia den, der Israel ins Unglück bringt (1. Kön 18,17) – passender Anklang, aber nicht formuliert; der Elia-Bezug ist in V5-6 aktiv."
+    },
+    {
+      "vers_von": 11, "von": 41, "vers_bis": 11, "bis": 118, "typ": "at",
+      "referenz": "Hes 37,10", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel37,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtlich Hes 37,10: Über dem Feld voller Totengebeine »kam der Lebensgeist in sie, so daß sie lebendig wurden und auf ihre Füße traten«. Dort Bild für die Wiederbelebung Israels; hier werden die getöteten Zeugen auferweckt."
+    },
+    {
+      "vers_von": 12, "von": 87, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Kön 2,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige2,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Elia »fuhr im Wettersturm zum Himmel empor« (2. Kön 2,11). Wie Elia – und wie Jesus in der Wolke (Apg 1,9) – werden die Zeugen zu Gott aufgenommen, diesmal vor den Augen ihrer Feinde."
+    },
+    {
+      "vers_von": 13, "von": 29, "vers_bis": 13, "bis": 49, "typ": "at",
+      "referenz": "vgl. Hes 38,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel38,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Großes Erdbeben am Gerichtstag (Hes 38,19) – gängiges Gerichtszeichen, schon 6,12; 8,5. Ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 13, "von": 51, "vers_bis": 13, "bis": 88, "typ": "at",
+      "referenz": "vgl. Jes 6,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja6,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ein Zehntel als Rest im Gericht (Jes 6,13) – nur lose vergleichbar, ohne Formulierungsvorlage; die Umkehr-Pointe trägt 1. Kön 19,18."
+    },
+    {
+      "vers_von": 13, "von": 94, "vers_bis": 13, "bis": 157, "typ": "at",
+      "referenz": "vgl. 1. Kön 19,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige19,18",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zu Elia sagt Gott, er wolle in Israel »siebentausend übriglassen«, die sich nicht vor Baal gebeugt haben (1. Kön 19,18). Hier umgekehrt: Siebentausend kommen um, die große Mehrheit aber kehrt um und gibt Gott die Ehre."
+    },
+    {
+      "vers_von": 13, "von": 199, "vers_bis": 13, "bis": 234, "typ": "at",
+      "referenz": "vgl. Jos 7,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua7,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Gib dem HERRN die Ehre« als Aufforderung zum Bekenntnis (Jos 7,19); »Gott des Himmels« wie Dan 2,19. Ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 15, "von": 106, "vers_bis": 15, "bis": 250, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 2,2", "url": "https://www.bibleserver.com/MENG/Psalm2,2" },
+        { "label": "2. Mo 15,18", "url": "https://www.bibleserver.com/MENG/2.Mose15,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Ps 2 lehnen sich die Könige der Erde auf »gegen den HERRN und den von ihm Gesalbten« (hebr. Messias, griech. Christus). Nun gehört beiden die Herrschaft über die Welt. Nach den Plagen Ägyptens und dem Auszug sang Israel: »Der HERR ist König immer und ewig!« (2. Mo 15,18) – so endet hier die Reihe der Plagen-Posaunen."
+    },
+    {
+      "vers_von": 15, "von": 106, "vers_bis": 15, "bis": 250, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Sach 14,9", "url": "https://www.bibleserver.com/MENG/Sacharja14,9" },
+        { "label": "Dan 2,44", "url": "https://www.bibleserver.com/MENG/Daniel2,44" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Endzeitliches Königtum Gottes über die ganze Erde (Sach 14,9), ewiges Reich (Dan 2,44; 7,14) – durch Ps 2,2 und 2. Mo 15,18 abgedeckt; Dan 7,14 in 5,9 aktiv."
+    },
+    {
+      "vers_von": 17, "von": 58, "vers_bis": 17, "bis": 83, "typ": "at",
+      "referenz": "vgl. 2. Mo 3,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gottesname wie 1,4.8 (vgl. 2. Mo 3,14) – aber ohne »der da kommt«: Gott ist gekommen und hat seine Herrschaft angetreten."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": 65, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 2,1.5", "url": "https://www.bibleserver.com/MENG/Psalm2,1-5" },
+        { "label": "Ps 99,1", "url": "https://www.bibleserver.com/MENG/Psalm99,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Ps 2 toben die Völker gegen Gott; er aber »wird zu ihnen reden in seinem Zorn« (Ps 2,1.5). Ps 99,1: »Der HERR ist König: es zittern (griech. AT: zürnen) die Völker« – Gottes Königwerden (V17) und der Zorn der Völker gehören zusammen."
+    },
+    {
+      "vers_von": 18, "von": 70, "vers_bis": 18, "bis": 105, "typ": "at",
+      "referenz": "vgl. Dan 12,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Auferstehung zum Gericht (Dan 12,2) – ohne Formulierungsvorlage; ausgeführt in 20,12-13."
+    },
+    {
+      "vers_von": 18, "von": 135, "vers_bis": 18, "bis": 167, "typ": "at",
+      "referenz": "vgl. Am 3,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos3,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Seine Knechte, die Propheten«: Wiederholung von 10,7 (Am 3,7), dort aktiv."
+    },
+    {
+      "vers_von": 18, "von": 194, "vers_bis": 18, "bis": 257, "typ": "at",
+      "referenz": "vgl. Ps 115,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm115,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Fast wörtlich Ps 115,13 (»die den HERRN fürchten, die Kleinen samt den Großen«) – geläufige Gebetssprache, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 18, "von": 274, "vers_bis": 18, "bis": 324, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 6,11-13", "url": "https://www.bibleserver.com/MENG/1.Mose6,11-13" },
+        { "label": "Jer 51,25", "url": "https://www.bibleserver.com/MENG/Jeremia51,25" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vor der Flut wurde die Erde »immer verderbter«, darum will Gott die Menschen »mitsamt der Erde verderben« (1. Mo 6,11-13); Babel heißt »Berg des Verderbens«, der die ganze Erde verdirbt (Jer 51,25; vgl. Kap. 17-18). Das Wortspiel steht im Text selbst; nur Anklang."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 104, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 25,22", "url": "https://www.bibleserver.com/MENG/2.Mose25,22" },
+        { "label": "Jer 3,16", "url": "https://www.bibleserver.com/MENG/Jeremia3,16" },
+        { "label": "2. Makk 2,4-8", "url": "https://www.bibleserver.com/EU/2.Makkab%C3%A4er2,4-8" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Bundeslade stand im Allerheiligsten; über ihr begegnete Gott seinem Volk (2. Mo 25,22). Bei der Zerstörung Jerusalems 587 v. Chr. ging sie verloren (vgl. Jer 3,16). Jüdische Erwartung: In der Endzeit wird sie wieder sichtbar (2. Makk 2,4-8; Apokryphen). Hier erscheint sie im himmlischen Tempel: Gottes Bund steht."
+    },
+    {
+      "vers_von": 19, "von": 105, "vers_bis": 19, "bis": -1, "typ": "at",
+      "referenz": "vgl. 2. Mo 19,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sinai-Zeichen: Wiederholung von 4,5 und 8,5 (2. Mo 19,16), dort aktiv bzw. erwogen. Hagel wie die siebte Plage (2. Mo 9,24; in 8,7 aktiv)."
+    }
+  ]
+}
