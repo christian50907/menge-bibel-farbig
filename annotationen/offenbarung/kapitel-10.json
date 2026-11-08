@@ -1,0 +1,211 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 10,
+  "titel": "Ein Zwischengesicht: Gottes Absicht bei der Sendung der sieben Posaunenplagen; das aufgeschlagene bittersüße Büchlein des Zornes Gottes",
+  "abschnitte": [
+    { "id": "engel-schwur", "vers_von": 1, "vers_bis": 7, "titel": "Ein Engel hält ein aufgeschlagenes Büchlein und schwört" },
+    { "id": "buechlein", "vers_von": 8, "vers_bis": 11, "titel": "Johannes verzehrt das bittersüße Büchlein" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 72, "vers_bis": 1, "bis": 218, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 13,21", "url": "https://www.bibleserver.com/MENG/2.Mose13,21" },
+        { "label": "Hes 1,28", "url": "https://www.bibleserver.com/MENG/Hesekiel1,28" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wolke, Regenbogen, Sonnenglanz und Feuersäulen sind Zeichen göttlicher Gegenwart: Beim Auszug zog der HERR in Wolken- und Feuersäule vor Israel her (2. Mo 13,21); Hesekiel sah seine Herrlichkeit im Regenbogenglanz (Hes 1,28; vgl. 4,3). Ein Antlitz wie die Sonne hat in 1,16 Christus. Der Engel trägt Gottes Hoheitszeichen."
+    },
+    {
+      "vers_von": 1, "von": 30, "vers_bis": 1, "bis": 43, "typ": "at",
+      "referenz": "vgl. Dan 10,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Starker Engel« (= Engelfürst): Daniel kennt Engelfürsten wie Michael (Dan 10,13.21). Übersetzungsvariante, keine AT-Formulierung; »starker Engel« schon in 5,2 (inaktiv)."
+    },
+    {
+      "vers_von": 1, "von": 152, "vers_bis": 1, "bis": 218, "typ": "at",
+      "referenz": "vgl. Dan 10,5-6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,5-6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Himmelsgestalt mit leuchtendem Antlitz und glänzenden Beinen wie Dan 10,5-6 – Wiederholung von 1,13-14 (dort aktiv). Der Mann in Linnen ist über Dan 12,7 (V5-6) im Blick."
+    },
+    {
+      "vers_von": 2, "von": 24, "vers_bis": 2, "bis": 52, "typ": "at",
+      "referenz": "vgl. Hes 2,9-10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel2,9-10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Rollenmotiv aus 5,1 (Hes 2,9-10, dort aktiv), jetzt geöffnet statt versiegelt. Der Hesekiel-Bezug wird in V9 aktiv erklärt."
+    },
+    {
+      "vers_von": 2, "von": 54, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jos 1,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua1,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Fuß auf Meer und Land: keine AT-Vorlage im Wortlaut. Besitzergreifen mit dem Fuß (Jos 1,3; Ps 8,7) nur evokativ; das Bild (Herrschaft über die ganze Erde) ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 3, "von": 28, "vers_bis": 3, "bis": 47, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Am 3,8", "url": "https://www.bibleserver.com/MENG/Amos3,8" },
+        { "label": "Am 1,2", "url": "https://www.bibleserver.com/MENG/Amos1,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Löwengebrüll steht für Gottes Reden, das den Propheten zum Reden zwingt: »Der Löwe hat gebrüllt: wer sollte sich nicht fürchten? Gott der HERR hat geredet: wer sollte nicht als Prophet reden?« (Am 3,8). Der HERR »brüllt« vom Zion und läßt »seine Stimme erschallen« (Am 1,2) – wie hier Löwenruf und Donnerstimmen."
+    },
+    {
+      "vers_von": 3, "von": 28, "vers_bis": 3, "bis": 47, "typ": "at",
+      "referenz": "vgl. Hos 11,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea11,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott »wird wie ein Löwe brüllen« (Hos 11,10) – dort Heimruf Israels, kein Prophetenauftrag. Am 3,8 und 1,2 treffen V3 genauer."
+    },
+    {
+      "vers_von": 3, "von": 74, "vers_bis": 3, "bis": 122, "typ": "at",
+      "referenz": "Ps 29,3-9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm29,3-9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Ps 29 erschallt »der Donner des HERRN« (hebr. »die Stimme des HERRN«) siebenmal über Meer, Zedern und Wüste. Vor diesem Hintergrund sind die sieben Donner Gottes eigene Stimme."
+    },
+    {
+      "vers_von": 4, "von": 143, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 12,4", "url": "https://www.bibleserver.com/MENG/Daniel12,4" },
+        { "label": "Dan 8,26", "url": "https://www.bibleserver.com/MENG/Daniel8,26" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Daniel soll seine Schau versiegeln, weil sie eine ferne Zeit betrifft (Dan 8,26; 12,4). Hier noch schärfer: Das Gehörte wird gar nicht aufgeschrieben. Sonst gilt in der Offenbarung das Gegenteil: »Lege die Worte … nicht unter Siegel! Denn die Zeit … ist nahe« (22,10)."
+    },
+    {
+      "vers_von": 4, "von": 143, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 12,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Verschlossen und versiegelt bis zur Endzeit« (Dan 12,9) – durch Dan 12,4 und 8,26 (aktiv) abgedeckt."
+    },
+    {
+      "vers_von": 5, "von": 76, "vers_bis": 6, "bis": 45, "typ": "at",
+      "referenz": "Dan 12,7", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtlich Dan 12,7: Der Mann in Linnen über den Fluten erhebt die Hände zum Himmel und schwört »bei dem ewig Lebenden«: »Noch eine Zeit, (zwei) Zeiten und eine halbe Zeit; … dann wird dies alles sich erfüllen!« Hier lautet der Schwur: kein Verzug mehr – mit der siebten Posaune ist es vollendet (V7)."
+    },
+    {
+      "vers_von": 5, "von": 76, "vers_bis": 6, "bis": 45, "typ": "at",
+      "referenz": "vgl. 5. Mo 32,40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,40",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott: »ich erhebe meine Hand zum Himmel und gelobe: So wahr ich ewig lebe« (5. Mo 32,40) – Schwurgestus hinter Dan 12,7, durch den Dan-12,7-Tooltip abgedeckt."
+    },
+    {
+      "vers_von": 6, "von": 47, "vers_bis": 6, "bis": 157, "typ": "at",
+      "referenz": "vgl. 2. Mo 20,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Schöpfungsformel Himmel, Erde, Meer und was darin ist (2. Mo 20,11) – allgemeines Gottesprädikat wie 4,11 (inaktiv), ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 6, "von": 159, "vers_bis": 6, "bis": 197, "typ": "at",
+      "referenz": "vgl. Hab 2,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Habakuk2,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hab 2,3 mahnt, auf die sich verzögernde Erfüllung zu warten – nur Anklang, kein Wortlaut. Die Pointe (Ende der Frist aus Dan 12,7) steht im Tooltip zu V5-6."
+    },
+    {
+      "vers_von": 7, "von": 117, "vers_bis": 7, "bis": 250, "typ": "at",
+      "referenz": "Am 3,7", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Amos3,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Am 3,7: »Gott der HERR tut nichts, ohne zuvor seinen Ratschluß seinen Knechten, den Propheten, geoffenbart zu haben.« Was Gott den Propheten angekündigt hat, ist mit der siebten Posaune vollendet."
+    },
+    {
+      "vers_von": 7, "von": 117, "vers_bis": 7, "bis": 137, "typ": "at",
+      "referenz": "vgl. Dan 2,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott, der Geheimnisse offenbart (Dan 2,28-29) – Wiederholung von 1,1 (dort aktiv); hier im Am-3,7-Span enthalten."
+    },
+    {
+      "vers_von": 7, "von": 203, "vers_bis": 7, "bis": 223, "typ": "at",
+      "referenz": "vgl. Jes 52,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Freudenbotschaft« (griech. euangelizō) wie der Freudenbote in Jes 52,7 – Anklang nur über das griechische Wort, im Deutschen nicht erkennbar."
+    },
+    {
+      "vers_von": 9, "von": 92, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 3,1-3", "url": "https://www.bibleserver.com/MENG/Hesekiel3,1-3" },
+        { "label": "Hes 2,10", "url": "https://www.bibleserver.com/MENG/Hesekiel2,10" },
+        { "label": "Hes 3,14", "url": "https://www.bibleserver.com/MENG/Hesekiel3,14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie bei Hesekiels Berufung: Er muss eine Schriftrolle essen, »und sie schmeckte mir im Munde süß wie Honig« (Hes 3,3). Darauf standen »Klagen, Seufzer und Wehe« (Hes 2,10); danach ging er »tief betrübt« (hebr. »bitter«) davon (Hes 3,14). Gottes Wort aufnehmen ist süß, seine Gerichtsbotschaft bitter."
+    },
+    {
+      "vers_von": 9, "von": 92, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jer 15,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia15,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes Befehle als »Speise« (Jer 15,16) – Wortlaut passt weniger als Hes 3 (V9 aktiv)."
+    },
+    {
+      "vers_von": 9, "von": 193, "vers_bis": 9, "bis": 206, "typ": "at",
+      "referenz": "vgl. Ps 119,103", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm119,103",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes Worte »süßer als Honig« (Ps 119,103; Ps 19,11) – allgemeines Frömmigkeitsbild; der spezifische Bezug ist Hes 3,3 (V9 aktiv)."
+    },
+    {
+      "vers_von": 10, "von": 53, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "vgl. Hes 3,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel3,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ausführung des Auftrags aus V9; Hes 3,1-3 dort aktiv annotiert."
+    },
+    {
+      "vers_von": 11, "von": 20, "vers_bis": 11, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 3,5-6", "url": "https://www.bibleserver.com/MENG/Hesekiel3,5-6" },
+        { "label": "Jer 1,10", "url": "https://www.bibleserver.com/MENG/Jeremia1,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach dem Essen der Rolle wurde Hesekiel nur zum Hause Israel gesandt, »auch nicht zu zahlreichen Völkern mit fremder Sprache« (Hes 3,6). Johannes dagegen wird – wie Jeremia »über die Völker und über die Königreiche« (Jer 1,10) – neu für die ganze Völkerwelt beauftragt."
+    },
+    {
+      "vers_von": 11, "von": 38, "vers_bis": 11, "bis": 95, "typ": "at",
+      "referenz": "vgl. Dan 7,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Völkerreihe: Wiederholung von 5,9 (Dan 7,14), dort aktiv. Neu sind die »Könige«, vgl. Jer 1,10 (Tooltip zu V11)."
+    }
+  ]
+}

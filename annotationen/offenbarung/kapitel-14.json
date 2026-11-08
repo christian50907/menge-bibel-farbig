@@ -1,0 +1,207 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 14,
+  "titel": "Neues Zwischengesicht: Die vollendete Gemeinde und das Gericht über die Erde",
+  "abschnitte": [
+    { "id": "lamm-zion", "vers_von": 1, "vers_bis": 5, "titel": "Das Lamm und die vollendete Gemeinde der 144000 auf dem Berge Zion" },
+    { "id": "drei-engel", "vers_von": 6, "vers_bis": 12, "titel": "Drei Engelrufe: ewiggültige Heilsbotschaft, Fall Babylons, Gericht über die Anbeter des Tieres" },
+    { "id": "selig-tote", "vers_von": 13, "vers_bis": 13, "titel": "Die Seligkeit der bis in den Tod getreuen Gläubigen" },
+    { "id": "ernte-kelter", "vers_von": 14, "vers_bis": 20, "titel": "Das Gericht des Menschensohnes unter dem Bild einer Kornernte und einer Weinlese" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 43, "vers_bis": 1, "bis": 77, "typ": "at",
+      "urls": [
+        { "label": "Ps 2,6", "url": "https://www.bibleserver.com/MENG/Psalm2,6" },
+        { "label": "Joel 3,5", "url": "https://www.bibleserver.com/MENG/Joel3,5" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Auf dem Zion setzt Gott seinen König ein (Ps 2,6). Nach Joel 3,5 wird »auf dem Berge Zion … Rettung sein«; zu den Entronnenen gehört, »den der HERR beruft«. Gegenbild zu Kap. 13: Dem Tier und seinen Anbetern steht das Lamm mit seinem geretteten Volk gegenüber."
+    },
+    {
+      "vers_von": 1, "von": 120, "vers_bis": 1, "bis": -1, "typ": "at",
+      "referenz": "vgl. Hes 9,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel9,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Name auf der Stirn: Siegel aus 7,3 (Hes 9,4, dort aktiv), Gegenbild zum Malzeichen (13,16). 144000 wie 7,4 (aktiv); Stirnblatt des Hohepriesters (2. Mo 28,36-38) schon in 3,12 inaktiv."
+    },
+    {
+      "vers_von": 2, "von": 42, "vers_bis": 2, "bis": 72, "typ": "at",
+      "referenz": "vgl. Hes 43,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel43,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Rauschen vieler Wasser: Wiederholung von 1,15 (Hes 43,2), dort aktiv. Harfen wie 5,8 (inaktiv)."
+    },
+    {
+      "vers_von": 3, "von": 0, "vers_bis": 3, "bis": 25, "typ": "at",
+      "referenz": "vgl. Ps 98,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm98,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Neues Lied und »erkauft«: Wiederholung von 5,9 (Ps 98,1 aktiv; 2. Mo 15,16 inaktiv)."
+    },
+    {
+      "vers_von": 4, "von": 15, "vers_bis": 4, "bis": 89, "typ": "at",
+      "urls": [
+        { "label": "2. Mo 19,15", "url": "https://www.bibleserver.com/MENG/2.Mose19,15" },
+        { "label": "1. Sam 21,6", "url": "https://www.bibleserver.com/MENG/1.Samuel21,6" },
+        { "label": "5. Mo 23,10-15", "url": "https://www.bibleserver.com/MENG/5.Mose23,10-15" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hintergrund ist eine Reinheitsregel, keine Ehefeindlichkeit: Vor der Gottesbegegnung am Sinai sollte sich keiner »einem Weibe« nahen (2. Mo 19,15); im Feldzug waren Kriegern Frauen »versagt« (1. Sam 21,6). Denn Gott zieht im Heerlager mit: »darum soll dein Lager heilig sein« (5. Mo 23,15). Die 144000 sind Gottes geordnetes Heer (vgl. 7,4), ganz für ihn bereit – Gegenbild zur »Unzucht« Babylons, d.h. zum Götzendienst (V8)."
+    },
+    {
+      "vers_von": 4, "von": 157, "vers_bis": 4, "bis": -1, "typ": "at",
+      "urls": [
+        { "label": "Jer 2,3", "url": "https://www.bibleserver.com/MENG/Jeremia2,3" },
+        { "label": "2. Mo 23,19", "url": "https://www.bibleserver.com/MENG/2.Mose23,19" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Beste der ersten Ernte gehörte Gott (2. Mo 23,19). Jeremia nennt Israel »geheiligt … dem HERRN, sein Erstlingsabhub von der Ernte« (Jer 2,3). Die 144000 sind Gott geweiht wie die Erstlingsgabe, bevor die übrige Ernte eingebracht wird (V14-20)."
+    },
+    {
+      "vers_von": 5, "von": 0, "vers_bis": 5, "bis": -1, "typ": "at",
+      "urls": [
+        { "label": "Zef 3,13", "url": "https://www.bibleserver.com/MENG/Zefanja3,13" },
+        { "label": "Jes 53,9", "url": "https://www.bibleserver.com/MENG/Jesaja53,9" },
+        { "label": "3. Mo 22,21", "url": "https://www.bibleserver.com/MENG/3.Mose22,21" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Zef 3,13 wird der Rest Israels »keine Lüge reden«; darauf folgt der Jubel der Tochter Zion (vgl. V1). Vom Gottesknecht heißt es: »kein Betrug in seinem Munde« (Jes 53,9) – die 144000 gleichen dem Lamm. »Ohne Fehl« ist Opfersprache: Opfertiere durften »keinen Fehler« haben (3. Mo 22,21), passend zur »Erstlingsgabe« (V4)."
+    },
+    {
+      "vers_von": 6, "von": 100, "vers_bis": 6, "bis": 154, "typ": "at",
+      "referenz": "vgl. Dan 7,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Völkerreihe: Wiederholung von 5,9 (Dan 7,14), dort aktiv. Der Engel »mitten am Himmel« wie der Adler in 8,13."
+    },
+    {
+      "vers_von": 7, "von": 27, "vers_bis": 7, "bis": 201, "typ": "at",
+      "url": "https://www.bibleserver.com/MENG/Psalm96,7-13",
+      "referenz": "Ps 96,7-13", "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie in Ps 96: Die Völker sollen dem HERRN »Ehre« darbringen; »unter den Heiden« soll man verkünden: »Der HERR ist König!«, denn »er kommt, zu richten die Erde« (Ps 96,7.10.13). Dort jubeln Himmel, Erde und Meer über dieses Gericht: Gott schafft Recht. Darum ist der Ruf »Heilsbotschaft« (V6) – letzter Aufruf zur Umkehr."
+    },
+    {
+      "vers_von": 8, "von": 53, "vers_bis": 8, "bis": 94, "typ": "at",
+      "urls": [
+        { "label": "Jes 21,9", "url": "https://www.bibleserver.com/MENG/Jesaja21,9" },
+        { "label": "Dan 4,27", "url": "https://www.bibleserver.com/MENG/Daniel4,27" }
+      ],
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wörtlich Jes 21,9: »Gefallen, gefallen ist Babylon!« Mit »das große Babylon« rühmte sich Nebukadnezar seiner Macht – kurz vor seinem Sturz (Dan 4,27). Babylon zerstörte 587 v. Chr. Jerusalem und den Tempel; im frühen Christentum Deckname für Rom (vgl. 1. Petr 5,13). Der Fall wird als schon geschehen ausgerufen (ausgeführt in Kap. 17-18)."
+    },
+    {
+      "vers_von": 8, "von": 96, "vers_bis": 8, "bis": 160, "typ": "at",
+      "referenz": "Jer 51,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jer 51,7 war Babylon »ein goldener Becher …, der die ganze Erde trunken machte; von seinem Wein haben die Völker getrunken«. »Unzucht« meint im AT Untreue gegen Gott, besonders Götzendienst (vgl. 2,20): Babylon hat die Völker mit Macht und Kult berauscht."
+    },
+    {
+      "vers_von": 10, "von": 21, "vers_bis": 10, "bis": 104, "typ": "at",
+      "urls": [
+        { "label": "Jer 25,15", "url": "https://www.bibleserver.com/MENG/Jeremia25,15" },
+        { "label": "Ps 75,9", "url": "https://www.bibleserver.com/MENG/Psalm75,9" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Zornesbecher ist prophetisches Gerichtsbild: »Nimm diesen Becher voll Zornweins aus meiner Hand und laß alle Völker … daraus trinken!« (Jer 25,15); alle Frevler müssen ihn bis zur Hefe leeren (Ps 75,9). Wein wurde gewöhnlich mit Wasser verdünnt – »ungemischt« heißt: Gottes Zorn in voller Stärke. Wer Babylons Wein trank (V8), trinkt nun Gottes Wein."
+    },
+    {
+      "vers_von": 10, "von": 115, "vers_bis": 10, "bis": 137, "typ": "at",
+      "referenz": "vgl. 1. Mo 19,24", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose19,24",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Feuer und Schwefel: Wiederholung von 9,17 (1. Mo 19,24; Hes 38,22), dort aktiv."
+    },
+    {
+      "vers_von": 11, "von": 4, "vers_bis": 11, "bis": 109, "typ": "at",
+      "referenz": "Jes 34,9-10", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja34,9-10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtlich Jes 34,10 über das Gericht an Edom: »bei Tag und bei Nacht erlischt es nicht, in Ewigkeit steigt der Rauch von ihm auf«; das Land wird zu brennendem Pech und Schwefel (Jes 34,9). »Keine Ruhe bei Tag und bei Nacht« – Gegensatz zu den Toten im Herrn, die »ausruhen« (V13)."
+    },
+    {
+      "vers_von": 13, "von": 159, "vers_bis": 13, "bis": 197, "typ": "at",
+      "referenz": "vgl. Dan 12,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Daniel wird zugesagt: »Du darfst nun ruhen und wirst zu deinem Lose aufstehen am Ende der Tage« (Dan 12,13) – passender Anklang ohne Formulierungsvorlage; die Seligpreisung ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 14, "von": 22, "vers_bis": 14, "bis": 100, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie in Dan 7,13 (vgl. 1,7.13): Einer, »der wie eines Menschen Sohn aussah«, kommt mit den Wolken des Himmels; Gott überträgt ihm die ewige Herrschaft. Hier trägt er eine goldene Krone (griech. Siegeskranz) und die Sichel: Er kommt zur Ernte (V15-16)."
+    },
+    {
+      "vers_von": 14, "von": 111, "vers_bis": 14, "bis": 143, "typ": "at",
+      "referenz": "vgl. Ps 21,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm21,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Königspsalm: Gott »hast aufs Haupt ihm gesetzt eine Krone von Feingold« (Ps 21,4). Wortnaher Anklang an die Königskrönung, aber ohne Vorwissen verständlich; die Herrschaft trägt Dan 7,13-14."
+    },
+    {
+      "vers_von": 15, "von": 109, "vers_bis": 15, "bis": -1, "typ": "at",
+      "urls": [
+        { "label": "Joel 4,13-14", "url": "https://www.bibleserver.com/MENG/Joel4,13-14" }
+      ],
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Joel 4,13: »Legt die Sichel an, denn die Ernte ist reif! Kommt und stampft, denn die Kelter ist voll … denn ihre Gottlosigkeit ist groß!« Dort Gottes Gericht über die Völker im »Tal der Entscheidung« (Joel 4,14). Die zwei Bilder des Verses geben die Szene vor: Kornernte (V14-16) und Weinlese mit Kelter (V17-20)."
+    },
+    {
+      "vers_von": 18, "von": 155, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "vgl. Joel 4,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel4,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zweite Hälfte von Joel 4,13 (Weinlese), in V15 aktiv erklärt. Der Engel vom Altar mit Macht über das Feuer knüpft an 8,3-5 an (Hes 10,2, dort aktiv)."
+    },
+    {
+      "vers_von": 20, "von": 0, "vers_bis": 20, "bis": 55, "typ": "at",
+      "urls": [
+        { "label": "Jes 63,1-3", "url": "https://www.bibleserver.com/MENG/Jesaja63,1-3" },
+        { "label": "Joel 4,13", "url": "https://www.bibleserver.com/MENG/Joel4,13" },
+        { "label": "Joel 4,2.12", "url": "https://www.bibleserver.com/MENG/Joel4,2-12" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In der Kelter wurden Trauben mit den Füßen zerstampft; der rote Saft war Bild für Blut. Bei Jesaja kommt Gott von Edom »in hochroten Kleidern«: »Die Kelter habe ich getreten, ich allein … in meinem Zorn«, ihr Lebenssaft spritzte an seine Kleider (Jes 63,1-3; vgl. Joel 4,13). Daher die »Zorneskelter Gottes« (V19); vgl. 19,13-15. Vor der Stadt: Bei Joel richtet Gott die Völker im Tal Josaphat (Joel 4,2.12), das man vor Jerusalem suchte."
+    },
+    {
+      "vers_von": 20, "von": 57, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jes 34,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja34,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Blutstrom wie Jes 34,3 (»die Berge von ihrem Blut zerfließen«) – nur Anklang. »Bis an die Zügel der Pferde« hat eine Parallele in 1. Henoch 100,3 (außerbiblisch). 1600 Stadien (≈ 300 km) etwa die Länge des Landes Israel – keine AT-Vorlage."
+    }
+  ]
+}

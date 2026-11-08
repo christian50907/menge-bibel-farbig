@@ -1,0 +1,276 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 9,
+  "titel": "Die fünfte Posaune: Heuschrecken aus dem Abgrund · Die sechste Posaune: das Reiterheer vom Euphrat",
+  "abschnitte": [
+    { "id": "fuenfte-posaune", "vers_von": 1, "vers_bis": 12, "titel": "Die fünfte Posaune oder das erste Wehe" },
+    { "id": "sechste-posaune", "vers_von": 13, "vers_bis": 21, "titel": "Die sechste Posaune oder das zweite Wehe" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 3, "von": 0, "vers_bis": 3, "bis": 57, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 10,12-15", "url": "https://www.bibleserver.com/MENG/2.Mose10,12-15" },
+        { "label": "Joel 2,2", "url": "https://www.bibleserver.com/MENG/Joel2,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Achte Plage Ägyptens: Heuschrecken über dem ganzen Land, so viele wie nie zuvor (2. Mo 10,12-15). Bei Joel ist ein beispielloser Heuschreckenschwarm das Heer des Gerichtstags (Joel 2,2; vgl. V7-9). Die Posaunen setzen die Plagen Ägyptens fort (vgl. 8,7) – diese Heuschrecken aber steigen aus dem Abgrund."
+    },
+    {
+      "vers_von": 4, "von": 28, "vers_bis": 4, "bis": 114, "typ": "at",
+      "referenz": "2. Mo 10,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose10,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Heuschrecken Ägyptens fraßen alles ab, bis »nichts Grünes mehr« übrigblieb (2. Mo 10,15). Diese verschonen gerade die Pflanzen und treffen nur Menschen – und nur die ohne Gottes Siegel (vgl. 7,3)."
+    },
+    {
+      "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 76, "typ": "at",
+      "referenz": "Joel 2,4-5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel2,4-5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Joel fällt ein Heuschreckenschwarm wie ein Heer ins Land: »Sie sehen ganz so aus wie Rosse«, »Rasselnd wie Kriegswagen«, »wie ein gewaltiges, kampfgerüstetes Heer« (Joel 2,4-5). Vor ihnen verfinstern sich Sonne und Mond (Joel 2,10; vgl. V2). Der Text übernimmt Joels Bild Zug um Zug (V8-9)."
+    },
+    {
+      "vers_von": 8, "von": 48, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "Joel 1,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel1,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Joels Heuschreckenvolk: »seine Zähne sind Löwenzähne, und ein Gebiß hat es wie eine Löwin« (Joel 1,6) – Bild für die alles zermalmende Fresskraft des Schwarms."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 53, "typ": "at",
+      "referenz": "Spr 30,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Spr%C3%BCche30,27",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Sprüche staunen über die Heuschrecken, »die keinen König haben« und doch geordnet daherziehen (Spr 30,27). Diese haben einen: den Engel des Abgrunds."
+    },
+    {
+      "vers_von": 11, "von": 55, "vers_bis": 11, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hiob 26,6", "url": "https://www.bibleserver.com/MENG/Hiob26,6" },
+        { "label": "Spr 15,11", "url": "https://www.bibleserver.com/MENG/Spr%C3%BCche15,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Abaddon (hebr. »Verderben«) ist im AT ein Name der Unterwelt, meist neben dem Totenreich genannt, dort mit »Abgrund« übersetzt (Hiob 26,6; Spr 15,11). Hier wird der Ort zur Person: der Verderber als König."
+    },
+    {
+      "vers_von": 13, "von": 57, "vers_bis": 13, "bis": 97, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 30,2-3", "url": "https://www.bibleserver.com/MENG/2.Mose30,2-3" },
+        { "label": "2. Mo 30,10", "url": "https://www.bibleserver.com/MENG/2.Mose30,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der goldene Räucheraltar (vgl. 8,3) trug an seinen vier Ecken hornartige Aufsätze (2. Mo 30,2-3). An sie strich der Hohepriester einmal im Jahr das Sühneblut (2. Mo 30,10). Vom Altar, an dem die Gebete der Heiligen aufstiegen (8,3-4), ergeht nun der Befehl zum Gericht."
+    },
+    {
+      "vers_von": 14, "von": 80, "vers_bis": 14, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 15,18", "url": "https://www.bibleserver.com/MENG/1.Mose15,18" },
+        { "label": "Jes 8,7", "url": "https://www.bibleserver.com/MENG/Jesaja8,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Euphrat ist die äußerste Grenze des verheißenen Landes (1. Mo 15,18); jenseits davon lagen Assyrien und Babylon, die Israel überrannten. Bei Jesaja kommt der Assyrerkönig wie die Flut »des Euphratstroms« über das Land (Jes 8,7). Von dort bricht hier ein riesiges Heer los (V16)."
+    },
+    {
+      "vers_von": 17, "von": 202, "vers_bis": 17, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 19,24.28", "url": "https://www.bibleserver.com/MENG/1.Mose19,24-28" },
+        { "label": "Hes 38,22", "url": "https://www.bibleserver.com/MENG/Hesekiel38,22" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Feuer und Schwefel sind seit Sodom Bild des vernichtenden Gottesgerichts: Der HERR ließ »Schwefel und Feuer vom Himmel« regnen, danach stieg Rauch auf wie aus einem Schmelzofen (1. Mo 19,24.28). Bei Hesekiel trifft es so das Heer Gogs (Hes 38,22). Hier speien die Rosse es selbst aus."
+    },
+    {
+      "vers_von": 20, "von": 82, "vers_bis": 20, "bis": 135, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Am 4,6-11", "url": "https://www.bibleserver.com/MENG/Amos4,6-11" },
+        { "label": "2. Mo 9,34-35", "url": "https://www.bibleserver.com/MENG/2.Mose9,34-35" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie bei Amos: Hunger, Dürre, Heuschrecken, Pest, Zerstörung »wie Sodom« – nach jedem Schlag der Kehrvers »aber doch seid ihr nicht zu mir umgekehrt!« (Am 4,6-11). Auch der Pharao verstockte nach jeder Plage sein Herz (2. Mo 9,34). Die Plagen zielen auf Umkehr – sie bleibt aus."
+    },
+    {
+      "vers_von": 20, "von": 149, "vers_bis": 20, "bis": 179, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 32,17", "url": "https://www.bibleserver.com/MENG/5.Mose32,17" },
+        { "label": "Ps 106,37", "url": "https://www.bibleserver.com/MENG/Psalm106,37" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Beim Abfall opferte Israel »den Dämonen, die nicht Gott sind« (5. Mo 32,17), ja »ihre Söhne und ihre Töchter den bösen Geistern« (Ps 106,37). Hinter den Götzen stehen böse Geister: Götzendienst ist Dämonendienst."
+    },
+    {
+      "vers_von": 20, "von": 184, "vers_bis": 20, "bis": 296, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 5,23", "url": "https://www.bibleserver.com/MENG/Daniel5,23" },
+        { "label": "Ps 115,4-7", "url": "https://www.bibleserver.com/MENG/Psalm115,4-7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtlich Daniels Anklage gegen König Belsazar: Er pries »die Götter von Silber und Gold, von Kupfer und Eisen, Holz und Stein, die weder sehen noch hören können« (Dan 5,23) – in der Nacht, in der sein Reich fiel. Ps 115 verspottet die Götzen: Sie können »mit ihren Füßen nicht gehen«."
+    },
+    {
+      "vers_von": 21, "von": 31, "vers_bis": 21, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 20,13-15", "url": "https://www.bibleserver.com/MENG/2.Mose20,13-15" },
+        { "label": "5. Mo 18,10", "url": "https://www.bibleserver.com/MENG/5.Mose18,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mord, Unzucht, Diebstahl brechen die Zehn Gebote: nicht töten, nicht ehebrechen, nicht stehlen (2. Mo 20,13-15); Zauberei ist ausdrücklich verboten (5. Mo 18,10). Mit dem Götzendienst (V20) ist das ganze Gesetz gebrochen – gegen Gott und gegen den Nächsten."
+    },
+    {
+      "vers_von": 1, "von": 54, "vers_bis": 1, "bis": 107, "typ": "at",
+      "referenz": "vgl. Jes 14,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja14,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vom Himmel gefallener Stern: Wiederholung von 8,10 (dort inaktiv, Jes 14,12). Hier mit Auftrag (Schlüssel); Deutung offen."
+    },
+    {
+      "vers_von": 1, "von": 113, "vers_bis": 1, "bis": 152, "typ": "at",
+      "referenz": "vgl. 1. Mo 1,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose1,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Griech. abyssos steht im griechischen AT meist für die Urflut (1. Mo 1,2); hier Kerker widergöttlicher Mächte (vgl. 20,1-3). Ohne Vorwissen verständlich; Abaddon ist in V11 aktiv."
+    },
+    {
+      "vers_von": 2, "von": 46, "vers_bis": 2, "bis": 116, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 19,28", "url": "https://www.bibleserver.com/MENG/1.Mose19,28" },
+        { "label": "2. Mo 19,18", "url": "https://www.bibleserver.com/MENG/2.Mose19,18" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gleicher Vergleich bei Sodom (1. Mo 19,28) und am Sinai (2. Mo 19,18), also eine stehende Wendung; Sodom ist in V17 aktiv."
+    },
+    {
+      "vers_von": 2, "von": 118, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "vgl. Joel 2,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel2,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Verfinsterte Sonne: Wiederholung von 6,12 (Joel 2,10, dort aktiv); im Joel-Zusammenhang in V7 aktiv erwähnt."
+    },
+    {
+      "vers_von": 3, "von": 91, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "vgl. 5. Mo 8,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose8,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Skorpione als Gefahr der Wüste (5. Mo 8,15) – ohne Formulierungsbezug, ohne Vorwissen verständlich. Gilt auch für V10."
+    },
+    {
+      "vers_von": 4, "von": 145, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "vgl. Hes 9,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel9,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Siegel auf der Stirn: Wiederholung von 7,3 (Hes 9,4), dort aktiv; im Tooltip zu V4 mit verwiesen."
+    },
+    {
+      "vers_von": 5, "von": 80, "vers_bis": 5, "bis": 96, "typ": "at",
+      "referenz": "vgl. 1. Mo 7,24", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose7,24",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Fünf Monate entsprechen etwa der Lebenszeit von Heuschrecken (Frühjahr bis Sommer) – Naturbeobachtung, kein AT-Text. Die 150 Tage der Flut (1. Mo 7,24) wären nur Zahlenzufall."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 72, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hiob 3,21", "url": "https://www.bibleserver.com/MENG/Hiob3,21" },
+        { "label": "Jer 8,3", "url": "https://www.bibleserver.com/MENG/Jeremia8,3" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Den Tod ersehnen, ohne dass er kommt (Hiob 3,21); lieber sterben als leben (Jer 8,3) – Anklang ohne Formulierungsübernahme, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 76, "typ": "at",
+      "referenz": "vgl. Jer 51,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Reiterei »so zahlreich wie borstige Heuschrecken« gegen Babel (Jer 51,27) – umgekehrter Vergleich, nur Anklang; Joel 2,4-5 ist aktiv. Kränze, Menschengesichter, Frauenhaare (V7-8) ohne AT-Vorlage."
+    },
+    {
+      "vers_von": 9, "von": 54, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "vgl. Joel 2,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel2,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Joel 2,5 ist in V7 aktiv, mit dem Zitat »Rasselnd wie Kriegswagen«."
+    },
+    {
+      "vers_von": 14, "von": 80, "vers_bis": 14, "bis": -1, "typ": "at",
+      "referenz": "vgl. Jer 46,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia46,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes »Schlachtfest … am Euphratstrom« (Jer 46,10) – nur Anklang; der Euphrat-Bezug ist über 1. Mo 15,18 und Jes 8,7 aktiv."
+    },
+    {
+      "vers_von": 15, "von": 106, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "vgl. Hes 5,2.12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel5,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gericht über ein Drittel: Wiederholung von 8,7 (Hes 5,2.12), dort aktiv. Gilt auch für V18. »Stunde und Tag, Monat und Jahr« ist keine AT-Formel."
+    },
+    {
+      "vers_von": 16, "von": 45, "vers_bis": 16, "bis": 66, "typ": "at",
+      "referenz": "vgl. Ps 68,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm68,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Riesenzahl wie bei Gottes Kriegswagen, »vieltausendmal tausend« (Ps 68,18; vgl. Dan 7,10, in 5,11 aktiv) – hier aber ein Gerichtsheer; nur Anklang, die Zahl spricht für sich."
+    },
+    {
+      "vers_von": 19, "von": 75, "vers_bis": 19, "bis": 117, "typ": "at",
+      "referenz": "vgl. Jer 8,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia8,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott lässt Giftschlangen los, »die sollen euch stechen« (Jer 8,17; vgl. 4. Mo 21,6) – nur Anklang, das Bild trägt sich selbst."
+    },
+    {
+      "vers_von": 20, "von": 112, "vers_bis": 20, "bis": 135, "typ": "at",
+      "referenz": "vgl. 5. Mo 4,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Griech. »Werke ihrer Hände«: Götzenpolemik wie 5. Mo 4,28 (Götter »von Menschenhänden aus Holz und Stein gemacht«); Menges »gewohntes Tun« verwischt das. Gedanke durch Dan 5,23 abgedeckt."
+    },
+    {
+      "vers_von": 21, "von": 31, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "vgl. Hos 4,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea4,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Prophetische Lasterliste »man mordet und stiehlt, man treibt Ehebruch« (Hos 4,2) – Parallele; der Dekalog-Bezug (aktiv) genügt."
+    }
+  ]
+}

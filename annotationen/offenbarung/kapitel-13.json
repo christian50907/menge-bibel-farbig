@@ -1,0 +1,261 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 13,
+  "titel": "Die gottfeindlichen Mächte auf Erden: die beiden Tiere des Satans; das letzte christusfeindliche Weltreich und sein Prophet",
+  "abschnitte": [
+    { "id": "tier-meer", "vers_von": 1, "vers_bis": 10, "titel": "Das erste, zehnhörnige und siebenköpfige Tier aus dem Meer; Ermahnung zur Standhaftigkeit" },
+    { "id": "tier-erde", "vers_von": 11, "vers_bis": 18, "titel": "Das zweite, zweihörnige Tier aus der Erde; die Zahl 666" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 11, "vers_bis": 1, "bis": 127, "typ": "at",
+      "urls": [
+        { "label": "Dan 7,2-3", "url": "https://www.bibleserver.com/MENG/Daniel7,2-3" },
+        { "label": "Dan 7,24", "url": "https://www.bibleserver.com/MENG/Daniel7,24" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Daniel steigen aus dem aufgewühlten Meer Tiere auf, Bilder für Weltreiche (Dan 7,2-3). Die zehn Hörner bedeuten »zehn Könige« (Dan 7,24) – daher die Königskronen. Köpfe und Hörner gleichen dem Drachen (12,3): Das Tier ist sein Abbild."
+    },
+    {
+      "vers_von": 1, "von": 132, "vers_bis": 1, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 11,36", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel11,36",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Lästernamen: Dan 7,8.25; 11,36 sind in V5 aktiv. Die sieben Köpfe (Leviatan, Ps 74,13-14) deckt der Verweis auf 12,3 ab."
+    },
+    {
+      "vers_von": 2, "von": 23, "vers_bis": 2, "bis": 119, "typ": "at",
+      "referenz": "Dan 7,4-7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,4-7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Daniel sah vier Tiere nacheinander: Löwe, Bär, Panther mit vier Köpfen und ein viertes mit zehn Hörnern (Dan 7,4-7) – vier Weltreiche. Hier sind alle in einem Tier vereint; zusammen haben sie sieben Köpfe (1+1+4+1). Das Tier ist die Summe aller gottfeindlichen Weltmacht."
+    },
+    {
+      "vers_von": 2, "von": 121, "vers_bis": 2, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 8,24", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel8,24",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Antiochus' Macht ist »gewaltig, aber nicht durch seine eigene Macht« (Dan 8,24) – passender Gedanke, aber keine Formulierungsvorlage; der Text sagt selbst, woher die Macht kommt."
+    },
+    {
+      "vers_von": 3, "von": 5, "vers_bis": 3, "bis": 110, "typ": "at",
+      "referenz": "vgl. 1. Mo 3,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose3,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Kopfwunde der Schlange (1. Mo 3,15, in 12,17 aktiv) – spekulativ. »Wie geschlachtet« ahmt das Lamm nach (5,6): innerbiblische Parodie, kein AT-Bezug."
+    },
+    {
+      "vers_von": 4, "von": 112, "vers_bis": 4, "bis": 137, "typ": "at",
+      "urls": [
+        { "label": "2. Mo 15,11", "url": "https://www.bibleserver.com/MENG/2.Mose15,11" },
+        { "label": "Ps 35,10", "url": "https://www.bibleserver.com/MENG/Psalm35,10" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Verkehrtes Gotteslob: Nach der Rettung am Schilfmeer sang Israel »Wer ist dir gleich, HERR, unter den Göttern?« (2. Mo 15,11; vgl. Ps 35,10). Die Antwort lautet im AT immer: niemand. Hier gilt die Frage dem Tier. Michael (12,7) heißt »Wer ist wie Gott?« – er hat den Drachen schon besiegt."
+    },
+    {
+      "vers_von": 4, "von": 143, "vers_bis": 4, "bis": -1, "typ": "at",
+      "urls": [
+        { "label": "Hiob 41,2", "url": "https://www.bibleserver.com/MENG/Hiob41,2" },
+        { "label": "Hiob 41,25", "url": "https://www.bibleserver.com/MENG/Hiob41,25" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "So beschreibt Gott bei Hiob den Leviatan (Menge: »Krokodil«): »wer ist es, der ihm entgegengetreten und heil davongekommen wäre?« – »Auf Erden gibt es nicht seinesgleichen« (Hiob 41,2.25). Die Menschen feiern das Tier aus dem Meer als dieses unbezwingbare Urungeheuer; bei Hiob ist es Gottes Geschöpf."
+    },
+    {
+      "vers_von": 5, "von": 17, "vers_bis": 5, "bis": 75, "typ": "at",
+      "urls": [
+        { "label": "Dan 7,8.25", "url": "https://www.bibleserver.com/MENG/Daniel7,8-25" },
+        { "label": "Dan 11,36", "url": "https://www.bibleserver.com/MENG/Daniel11,36" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie das kleine Horn bei Daniel: ein Mund, »der vermessene Reden führte«, auch »gegen den Höchsten« (Dan 7,8.25). Der König »wird gegen den Gott der Götter unerhörte Reden führen und dabei Erfolg haben, bis das Maß des (göttlichen) Zornes voll ist« (Dan 11,36). Gemeint war dort Antiochus IV."
+    },
+    {
+      "vers_von": 5, "von": 116, "vers_bis": 5, "bis": 137, "typ": "at",
+      "referenz": "vgl. Dan 7,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "42 Monate = 3½ Jahre: Wiederholung von 11,2 und 12,6.14 (Dan 7,25; 12,7), dort aktiv."
+    },
+    {
+      "vers_von": 6, "von": 24, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 8,10-11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel8,10-11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Angriff auf Himmelsheer und Heiligtum (Dan 8,10-11; 8,10 in 12,4 aktiv). Die Lästerung ist mit Dan 7,25; 11,36 in V5 abgedeckt."
+    },
+    {
+      "vers_von": 7, "von": 26, "vers_bis": 7, "bis": -1, "typ": "at",
+      "urls": [
+        { "label": "Dan 7,21", "url": "https://www.bibleserver.com/MENG/Daniel7,21" },
+        { "label": "Dan 7,14", "url": "https://www.bibleserver.com/MENG/Daniel7,14" }
+      ],
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtlich Dan 7,21: Daniel sah, wie das Horn »Krieg mit den Heiligen führte und sie überwältigte«. Die Herrschaft über alle Völker, Stämme und Sprachen gibt Gott bei Daniel dem Menschensohn (Dan 7,14; vgl. 5,9). Hier erhält sie das Tier, aber nur verliehen und auf Zeit (V5)."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 8, "bis": 49, "typ": "at",
+      "referenz": "vgl. Dan 3,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel3,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Alle Völker werfen sich vor Nebukadnezars Bild nieder (Dan 3,7) – Dan 3 ist in V15 aktiv. Gilt auch für V12 (erzwungene Anbetung)."
+    },
+    {
+      "vers_von": 8, "von": 75, "vers_bis": 8, "bis": 115, "typ": "at",
+      "urls": [
+        { "label": "2. Mo 32,32-33", "url": "https://www.bibleserver.com/MENG/2.Mose32,32-33" },
+        { "label": "Jes 53,7", "url": "https://www.bibleserver.com/MENG/Jesaja53,7" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Lebensbuch: Wiederholung von 3,5 (2. Mo 32,32-33; Dan 12,1); geschlachtetes Lamm: Wiederholung von 5,6 (Jes 53,7). Beide dort aktiv."
+    },
+    {
+      "vers_von": 9, "von": 0, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "vgl. Hes 3,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel3,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weckruf: Wiederholung von 2,7 (dort inaktiv)."
+    },
+    {
+      "vers_von": 10, "von": 0, "vers_bis": 10, "bis": 143, "typ": "at",
+      "urls": [
+        { "label": "Jer 15,2", "url": "https://www.bibleserver.com/MENG/Jeremia15,2" },
+        { "label": "Jer 43,11", "url": "https://www.bibleserver.com/MENG/Jeremia43,11" },
+        { "label": "1. Mo 9,6", "url": "https://www.bibleserver.com/MENG/1.Mose9,6" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Anklang an Jer 15,2: »Wer für das Schwert (bestimmt ist), zum Schwerte! … Und wer für die Gefangenschaft, zur Gefangenschaft!« – dort unabwendbares Gericht. Menges Text folgt einer Lesart, die daraus einen Vergeltungsspruch macht (vgl. 1. Mo 9,6; Mt 26,52): Die Heiligen sollen nicht selbst zurückschlagen, sondern ausharren."
+    },
+    {
+      "vers_von": 10, "von": 153, "vers_bis": 10, "bis": 177, "typ": "at",
+      "referenz": "vgl. Dan 12,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Wohl dem, der da ausharrt« (Dan 12,12) am Ende der Daniel-Fristen – nur Anklang, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 11, "von": 15, "vers_bis": 11, "bis": 57, "typ": "at",
+      "urls": [
+        { "label": "Hiob 40,15", "url": "https://www.bibleserver.com/MENG/Hiob40,15" },
+        { "label": "Hiob 40,25", "url": "https://www.bibleserver.com/MENG/Hiob40,25" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hiob 40-41 stellt zwei Urungeheuer nebeneinander: Behemot auf dem Land und Leviatan im Wasser (Menge: »Nilpferd«, »Krokodil«). Jüdische Tradition erwartete beide in der Endzeit (1. Henoch 60,7-9; außerbiblisch). Daher das Paar: ein Tier aus dem Meer (V1), eines aus der Erde."
+    },
+    {
+      "vers_von": 11, "von": 69, "vers_bis": 11, "bis": 128, "typ": "at",
+      "referenz": "vgl. Dan 8,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel8,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zweihörniger Widder bei Daniel (Dan 8,3) – nur Wortanklang. Pointe ist der Kontrast zum Lamm (5,6) und die Drachenrede (vgl. 1. Mo 3,1; in 12,9 aktiv); ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 13, "von": 55, "vers_bis": 13, "bis": 129, "typ": "at",
+      "urls": [
+        { "label": "1. Kön 18,38-39", "url": "https://www.bibleserver.com/MENG/1.Könige18,38-39" },
+        { "label": "2. Mo 7,11.22", "url": "https://www.bibleserver.com/MENG/2.Mose7,11-22" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Feuer vom Himmel war Elias Beglaubigung: Am Karmel »fiel das Feuer des HERRN herab«, und das Volk rief: »Der HERR, er ist der wahre Gott!« (1. Kön 18,38-39). Das zweite Tier fälscht dieses Zeichen, wie Ägyptens Zauberer Moses Wunder nachahmten (2. Mo 7,11.22). Gegenbild zu den Zeugen mit Elia- und Moseszügen (11,5-6)."
+    },
+    {
+      "vers_von": 14, "von": 4, "vers_bis": 14, "bis": 61, "typ": "at",
+      "referenz": "5. Mo 13,2-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose13,2-4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gesetz warnt: Trifft das Zeichen oder Wunder eines Propheten wirklich ein, und er ruft zu anderen Göttern, »so sollst du … kein Gehör schenken«; Gott prüft damit sein Volk (5. Mo 13,2-4). Wunder beweisen nichts – entscheidend ist, wen sie anbeten lassen. Dieses Tier heißt später »der falsche Prophet« (16,13)."
+    },
+    {
+      "vers_von": 14, "von": 255, "vers_bis": 14, "bis": 276, "typ": "at",
+      "referenz": "vgl. 2. Mo 20,4-5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,4-5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bilderverbot (2. Mo 20,4-5) – allgemein bekannt; das Kultbild ist mit Dan 3 in V15 aktiv."
+    },
+    {
+      "vers_von": 15, "von": 26, "vers_bis": 15, "bis": 106, "typ": "at",
+      "urls": [
+        { "label": "Hab 2,18-19", "url": "https://www.bibleserver.com/MENG/Habakuk2,18-19" },
+        { "label": "Ps 115,5", "url": "https://www.bibleserver.com/MENG/Psalm115,5" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Propheten spotten über »stumme Abgötter«, in denen sich »keine Spur von Odem« findet (Hab 2,18-19); Götzen »haben einen Mund und können nicht reden« (Ps 115,5). Dieses Bild redet – ein Trugwunder, das den Spott scheinbar widerlegt."
+    },
+    {
+      "vers_von": 15, "von": 131, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "Dan 3,1-6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel3,1-6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie bei Nebukadnezar: Er ließ eine goldene Bildsäule anfertigen; alle »Völker, Stämme und Zungen« mussten sie anbeten. »Wer sich aber nicht niederwirft und anbetet«, kam in den Feuerofen (Dan 3,1-6). Daniels Freunde verweigerten es und wurden bewahrt – Vorbild für die Heiligen (V10)."
+    },
+    {
+      "vers_von": 16, "von": 23, "vers_bis": 16, "bis": 49, "typ": "at",
+      "referenz": "vgl. Ps 115,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm115,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die Kleinen samt den Großen«: Wiederholung von 11,18 (dort inaktiv)."
+    },
+    {
+      "vers_von": 16, "von": 117, "vers_bis": 16, "bis": 173, "typ": "at",
+      "urls": [
+        { "label": "5. Mo 6,8", "url": "https://www.bibleserver.com/MENG/5.Mose6,8" },
+        { "label": "2. Mo 13,9", "url": "https://www.bibleserver.com/MENG/2.Mose13,9" }
+      ],
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gegenbild zu Gottes Gebot: Israel soll seine Worte »als ein Gedenkzeichen an die Hand binden« (5. Mo 6,8, aus dem Schma Israel); ein Brauch soll ihm »ein Denkzeichen an deiner Hand und ein Erinnerungsmal auf deiner Stirn sein« (2. Mo 13,9). Fromme Juden tragen dazu Gebetsriemen an Arm und Stirn. Das Malzeichen zeigt, wem man gehört – wie Gottes Siegel auf der Stirn (7,3; 14,1)."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": 37, "typ": "at",
+      "referenz": "vgl. Dan 12,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die Verständigen werden es verstehen« (Dan 12,10) – Anklang an Daniels Schluss, ohne Formulierungsvorlage; ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 18, "von": 160, "vers_bis": 18, "bis": 187, "typ": "at",
+      "referenz": "vgl. 1. Kön 10,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Könige10,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Salomos jährliche Goldeinnahme betrug 666 Talente (1. Kön 10,14) – Zahlengleichheit, Bezug umstritten. Gemeint ist der Zahlenwert eines Namens (Buchstaben als Zahlen), z.B. hebr. »Kaiser Nero« = 666 – kein AT-Bezug. Ebenso 666 Söhne Adonikams (Esra 2,13); Nebukadnezars Bildsäule maß 60 × 6 Ellen (Dan 3,1) – Zahlenspiele, nicht tragend."
+    }
+  ]
+}

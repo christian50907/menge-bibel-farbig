@@ -1,0 +1,305 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 12,
+  "titel": "Vierte Gruppe der Gesichte: Die treibenden Mächte der christusfeindlichen Zeit; Christus mit seinen Getreuen und Satan mit seinen Helfershelfern",
+  "abschnitte": [
+    { "id": "sonnenweib", "vers_von": 1, "vers_bis": 6, "titel": "Das Sonnenweib und der Drache; Rettung des Weibes und ihres neugeborenen Kindes" },
+    { "id": "michael", "vers_von": 7, "vers_bis": 12, "titel": "Michaels Sieg über den Drachen im Himmel; Sturz des Drachen; himmlischer Lobgesang" },
+    { "id": "verfolgung", "vers_von": 13, "vers_bis": 17, "titel": "Erfolglose Verfolgung des Weibes durch den Drachen" },
+    { "id": "tier-meer", "vers_von": 18, "vers_bis": 18, "titel": "Das erste Tier aus dem Meer" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 17, "vers_bis": 1, "bis": 45, "typ": "at",
+      "referenz": "vgl. Jes 7,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja7,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zeichen« wie Jes 7,14 (»Darum wird der Allherr selbst euch ein Zeichen geben«) – nur Anklang. Die Jes-7,14-Linie ist in V5 aktiv."
+    },
+    {
+      "vers_von": 1, "von": 47, "vers_bis": 1, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 37,9-10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose37,9-10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Josefs Traum verneigen sich Sonne, Mond und elf Sterne vor ihm; sein Vater deutet sie auf sich, die Mutter und die Brüder (1. Mo 37,9-10) – Israels Stammfamilie. Das Weib mit den zwölf Sternen ist das Gottesvolk der zwölf Stämme."
+    },
+    {
+      "vers_von": 1, "von": 61, "vers_bis": 1, "bis": 120, "typ": "at",
+      "referenz": "vgl. Hld 6,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hoheslied6,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Braut, »schön wie der Vollmond, strahlend wie die Sonne« (Hld 6,10) – nur evokativ; die Gestirne erklärt 1. Mo 37,9-10 (aktiv)."
+    },
+    {
+      "vers_von": 2, "von": 0, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Mi 4,10", "url": "https://www.bibleserver.com/MENG/Micha4,10" },
+        { "label": "Jes 26,17", "url": "https://www.bibleserver.com/MENG/Jesaja26,17" },
+        { "label": "Mi 5,1-2", "url": "https://www.bibleserver.com/MENG/Micha5,1-2" },
+        { "label": "1. Mo 3,16", "url": "https://www.bibleserver.com/MENG/1.Mose3,16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Propheten zeigen das Gottesvolk als Gebärende: »Tochter Zion, wie ein Weib in Kindesnöten« (Mi 4,10); »wie eine Schwangere … sich windet und aufschreit in ihren Wehen« (Jes 26,17). Nach der Verheißung des Herrschers aus Bethlehem bleibt Israel preisgegeben, »bis … sie, die gebären soll, geboren hat« (Mi 5,1-2). Die Schmerzen erinnern an Eden: »mit Schmerzen sollst du Kinder gebären« (1. Mo 3,16; vgl. V9.17)."
+    },
+    {
+      "vers_von": 3, "von": 60, "vers_bis": 3, "bis": 124, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 74,13-14", "url": "https://www.bibleserver.com/MENG/Psalm74,13-14" },
+        { "label": "Jes 27,1", "url": "https://www.bibleserver.com/MENG/Jesaja27,1" },
+        { "label": "Dan 7,7", "url": "https://www.bibleserver.com/MENG/Daniel7,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Drache ist im AT das Chaosungeheuer, Gottes Urfeind: Gott hat »die Häupter der Drachen« zerschellt, »Leviathans Köpfe zermalmt« (Ps 74,13-14); »an jenem Tage« kommt er über »den Drachen, die flüchtige Schlange« (Jes 27,1). Zehn Hörner hat bei Daniel das vierte, gottfeindliche Weltreich (Dan 7,7). Urfeind und Weltmacht in einer Gestalt (vgl. das Tier, 13,1)."
+    },
+    {
+      "vers_von": 3, "von": 60, "vers_bis": 3, "bis": 124, "typ": "at",
+      "referenz": "vgl. Hes 29,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel29,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Pharao heißt Hes 29,3 im griechischen AT »großer Drache« (Menge: »großes Krokodil«) – passend zur Auszugslinie (V13-16), aber nur über das griechische Wort erkennbar."
+    },
+    {
+      "vers_von": 4, "von": 0, "vers_bis": 4, "bis": 95, "typ": "at",
+      "referenz": "Dan 8,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel8,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Dan 8,10: Das Horn »wuchs bis zum Heer des Himmels empor und warf einige von dem Heere und von den Sternen auf die Erde hinab« – bei Daniel der Tyrann Antiochus IV., der Gottes Volk verfolgte (vgl. 11,2). Der Drache trägt die Züge dieses Verfolgers."
+    },
+    {
+      "vers_von": 4, "von": 158, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 1,22", "url": "https://www.bibleserver.com/MENG/2.Mose1,22" },
+        { "label": "Jer 51,34", "url": "https://www.bibleserver.com/MENG/Jeremia51,34" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Pharao ließ die neugeborenen Knaben töten (2. Mo 1,22); Nebukadnezar hat Israel »verschlungen wie ein Drache« (Jer 51,34). Nur Anklang ohne Formulierungsvorlage; das Bild ist ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 5, "von": 0, "vers_bis": 5, "bis": 38, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 66,7-8", "url": "https://www.bibleserver.com/MENG/Jesaja66,7-8" },
+        { "label": "Jes 7,14", "url": "https://www.bibleserver.com/MENG/Jesaja7,14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie Zion bei Jesaja: »ehe Geburtsschmerzen sie ankamen, ist sie eines Knaben genesen« (Jes 66,7) – hier dagegen unter Wehen (V2). Anklang auch an Jes 7,14: »die Jungfrau wird guter Hoffnung werden und einen Sohn gebären« (vgl. Mt 1,23). Der Drache lauert (V4): Die Geburt des Messias ist eine Kampfszene."
+    },
+    {
+      "vers_von": 5, "von": 44, "vers_bis": 5, "bis": 88, "typ": "at",
+      "referenz": "Ps 2,9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zitat aus Ps 2,9: Gott setzt seinen König, seinen »Sohn« (Ps 2,7), über die Völker. In 2,27 dem Überwinder zugesagt, hier dem Messias selbst: Der Knabe ist dieser König."
+    },
+    {
+      "vers_von": 5, "von": 94, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "vgl. Ps 110,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Erhöhung an Gottes Thron (Ps 110,1, in 3,21 aktiv); Entrückung wie bei Elia (2. Kön 2,11, in 11,12 aktiv). Ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 16,35", "url": "https://www.bibleserver.com/MENG/2.Mose16,35" },
+        { "label": "1. Kön 17,3-4", "url": "https://www.bibleserver.com/MENG/1.Koenige17,3-4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Wüste ist im AT Ort der Bewahrung: Israel aß dort vierzig Jahre Manna (2. Mo 16,35); Elia musste sich verbergen und wurde von Raben versorgt (1. Kön 17,3-4) – während der Dürre von 3½ Jahren (vgl. 11,6). Das Gottesvolk ist verfolgt, aber von Gott versorgt."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 72, "typ": "at",
+      "referenz": "vgl. Hos 2,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea2,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott will Israel »in die Wüste führen und ihr dort zu Herzen reden« (Hos 2,16) – Anklang; die Bewahrung in der Wüste tragen 2. Mo 16,35 und 1. Kön 17,3-4 (aktiv)."
+    },
+    {
+      "vers_von": 6, "von": 87, "vers_bis": 6, "bis": 116, "typ": "at",
+      "referenz": "vgl. Dan 7,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "1260 Tage = 42 Monate = 3½ Jahre (11,2-3; Dan 7,25 dort aktiv). In V14 als Daniel-Zitat aktiv."
+    },
+    {
+      "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 88, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 10,13.21", "url": "https://www.bibleserver.com/MENG/Daniel10,13-21" },
+        { "label": "Dan 12,1", "url": "https://www.bibleserver.com/MENG/Daniel12,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Daniel ist Michael »einer der obersten Engelfürsten« und kämpft gegen den Schutzengel des Perserreichs (Dan 10,13.21). Wenn die »Zeit der Bedrängnis« beginnt, tritt er auf als »der große Engelfürst, der deine Volksgenossen beschützt« (Dan 12,1). Hier kämpft Israels Beschützer gegen den Drachen selbst."
+    },
+    {
+      "vers_von": 8, "von": 38, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 2,35", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,35",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Griech. »kein Ort wurde mehr für sie gefunden« wie Dan 2,35 im griechischen AT (Menge: »keine Spur mehr«). Nur über das Griechische erkennbar."
+    },
+    {
+      "vers_von": 9, "von": 32, "vers_bis": 9, "bis": 121, "typ": "at",
+      "referenz": "1. Mo 3,1.13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose3,1-13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die »alte Schlange« ist die Schlange in Eden. Eva sagte: »Die Schlange hat mich verführt« (1. Mo 3,13) – daher »Verführer des ganzen Erdkreises«. Im AT ist die Schlange noch nicht Satan; das Judentum setzte beide gleich (Weish 2,24; Apokryphen)."
+    },
+    {
+      "vers_von": 9, "von": 123, "vers_bis": 9, "bis": 149, "typ": "at",
+      "referenz": "Jes 14,12-15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja14,12-15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie beim König von Babel, der über die Sterne hinaufwollte: »O wie bist du vom Himmel gefallen, du Glanzgestirn … Wie bist du zu Boden geschmettert« (Jes 14,12). Dort Spottlied auf einen Tyrannen; hier stürzt die Macht hinter den Tyrannen (vgl. Lk 10,18)."
+    },
+    {
+      "vers_von": 9, "von": 123, "vers_bis": 9, "bis": 149, "typ": "at",
+      "referenz": "vgl. Hes 28,16-17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel28,16-17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der König von Tyrus wird vom Götterberg verstoßen: »darum schleuderte ich dich auf die Erde hinab« (Hes 28,16-17) – zweiter klassischer Sturztext neben Jes 14,12 (aktiv), der den Himmelssturz genauer trifft."
+    },
+    {
+      "vers_von": 10, "von": 132, "vers_bis": 10, "bis": 172, "typ": "at",
+      "referenz": "vgl. Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott und sein Gesalbter: Wiederholung von 11,15 (Ps 2,2), dort aktiv."
+    },
+    {
+      "vers_von": 11, "von": 16, "vers_bis": 11, "bis": 40, "typ": "at",
+      "referenz": "vgl. Jes 53,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Blut des Lammes: Wiederholung von 5,6.9 und 7,14 (Jes 53,7; 2. Mo 12), dort aktiv. »Ihr Leben nicht geliebt bis zum Tode« hat keine AT-Vorlage."
+    },
+    {
+      "vers_von": 10, "von": 196, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hiob 1,6-11", "url": "https://www.bibleserver.com/MENG/Hiob1,6-11" },
+        { "label": "Sach 3,1", "url": "https://www.bibleserver.com/MENG/Sacharja3,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Satan (hebr.) heißt »Widersacher, Ankläger«, Teufel (griech. diabolos) »Verleumder«. Bei Hiob tritt er vor den HERRN und verdächtigt den Frommen: »Ist Hiob etwa umsonst so gottesfürchtig?« (Hiob 1,9). Bei Sacharja steht er neben dem Hohenpriester, »um ihn anzuklagen« (Sach 3,1). Dieser Zugang zu Gott ist ihm nun genommen."
+    },
+    {
+      "vers_von": 12, "von": 0, "vers_bis": 12, "bis": 57, "typ": "at",
+      "referenz": "vgl. Jes 49,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Jubelt, ihr Himmel« (Jes 49,13) – geläufiger Lobaufruf, ohne Vorwissen verständlich. Das Wehe über die Erde wiederholt 8,13."
+    },
+    {
+      "vers_von": 13, "von": 56, "vers_bis": 13, "bis": 77, "typ": "at",
+      "referenz": "vgl. 2. Mo 14,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose14,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Pharao »verfolgte die Israeliten« (2. Mo 14,8) – Wortanklang; die Auszugslinie ist in V14 und V16 aktiv."
+    },
+    {
+      "vers_von": 14, "von": 20, "vers_bis": 14, "bis": 55, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 19,4", "url": "https://www.bibleserver.com/MENG/2.Mose19,4" },
+        { "label": "5. Mo 32,11", "url": "https://www.bibleserver.com/MENG/5.Mose32,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott am Sinai: »wie ich euch auf Adlersflügeln getragen und euch hierher zu mir gebracht habe« (2. Mo 19,4; vgl. 5. Mo 32,11). Wie Israel beim Auszug wird das Weib von Gott in die Wüste gerettet."
+    },
+    {
+      "vers_von": 14, "von": 20, "vers_bis": 14, "bis": 55, "typ": "at",
+      "referenz": "vgl. Jes 40,31", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»neue Schwingen … wie den Adlern« für die, die auf den HERRN harren (Jes 40,31) – nur Anklang; 2. Mo 19,4 (aktiv) trifft genauer."
+    },
+    {
+      "vers_von": 14, "von": 147, "vers_bis": 14, "bis": 201, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Dan 12,7", "url": "https://www.bibleserver.com/MENG/Daniel12,7" },
+        { "label": "Dan 7,25", "url": "https://www.bibleserver.com/MENG/Daniel7,25" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zitat aus Daniel: »eine Zeit, (zwei) Zeiten und eine halbe Zeit« (Dan 12,7; vgl. 7,25) = 3½ Jahre = die 1260 Tage aus V6. Bei Daniel die Zeit, in der die Heiligen dem Feind preisgegeben sind (vgl. 11,2-3); hier zugleich die Zeit ihrer Bewahrung."
+    },
+    {
+      "vers_von": 15, "von": 0, "vers_bis": 15, "bis": 81, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 124,4", "url": "https://www.bibleserver.com/MENG/Psalm124,4" },
+        { "label": "Jes 43,2", "url": "https://www.bibleserver.com/MENG/Jesaja43,2" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wasserfluten als Bild feindlicher Übermacht: »dann hätten die Wasser uns überflutet« (Ps 124,4); Zusage: »durch Ströme: sie sollen dich nicht überfluten« (Jes 43,2). Nur Anklang; die Auszugslinie trägt V16."
+    },
+    {
+      "vers_von": 16, "von": 38, "vers_bis": 16, "bis": 92, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 16,32", "url": "https://www.bibleserver.com/MENG/4.Mose16,32" },
+        { "label": "2. Mo 15,12", "url": "https://www.bibleserver.com/MENG/2.Mose15,12" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Erde »tat ihren Mund auf und verschlang« schon Korahs Rotte (4. Mo 16,32). Im Lied am Schilfmeer über die verfolgenden Ägypter: »da verschlang sie die Erde« (2. Mo 15,12). Wie beim Auszug: Verfolgung (V13), Adlersflügel (V14), Rettung vor dem Wasser."
+    },
+    {
+      "vers_von": 17, "von": 57, "vers_bis": 17, "bis": 104, "typ": "at",
+      "referenz": "1. Mo 3,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose3,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott zur Schlange in Eden: »Ich will Feindschaft setzen zwischen dir und dem Weibe und zwischen deinem Samen und ihrem Samen« (1. Mo 3,15). Den Messias (V5) erreicht die Schlange (V9) nicht – so bekriegt sie die übrigen Nachkommen: die Gemeinde."
+    },
+    {
+      "vers_von": 17, "von": 57, "vers_bis": 17, "bis": 104, "typ": "at",
+      "referenz": "vgl. Dan 7,21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Krieg gegen die Heiligen: Wiederholung von 11,7 (Dan 7,21), dort aktiv; ausgeführt in 13,7."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "vgl. Dan 7,2-3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,2-3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Überleitung zu 13,1: Bei Daniel steigen die Tiere aus dem Meer (Dan 7,2-3; in 11,7 aktiv). »Sand des Meeres« wie 1. Mo 22,17 nur Wortanklang."
+    }
+  ]
+}
