@@ -1,0 +1,249 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 17,
+  "titel": "Gesicht von Groß-Babylon und dem Tier",
+  "abschnitte": [
+    { "id": "weib-tier", "vers_von": 1, "vers_bis": 6, "titel": "Schilderung des prächtigen, aber greuelhaften, auf dem Tiere thronenden Weibes" },
+    { "id": "tier-geschicke", "vers_von": 7, "vers_bis": 14, "titel": "Schilderung des siebenköpfigen und zehnhörnigen Tieres sowie seiner bisherigen und künftigen Geschicke" },
+    { "id": "deutung", "vers_von": 15, "vers_bis": 18, "titel": "Deutung des Bildes" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 133, "vers_bis": 1, "bis": 196, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Nah 3,4", "url": "https://www.bibleserver.com/MENG/Nahum3,4" },
+        { "label": "Jer 51,13", "url": "https://www.bibleserver.com/MENG/Jeremia51,13" }
+      ],
+      "begruendung": "Die Propheten nennen gottfeindliche Großstädte »Buhlerin«: Ninive, »die ganze Völker mit ihrer Buhlerei berückte« (Nah 3,4). Zu Babylon: »die du wohnst an großen Wassern« (Jer 51,13) – Euphrat und Kanäle. V15 deutet die Wasser als Völker."
+    },
+    {
+      "vers_von": 2, "von": 0, "vers_bis": 2, "bis": 41, "typ": "at",
+      "referenz": "Jes 23,15-17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja23,15-17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja nennt die Handelsstadt Tyrus »Dirne«: Sie wird »mit allen Reichen der Erde« in Verkehr treten (Jes 23,16-17; hebr. »huren«). Buhlen meint Handel, Bündnisse und Kult, durch die die Mächtigen an der Stadt teilhaben (vgl. 18,3.9)."
+    },
+    {
+      "vers_von": 2, "von": 46, "vers_bis": 2, "bis": 112, "typ": "at",
+      "referenz": "Jer 51,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 14,8 (Jer 51,7), dort aktiv."
+    },
+    {
+      "vers_von": 3, "von": 3, "vers_bis": 3, "bis": 48, "typ": "at",
+      "referenz": "Jes 21,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja21,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jesajas Babylon-Spruch (»Gefallen ist Babel«, Jes 21,9; in 14,8 aktiv) ist überschrieben »Ausspruch über die Meereswüste« (Jes 21,1) – möglicher Hintergrund der Wüste, aber nicht formuliert. Kontrast zum Weib in der Wüste (12,6) ohne AT-Bezug. »Im Geist«: wie 1,10 (Hes 3,12, dort aktiv)."
+    },
+    {
+      "vers_von": 3, "von": 76, "vers_bis": 3, "bis": 197, "typ": "at",
+      "referenz": "Dan 7,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Tier aus 13,1 (Dan 7,2-3.7.24; Lästernamen Dan 7,8.25), dort aktiv. Scharlachrot wie der Drache (12,3) und das Gewand des Weibes (V4) – keine AT-Vorlage."
+    },
+    {
+      "vers_von": 4, "von": 0, "vers_bis": 4, "bis": 100, "typ": "at",
+      "referenz": "Jer 4,30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia4,30",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jeremia putzt sich die untreue Stadt vergebens: »Magst du dich auch in Purpur kleiden, … mit Goldgeschmeide putzen … Die Liebhaber haben dich satt, trachten dir nach dem Leben!« (Jer 4,30). Genau das widerfährt der Buhlerin (V16)."
+    },
+    {
+      "vers_von": 4, "von": 102, "vers_bis": 4, "bis": 185, "typ": "at",
+      "referenz": "Jer 51,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Goldener Becher: Wiederholung von 14,8 (Jer 51,7), dort aktiv – dort in Gottes Hand, hier in ihrer eigenen. »Greuel« ist AT-Wort für Götzen (5. Mo 29,16; 1. Kön 11,5); Menges Zusatz erklärt es bereits."
+    },
+    {
+      "vers_von": 5, "von": 4, "vers_bis": 5, "bis": 46, "typ": "at",
+      "referenz": "Jer 3,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia3,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jeremia wirft dem abtrünnigen Israel vor: »behieltest du doch die Stirn eines buhlerischen Weibes bei« – schamlos und uneinsichtig (Jer 3,3). Gegenbild zum Siegel Gottes auf der Stirn der Seinen (7,3; 14,1)."
+    },
+    {
+      "vers_von": 5, "von": 63, "vers_bis": 5, "bis": 76, "typ": "at",
+      "referenz": "Dan 4,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel4,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Das große Babylon«: Wiederholung von 14,8 (Dan 4,27), dort aktiv."
+    },
+    {
+      "vers_von": 6, "von": 17, "vers_bis": 6, "bis": 75, "typ": "at",
+      "referenz": "Jes 49,26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vom Blut berauscht: Gegenstück zu 16,6 (Jes 49,26, dort aktiv). Die Schuld am Blut der Märtyrer greift 6,10 auf (Ps 79,10, dort aktiv)."
+    },
+    {
+      "vers_von": 7, "von": 55, "vers_bis": 7, "bis": 83, "typ": "at",
+      "referenz": "Dan 7,15-16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,15-16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Deutedialog wie Dan 7,15-16 (Menge dort ebenfalls »Aufschluß«); Muster schon in 7,14 inaktiv. Ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 8, "von": 31, "vers_bis": 8, "bis": 91, "typ": "at",
+      "referenz": "2. Mo 3,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zerrbild des Gottesnamens »der da ist und der da war und der da kommt« (1,4; nach 2. Mo 3,14): Das Tier war, ist nicht und kommt wieder – aber aus dem Abgrund und ins Verderben. Damals verbreitet war die Erwartung, Kaiser Nero kehre wieder (vgl. 13,3)."
+    },
+    {
+      "vers_von": 8, "von": 106, "vers_bis": 8, "bis": 142, "typ": "at",
+      "referenz": "Dan 7,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Aufstieg aus dem Abgrund: Wiederholung von 11,7 (Dan 7,3), dort aktiv."
+    },
+    {
+      "vers_von": 8, "von": 266, "vers_bis": 8, "bis": 284, "typ": "at",
+      "referenz": "2. Mo 32,32-33", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose32,32-33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Lebensbuch: Wiederholung von 3,5 und 13,8 (2. Mo 32,32-33; Dan 12,1), in 3,5 aktiv."
+    },
+    {
+      "vers_von": 9, "von": 62, "vers_bis": 9, "bis": 96, "typ": "at",
+      "referenz": "Dan 12,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sieben Berge: keine AT-Vorlage – Rom galt als Stadt auf sieben Hügeln (im aktiven Tooltip zu V18). Aufruf zum Verstand wie 13,18 (Dan 12,10, dort inaktiv)."
+    },
+    {
+      "vers_von": 10, "von": 24, "vers_bis": 10, "bis": 37, "typ": "at",
+      "referenz": "Dan 7,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Deutung von Tierteilen auf Könige wie Dan 7,17.24 – in 11,7 und 13,1 aktiv. Die Zählung der sieben Kaiser ist zeitgeschichtlich, nicht AT-bezogen."
+    },
+    {
+      "vers_von": 11, "von": 148, "vers_bis": 11, "bis": 173, "typ": "at",
+      "referenz": "Dan 7,11.26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,11-26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bei Daniel wird das Tier getötet und »zum Verbrennen dem Feuer übergeben« (Dan 7,11; vgl. 7,26). Hier nur angekündigt; ausgeführt in 19,20 – dort aktiv annotieren."
+    },
+    {
+      "vers_von": 12, "von": 4, "vers_bis": 12, "bis": 58, "typ": "at",
+      "referenz": "Dan 7,24", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,24",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zehn Hörner = zehn Könige: Wiederholung von 13,1 (Dan 7,24), dort aktiv."
+    },
+    {
+      "vers_von": 13, "von": 13, "vers_bis": 13, "bis": 34, "typ": "at",
+      "referenz": "Ps 83,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm83,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Völkerbund gegen Gott »einmütigen Sinns« (Ps 83,6) – Wortanklang bei Menge; durch Ps 2,2 (V14; aktiv in 6,16; 11,15) abgedeckt."
+    },
+    {
+      "vers_von": 14, "von": 0, "vers_bis": 14, "bis": 33, "typ": "at",
+      "referenz": "Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Könige gegen den Gesalbten: Wiederholung von 6,16 und 11,15 (Ps 2,2), dort aktiv."
+    },
+    {
+      "vers_von": 14, "von": 81, "vers_bis": 14, "bis": 125, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "5. Mo 10,17", "url": "https://www.bibleserver.com/MENG/5.Mose10,17" },
+        { "label": "Dan 2,47", "url": "https://www.bibleserver.com/MENG/Daniel2,47" }
+      ],
+      "begruendung": "»Gott der Götter und Herr der Herren« heißt der HERR in 5. Mo 10,17; Nebukadnezar bekennt ihn als »Herr der Könige« (Dan 2,47). Diesen Gottestitel trägt das Lamm: Die Könige kämpfen gegen ihren eigenen Herrn (vgl. 19,16)."
+    },
+    {
+      "vers_von": 15, "von": 20, "vers_bis": 15, "bis": 88, "typ": "at",
+      "referenz": "Jes 17,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja17,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Völker »wie mächtige Wasser im Aufruhr« (Jes 17,12) – der Text deutet das Bild selbst. Völkerreihe wie 5,9 (Dan 7,14, dort aktiv); Jer 51,13 in V1 aktiv."
+    },
+    {
+      "vers_von": 16, "von": 56, "vers_bis": 16, "bis": 181, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 23,25-29", "url": "https://www.bibleserver.com/MENG/Hesekiel23,25-29" },
+        { "label": "Hes 16,37-41", "url": "https://www.bibleserver.com/MENG/Hesekiel16,37-41" },
+        { "label": "2. Kön 9,36", "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige9,36" }
+      ],
+      "begruendung": "Wie bei Hesekiel wenden sich die Liebhaber gegen die untreue Stadt: Sie »werden dich ihren Haß fühlen lassen … und dich nackt und bloß liegen lassen«, der Rest »wird vom Feuer verzehrt« (Hes 23,25-29; vgl. 16,37-41). Fleisch fressen: Isebels Ende, ihr Fleisch fraßen die Hunde (2. Kön 9,36; vgl. 2,20). Die Macht, die Babylon trug (V3), vernichtet es."
+    },
+    {
+      "vers_von": 16, "von": 99, "vers_bis": 16, "bis": 105, "typ": "at",
+      "referenz": "Jer 51,26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Einsam machen« = griech. »verwüsten«; Babel als »öde Wüste« (Jer 51,26) – nur Anklang, die Hesekiel-Linie im aktiven V16-Span trägt."
+    },
+    {
+      "vers_von": 16, "von": 161, "vers_bis": 16, "bis": 181, "typ": "at",
+      "referenz": "3. Mo 21,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose21,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Feuer als Strafe für Unzucht der Priestertochter (3. Mo 21,9); Babylons Tore »mit Feuer verbrannt« (Jer 51,58). Nur Anklang; das Feuer trägt Hes 23,25 im aktiven V16-Span."
+    },
+    {
+      "vers_von": 17, "von": 5, "vers_bis": 17, "bis": 66, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 10,5-7", "url": "https://www.bibleserver.com/MENG/Jesaja10,5-7" },
+        { "label": "Jer 25,9", "url": "https://www.bibleserver.com/MENG/Jeremia25,9" }
+      ],
+      "begruendung": "Gott gebraucht gottfeindliche Mächte als Werkzeug: Assyrien ist »Stecken meines Zorns«, »er aber denkt es sich nicht so« (Jes 10,5-7); Nebukadnezar heißt »mein Knecht« (Jer 25,9). Das Tier und die Könige verfolgen eigene Ziele – und vollstrecken doch Gottes Urteil über Babylon."
+    },
+    {
+      "vers_von": 17, "von": 165, "vers_bis": 17, "bis": 205, "typ": "at",
+      "referenz": "Am 3,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos3,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Erfüllung der Gottesworte: Wiederholung von 10,7 (Am 3,7), dort aktiv."
+    },
+    {
+      "vers_von": 18, "von": 43, "vers_bis": 18, "bis": 110, "typ": "at",
+      "referenz": "Jes 47,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja47,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja ruft der »Tochter der Chaldäer« zu: »man wird dich nicht mehr Herrin der Königreiche nennen« (Jes 47,5). Babylon steht für Rom (vgl. 14,8), die Stadt auf sieben Hügeln (V9)."
+    }
+  ]
+}
