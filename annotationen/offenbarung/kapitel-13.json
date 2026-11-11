@@ -20,7 +20,7 @@
     },
     {
       "vers_von": 1, "von": 132, "vers_bis": 1, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 11,36", "vgl": true,
+      "referenz": "Dan 11,36", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel11,36",
       "autor": "KI",
       "status": "inaktiv",
@@ -36,7 +36,7 @@
     },
     {
       "vers_von": 2, "von": 121, "vers_bis": 2, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 8,24", "vgl": true,
+      "referenz": "Dan 8,24", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel8,24",
       "autor": "KI",
       "status": "inaktiv",
@@ -44,7 +44,7 @@
     },
     {
       "vers_von": 3, "von": 5, "vers_bis": 3, "bis": 110, "typ": "at",
-      "referenz": "vgl. 1. Mo 3,15", "vgl": true,
+      "referenz": "1. Mo 3,15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose3,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -85,7 +85,7 @@
     },
     {
       "vers_von": 5, "von": 116, "vers_bis": 5, "bis": 137, "typ": "at",
-      "referenz": "vgl. Dan 7,25", "vgl": true,
+      "referenz": "Dan 7,25", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,25",
       "autor": "KI",
       "status": "inaktiv",
@@ -93,7 +93,7 @@
     },
     {
       "vers_von": 6, "von": 24, "vers_bis": 6, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 8,10-11", "vgl": true,
+      "referenz": "Dan 8,10-11", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel8,10-11",
       "autor": "KI",
       "status": "inaktiv",
@@ -112,7 +112,7 @@
     },
     {
       "vers_von": 8, "von": 0, "vers_bis": 8, "bis": 49, "typ": "at",
-      "referenz": "vgl. Dan 3,7", "vgl": true,
+      "referenz": "Dan 3,7", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel3,7",
       "autor": "KI",
       "status": "inaktiv",
@@ -131,7 +131,7 @@
     },
     {
       "vers_von": 9, "von": 0, "vers_bis": 9, "bis": -1, "typ": "at",
-      "referenz": "vgl. Hes 3,27", "vgl": true,
+      "referenz": "Hes 3,27", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel3,27",
       "autor": "KI",
       "status": "inaktiv",
@@ -151,7 +151,7 @@
     },
     {
       "vers_von": 10, "von": 153, "vers_bis": 10, "bis": 177, "typ": "at",
-      "referenz": "vgl. Dan 12,12", "vgl": true,
+      "referenz": "Dan 12,12", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel12,12",
       "autor": "KI",
       "status": "inaktiv",
@@ -170,7 +170,7 @@
     },
     {
       "vers_von": 11, "von": 69, "vers_bis": 11, "bis": 128, "typ": "at",
-      "referenz": "vgl. Dan 8,3", "vgl": true,
+      "referenz": "Dan 8,3", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel8,3",
       "autor": "KI",
       "status": "inaktiv",
@@ -197,7 +197,7 @@
     },
     {
       "vers_von": 14, "von": 255, "vers_bis": 14, "bis": 276, "typ": "at",
-      "referenz": "vgl. 2. Mo 20,4-5", "vgl": true,
+      "referenz": "2. Mo 20,4-5", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose20,4-5",
       "autor": "KI",
       "status": "inaktiv",
@@ -224,7 +224,7 @@
     },
     {
       "vers_von": 16, "von": 23, "vers_bis": 16, "bis": 49, "typ": "at",
-      "referenz": "vgl. Ps 115,13", "vgl": true,
+      "referenz": "Ps 115,13", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm115,13",
       "autor": "KI",
       "status": "inaktiv",
@@ -243,7 +243,7 @@
     },
     {
       "vers_von": 18, "von": 0, "vers_bis": 18, "bis": 37, "typ": "at",
-      "referenz": "vgl. Dan 12,10", "vgl": true,
+      "referenz": "Dan 12,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel12,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -251,7 +251,7 @@
     },
     {
       "vers_von": 18, "von": 160, "vers_bis": 18, "bis": 187, "typ": "at",
-      "referenz": "vgl. 1. Kön 10,14", "vgl": true,
+      "referenz": "1. Kön 10,14", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Könige10,14",
       "autor": "KI",
       "status": "inaktiv",

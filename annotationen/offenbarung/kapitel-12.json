@@ -11,7 +11,7 @@
   "markierungen": [
     {
       "vers_von": 1, "von": 17, "vers_bis": 1, "bis": 45, "typ": "at",
-      "referenz": "vgl. Jes 7,14", "vgl": true,
+      "referenz": "Jes 7,14", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja7,14",
       "autor": "KI",
       "status": "inaktiv",
@@ -27,7 +27,7 @@
     },
     {
       "vers_von": 1, "von": 61, "vers_bis": 1, "bis": 120, "typ": "at",
-      "referenz": "vgl. Hld 6,10", "vgl": true,
+      "referenz": "Hld 6,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hoheslied6,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -60,7 +60,7 @@
     },
     {
       "vers_von": 3, "von": 60, "vers_bis": 3, "bis": 124, "typ": "at",
-      "referenz": "vgl. Hes 29,3", "vgl": true,
+      "referenz": "Hes 29,3", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel29,3",
       "autor": "KI",
       "status": "inaktiv",
@@ -106,7 +106,7 @@
     },
     {
       "vers_von": 5, "von": 94, "vers_bis": 5, "bis": -1, "typ": "at",
-      "referenz": "vgl. Ps 110,1", "vgl": true,
+      "referenz": "Ps 110,1", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm110,1",
       "autor": "KI",
       "status": "inaktiv",
@@ -125,7 +125,7 @@
     },
     {
       "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 72, "typ": "at",
-      "referenz": "vgl. Hos 2,16", "vgl": true,
+      "referenz": "Hos 2,16", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hosea2,16",
       "autor": "KI",
       "status": "inaktiv",
@@ -133,7 +133,7 @@
     },
     {
       "vers_von": 6, "von": 87, "vers_bis": 6, "bis": 116, "typ": "at",
-      "referenz": "vgl. Dan 7,25", "vgl": true,
+      "referenz": "Dan 7,25", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,25",
       "autor": "KI",
       "status": "inaktiv",
@@ -152,7 +152,7 @@
     },
     {
       "vers_von": 8, "von": 38, "vers_bis": 8, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 2,35", "vgl": true,
+      "referenz": "Dan 2,35", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel2,35",
       "autor": "KI",
       "status": "inaktiv",
@@ -176,7 +176,7 @@
     },
     {
       "vers_von": 9, "von": 123, "vers_bis": 9, "bis": 149, "typ": "at",
-      "referenz": "vgl. Hes 28,16-17", "vgl": true,
+      "referenz": "Hes 28,16-17", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel28,16-17",
       "autor": "KI",
       "status": "inaktiv",
@@ -184,7 +184,7 @@
     },
     {
       "vers_von": 10, "von": 132, "vers_bis": 10, "bis": 172, "typ": "at",
-      "referenz": "vgl. Ps 2,2", "vgl": true,
+      "referenz": "Ps 2,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm2,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -192,7 +192,7 @@
     },
     {
       "vers_von": 11, "von": 16, "vers_bis": 11, "bis": 40, "typ": "at",
-      "referenz": "vgl. Jes 53,7", "vgl": true,
+      "referenz": "Jes 53,7", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja53,7",
       "autor": "KI",
       "status": "inaktiv",
@@ -211,7 +211,7 @@
     },
     {
       "vers_von": 12, "von": 0, "vers_bis": 12, "bis": 57, "typ": "at",
-      "referenz": "vgl. Jes 49,13", "vgl": true,
+      "referenz": "Jes 49,13", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja49,13",
       "autor": "KI",
       "status": "inaktiv",
@@ -219,7 +219,7 @@
     },
     {
       "vers_von": 13, "von": 56, "vers_bis": 13, "bis": 77, "typ": "at",
-      "referenz": "vgl. 2. Mo 14,8", "vgl": true,
+      "referenz": "2. Mo 14,8", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose14,8",
       "autor": "KI",
       "status": "inaktiv",
@@ -238,7 +238,7 @@
     },
     {
       "vers_von": 14, "von": 20, "vers_bis": 14, "bis": 55, "typ": "at",
-      "referenz": "vgl. Jes 40,31", "vgl": true,
+      "referenz": "Jes 40,31", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja40,31",
       "autor": "KI",
       "status": "inaktiv",
@@ -287,7 +287,7 @@
     },
     {
       "vers_von": 17, "von": 57, "vers_bis": 17, "bis": 104, "typ": "at",
-      "referenz": "vgl. Dan 7,21", "vgl": true,
+      "referenz": "Dan 7,21", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,21",
       "autor": "KI",
       "status": "inaktiv",
@@ -295,7 +295,7 @@
     },
     {
       "vers_von": 18, "von": 0, "vers_bis": 18, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 7,2-3", "vgl": true,
+      "referenz": "Dan 7,2-3", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,2-3",
       "autor": "KI",
       "status": "inaktiv",

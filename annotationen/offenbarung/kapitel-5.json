@@ -93,7 +93,7 @@
     },
     {
       "vers_von": 3, "von": 13, "vers_bis": 3, "bis": 58, "typ": "at",
-      "referenz": "vgl. 2. Mo 20,4",
+      "referenz": "2. Mo 20,4",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose20,4",
       "autor": "KI",
@@ -102,7 +102,7 @@
     },
     {
       "vers_von": 7, "von": 0, "vers_bis": 7, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 7,13-14",
+      "referenz": "Dan 7,13-14",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,13-14",
       "autor": "KI",
@@ -111,7 +111,7 @@
     },
     {
       "vers_von": 8, "von": 142, "vers_bis": 8, "bis": 152, "typ": "at",
-      "referenz": "vgl. Ps 33,2",
+      "referenz": "Ps 33,2",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm33,2",
       "autor": "KI",
@@ -120,7 +120,7 @@
     },
     {
       "vers_von": 9, "von": 165, "vers_bis": 9, "bis": -1, "typ": "at",
-      "referenz": "vgl. 2. Mo 15,16",
+      "referenz": "2. Mo 15,16",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose15,16",
       "autor": "KI",
@@ -140,7 +140,7 @@
     },
     {
       "vers_von": 12, "von": 71, "vers_bis": 12, "bis": -1, "typ": "at",
-      "referenz": "vgl. 1. Chr 29,11",
+      "referenz": "1. Chr 29,11",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Chronik29,11",
       "autor": "KI",
@@ -149,7 +149,7 @@
     },
     {
       "vers_von": 2, "von": 13, "vers_bis": 2, "bis": 63, "typ": "at",
-      "referenz": "vgl. Dan 4,10-11",
+      "referenz": "Dan 4,10-11",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel4,10-11",
       "autor": "KI",
@@ -158,7 +158,7 @@
     },
     {
       "vers_von": 3, "von": 59, "vers_bis": 3, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 29,11",
+      "referenz": "Jes 29,11",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja29,11",
       "autor": "KI",
@@ -167,7 +167,7 @@
     },
     {
       "vers_von": 13, "von": 74, "vers_bis": 13, "bis": 116, "typ": "at",
-      "referenz": "vgl. Ps 69,35",
+      "referenz": "Ps 69,35",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm69,35",
       "autor": "KI",

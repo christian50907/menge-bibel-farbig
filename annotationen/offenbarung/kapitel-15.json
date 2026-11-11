@@ -9,7 +9,7 @@
   "markierungen": [
     {
       "vers_von": 1, "von": 27, "vers_bis": 1, "bis": 57, "typ": "at",
-      "referenz": "vgl. Jes 7,14", "vgl": true,
+      "referenz": "Jes 7,14", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja7,14",
       "autor": "KI",
       "status": "inaktiv",
@@ -17,7 +17,7 @@
     },
     {
       "vers_von": 1, "von": 69, "vers_bis": 1, "bis": 140, "typ": "at",
-      "referenz": "vgl. 3. Mo 26,18.21", "vgl": true,
+      "referenz": "3. Mo 26,18.21", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose26,18-21",
       "autor": "KI",
       "status": "aktiv",
@@ -25,7 +25,7 @@
     },
     {
       "vers_von": 2, "von": 12, "vers_bis": 2, "bis": 73, "typ": "at",
-      "referenz": "vgl. 1. Kön 7,23", "vgl": true,
+      "referenz": "1. Kön 7,23", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige7,23",
       "autor": "KI",
       "status": "inaktiv",
@@ -33,7 +33,7 @@
     },
     {
       "vers_von": 2, "von": 212, "vers_bis": 2, "bis": 256, "typ": "at",
-      "referenz": "vgl. Ps 33,2", "vgl": true,
+      "referenz": "Ps 33,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm33,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -64,7 +64,7 @@
     },
     {
       "vers_von": 3, "von": 126, "vers_bis": 3, "bis": 149, "typ": "at",
-      "referenz": "vgl. Am 4,13", "vgl": true,
+      "referenz": "Am 4,13", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Amos4,13",
       "autor": "KI",
       "status": "inaktiv",
@@ -91,7 +91,7 @@
     },
     {
       "vers_von": 4, "von": 80, "vers_bis": 4, "bis": 106, "typ": "at",
-      "referenz": "vgl. 1. Sam 2,2", "vgl": true,
+      "referenz": "1. Sam 2,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Samuel2,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -110,7 +110,7 @@
     },
     {
       "vers_von": 6, "von": 84, "vers_bis": 6, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 10,5", "vgl": true,
+      "referenz": "Dan 10,5", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel10,5",
       "autor": "KI",
       "status": "inaktiv",
@@ -129,7 +129,7 @@
     },
     {
       "vers_von": 7, "von": 53, "vers_bis": 7, "bis": 93, "typ": "at",
-      "referenz": "vgl. Jer 25,15", "vgl": true,
+      "referenz": "Jer 25,15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jeremia25,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -137,7 +137,7 @@
     },
     {
       "vers_von": 7, "von": 94, "vers_bis": 7, "bis": 130, "typ": "at",
-      "referenz": "vgl. Dan 4,31", "vgl": true,
+      "referenz": "Dan 4,31", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel4,31",
       "autor": "KI",
       "status": "inaktiv",

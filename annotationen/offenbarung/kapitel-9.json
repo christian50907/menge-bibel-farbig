@@ -140,7 +140,7 @@
     },
     {
       "vers_von": 1, "von": 54, "vers_bis": 1, "bis": 107, "typ": "at",
-      "referenz": "vgl. Jes 14,12", "vgl": true,
+      "referenz": "Jes 14,12", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja14,12",
       "autor": "KI",
       "status": "inaktiv",
@@ -148,7 +148,7 @@
     },
     {
       "vers_von": 1, "von": 113, "vers_bis": 1, "bis": 152, "typ": "at",
-      "referenz": "vgl. 1. Mo 1,2", "vgl": true,
+      "referenz": "1. Mo 1,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose1,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -167,7 +167,7 @@
     },
     {
       "vers_von": 2, "von": 118, "vers_bis": 2, "bis": -1, "typ": "at",
-      "referenz": "vgl. Joel 2,10", "vgl": true,
+      "referenz": "Joel 2,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Joel2,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -175,7 +175,7 @@
     },
     {
       "vers_von": 3, "von": 91, "vers_bis": 3, "bis": -1, "typ": "at",
-      "referenz": "vgl. 5. Mo 8,15", "vgl": true,
+      "referenz": "5. Mo 8,15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose8,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -183,7 +183,7 @@
     },
     {
       "vers_von": 4, "von": 145, "vers_bis": 4, "bis": -1, "typ": "at",
-      "referenz": "vgl. Hes 9,4", "vgl": true,
+      "referenz": "Hes 9,4", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel9,4",
       "autor": "KI",
       "status": "inaktiv",
@@ -191,7 +191,7 @@
     },
     {
       "vers_von": 5, "von": 80, "vers_bis": 5, "bis": 96, "typ": "at",
-      "referenz": "vgl. 1. Mo 7,24", "vgl": true,
+      "referenz": "1. Mo 7,24", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose7,24",
       "autor": "KI",
       "status": "inaktiv",
@@ -210,7 +210,7 @@
     },
     {
       "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 76, "typ": "at",
-      "referenz": "vgl. Jer 51,27", "vgl": true,
+      "referenz": "Jer 51,27", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jeremia51,27",
       "autor": "KI",
       "status": "inaktiv",
@@ -218,7 +218,7 @@
     },
     {
       "vers_von": 9, "von": 54, "vers_bis": 9, "bis": -1, "typ": "at",
-      "referenz": "vgl. Joel 2,5", "vgl": true,
+      "referenz": "Joel 2,5", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Joel2,5",
       "autor": "KI",
       "status": "inaktiv",
@@ -226,7 +226,7 @@
     },
     {
       "vers_von": 14, "von": 80, "vers_bis": 14, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jer 46,10", "vgl": true,
+      "referenz": "Jer 46,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jeremia46,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -234,7 +234,7 @@
     },
     {
       "vers_von": 15, "von": 106, "vers_bis": 15, "bis": -1, "typ": "at",
-      "referenz": "vgl. Hes 5,2.12", "vgl": true,
+      "referenz": "Hes 5,2.12", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel5,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -242,7 +242,7 @@
     },
     {
       "vers_von": 16, "von": 45, "vers_bis": 16, "bis": 66, "typ": "at",
-      "referenz": "vgl. Ps 68,18", "vgl": true,
+      "referenz": "Ps 68,18", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm68,18",
       "autor": "KI",
       "status": "inaktiv",
@@ -250,7 +250,7 @@
     },
     {
       "vers_von": 19, "von": 75, "vers_bis": 19, "bis": 117, "typ": "at",
-      "referenz": "vgl. Jer 8,17", "vgl": true,
+      "referenz": "Jer 8,17", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jeremia8,17",
       "autor": "KI",
       "status": "inaktiv",
@@ -258,7 +258,7 @@
     },
     {
       "vers_von": 20, "von": 112, "vers_bis": 20, "bis": 135, "typ": "at",
-      "referenz": "vgl. 5. Mo 4,28", "vgl": true,
+      "referenz": "5. Mo 4,28", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose4,28",
       "autor": "KI",
       "status": "inaktiv",
@@ -266,7 +266,7 @@
     },
     {
       "vers_von": 21, "von": 31, "vers_bis": 21, "bis": -1, "typ": "at",
-      "referenz": "vgl. Hos 4,2", "vgl": true,
+      "referenz": "Hos 4,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hosea4,2",
       "autor": "KI",
       "status": "inaktiv",

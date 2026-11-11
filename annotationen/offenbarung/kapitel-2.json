@@ -135,7 +135,7 @@
     },
     {
       "vers_von": 1, "von": 128, "vers_bis": 1, "bis": 173, "typ": "at",
-      "referenz": "vgl. Sach 4,2",
+      "referenz": "Sach 4,2",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Sacharja4,2",
       "autor": "KI",
@@ -144,7 +144,7 @@
     },
     {
       "vers_von": 1, "von": 166, "vers_bis": 1, "bis": 173, "typ": "at",
-      "referenz": "vgl. 3. Mo 26,12",
+      "referenz": "3. Mo 26,12",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose26,12",
       "autor": "KI",
@@ -153,7 +153,7 @@
     },
     {
       "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 25, "typ": "at",
-      "referenz": "vgl. Hes 3,27",
+      "referenz": "Hes 3,27",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel3,27",
       "autor": "KI",
@@ -162,7 +162,7 @@
     },
     {
       "vers_von": 11, "von": 89, "vers_bis": 11, "bis": 103, "typ": "at",
-      "referenz": "vgl. Jes 65,15",
+      "referenz": "Jes 65,15",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja65,15",
       "autor": "KI",
@@ -171,7 +171,7 @@
     },
     {
       "vers_von": 12, "von": 74, "vers_bis": 12, "bis": 109, "typ": "at",
-      "referenz": "vgl. Jes 49,2",
+      "referenz": "Jes 49,2",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja49,2",
       "autor": "KI",
@@ -180,7 +180,7 @@
     },
     {
       "vers_von": 16, "von": 65, "vers_bis": 16, "bis": 94, "typ": "at",
-      "referenz": "vgl. 4. Mo 22,31",
+      "referenz": "4. Mo 22,31",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose22,31",
       "autor": "KI",
@@ -189,7 +189,7 @@
     },
     {
       "vers_von": 17, "von": 156, "vers_bis": 17, "bis": 180, "typ": "at",
-      "referenz": "vgl. 2. Mo 28,21",
+      "referenz": "2. Mo 28,21",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose28,21",
       "autor": "KI",
@@ -198,7 +198,7 @@
     },
     {
       "vers_von": 18, "von": 78, "vers_bis": 18, "bis": 162, "typ": "at",
-      "referenz": "vgl. Dan 10,6",
+      "referenz": "Dan 10,6",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel10,6",
       "autor": "KI",
@@ -207,7 +207,7 @@
     },
     {
       "vers_von": 23, "von": 0, "vers_bis": 23, "bis": 55, "typ": "at",
-      "referenz": "vgl. 2. Kön 10,1-11",
+      "referenz": "2. Kön 10,1-11",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige10,1-11",
       "autor": "KI",
@@ -216,7 +216,7 @@
     },
     {
       "vers_von": 28, "von": 78, "vers_bis": 28, "bis": 93, "typ": "at",
-      "referenz": "vgl. Jes 14,12",
+      "referenz": "Jes 14,12",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja14,12",
       "autor": "KI",

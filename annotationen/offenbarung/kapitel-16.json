@@ -8,7 +8,7 @@
   "markierungen": [
     {
       "vers_von": 1, "von": 14, "vers_bis": 1, "bis": 46, "typ": "at",
-      "referenz": "vgl. Jes 66,6", "vgl": true,
+      "referenz": "Jes 66,6", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja66,6",
       "autor": "KI",
       "status": "aktiv",
@@ -38,7 +38,7 @@
     },
     {
       "vers_von": 2, "von": 70, "vers_bis": 2, "bis": 102, "typ": "at",
-      "referenz": "vgl. 5. Mo 28,27.35", "vgl": true,
+      "referenz": "5. Mo 28,27.35", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose28,27-35",
       "autor": "KI",
       "status": "inaktiv",
@@ -46,7 +46,7 @@
     },
     {
       "vers_von": 3, "von": 50, "vers_bis": 3, "bis": 69, "typ": "at",
-      "referenz": "vgl. 2. Mo 7,20-21", "vgl": true,
+      "referenz": "2. Mo 7,20-21", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose7,20-21",
       "autor": "KI",
       "status": "inaktiv",
@@ -54,7 +54,7 @@
     },
     {
       "vers_von": 4, "von": 76, "vers_bis": 4, "bis": -1, "typ": "at",
-      "referenz": "vgl. 2. Mo 7,19", "vgl": true,
+      "referenz": "2. Mo 7,19", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose7,19",
       "autor": "KI",
       "status": "inaktiv",
@@ -73,7 +73,7 @@
     },
     {
       "vers_von": 5, "von": 62, "vers_bis": 5, "bis": 103, "typ": "at",
-      "referenz": "vgl. 2. Mo 3,14", "vgl": true,
+      "referenz": "2. Mo 3,14", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
       "autor": "KI",
       "status": "inaktiv",
@@ -81,7 +81,7 @@
     },
     {
       "vers_von": 6, "von": 62, "vers_bis": 6, "bis": 105, "typ": "at",
-      "referenz": "vgl. Jes 49,26", "vgl": true,
+      "referenz": "Jes 49,26", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja49,26",
       "autor": "KI",
       "status": "aktiv",
@@ -89,7 +89,7 @@
     },
     {
       "vers_von": 7, "von": 61, "vers_bis": 7, "bis": -1, "typ": "at",
-      "referenz": "vgl. Ps 19,10", "vgl": true,
+      "referenz": "Ps 19,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm19,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -97,7 +97,7 @@
     },
     {
       "vers_von": 8, "von": 91, "vers_bis": 8, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 49,10", "vgl": true,
+      "referenz": "Jes 49,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja49,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -105,7 +105,7 @@
     },
     {
       "vers_von": 9, "von": 58, "vers_bis": 9, "bis": -1, "typ": "at",
-      "referenz": "vgl. Am 4,6-11", "vgl": true,
+      "referenz": "Am 4,6-11", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Amos4,6-11",
       "autor": "KI",
       "status": "inaktiv",
@@ -113,7 +113,7 @@
     },
     {
       "vers_von": 10, "von": 62, "vers_bis": 10, "bis": 93, "typ": "at",
-      "referenz": "vgl. 2. Mo 10,21-23", "vgl": true,
+      "referenz": "2. Mo 10,21-23", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose10,21-23",
       "autor": "KI",
       "status": "inaktiv",
@@ -133,7 +133,7 @@
     },
     {
       "vers_von": 12, "von": 71, "vers_bis": 12, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 11,15", "vgl": true,
+      "referenz": "Jes 11,15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja11,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -141,7 +141,7 @@
     },
     {
       "vers_von": 13, "von": 69, "vers_bis": 13, "bis": 105, "typ": "at",
-      "referenz": "vgl. 1. Kön 22,20-23", "vgl": true,
+      "referenz": "1. Kön 22,20-23", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige22,20-23",
       "autor": "KI",
       "status": "aktiv",
@@ -149,7 +149,7 @@
     },
     {
       "vers_von": 13, "von": 106, "vers_bis": 13, "bis": 138, "typ": "at",
-      "referenz": "vgl. 2. Mo 8,2-3", "vgl": true,
+      "referenz": "2. Mo 8,2-3", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose8,2-3",
       "autor": "KI",
       "status": "aktiv",
@@ -157,7 +157,7 @@
     },
     {
       "vers_von": 13, "von": 106, "vers_bis": 13, "bis": 138, "typ": "at",
-      "referenz": "vgl. Sach 13,2", "vgl": true,
+      "referenz": "Sach 13,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Sacharja13,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -176,7 +176,7 @@
     },
     {
       "vers_von": 14, "von": 132, "vers_bis": 14, "bis": 181, "typ": "at",
-      "referenz": "vgl. Joel 2,11", "vgl": true,
+      "referenz": "Joel 2,11", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Joel2,11",
       "autor": "KI",
       "status": "inaktiv",
@@ -185,7 +185,7 @@
     { "vers_von": 15, "von": 0, "vers_bis": 15, "bis": -1, "typ": "jesus" },
     {
       "vers_von": 15, "von": 59, "vers_bis": 15, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 47,3", "vgl": true,
+      "referenz": "Jes 47,3", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja47,3",
       "autor": "KI",
       "status": "inaktiv",
@@ -205,7 +205,7 @@
     },
     {
       "vers_von": 17, "von": 131, "vers_bis": 17, "bis": -1, "typ": "at",
-      "referenz": "vgl. Hes 39,8", "vgl": true,
+      "referenz": "Hes 39,8", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel39,8",
       "autor": "KI",
       "status": "inaktiv",
@@ -213,7 +213,7 @@
     },
     {
       "vers_von": 18, "von": 0, "vers_bis": 18, "bis": 43, "typ": "at",
-      "referenz": "vgl. 2. Mo 19,16", "vgl": true,
+      "referenz": "2. Mo 19,16", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose19,16",
       "autor": "KI",
       "status": "inaktiv",
@@ -221,7 +221,7 @@
     },
     {
       "vers_von": 18, "von": 83, "vers_bis": 18, "bis": 155, "typ": "at",
-      "referenz": "vgl. Dan 12,1", "vgl": true,
+      "referenz": "Dan 12,1", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel12,1",
       "autor": "KI",
       "status": "inaktiv",
@@ -229,7 +229,7 @@
     },
     {
       "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 40, "typ": "at",
-      "referenz": "vgl. Hes 5,2", "vgl": true,
+      "referenz": "Hes 5,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel5,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -248,7 +248,7 @@
     },
     {
       "vers_von": 20, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 54,10", "vgl": true,
+      "referenz": "Jes 54,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja54,10",
       "autor": "KI",
       "status": "inaktiv",
