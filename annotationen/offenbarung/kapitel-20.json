@@ -1,0 +1,289 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 20,
+  "titel": "Die Ereignisse bis zur Heilsvollendung auf Erden; das tausendjährige Friedensreich und sein Ausgang in eine neue Weltschöpfung",
+  "abschnitte": [
+    { "id": "fesselung", "vers_von": 1, "vers_bis": 6, "titel": "Fesselung des Satans; die erste Auferstehung und das tausendjährige Friedensreich" },
+    { "id": "gog-magog", "vers_von": 7, "vers_bis": 10, "titel": "Gog und Magog; letztes Auftreten und ewige Vernichtung des Satans und seiner Scharen" },
+    { "id": "weltgericht", "vers_von": 11, "vers_bis": 15, "titel": "Die zweite (allgemeine) Auferstehung und das Jüngste Gericht" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 57, "vers_bis": 1, "bis": 82, "typ": "at",
+      "referenz": "1. Mo 1,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose1,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Schlüssel zum Abgrund: Wiederholung von 9,1 (dort inaktiv); Abaddon in 9,11 aktiv."
+    },
+    {
+      "vers_von": 2, "von": 11, "vers_bis": 2, "bis": 76, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 27,1", "url": "https://www.bibleserver.com/MENG/Jesaja27,1" },
+        { "label": "1. Mo 3,1.13", "url": "https://www.bibleserver.com/MENG/1.Mose3,1-13" },
+        { "label": "Hiob 1,6-11", "url": "https://www.bibleserver.com/MENG/Hiob1,6-11" }
+      ],
+      "begruendung": "Drache, alte Schlange, Teufel und Satan: Wiederholung von 12,3.9-10 (Jes 27,1; 1. Mo 3,1.13; Hiob 1,6-11), dort aktiv."
+    },
+    {
+      "vers_von": 2, "von": 80, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "Jes 24,21-22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja24,21-22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja zieht Gott »das Heer der Höhe« – widergöttliche Himmelsmächte – und die Könige der Erde zur Rechenschaft: Sie werden »eingesperrt, wie man Gefangene zusammenholt in eine Grube«, in einen »festverschlossenen Kerker«, und »erst nach langer Zeit abgeurteilt« (Jes 24,21-22). Ebenso hier: gefangen gesetzt und erst nach langer Frist (V7) endgültig gerichtet (V10)."
+    },
+    {
+      "vers_von": 2, "von": 94, "vers_bis": 2, "bis": 107, "typ": "at",
+      "referenz": "Ps 90,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm90,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tausend Jahre: keine AT-Vorlage. Ps 90,4 (»tausend Jahre sind in deinen Augen wie der gestrige Tag«) betrifft Gottes Zeitmaß, kein Reich. Ein messianisches Zwischenreich begrenzter Dauer kennt auch das Judentum (4. Esra 7,28: 400 Jahre; außerbiblisch)."
+    },
+    {
+      "vers_von": 3, "von": 0, "vers_bis": 3, "bis": 81, "typ": "at",
+      "referenz": "Dan 6,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel6,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Versiegelter Verschluss wie bei Daniels Löwengrube: Stein auf die Öffnung, vom König versiegelt (Dan 6,18) – nur Anklang; die Gefangensetzung trägt Jes 24,22 (V2-3 aktiv)."
+    },
+    {
+      "vers_von": 4, "von": 0, "vers_bis": 4, "bis": 113, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Dan 7,9", "url": "https://www.bibleserver.com/MENG/Daniel7,9" },
+        { "label": "Dan 7,22", "url": "https://www.bibleserver.com/MENG/Daniel7,22" }
+      ],
+      "begruendung": "Daniels Gerichtsvision beginnt: »bis Stühle hingestellt wurden« und Gott Platz nahm (Dan 7,9). Wer hier sitzt, sagt Dan 7,22: Den »Heiligen des Höchsten« wird Recht geschafft (griech. AT: »das Gericht wurde den Heiligen gegeben«), und sie nehmen die Herrschaft in Besitz. Die Verfolgten werden zu Richtern (vgl. 3,21)."
+    },
+    {
+      "vers_von": 4, "von": 235, "vers_bis": 4, "bis": 338, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Dan 3,1-6", "url": "https://www.bibleserver.com/MENG/Daniel3,1-6" },
+        { "label": "5. Mo 6,8", "url": "https://www.bibleserver.com/MENG/5.Mose6,8" }
+      ],
+      "begruendung": "Tier, Bild und Malzeichen: Wiederholung von 13,15-16 (Dan 3,1-6; 5. Mo 6,8), dort aktiv."
+    },
+    {
+      "vers_von": 4, "von": 371, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,27",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Herrschaft der Heiligen: Wiederholung von 3,21 (Dan 7,27), dort aktiv; Dan 7,22 am Versanfang aktiv. Gilt auch für V6."
+    },
+    {
+      "vers_von": 4, "von": 340, "vers_bis": 4, "bis": 366, "typ": "at",
+      "referenz": "Hes 37,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel37,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederbelebung wie Hes 37,10 (in 11,11 aktiv). Die Abfolge Hes 37 → 38-39 (Gog) erklärt der Tooltip zu V8."
+    },
+    {
+      "vers_von": 5, "von": 81, "vers_bis": 5, "bis": 112, "typ": "at",
+      "referenz": "Dan 12,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zwei Auferstehungen: Dan 12,2 kennt ein Erwachen »die einen zu ewigem Leben, die anderen zu Schmach« – in V13 aktiv. »Erste Auferstehung« selbst ohne AT-Vorlage."
+    },
+    {
+      "vers_von": 6, "von": 80, "vers_bis": 6, "bis": 94, "typ": "at",
+      "referenz": "Jes 65,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja65,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zweiter Tod: Wiederholung von 2,11 (dort inaktiv). Der Text erklärt ihn selbst (V14). Gilt auch für V14."
+    },
+    {
+      "vers_von": 6, "von": 128, "vers_bis": 6, "bis": 155, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 19,6", "url": "https://www.bibleserver.com/MENG/2.Mose19,6" },
+        { "label": "Jes 61,6", "url": "https://www.bibleserver.com/MENG/Jesaja61,6" }
+      ],
+      "begruendung": "Priestertum: Wiederholung von 1,6 und 5,10 (2. Mo 19,6), dort aktiv. Wortnah Jes 61,6 (»Priester des HERRN«)."
+    },
+    {
+      "vers_von": 7, "von": 62, "vers_bis": 7, "bis": 102, "typ": "at",
+      "referenz": "Jes 24,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja24,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Kerker und Freilassung: Jes 24,22 in V2-3 aktiv; dort ohne Freilassung."
+    },
+    {
+      "vers_von": 8, "von": 42, "vers_bis": 8, "bis": 68, "typ": "at",
+      "referenz": "Jes 11,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja11,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Von den vier Säumen der Erde« sammelt Gott bei Jesaja Israel (Jes 11,12); hier geläufige Wendung für die ganze Welt wie 7,1 – ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 8, "von": 83, "vers_bis": 8, "bis": 100, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 38,2", "url": "https://www.bibleserver.com/MENG/Hesekiel38,2" },
+        { "label": "Hes 38,8", "url": "https://www.bibleserver.com/MENG/Hesekiel38,8" },
+        { "label": "1. Mo 10,2", "url": "https://www.bibleserver.com/MENG/1.Mose10,2" }
+      ],
+      "begruendung": "Hesekiel kündigt »Gog im Lande Magog« an, Herrscher von Völkern aus dem äußersten Norden (Hes 38,2.15); Magog ist in der Völkertafel ein Sohn Japhets (1. Mo 10,2). »Am Ende der Jahre« überfällt Gog das heimgekehrte Israel, das »in Sicherheit« wohnt (Hes 38,8), und Gott vernichtet ihn. Hier werden beide Namen zu Völkern: Sinnbild aller gottfeindlichen Völker. Die Abfolge folgt Hesekiel: Totenerweckung (Hes 37; hier V4-5), Gogs Ansturm (Hes 38-39), neue Stadt und Tempel (Hes 40-48; hier Kap. 21)."
+    },
+    {
+      "vers_von": 8, "von": 138, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "Jos 11,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua11,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Feindliches Heer »unzählig wie der Sand am Meeresufer« (Jos 11,4; vgl. Ri 7,12) – geläufiges Bild, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 9, "von": 15, "vers_bis": 9, "bis": 38, "typ": "at",
+      "referenz": "Hab 1,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Habakuk1,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Chaldäer durchziehen »weit und breit die Lande« (Hab 1,6) – nur Anklang. Gog zieht heran »wie eine Wetterwolke, um das Land zu bedecken« (Hes 38,16); Hesekiel-Rahmen in V8 aktiv."
+    },
+    {
+      "vers_von": 9, "von": 50, "vers_bis": 9, "bis": 111, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 87,2", "url": "https://www.bibleserver.com/MENG/Psalm87,2" },
+        { "label": "Ps 78,68", "url": "https://www.bibleserver.com/MENG/Psalm78,68" },
+        { "label": "4. Mo 2,2", "url": "https://www.bibleserver.com/MENG/4.Mose2,2" },
+        { "label": "5. Mo 23,15", "url": "https://www.bibleserver.com/MENG/5.Mose23,15" },
+        { "label": "Hes 38,12", "url": "https://www.bibleserver.com/MENG/Hesekiel38,12" }
+      ],
+      "begruendung": "»Die geliebte Stadt« ist Jerusalem: »lieb hat der HERR die Tore Zions« (Ps 87,2); Gott erwählte »den Berg Zion, den er liebgewonnen« (Ps 78,68). Das »Heerlager« erinnert an Israel in der Wüste, das ringsum das Offenbarungszelt lagerte (4. Mo 2,2); weil Gott mitzieht, soll das Lager »heilig sein« (5. Mo 23,15; vgl. 14,4). Wie bei Hesekiel zieht das Völkerheer gegen das gesammelte Gottesvolk »auf dem Nabel der Erde« (Hes 38,12)."
+    },
+    {
+      "vers_von": 9, "von": 113, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 38,22", "url": "https://www.bibleserver.com/MENG/Hesekiel38,22" },
+        { "label": "Hes 39,6", "url": "https://www.bibleserver.com/MENG/Hesekiel39,6" },
+        { "label": "2. Kön 1,10", "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige1,10" }
+      ],
+      "begruendung": "So endet Gogs Angriff bei Hesekiel: »Feuer und Schwefel will ich regnen lassen auf ihn und auf seine Kriegsscharen« (Hes 38,22); »an Magog … Feuer legen« (Hes 39,6). Der Wortlaut gleicht Elias Feuer gegen die Soldaten des Königs: »Da fiel Feuer vom Himmel herab und verzehrte ihn« (2. Kön 1,10; vgl. 11,5). Es gibt keine Schlacht: Gott allein entscheidet."
+    },
+    {
+      "vers_von": 10, "von": 37, "vers_bis": 10, "bis": 75, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Dan 7,11", "url": "https://www.bibleserver.com/MENG/Daniel7,11" },
+        { "label": "Jes 30,33", "url": "https://www.bibleserver.com/MENG/Jesaja30,33" }
+      ],
+      "begruendung": "Feuer- und Schwefelsee: Wiederholung von 19,20 (Dan 7,11; Jes 30,33), dort aktiv."
+    },
+    {
+      "vers_von": 10, "von": 138, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "Jes 34,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja34,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Bei Tag und bei Nacht … in Ewigkeit«: Wiederholung von 14,11 (Jes 34,10), dort aktiv."
+    },
+    {
+      "vers_von": 11, "von": 15, "vers_bis": 11, "bis": 65, "typ": "at",
+      "referenz": "Dan 7,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Thronszene wie 4,2 (Hes 1,26-28, dort aktiv); Weiß wie Gottes Gewand in Dan 7,9 (in V4 aktiv). Ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 11, "von": 67, "vers_bis": 11, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Ps 114,3.7", "url": "https://www.bibleserver.com/MENG/Psalm114,3-7" },
+        { "label": "Jes 51,6", "url": "https://www.bibleserver.com/MENG/Jesaja51,6" }
+      ],
+      "begruendung": "Die Schöpfung flieht vor Gott (Ps 114,3.7: »Das Meer sah es und floh«); Himmel und Erde vergehen (Jes 51,6). »Keine Stätte gefunden« wie Dan 2,35 im griech. AT (12,8 inaktiv). Nur Anklang; neuer Himmel und neue Erde folgen in 21,1."
+    },
+    {
+      "vers_von": 12, "von": 23, "vers_bis": 12, "bis": 49, "typ": "at",
+      "referenz": "Ps 115,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm115,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die Kleinen samt den Großen«: Wiederholung von 11,18 und 19,5 (Ps 115,13, dort inaktiv)."
+    },
+    {
+      "vers_von": 12, "von": 78, "vers_bis": 12, "bis": 100, "typ": "at",
+      "referenz": "Dan 7,10", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wortlaut aus Daniels Gerichtsszene: »Der Gerichtshof setzte sich, und (die) Bücher wurden aufgeschlagen« (Dan 7,10). In den Büchern stehen die Taten der Menschen: Das Urteil ergeht nicht willkürlich, sondern nach dem Verzeichneten (»nach ihren Werken«)."
+    },
+    {
+      "vers_von": 12, "von": 150, "vers_bis": 12, "bis": 177, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 32,32-33", "url": "https://www.bibleserver.com/MENG/2.Mose32,32-33" },
+        { "label": "Dan 12,1", "url": "https://www.bibleserver.com/MENG/Daniel12,1" }
+      ],
+      "begruendung": "Lebensbuch: Wiederholung von 3,5 (2. Mo 32,32-33; Dan 12,1), dort aktiv. Gilt auch für V15."
+    },
+    {
+      "vers_von": 12, "von": 275, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jer 17,10", "url": "https://www.bibleserver.com/MENG/Jeremia17,10" },
+        { "label": "Ps 62,13", "url": "https://www.bibleserver.com/MENG/Psalm62,13" }
+      ],
+      "begruendung": "Gericht nach den Werken: Wiederholung von 2,23 (Jer 17,10), dort aktiv; ebenso Ps 62,13. Gilt auch für V13."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 13, "bis": 129, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Dan 12,2", "url": "https://www.bibleserver.com/MENG/Daniel12,2" },
+        { "label": "Jes 26,19", "url": "https://www.bibleserver.com/MENG/Jesaja26,19" }
+      ],
+      "begruendung": "Auferstehung zum Gericht wie bei Daniel: »viele von denen, die im Staube der Erde schlafen, werden erwachen, die einen zu ewigem Leben, die anderen zu Schmach« (Dan 12,2). Bei Jesaja wird »die Erde die Schatten (= Toten) wieder ans Tageslicht bringen« (Jes 26,19). Hier sind es alle Toten – selbst das Meer, das Ertrunkenen kein Grab bot, gibt sie heraus: Niemand entgeht dem Gericht."
+    },
+    {
+      "vers_von": 14, "von": 0, "vers_bis": 14, "bis": 67, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 25,8", "url": "https://www.bibleserver.com/MENG/Jesaja25,8" },
+        { "label": "Hos 13,14", "url": "https://www.bibleserver.com/MENG/Hosea13,14" }
+      ],
+      "begruendung": "Tod und Totenreich als Paar wie Hos 13,14 (6,8 inaktiv). Das Ende des Todes verheißt Jes 25,8 (»Den Tod wird er auf ewig verschwinden lassen«), in 7,17 aktiv; aktiv erst wieder in 21,4 (»der Tod wird nicht mehr sein«)."
+    }
+  ]
+}
