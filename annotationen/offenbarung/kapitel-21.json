@@ -1,0 +1,330 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 21,
+  "titel": "Neuer Himmel und neue Erde · Das neue Jerusalem",
+  "abschnitte": [
+    { "id": "wohnstatt-gottes", "vers_von": 1, "vers_bis": 8, "titel": "Das neue Jerusalem als Wohnstatt Gottes bei den Menschen und Gottes Verheißung und Urteil" },
+    { "id": "beschreibung", "vers_von": 9, "vers_bis": 27, "titel": "Die Beschreibung des neuen Jerusalem" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 13, "vers_bis": 1, "bis": 50, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 65,17", "url": "https://www.bibleserver.com/MENG/Jesaja65,17" },
+        { "label": "Jes 66,22", "url": "https://www.bibleserver.com/MENG/Jesaja66,22" }
+      ],
+      "begruendung": "Wortlaut aus Jes 65,17: »ich werde einen neuen Himmel und eine neue Erde schaffen, so daß man der früheren Zustände nicht mehr gedenken wird« (vgl. V4: »das Erste ist vergangen«). Sie werden vor Gott »Bestand haben« (Jes 66,22). Bei Jesaja Rahmen für das erneuerte Jerusalem – wie hier (V2)."
+    },
+    {
+      "vers_von": 1, "von": 117, "vers_bis": 1, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 74,13-14", "url": "https://www.bibleserver.com/MENG/Psalm74,13-14" },
+        { "label": "Dan 7,3", "url": "https://www.bibleserver.com/MENG/Daniel7,3" }
+      ],
+      "begruendung": "Das Meer ist im AT kein Idyll, sondern die Chaosmacht, die Gott bändigen muss: Dort haust der Drache (Ps 74,13-14; vgl. Offb 12,3), aus ihm steigen die gottfeindlichen Weltreiche (Dan 7,3; vgl. Offb 13,1). In der neuen Schöpfung gibt es nichts Bedrohliches mehr."
+    },
+    {
+      "vers_von": 2, "von": 12, "vers_bis": 2, "bis": 50, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 65,18", "url": "https://www.bibleserver.com/MENG/Jesaja65,18" },
+        { "label": "Hes 48,35", "url": "https://www.bibleserver.com/MENG/Hesekiel48,35" }
+      ],
+      "begruendung": "Neues Jerusalem aus dem Himmel: Wiederholung von 3,12 (Jes 65,17-18; Hes 48,35), dort aktiv. »Heilige Stadt« (Jes 52,1) im Tooltip zur Braut aktiv."
+    },
+    {
+      "vers_von": 2, "von": 93, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 52,1", "url": "https://www.bibleserver.com/MENG/Jesaja52,1" },
+        { "label": "Jes 61,10", "url": "https://www.bibleserver.com/MENG/Jesaja61,10" },
+        { "label": "Jes 62,5", "url": "https://www.bibleserver.com/MENG/Jesaja62,5" }
+      ],
+      "begruendung": "Bei Jesaja ist Jerusalem, die »heilige Stadt«, zugleich Braut: Sie soll ihre »Prachtgewänder« anlegen (Jes 52,1), schmückt sich »wie eine Braut, die ihr Geschmeide anlegt« (Jes 61,10), und Gott freut sich an ihr wie ein Bräutigam (Jes 62,5). Stadt und Braut sind zwei Bilder für dasselbe: das Gottesvolk (vgl. Offb 19,7-8; V9)."
+    },
+    {
+      "vers_von": 3, "von": 56, "vers_bis": 3, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 37,27", "url": "https://www.bibleserver.com/MENG/Hesekiel37,27" },
+        { "label": "3. Mo 26,11-12", "url": "https://www.bibleserver.com/MENG/3.Mose26,11-12" },
+        { "label": "Sach 2,15", "url": "https://www.bibleserver.com/MENG/Sacharja2,15" }
+      ],
+      "begruendung": "Fast wörtlich Hes 37,27: »Meine Wohnung aber wird über ihnen sein; ich will ihr Gott sein, und sie sollen mein Volk sein« – die Bundesformel des AT (vgl. 3. Mo 26,11-12). »Hütte« ist das Zelt: So wohnte Gott in der Wüste bei Israel (vgl. 7,15). Statt Israel heißt es hier »die Menschen«: Nach Sach 2,15 werden »viele Völker« Gott »als Volk angehören«."
+    },
+    {
+      "vers_von": 4, "von": 0, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 25,8", "url": "https://www.bibleserver.com/MENG/Jesaja25,8" },
+        { "label": "Jes 65,19", "url": "https://www.bibleserver.com/MENG/Jesaja65,19" },
+        { "label": "Jes 35,10", "url": "https://www.bibleserver.com/MENG/Jesaja35,10" }
+      ],
+      "begruendung": "Nach Jes 25,8: »Den Tod wird er auf ewig verschwinden lassen, die Tränen wird Gott der HERR von jedem Antlitz abwischen« (vgl. Offb 7,17) – jetzt ist der Tod selbst beseitigt (Offb 20,14). Im neuen Jerusalem soll »kein Laut des Weinens und kein Laut des Wehgeschreis« mehr zu hören sein (Jes 65,19); »Kummer und Seufzen müssen entfliehen« (Jes 35,10)."
+    },
+    {
+      "vers_von": 5, "von": 37, "vers_bis": 5, "bis": 66, "typ": "at",
+      "referenz": "Jes 43,18-19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,18-19",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja kündigt Gott an: »Denkt nicht mehr an die früheren Ereignisse zurück … Seht, ich vollbringe etwas Neues« (Jes 43,18-19) – dort die Heimkehr aus Babylon. Hier gilt es der ganzen Schöpfung. Erstmals seit 1,8 wird Gott ausdrücklich als Sprecher genannt."
+    },
+    {
+      "vers_von": 5, "von": 102, "vers_bis": 5, "bis": 140, "typ": "at",
+      "referenz": "2. Sam 7,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bekräftigungsformel: Wiederholung von 19,9 (2. Sam 7,28, dort inaktiv); vgl. 3,14."
+    },
+    {
+      "vers_von": 6, "von": 24, "vers_bis": 6, "bis": 42, "typ": "at",
+      "referenz": "Hes 39,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel39,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Es ist geschehen«: Wiederholung von 16,17 (Hes 39,8, dort inaktiv) – dort Abschluss des Gerichts, hier der Neuschöpfung."
+    },
+    {
+      "vers_von": 6, "von": 43, "vers_bis": 6, "bis": 91, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 44,6", "url": "https://www.bibleserver.com/MENG/Jesaja44,6" },
+        { "label": "Jes 41,4", "url": "https://www.bibleserver.com/MENG/Jesaja41,4" }
+      ],
+      "begruendung": "A und O, Anfang und Ende: Wiederholung von 1,8 und 1,17 (Jes 41,4; 44,6), dort aktiv."
+    },
+    {
+      "vers_von": 6, "von": 93, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 55,1", "url": "https://www.bibleserver.com/MENG/Jesaja55,1" },
+        { "label": "Jer 2,13", "url": "https://www.bibleserver.com/MENG/Jeremia2,13" }
+      ],
+      "begruendung": "Bei Jesaja lädt Gott ein: »Ach ihr Durstigen alle, kommt her zum Wasser … kauft ohne Zahlung« (Jes 55,1). Gott selbst ist der »Born lebendigen Wassers« (Jer 2,13). Durst steht für das Verlangen nach Gott; er stillt es als Geschenk (vgl. Offb 7,17; 22,1.17)."
+    },
+    {
+      "vers_von": 7, "von": 38, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2. Sam 7,14", "url": "https://www.bibleserver.com/MENG/2.Samuel7,14" },
+        { "label": "Ps 89,27-28", "url": "https://www.bibleserver.com/MENG/Psalm89,27-28" }
+      ],
+      "begruendung": "Nach 2. Sam 7,14, Gottes Zusage an Davids Nachkommen: »Ich will ihm Vater sein, und er soll mir Sohn sein« – Grundtext der Messiaserwartung (vgl. Ps 89,27-28). Statt »Vater« steht »Gott« – wie in der Bundesformel (V3). Was dem Davidssohn zugesagt war, gilt hier jedem Überwinder: Er erbt mit dem Messias (vgl. Offb 2,26-27; 3,21)."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 8, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 20,13-15", "url": "https://www.bibleserver.com/MENG/2.Mose20,13-15" },
+        { "label": "Jes 30,33", "url": "https://www.bibleserver.com/MENG/Jesaja30,33" }
+      ],
+      "begruendung": "Lasterliste: Wiederholung von 9,20-21 (2. Mo 20,13-15; 5. Mo 18,10), dort aktiv. Feuer- und Schwefelsee: Wiederholung von 19,20 (Jes 30,33), dort aktiv. Zweiter Tod: 2,11; 20,6.14 (inaktiv)."
+    },
+    {
+      "vers_von": 9, "von": 180, "vers_bis": 9, "bis": 210, "typ": "at",
+      "referenz": "Jes 54,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja54,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Braut des Lammes: Wiederholung von 19,7 (Jes 54,5; Hos 2,21-22; Jes 62,5), dort aktiv; s. V2. Die Einleitung gleicht 17,1 (Buhlerin) – Gegenbild, im Tooltip zu V10 erwähnt."
+    },
+    {
+      "vers_von": 10, "von": 8, "vers_bis": 10, "bis": 63, "typ": "at",
+      "referenz": "Hes 40,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel40,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie Hesekiel: »im Zustand der Verzückung« wird er »auf einem sehr hohen Berge« abgesetzt und sieht »ein Bauwerk nach Art einer Stadt« (Hes 40,2). Was folgt, lehnt sich an Hes 40-48 an: Himmelsbote mit Meßstab (V15), Tore der zwölf Stämme (V12-13), Gottes Herrlichkeit (V11). Gegenstück zu 17,3: Die Buhlerin Babylon sah Johannes in der Wüste, die Braut sieht er vom Berg aus."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 39, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 43,2-5", "url": "https://www.bibleserver.com/MENG/Hesekiel43,2-5" },
+        { "label": "Jes 60,1-2", "url": "https://www.bibleserver.com/MENG/Jesaja60,1-2" }
+      ],
+      "begruendung": "»Herrlichkeit« ist im AT der sichtbare Lichtglanz von Gottes Gegenwart. Hesekiel sah sie in den neuen Tempel einziehen: »der Tempel war von der Herrlichkeit des HERRN erfüllt« (Hes 43,5). Zion wird zugesagt: »die Herrlichkeit des HERRN ist über dir erstrahlt« (Jes 60,1). Hier erfüllt sie die ganze Stadt. Jaspisglanz hat in 4,3 Gott selbst."
+    },
+    {
+      "vers_von": 12, "von": 33, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "Hes 48,30-34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel48,30-34",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie Hesekiels Stadt: »die Tore der Stadt nach den Stämmen Israels benannt«, je drei auf jeder Seite (Hes 48,30-34). Die Tore tragen Israels Namen, die Grundsteine die der Apostel (V14): ein Gottesvolk aus altem und neuem Bund."
+    },
+    {
+      "vers_von": 12, "von": 73, "vers_bis": 12, "bis": 98, "typ": "at",
+      "referenz": "Jes 62,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja62,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wächter auf Jerusalems Mauern bestellt Gott in Jes 62,6 – nur Anklang (dort Mauern, hier Tore); »als Wächter« ist Zusatz der Übersetzung."
+    },
+    {
+      "vers_von": 14, "von": 26, "vers_bis": 14, "bis": 43, "typ": "at",
+      "referenz": "Jes 28,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja28,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Apostel als Grundsteine: keine AT-Vorlage (vgl. Eph 2,20); Grundstein in Zion (Jes 28,16) nur Anklang. Im Tooltip zu V12 erwähnt; Edelsteine in V19 aktiv."
+    },
+    {
+      "vers_von": 15, "von": 34, "vers_bis": 15, "bis": 63, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Hes 40,3", "url": "https://www.bibleserver.com/MENG/Hesekiel40,3" },
+        { "label": "Sach 2,5-9", "url": "https://www.bibleserver.com/MENG/Sacharja2,5-9" }
+      ],
+      "begruendung": "Meßstab: Wiederholung von 11,1 (Hes 40,3; Sach 2,5-9), dort aktiv; im Tooltip zu V10 erwähnt. Anders als in 11,2 bleibt nichts ausgespart."
+    },
+    {
+      "vers_von": 16, "von": 0, "vers_bis": 16, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "1. Kön 6,20", "url": "https://www.bibleserver.com/MENG/1.Könige6,20" },
+        { "label": "Hes 48,16", "url": "https://www.bibleserver.com/MENG/Hesekiel48,16" }
+      ],
+      "begruendung": "Würfelform hat im AT nur das Allerheiligste: »zwanzig Ellen lang, zwanzig Ellen breit und zwanzig Ellen hoch«, mit Gold überzogen (1. Kön 6,20; vgl. V18). Nur der Hohepriester durfte es betreten, einmal im Jahr. Hier ist die ganze Stadt Allerheiligstes – darum braucht sie keinen Tempel (V22). Quadratisch ist auch Hesekiels Stadt (Hes 48,16). 12 × 1000 Stadien, 12 × 12 Ellen (V17): die Zahl des Gottesvolks (vgl. Offb 7,4)."
+    },
+    {
+      "vers_von": 17, "von": 24, "vers_bis": 17, "bis": 54, "typ": "at",
+      "referenz": "Hes 40,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel40,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Mauermaß mit Erläuterung der Elle wie Hes 40,5 – nur Anklang. 144 = 12 × 12 im Tooltip zu V16 erklärt."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "1. Kön 6,20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Könige6,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gold wie das Allerheiligste (1. Kön 6,20): im Tooltip zu V16 aktiv. Jaspis: s. V11."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 54,11-12", "url": "https://www.bibleserver.com/MENG/Jesaja54,11-12" },
+        { "label": "2. Mo 28,17-21", "url": "https://www.bibleserver.com/MENG/2.Mose28,17-21" }
+      ],
+      "begruendung": "Jesaja verheißt dem zerstörten Jerusalem: »ich will … dich mit Saphirsteinen gründen«, die Tore aus Karfunkelsteinen, die »ganze Umfriedung aus Edelgestein« (Jes 54,11-12). Zwölf Edelsteine trug der Hohepriester auf dem Brustschild, einen für jeden Stamm (2. Mo 28,17-21); acht der Namen kehren hier wieder. Die Stadt trägt den Schmuck des Hohepriesters."
+    },
+    {
+      "vers_von": 21, "von": 0, "vers_bis": 21, "bis": 33, "typ": "at",
+      "referenz": "Jes 54,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja54,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tore aus Edelstein: Jes 54,12 im Tooltip zu V19 aktiv; Perlen nennt das AT dort nicht. Goldene Straßen: s. V16.18."
+    },
+    {
+      "vers_von": 22, "von": 0, "vers_bis": 22, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 3,16-17", "url": "https://www.bibleserver.com/MENG/Jeremia3,16-17" },
+        { "label": "Hes 48,35", "url": "https://www.bibleserver.com/MENG/Hesekiel48,35" }
+      ],
+      "begruendung": "Für jüdische Leser unerwartet: Hesekiels Zukunftsschau gilt vor allem dem neuen Tempel (Hes 40-47). Hier fehlt er – Gott ist unmittelbar gegenwärtig, die ganze Stadt ist Allerheiligstes (V16). Ansatz bei Jeremia: Nach der Bundeslade fragt niemand mehr, ganz Jerusalem heißt »Thron des HERRN« (Jer 3,16-17). Hesekiels Stadt heißt »Gottesheim« (Hes 48,35; vgl. Offb 3,12)."
+    },
+    {
+      "vers_von": 23, "von": 0, "vers_bis": 23, "bis": -1, "typ": "at",
+      "referenz": "Jes 60,19-20", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja60,19-20",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jes 60,19: »Nicht mehr wird dir künftig am Tage die Sonne als Leuchte dienen, noch bei Nacht der Mond …; nein, der HERR wird dir zum ewigen Licht dienen«. Neben Gott steht das Lamm als Leuchte. Auch V24-26 folgen Jes 60."
+    },
+    {
+      "vers_von": 24, "von": 0, "vers_bis": 24, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 60,3", "url": "https://www.bibleserver.com/MENG/Jesaja60,3" },
+        { "label": "Jes 60,5", "url": "https://www.bibleserver.com/MENG/Jesaja60,5" }
+      ],
+      "begruendung": "Nach Jes 60,3: »Völker wallen zu deinem Licht hin und Könige zu dem Glanz, in dem du strahlst«; »die Schätze der Völker« strömen Zion zu (Jes 60,5; vgl. V26). »Die Könige der Erde« waren bisher Gottes Gegner (6,15; 19,19) – hier kommen sie als Verehrer (vgl. 15,4)."
+    },
+    {
+      "vers_von": 25, "von": 0, "vers_bis": 25, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 60,11", "url": "https://www.bibleserver.com/MENG/Jesaja60,11" },
+        { "label": "Sach 14,7", "url": "https://www.bibleserver.com/MENG/Sacharja14,7" }
+      ],
+      "begruendung": "Nach Jes 60,11: »Deine Tore werden beständig offen stehen, bei Tag und bei Nacht unverschlossen bleiben, um in dich einzulassen den Reichtum der Völker« (vgl. V26). Stadttore schloss man nachts zum Schutz – hier droht keine Gefahr mehr. Nacht gibt es nicht: Am Tag des HERRN gilt: »auch zur Abendzeit wird Licht sein« (Sach 14,7)."
+    },
+    {
+      "vers_von": 26, "von": 0, "vers_bis": 26, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 60,5", "url": "https://www.bibleserver.com/MENG/Jesaja60,5" },
+        { "label": "Hag 2,7", "url": "https://www.bibleserver.com/MENG/Haggai2,7" }
+      ],
+      "begruendung": "Schätze der Völker: Jes 60,5.11 in V24-25 aktiv. Ebenso Hag 2,7 (»die Kostbarkeiten aller Heidenvölker« für den Tempel) – durch Jes 60 abgedeckt."
+    },
+    {
+      "vers_von": 27, "von": 0, "vers_bis": 27, "bis": 51, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 52,1", "url": "https://www.bibleserver.com/MENG/Jesaja52,1" },
+        { "label": "Jes 35,8", "url": "https://www.bibleserver.com/MENG/Jesaja35,8" }
+      ],
+      "begruendung": "Nach Jes 52,1 über Jerusalem, die heilige Stadt (vgl. V2): »hinfort wird kein Unbeschnittener und kein Unreiner in dich eintreten« (vgl. Jes 35,8). Unreine durften im AT das Heiligtum nicht betreten. Hier entscheidet nicht die Herkunft – die Völker ziehen ein (V24) –, sondern Götzendienst und Lüge (vgl. V8)."
+    },
+    {
+      "vers_von": 27, "von": 114, "vers_bis": 27, "bis": 158, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 32,32-33", "url": "https://www.bibleserver.com/MENG/2.Mose32,32-33" },
+        { "label": "Dan 12,1", "url": "https://www.bibleserver.com/MENG/Daniel12,1" }
+      ],
+      "begruendung": "Lebensbuch: Wiederholung von 3,5 (2. Mo 32,32-33; Dan 12,1), dort aktiv; vgl. 13,8; 20,12.15."
+    }
+  ]
+}
