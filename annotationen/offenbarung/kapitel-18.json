@@ -1,0 +1,307 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 18,
+  "titel": "Babylons Fall",
+  "abschnitte": [
+    { "id": "ankuendigung", "vers_von": 1, "vers_bis": 8, "titel": "Ankündigung des über Babylon hereinbrechenden Gerichts" },
+    { "id": "klagen", "vers_von": 9, "vers_bis": 19, "titel": "Die Klagen der Erdenkönige, der Händler und Schiffsleute über den Untergang der Stadt" },
+    { "id": "zuruf", "vers_von": 20, "vers_bis": 20, "titel": "Freudiger Zuruf (der himmlischen Stimme) an die Himmelsbewohner" },
+    { "id": "muehlstein", "vers_von": 21, "vers_bis": 24, "titel": "Das sinnbildliche Zeichen der Vernichtung; die in der zerstörten Stadt herrschende Verödung" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 110, "vers_bis": 1, "bis": 159, "typ": "at",
+      "referenz": "Hes 43,2", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel43,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Fast wörtlich Hes 43,2: Gottes Herrlichkeit kehrt in den Tempel zurück, »und die Erde leuchtete von seiner Herrlichkeit«. Der Engel kommt aus Gottes unmittelbarer Nähe und trägt ihren Glanz."
+    },
+    {
+      "vers_von": 2, "von": 31, "vers_bis": 2, "bis": 71, "typ": "at",
+      "referenz": "Jes 21,9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja21,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 14,8 (Jes 21,9; Dan 4,27), dort aktiv."
+    },
+    {
+      "vers_von": 2, "von": 80, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 13,21-22", "url": "https://www.bibleserver.com/MENG/Jesaja13,21-22" },
+        { "label": "Jes 34,11-14", "url": "https://www.bibleserver.com/MENG/Jesaja34,11-14" },
+        { "label": "Jer 51,37", "url": "https://www.bibleserver.com/MENG/Jeremia51,37" },
+        { "label": "3. Mo 11,13", "url": "https://www.bibleserver.com/MENG/3.Mose11,13" }
+      ],
+      "begruendung": "Prophetisches Bild der verödeten Stadt: In Babels Ruinen hausen Eulen und Strauße, »Bocksgeister« tanzen dort (Jes 13,21; griech. AT: »Dämonen«). Ebenso in Edom: Raben und »Feldteufel« (Jes 34,11-14). Eulen, Raben und Strauß soll Israel »verabscheuen« (3. Mo 11,13-18). Babylon wird »Behausung der Schakale« (Jer 51,37)."
+    },
+    {
+      "vers_von": 3, "von": 0, "vers_bis": 3, "bis": 110, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jer 51,7", "url": "https://www.bibleserver.com/MENG/Jeremia51,7" },
+        { "label": "Jes 23,15-17", "url": "https://www.bibleserver.com/MENG/Jesaja23,15-17" }
+      ],
+      "begruendung": "Wiederholung von 14,8 (Jer 51,7) und 17,2 (Jes 23,15-17), dort aktiv."
+    },
+    {
+      "vers_von": 3, "von": 116, "vers_bis": 3, "bis": 187, "typ": "at",
+      "referenz": "Hes 27,33", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel27,33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tyrus hat »die Könige der Erde reich gemacht« (Hes 27,33) – die Tyrus-Klage wird in V9-19 aktiv erklärt."
+    },
+    {
+      "vers_von": 4, "von": 57, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 51,45", "url": "https://www.bibleserver.com/MENG/Jeremia51,45" },
+        { "label": "Jer 51,6", "url": "https://www.bibleserver.com/MENG/Jeremia51,6" }
+      ],
+      "begruendung": "Jeremias Ruf an die Verbannten: »Ziehet aus seinem Bereich hinweg, mein Volk, und rettet ein jeder sein Leben vor der Zornglut des HERRN!« (Jer 51,45), »damit ihr nicht den Tod findet um seiner Verschuldung willen« (Jer 51,6). Dort leiblicher Auszug; hier Trennung von Babylons Sünden und Schicksal."
+    },
+    {
+      "vers_von": 4, "von": 57, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 52,11", "url": "https://www.bibleserver.com/MENG/Jesaja52,11" },
+        { "label": "1. Mo 19,15", "url": "https://www.bibleserver.com/MENG/1.Mose19,15" }
+      ],
+      "begruendung": "Auszugsruf auch Jes 48,20; 52,11. Lot wird aus Sodom gedrängt, »damit du nicht auch wegen der Sündhaftigkeit der Stadt ums Leben kommst« (1. Mo 19,15) – passender Anklang, aber Jer 51,45 trifft den Wortlaut."
+    },
+    {
+      "vers_von": 5, "von": 5, "vers_bis": 5, "bis": 56, "typ": "at",
+      "referenz": "Jer 51,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie Jer 51,9 über Babylon: »bis an den Himmel reicht das Strafgericht über die Stadt und ragt bis zu den Wolken«. Dort das Gericht, hier die Schuld, die es herausfordert."
+    },
+    {
+      "vers_von": 5, "von": 5, "vers_bis": 5, "bis": 56, "typ": "at",
+      "referenz": "1. Mo 11,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose11,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Turm zu Babel sollte »bis in den Himmel reichen« (1. Mo 11,4) – Babel-Anklang, aber nicht formuliert; Jer 51,9 trägt."
+    },
+    {
+      "vers_von": 5, "von": 62, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "Hos 9,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea9,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Er wird ihrer Schuld gedenken« (Hos 9,9) – geläufige Gerichtsformel; »gedacht« ist in 16,19 erklärt."
+    },
+    {
+      "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 92, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 50,29", "url": "https://www.bibleserver.com/MENG/Jeremia50,29" },
+        { "label": "Ps 137,8", "url": "https://www.bibleserver.com/MENG/Psalm137,8" },
+        { "label": "Jer 16,18", "url": "https://www.bibleserver.com/MENG/Jeremia16,18" }
+      ],
+      "begruendung": "Jeremias Befehl gegen Babylon: »Zahlt ihr ihre Böstaten nach Gebühr heim, verfahrt mit ihr ganz so, wie sie selbst verfahren ist!« (Jer 50,29; vgl. 50,15). Ps 137,8 über Babel: »Heil dem, der dir vergilt dasselbe, was du an uns verübt!« »Doppelt« = volle Vergeltung (Jer 16,18: »zwiefach vergelten«)."
+    },
+    {
+      "vers_von": 6, "von": 93, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jer 51,7", "url": "https://www.bibleserver.com/MENG/Jeremia51,7" },
+        { "label": "Jer 25,15", "url": "https://www.bibleserver.com/MENG/Jeremia25,15" }
+      ],
+      "begruendung": "Becher: Wiederholung von 14,8.10 und 17,4 (Jer 51,7; Jer 25,15), dort aktiv."
+    },
+    {
+      "vers_von": 7, "von": 87, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "Jes 47,7-8", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja47,7-8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jes 47,8 sagt die »an Üppigkeit Gewöhnte« in ihrem Herzen: »Ich werde nicht als Witwe dasitzen und Kinderlosigkeit nicht kennen lernen.« Zuvor: »Ewig werde ich fortbestehen, eine Gebieterin für immer!« (Jes 47,7). Witwe heißt: schutzlos, ohne Versorger. Gleiche Selbstsicherheit, gleicher Sturz (V8)."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 8, "bis": 56, "typ": "at",
+      "referenz": "Jes 47,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja47,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Antwort aus Jes 47,9: »Und doch wird dieses beides über dich kommen plötzlich, an einem Tage, Kinderlosigkeit und Witwenschaft«. Daher auch »in einer einzigen Stunde« in den Klagen (V10.16.19)."
+    },
+    {
+      "vers_von": 8, "von": 58, "vers_bis": 8, "bis": 81, "typ": "at",
+      "referenz": "Jer 14,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia14,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Anklang an die prophetische Gerichtstrias Schwert, Hunger, Pest (Jer 14,12; Hes 14,21 in 6,8 aktiv). »Trauer« statt Schwert greift V7 und Jes 47,9 auf. Ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 8, "von": 87, "vers_bis": 8, "bis": 122, "typ": "at",
+      "referenz": "Hes 23,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel23,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Verbrennen: Wiederholung von 17,16 (Hes 23,25-29), dort aktiv."
+    },
+    {
+      "vers_von": 8, "von": 129, "vers_bis": 8, "bis": 152, "typ": "at",
+      "referenz": "Jer 50,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia50,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Im Babel-Spruch: »ihr Erlöser ist stark … er wird ihre Sache mit Nachdruck führen« (Jer 50,34) – Anklang, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 9, "von": 0, "vers_bis": 10, "bis": 123, "typ": "at",
+      "referenz": "Hes 26,16-17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel26,16-17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vorlage ist Hesekiels Totenklage über die Handelsstadt Tyrus: Die »Fürsten des Meeres« steigen von ihren Thronen, kleiden sich in Trauer und klagen: »Ach, wie bist du untergegangen … du hochberühmte Stadt, die da mächtig auf dem Meere war« (Hes 26,16-17). Hes 27 setzt die Klage fort (V11-19): Babylon erhält das Klagelied über Tyrus."
+    },
+    {
+      "vers_von": 9, "von": 121, "vers_bis": 9, "bis": 153, "typ": "at",
+      "referenz": "Jes 34,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja34,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Rauch des Brandes: Wiederholung von 14,11 (Jes 34,10), dort aktiv. Gilt auch für V18."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 53, "typ": "at",
+      "referenz": "Hes 27,31.36", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel27,31-36",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weinende und zischende Kaufleute wie über Tyrus (Hes 27,31.36) – durch die Tyrus-Tooltips zu V9-10, V12-13 und V17-19 abgedeckt. Gilt auch für V15."
+    },
+    {
+      "vers_von": 12, "von": 0, "vers_bis": 13, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 27,12-24", "url": "https://www.bibleserver.com/MENG/Hesekiel27,12-24" },
+        { "label": "Hes 27,13", "url": "https://www.bibleserver.com/MENG/Hesekiel27,13" }
+      ],
+      "begruendung": "Die Warenliste folgt Hesekiels Klage über Tyrus, die seine Handelsgüter aufzählt: Gold, Silber, Edelsteine, Purpur, feine Leinwand, Elefantenzähne, eherne Geräte, Eisen, Weizen, Öl, Wein, Lämmer, Rosse (Hes 27,12-24). Auch dort ist der Mensch Ware: »Sklaven« (Hes 27,13; hebr. »Menschenseelen«)."
+    },
+    {
+      "vers_von": 16, "von": 43, "vers_bis": 16, "bis": 169, "typ": "at",
+      "referenz": "Jer 4,30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia4,30",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Purpur, Scharlach, Goldschmuck: Wiederholung von 17,4 (Jer 4,30), dort aktiv."
+    },
+    {
+      "vers_von": 17, "von": 0, "vers_bis": 19, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 27,29-33", "url": "https://www.bibleserver.com/MENG/Hesekiel27,29-33" }
+      ],
+      "begruendung": "Zug um Zug nach Hes 27,29-33: Die Seeleute treten ans Land, erheben lauten Wehruf, »werden sich Staub aufs Haupt streuen« (Trauergestus) und klagen: »Welcher Ort ist so totenstill wie Tyrus« (Hes 27,32; hebr. wörtlich: »Wer ist wie Tyrus«). Tyrus hatte »die Könige der Erde reich gemacht« (Hes 27,33; vgl. V19)."
+    },
+    {
+      "vers_von": 20, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 51,48", "url": "https://www.bibleserver.com/MENG/Jeremia51,48" },
+        { "label": "5. Mo 32,43", "url": "https://www.bibleserver.com/MENG/5.Mose32,43" }
+      ],
+      "begruendung": "Nach Jer 51,48: »Dann werden Himmel und Erde samt allem, was in ihnen ist, über Babylon jubeln«. Das Moselied ruft zum Jubel, denn Gott »wird das Blut seiner Knechte rächen« (5. Mo 32,43; griech. AT: »Jubelt, ihr Himmel«). Der Ruf der Märtyrer (6,10) ist beantwortet."
+    },
+    {
+      "vers_von": 21, "von": 0, "vers_bis": 21, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 51,63-64", "url": "https://www.bibleserver.com/MENG/Jeremia51,63-64" },
+        { "label": "Hes 26,21", "url": "https://www.bibleserver.com/MENG/Hesekiel26,21" }
+      ],
+      "begruendung": "Zeichenhandlung wie bei Jeremia: Seraja soll die Rolle mit den Babel-Sprüchen an einen Stein binden, in den Euphrat werfen und ausrufen: »So soll auch Babylon versinken und nicht wieder hochkommen« (Jer 51,63-64). Über Tyrus: »man wird dich suchen, aber dich in Ewigkeit nicht mehr finden!« (Hes 26,21)."
+    },
+    {
+      "vers_von": 22, "von": 0, "vers_bis": 22, "bis": 121, "typ": "at",
+      "referenz": "Hes 26,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel26,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie über Tyrus: »So will ich dem Getön deiner Lieder ein Ende machen, und der Klang deiner Harfen soll nicht mehr vernommen werden« (Hes 26,13)."
+    },
+    {
+      "vers_von": 22, "von": 0, "vers_bis": 22, "bis": 121, "typ": "at",
+      "referenz": "Jes 24,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja24,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Verstummte Festmusik (Jes 24,8) – Hes 26,13 (aktiv) trifft genauer."
+    },
+    {
+      "vers_von": 22, "von": 194, "vers_bis": 23, "bis": 133, "typ": "at",
+      "referenz": "Jer 25,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia25,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jer 25,10 macht Gott durch Babel in Juda »jedem Bräutigamsjubel und jedem Brautgesang, dem Schall der Handmühlen und dem Licht der Lampen ein Ende« – Brot, Licht, Hochzeit: das Ende des Alltags. Was Babel über Jerusalem brachte, trifft nun Babel selbst."
+    },
+    {
+      "vers_von": 23, "von": 57, "vers_bis": 23, "bis": 133, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jer 7,34", "url": "https://www.bibleserver.com/MENG/Jeremia7,34" },
+        { "label": "Jer 16,9", "url": "https://www.bibleserver.com/MENG/Jeremia16,9" }
+      ],
+      "begruendung": "Dieselbe Formel vom verstummten Bräutigamsjubel steht Jer 7,34; 16,9 – Jer 25,10 (aktiv) trägt, weil dort auch Mühle und Lampe stehen."
+    },
+    {
+      "vers_von": 23, "von": 134, "vers_bis": 23, "bis": 188, "typ": "at",
+      "referenz": "Jes 23,8", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja23,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wie bei Tyrus, »deren Kaufleute Fürsten, deren Großhändler die Geehrtesten der Erde waren« (Jes 23,8). Babylon trägt die Züge der Handelsmacht Tyrus (vgl. 17,2)."
+    },
+    {
+      "vers_von": 23, "von": 194, "vers_bis": 23, "bis": 254, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Nah 3,4", "url": "https://www.bibleserver.com/MENG/Nahum3,4" },
+        { "label": "Jes 47,9.12", "url": "https://www.bibleserver.com/MENG/Jesaja47,9-12" }
+      ],
+      "begruendung": "Zauberkünste wie bei Ninive (Nah 3,4, in 17,1 aktiv) und Babel (Jes 47,9.12; Jes 47 in V7-8 aktiv). Die Fußnote erklärt das Wort."
+    },
+    {
+      "vers_von": 24, "von": 0, "vers_bis": 24, "bis": -1, "typ": "at",
+      "referenz": "Jer 51,49", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,49",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jer 51,49: »Auch Babylon muß fallen um der erschlagenen Israeliten willen, wie um Babylons willen Erschlagene auf der ganzen Erde gefallen sind.« Hier über die Märtyrer hinaus: alle auf der Erde Ermordeten (vgl. 6,10; 17,6)."
+    }
+  ]
+}

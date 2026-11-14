@@ -1,0 +1,347 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 19,
+  "titel": "Hochzeit des Lammes · Die Messiasschlacht",
+  "abschnitte": [
+    { "id": "jubel", "vers_von": 1, "vers_bis": 10, "titel": "Der Jubel im Himmel über den Fall Babylons; die bevorstehende Hochzeit des Lammes" },
+    { "id": "messiasschlacht", "vers_von": 11, "vers_bis": 21, "titel": "Die Messiasschlacht; die Vernichtung des Tieres und seines Anhangs" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 101, "vers_bis": 1, "bis": 111, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 104,35", "url": "https://www.bibleserver.com/MENG/Psalm104,35" },
+        { "label": "Ps 113,1", "url": "https://www.bibleserver.com/MENG/Psalm113,1" }
+      ],
+      "begruendung": "Hebr. »Lobt Jah(we)!« – im NT nur hier (V1-6). Ruf der Psalmen, erstmals Ps 104,35 nach der Bitte: »Möchten die Sünder verschwinden vom Erdboden«. Ps 113-118 (»Hallel«) sang man an Passa und Laubhütten. V5 übersetzt: »Lobet unsern Gott«."
+    },
+    {
+      "vers_von": 1, "von": 112, "vers_bis": 1, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Ps 3,9", "url": "https://www.bibleserver.com/MENG/Psalm3,9" },
+        { "label": "1. Chr 29,11", "url": "https://www.bibleserver.com/MENG/1.Chronik29,11" }
+      ],
+      "begruendung": "Wiederholung von 7,10 (Ps 3,9, dort aktiv) und 5,12 (1. Chr 29,11, dort inaktiv)."
+    },
+    {
+      "vers_von": 2, "von": 5, "vers_bis": 2, "bis": 47, "typ": "at",
+      "referenz": "Ps 19,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm19,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 16,5.7 (Ps 119,137; Ps 19,10), dort aktiv."
+    },
+    {
+      "vers_von": 2, "von": 112, "vers_bis": 2, "bis": 130, "typ": "at",
+      "referenz": "Jer 51,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia51,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Erde verderben: Wiederholung von 11,18 (Jer 51,25, dort inaktiv); griech. dasselbe Verb."
+    },
+    {
+      "vers_von": 2, "von": 136, "vers_bis": 2, "bis": 182, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2. Kön 9,7", "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige9,7" },
+        { "label": "5. Mo 32,43", "url": "https://www.bibleserver.com/MENG/5.Mose32,43" }
+      ],
+      "begruendung": "Wortlaut von Jehus Auftrag: »damit ich das Blut … meiner Knechte … an Isebel räche« (2. Kön 9,7). Die Buhlerin trägt Isebels Züge (vgl. 2,20; 2. Kön 9,22). Erfüllt ist 5. Mo 32,43 und der Ruf der Märtyrer (6,10)."
+    },
+    {
+      "vers_von": 3, "von": 43, "vers_bis": 3, "bis": 93, "typ": "at",
+      "referenz": "Jes 34,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja34,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 14,11 (Jes 34,10), dort aktiv; vgl. 18,9."
+    },
+    {
+      "vers_von": 4, "von": 137, "vers_bis": 4, "bis": 153, "typ": "at",
+      "referenz": "Ps 106,48", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm106,48",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wortgleich mit Ps 106,48 (»Und alles Volk sage ›Amen!‹ Halleluja!«), Abschluss des 4. Psalmbuchs. Gemeinde-Amen wie 5,14 (dort inaktiv), Halleluja in V1 erklärt."
+    },
+    {
+      "vers_von": 5, "von": 48, "vers_bis": 5, "bis": 140, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Ps 113,1", "url": "https://www.bibleserver.com/MENG/Psalm113,1" },
+        { "label": "Ps 115,13", "url": "https://www.bibleserver.com/MENG/Psalm115,13" }
+      ],
+      "begruendung": "»Lobet … ihr Knechte« übersetzt das Halleluja (Ps 113,1; V1 aktiv). »Die Kleinen wie die Großen« wie Ps 115,13 (11,18 inaktiv) – geläufige Gebetssprache."
+    },
+    {
+      "vers_von": 6, "von": 82, "vers_bis": 6, "bis": 150, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Hes 43,2", "url": "https://www.bibleserver.com/MENG/Hesekiel43,2" },
+        { "label": "Hes 1,24", "url": "https://www.bibleserver.com/MENG/Hesekiel1,24" }
+      ],
+      "begruendung": "Rauschen vieler Wasser: Wiederholung von 1,15 und 14,2 (Hes 43,2). Hes 1,24 verbindet ebenso »gewaltige Wasser«, »Donner des Allmächtigen« und »Getöse eines Heerlagers« – nur Anklang."
+    },
+    {
+      "vers_von": 6, "von": 180, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Ps 97,1", "url": "https://www.bibleserver.com/MENG/Psalm97,1" },
+        { "label": "Ps 99,1", "url": "https://www.bibleserver.com/MENG/Psalm99,1" }
+      ],
+      "begruendung": "Ruf der Königspsalmen »Der HERR ist König!« (Ps 97,1; 99,1): Wiederholung von 11,17-18, dort aktiv."
+    },
+    {
+      "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 33, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Ps 118,24", "url": "https://www.bibleserver.com/MENG/Psalm118,24" },
+        { "label": "Jes 25,9", "url": "https://www.bibleserver.com/MENG/Jesaja25,9" }
+      ],
+      "begruendung": "Anklang an Ps 118,24 (»laßt uns jubeln und fröhlich an ihm sein«), Schluss des Hallel, und Jes 25,9 (Abschnitt des Endzeitmahls, V9) – geläufige Jubelformel."
+    },
+    {
+      "vers_von": 7, "von": 63, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 54,5", "url": "https://www.bibleserver.com/MENG/Jesaja54,5" },
+        { "label": "Hos 2,21-22", "url": "https://www.bibleserver.com/MENG/Hosea2,21-22" },
+        { "label": "Jes 62,5", "url": "https://www.bibleserver.com/MENG/Jesaja62,5" }
+      ],
+      "begruendung": "Im AT ist Gott Israels Ehemann: »der dich geschaffen hat, ist dein Eheherr« (Jes 54,5); »ich will dich mir verloben auf ewig … in Treue« (Hos 2,21-22); »wie der Bräutigam seine Freude an der Braut hat« (Jes 62,5). Diese Rolle hat das Lamm. Gegenbild zur Buhlerin: Untreue gegen Gott hieß bei den Propheten Hurerei."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 8, "bis": 138, "typ": "at",
+      "referenz": "Jes 61,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Jes 61,10: »Er hat mich in Gewänder des Heils gekleidet, mir den Mantel der Gerechtigkeit umgelegt … wie eine Braut«. Das Kleid ist geschenkt (»verliehen«) und steht für gelebte Gerechtigkeit. Gegenbild zur Buhlerin, die sich »in feine Leinwand, in Purpur und Scharlach« kleidete (18,16)."
+    },
+    {
+      "vers_von": 8, "von": 38, "vers_bis": 8, "bis": 61, "typ": "at",
+      "referenz": "Hes 16,10-13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel16,10-13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott kleidete die Braut Jerusalem in Byssus (Hes 16,10.13), bevor sie zur Hure wurde (Hes 16 in 17,16 aktiv). Durch Jes 61,10 abgedeckt."
+    },
+    {
+      "vers_von": 9, "von": 56, "vers_bis": 9, "bis": 92, "typ": "at",
+      "referenz": "Jes 25,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja25,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 25,6: Gott bereitet »allen Völkern auf diesem Berge ein Gastmahl«. Daraus erwuchs die jüdische Erwartung des Festmahls der Endzeit (vgl. Mt 8,11; 22,2)."
+    },
+    {
+      "vers_von": 9, "von": 135, "vers_bis": 9, "bis": 164, "typ": "at",
+      "referenz": "2. Sam 7,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Deine Worte sind Wahrheit« (2. Sam 7,28) – geläufige Bekräftigungsformel, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 10, "von": 177, "vers_bis": 10, "bis": 190, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 20,3-5", "url": "https://www.bibleserver.com/MENG/2.Mose20,3-5" },
+        { "label": "5. Mo 6,13", "url": "https://www.bibleserver.com/MENG/5.Mose6,13" }
+      ],
+      "begruendung": "Anbetung gebührt allein Gott (2. Mo 20,3-5; 5. Mo 6,13), auch kein Engel darf sie annehmen – ohne Vorwissen verständlich; vgl. 22,8-9."
+    },
+    {
+      "vers_von": 10, "von": 220, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 11,29", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose11,29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Moses Wunsch: »Möchte doch das ganze Volk des HERRN zu Propheten werden« (4. Mo 11,29; vgl. Joel 3,1). Anklang: Wer das Zeugnis Jesu hat, redet prophetisch – ohne Formulierungsbezug."
+    },
+    {
+      "vers_von": 11, "von": 13, "vers_bis": 11, "bis": 64, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Hes 1,1", "url": "https://www.bibleserver.com/MENG/Hesekiel1,1" },
+        { "label": "Sach 6,3", "url": "https://www.bibleserver.com/MENG/Sacharja6,3" }
+      ],
+      "begruendung": "Offener Himmel wie 4,1 (Hes 1,1, dort inaktiv); weißes Ross wie 6,2 (Sach 6,2-5, dort aktiv)."
+    },
+    {
+      "vers_von": 11, "von": 66, "vers_bis": 11, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 11,4-5", "url": "https://www.bibleserver.com/MENG/Jesaja11,4-5" },
+        { "label": "Ps 45,4-5", "url": "https://www.bibleserver.com/MENG/Psalm45,4-5" }
+      ],
+      "begruendung": "Der Messias aus Isais Stamm richtet »mit Gerechtigkeit«, »die Treue der Gürtel seiner Lenden« (Jes 11,4-5). Ps 45, ein Liebeslied zur Königshochzeit, lässt ihn ausziehen: »Gürte dein Schwert … Fahre siegreich einher für die Sache der Wahrheit« – Hochzeit (V7) und Kampf gehören dort zusammen. »Treu und Wahrhaftig« vgl. 3,14."
+    },
+    {
+      "vers_von": 11, "von": 138, "vers_bis": 11, "bis": 164, "typ": "at",
+      "referenz": "Jes 59,16-17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja59,16-17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott als Krieger legt Gerechtigkeit als Panzer an (Jes 59,17) – nur Anklang, durch Jes 11,4-5 abgedeckt."
+    },
+    {
+      "vers_von": 12, "von": 0, "vers_bis": 12, "bis": 44, "typ": "at",
+      "referenz": "Dan 10,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,14 und 2,18 (Dan 10,6), dort aktiv."
+    },
+    {
+      "vers_von": 12, "von": 111, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Ri 13,18", "url": "https://www.bibleserver.com/MENG/Richter13,18" },
+        { "label": "1. Mo 32,30", "url": "https://www.bibleserver.com/MENG/1.Mose32,30" }
+      ],
+      "begruendung": "Der Engel des HERRN verweigert seinen Namen (Ri 13,18; vgl. 1. Mo 32,30) – nur Anklang, ohne Formulierungsbezug."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 13, "bis": 53, "typ": "at",
+      "referenz": "Jes 63,1-3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja63,1-3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bild aus Jes 63,2-3: »Woher rührt das Rot an deinem Gewande?« – »Die Kelter habe ich getreten … ihr Lebenssaft ist an meine Kleider gespritzt«. Dort ist es das Blut der Feinde (vgl. V15; 14,20)."
+    },
+    {
+      "vers_von": 13, "von": 59, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "Weish 18,15-16", "vgl": true,
+      "url": "https://www.bibleserver.com/EU/Weisheit18,15-16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In der Passanacht fuhr Gottes »Allmachtswort vom Himmel her von deinem Königsthron wie ein unerbittlicher Krieger« herab, »als scharfes Schwert« trug es seinen Befehl (Weish 18,15-16; Apokryphen). Wort, Krieger und Schwert (V15) sind schon dort eins."
+    },
+    {
+      "vers_von": 14, "von": 0, "vers_bis": 14, "bis": 39, "typ": "at",
+      "referenz": "Sach 14,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja14,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott kommt mit allen Heiligen (Sach 14,5) – nur Anklang. Die weiße Leinwand verweist auf V8."
+    },
+    {
+      "vers_von": 15, "von": 0, "vers_bis": 15, "bis": 49, "typ": "at",
+      "referenz": "Jes 49,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,16 (Jes 49,2; 11,4), dort aktiv."
+    },
+    {
+      "vers_von": 15, "von": 100, "vers_bis": 15, "bis": 137, "typ": "at",
+      "referenz": "Ps 2,9", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 2,9: »mit eiserner Keule zerschmettern« (griech. AT: »weiden«). In 12,5 dem Messias angekündigt, hier vollzogen."
+    },
+    {
+      "vers_von": 15, "von": 154, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "Jes 63,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja63,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 14,19-20 (Jes 63,3; Joel 4,13), dort aktiv; s. V13."
+    },
+    {
+      "vers_von": 16, "von": 28, "vers_bis": 16, "bis": 43, "typ": "at",
+      "referenz": "Jes 11,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja11,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Die Gerechtigkeit wird der Gurt seiner Hüften sein« (Jes 11,5, in V11 aktiv) – möglicher Anklang."
+    },
+    {
+      "vers_von": 16, "von": 77, "vers_bis": 16, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 10,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose10,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 17,14 (5. Mo 10,17; Dan 2,47), dort aktiv."
+    },
+    {
+      "vers_von": 17, "von": 46, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "Hes 39,17-20", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel39,17-20",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Nach Hes 39,17-20 (Gericht über Gog, vgl. 20,8): »sage zu den Vögeln … Versammelt euch … zu dem großen Opferschmaus … Ihr sollt Fleisch fressen«; »sättigen an Rossen und Reitern, an Heerführern und Kriegsleuten aller Art«. Gegenbild zum Hochzeitsmahl (V9)."
+    },
+    {
+      "vers_von": 19, "von": 28, "vers_bis": 19, "bis": 73, "typ": "at",
+      "referenz": "Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 6,16 und 11,15 (Ps 2,2) sowie 16,14 (Zef 3,8), dort aktiv."
+    },
+    {
+      "vers_von": 20, "von": 40, "vers_bis": 20, "bis": 102, "typ": "at",
+      "referenz": "5. Mo 13,2-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose13,2-4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 13,13-14 (5. Mo 13,2-4), dort aktiv."
+    },
+    {
+      "vers_von": 20, "von": 200, "vers_bis": 20, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Dan 7,11", "url": "https://www.bibleserver.com/MENG/Daniel7,11" },
+        { "label": "Jes 30,33", "url": "https://www.bibleserver.com/MENG/Jesaja30,33" }
+      ],
+      "begruendung": "Erfüllt Dan 7,11: Das Tier wird getötet und »zum Verbrennen dem Feuer übergeben« (angekündigt 17,11). Der Feuersee erscheint hier erstmals. Vorbild Jes 30,33: Eine »Greuelbrandstätte« (Tofet im Hinnomtal = Gehenna) ist »für den König bestimmt«, »gleich einem Schwefelstrom« entzündet."
+    },
+    {
+      "vers_von": 20, "von": 200, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 16,33", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose16,33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Lebend« fuhr Korahs Rotte ins Totenreich (4. Mo 16,33; 12,16 aktiv) – nur Anklang."
+    },
+    {
+      "vers_von": 21, "von": 120, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "Hes 39,20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel39,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ausführung von V17-18 (Hes 39,17-20), dort aktiv."
+    }
+  ]
+}

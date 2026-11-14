@@ -1,0 +1,270 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 16,
+  "titel": "Die Ausgießung der sieben Zornschalen",
+  "abschnitte": [
+    { "id": "zornschalen", "vers_von": 1, "vers_bis": 21, "titel": "Die Ausgießung der sieben Zornschalen" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 14, "vers_bis": 1, "bis": 46, "typ": "at",
+      "referenz": "Jes 66,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja66,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja: »Horch, vom Tempel her! Horch, der HERR zahlt seinen Feinden den gebührenden Lohn heim!« (Jes 66,6). Den Tempel kann niemand betreten (15,8): Die Stimme ist Gottes eigene. Gilt auch für V17."
+    },
+    {
+      "vers_von": 1, "von": 89, "vers_bis": 1, "bis": 153, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 79,6", "url": "https://www.bibleserver.com/MENG/Psalm79,6" },
+        { "label": "Jer 10,25", "url": "https://www.bibleserver.com/MENG/Jeremia10,25" }
+      ],
+      "begruendung": "Gebetsruf der Klagepsalmen: »Gieß deine Zornglut über die Heiden aus, die dich nicht kennen« (Ps 79,6; fast gleich Jer 10,25). Derselbe Psalm fragt nach der Rache für das Blut der Knechte Gottes (vgl. 6,10). Mit den Zornschalen wird diese Bitte erhört (vgl. V6)."
+    },
+    {
+      "vers_von": 2, "von": 61, "vers_bis": 2, "bis": 118, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2. Mo 9,8-11", "url": "https://www.bibleserver.com/MENG/2.Mose9,8-11" },
+        { "label": "2. Mo 9,26", "url": "https://www.bibleserver.com/MENG/2.Mose9,26" }
+      ],
+      "begruendung": "Sechste Plage Ägyptens: Beulen, die als Geschwüre aufbrachen – selbst an den Zauberern, die Moses Wunder nachgeahmt hatten (2. Mo 9,10-11; vgl. 13,13). Wie die Posaunen (8,7) folgen die Schalen den Plagen Ägyptens: Blut (V3-4), Finsternis (V10), Frösche (V13), Hagel (V21) – jetzt nicht mehr auf ein Drittel begrenzt. Wie damals das Land Gosen verschont blieb (2. Mo 9,26), trifft es nur die Anhänger des Tieres."
+    },
+    {
+      "vers_von": 2, "von": 70, "vers_bis": 2, "bis": 102, "typ": "at",
+      "referenz": "5. Mo 28,27.35", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose28,27-35",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bundesfluch: »mit den Geschwüren Ägyptens«, »mit bösen Geschwüren« (5. Mo 28,27.35) – passt zu 15,1 (3. Mo 26); die Plagenlinie (2. Mo 9) trägt bereits."
+    },
+    {
+      "vers_von": 3, "von": 50, "vers_bis": 3, "bis": 69, "typ": "at",
+      "referenz": "2. Mo 7,20-21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose7,20-21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Meer zu Blut: Wiederholung von 8,8 (2. Mo 7,20-21), dort aktiv – jetzt das ganze Meer statt eines Drittels; Plagen-Rahmen im Tooltip zu V2."
+    },
+    {
+      "vers_von": 4, "von": 76, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 7,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose7,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "In Ägypten wurden alle Gewässer zu Blut, Ströme, Kanäle und Teiche (2. Mo 7,19) – durch 8,8 und den Tooltip zu V2 abgedeckt."
+    },
+    {
+      "vers_von": 5, "von": 45, "vers_bis": 5, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 119,137", "url": "https://www.bibleserver.com/MENG/Psalm119,137" },
+        { "label": "Ps 19,10", "url": "https://www.bibleserver.com/MENG/Psalm19,10" }
+      ],
+      "begruendung": "Wie Ps 119,137: »Gerecht bist du, o HERR, und richtig sind deine Rechte«; »die Gerichtsurteile des HERRN sind Wahrheit: sind allzumal gerecht« (Ps 19,10; vgl. V7). Mitten in den Plagen bestätigt der Himmel: Die Strafe ist keine Willkür, sondern Recht."
+    },
+    {
+      "vers_von": 5, "von": 62, "vers_bis": 5, "bis": 103, "typ": "at",
+      "referenz": "2. Mo 3,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottesname wie 11,17 (vgl. 2. Mo 3,14), dort aktiv: ohne »der da kommt« – Gott ist gekommen. »Du Heiliger« wie 3,7 (dort inaktiv)."
+    },
+    {
+      "vers_von": 6, "von": 62, "vers_bis": 6, "bis": 105, "typ": "at",
+      "referenz": "Jes 49,26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,26",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Strafe nach dem Maß der Tat: Wer Blut vergoss, muss Blut trinken. Gott verheißt seinem bedrängten Volk, die Peiniger »sollen sich an ihrem eigenen Blute berauschen« (Jes 49,26). Antwort auf den Ruf der Märtyrer unter dem Altar (6,10; vgl. V7)."
+    },
+    {
+      "vers_von": 7, "von": 61, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "Ps 19,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm19,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von V5 (Ps 19,10) und 15,3 (5. Mo 32,4, dort aktiv). Der Altar antwortet als Ort der Märtyrer (6,9-10)."
+    },
+    {
+      "vers_von": 8, "von": 91, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "Jes 49,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gegenbild zu 7,16: Die Erlösten trifft »weder der Glutwind noch der Sonnenbrand« (Jes 49,10, dort aktiv); hier versengt die Sonne die Anhänger des Tieres."
+    },
+    {
+      "vers_von": 9, "von": 58, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Am 4,6-11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos4,6-11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Keine Umkehr trotz der Plagen: Wiederholung von 9,20-21 (Am 4,6-11; 2. Mo 9,34), dort aktiv. Gilt auch für V11 und V21. Gegensatz zu 11,13 und 14,7 (»gebt ihm die Ehre«)."
+    },
+    {
+      "vers_von": 10, "von": 62, "vers_bis": 10, "bis": 93, "typ": "at",
+      "referenz": "2. Mo 10,21-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose10,21-23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Finsternis: Wiederholung von 8,12 (2. Mo 10,21-23), dort aktiv; im Tooltip zu V2 erwähnt."
+    },
+    {
+      "vers_von": 12, "von": 71, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 51,36", "url": "https://www.bibleserver.com/MENG/Jeremia51,36" },
+        { "label": "Jes 44,27-28", "url": "https://www.bibleserver.com/MENG/Jesaja44,27-28" },
+        { "label": "Jes 41,25", "url": "https://www.bibleserver.com/MENG/Jesaja41,25" }
+      ],
+      "begruendung": "Gegen Babylon kündigt Gott an: »ich trockne Babylons Strom aus« (Jer 51,36). Bei Jesaja spricht er zur Tiefe »Werde trocken!« und nennt gleich darauf Cyrus (Jes 44,27-28), den Perserkönig, den er »vom Aufgang der Sonne her« erweckt (Jes 41,25). Cyrus eroberte 539 v. Chr. Babylon – nach Herodot, indem er den Euphrat ableitete und durch das Flussbett eindrang. Hier macht das Austrocknen den Weg frei für die Könige aus dem Osten; Babylons Gericht folgt in V19."
+    },
+    {
+      "vers_von": 12, "von": 71, "vers_bis": 12, "bis": -1, "typ": "at",
+      "referenz": "Jes 11,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja11,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott zerschlägt den Euphrat »zu sieben Bächen, so daß man mit Sandalen hindurchgehen kann« (Jes 11,15) – dort Heimweg der Verbannten; nur Anklang, die Babylon-Linie (Jer 51,36) trägt."
+    },
+    {
+      "vers_von": 13, "von": 69, "vers_bis": 13, "bis": 105, "typ": "at",
+      "referenz": "1. Kön 22,20-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige22,20-23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vorbild bei Micha ben Jimla: Ein Geist will »zum Lügengeist im Munde aller seiner Propheten« werden, um König Ahab zu betören, »daß er zu Felde ziehe und bei Ramoth in Gilead falle« (1. Kön 22,20-22). So locken die Geister aus dem Mund des falschen Propheten die Könige zum Kampf (V14) – in ihren Untergang."
+    },
+    {
+      "vers_von": 13, "von": 106, "vers_bis": 13, "bis": 138, "typ": "at",
+      "referenz": "2. Mo 8,2-3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose8,2-3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Zweite Plage Ägyptens: Frösche bedeckten das Land – und die Zauberer ließen durch ihre Geheimkünste ebenfalls Frösche kommen (2. Mo 8,2-3). Wie sie wirken diese Geister Scheinwunder (V14; vgl. 13,13-14)."
+    },
+    {
+      "vers_von": 13, "von": 106, "vers_bis": 13, "bis": 138, "typ": "at",
+      "referenz": "Sach 13,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja13,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Falsche Propheten und »der unreine Geist« in einem Atemzug (Sach 13,2) – durch 1. Kön 22,20-23 (aktiv) genauer abgedeckt."
+    },
+    {
+      "vers_von": 14, "von": 68, "vers_bis": 14, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Zef 3,8", "url": "https://www.bibleserver.com/MENG/Zefanja3,8" },
+        { "label": "Sach 14,2", "url": "https://www.bibleserver.com/MENG/Sacharja14,2" }
+      ],
+      "begruendung": "Prophetisches Bild vom letzten Völkersturm: Gottes Gericht besteht darin, »daß ich Völker versammle und Königreiche zusammenbringe, um meinen Grimm über sie auszugießen« (Zef 3,8; vgl. V1); »alle Völker zum Kriege gegen Jerusalem« (Sach 14,2). Die Dämonen sammeln die Könige zum Angriff – und führen sie damit zu Gottes Gerichtstag."
+    },
+    {
+      "vers_von": 14, "von": 132, "vers_bis": 14, "bis": 181, "typ": "at",
+      "referenz": "Joel 2,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel2,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Großer Tag«: Wiederholung von 6,17 (Joel 2,11; Zef 1,14-15), dort aktiv. »Könige des Erdkreises« wie Ps 2,2 (in 6,16 aktiv)."
+    },
+    { "vers_von": 15, "von": 0, "vers_bis": 15, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 15, "von": 59, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "Jes 47,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja47,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Aufgedeckte Blöße als Schande: Wiederholung von 3,18 (Jes 47,3; Hes 16,37, dort inaktiv). »Wie ein Dieb« hat keine AT-Vorlage (vgl. 3,3; Mt 24,43)."
+    },
+    {
+      "vers_von": 16, "von": 95, "vers_bis": 16, "bis": 107, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ri 5,19", "url": "https://www.bibleserver.com/MENG/Richter5,19" },
+        { "label": "2. Kön 23,29", "url": "https://www.bibleserver.com/MENG/2.K%C3%B6nige23,29" },
+        { "label": "Sach 12,11", "url": "https://www.bibleserver.com/MENG/Sacharja12,11" }
+      ],
+      "begruendung": "Hebr. Har Megiddo, »Berg von Megiddo«. Megiddo beherrschte den Zugang zur Jesreel-Ebene, Israels klassisches Schlachtfeld: Dort »stritten die Könige Kanaans« (Ri 5,19), dort fiel König Josia (2. Kön 23,29); die Trauer »in der Ebene von Megiddo« wurde sprichwörtlich (Sach 12,11). Ein »Berg« Megiddo ist sonst nicht belegt – der Name ist eher Sinnbild als Ortsangabe."
+    },
+    {
+      "vers_von": 17, "von": 131, "vers_bis": 17, "bis": -1, "typ": "at",
+      "referenz": "Hes 39,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel39,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Beim Gericht über Gog: »es kommt und geht in Erfüllung … das ist der Tag, auf den ich hingewiesen habe« (Hes 39,8) – Anklang ohne Wortlaut; ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": 43, "typ": "at",
+      "referenz": "2. Mo 19,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sinai-Zeichen: Wiederholung von 4,5; 8,5; 11,19 (2. Mo 19,16), in 4,5 aktiv."
+    },
+    {
+      "vers_von": 18, "von": 83, "vers_bis": 18, "bis": 155, "typ": "at",
+      "referenz": "Dan 12,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Formel des Beispiellosen wie Dan 12,1 (»wie noch keine dagewesen ist, seitdem es Völker gibt«) und beim Hagel in Ägypten (2. Mo 9,24) – ohne Vorwissen verständlich; Dan 12,1 in 3,5 und 7,14 aktiv."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 40, "typ": "at",
+      "referenz": "Hes 5,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel5,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Keine AT-Vorlage; die Dreiteilung erinnert nur entfernt an das in Dritteln gerichtete Jerusalem (Hes 5,2, in 8,7 aktiv)."
+    },
+    {
+      "vers_von": 19, "von": 86, "vers_bis": 19, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jer 25,26", "url": "https://www.bibleserver.com/MENG/Jeremia25,15-26" },
+        { "label": "Jer 51,41", "url": "https://www.bibleserver.com/MENG/Jeremia51,41" }
+      ],
+      "begruendung": "Wie in 14,10 (Jer 25,15): Jeremia reicht den Zornesbecher allen Völkern, einem nach dem andern; »der König von Sesach aber muß nach ihnen trinken« (Jer 25,26). Sesach ist ein Deckname für Babel (vgl. Jer 51,41), gebildet durch Vertauschen der hebräischen Buchstaben. Wie dort trinkt Babylon zuletzt (vgl. 14,8). »Gedacht«: Gott hat ihre Taten nicht vergessen."
+    },
+    {
+      "vers_von": 20, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "Jes 54,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja54,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Weichende Berge und Inseln: Wiederholung von 6,14 (Jes 54,10, dort inaktiv)."
+    },
+    {
+      "vers_von": 21, "von": 0, "vers_bis": 21, "bis": 95, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2. Mo 9,24", "url": "https://www.bibleserver.com/MENG/2.Mose9,24" },
+        { "label": "Jos 10,11", "url": "https://www.bibleserver.com/MENG/Josua10,11" },
+        { "label": "Hes 38,19-22", "url": "https://www.bibleserver.com/MENG/Hesekiel38,19-22" }
+      ],
+      "begruendung": "Siebte Plage Ägyptens war Hagel (2. Mo 9,24; vgl. 8,7). Mit Hagel kämpft Gott gegen verbündete Könige: Bei Beth-Horon ließ er »große Steine vom Himmel« auf das Heer der fünf Amoriterkönige fallen (Jos 10,11). Gegen Gog und seine Völker kündigt er ein großes Erdbeben an, stürzende Berge und Mauern, dann »Hagelsteine« (Hes 38,19-22) – dieselbe Folge wie hier (V18-21). Griech. »talentschwer«: ein Talent wog rund 30 kg."
+    }
+  ]
+}

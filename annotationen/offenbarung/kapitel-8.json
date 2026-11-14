@@ -115,7 +115,7 @@
     },
     {
       "vers_von": 2, "von": 30, "vers_bis": 2, "bis": 49, "typ": "at",
-      "referenz": "vgl. Tob 12,15", "vgl": true,
+      "referenz": "Tob 12,15", "vgl": true,
       "url": "https://www.bibleserver.com/EU/Tobit12,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -123,7 +123,7 @@
     },
     {
       "vers_von": 4, "von": 4, "vers_bis": 4, "bis": 64, "typ": "at",
-      "referenz": "vgl. Ps 141,2", "vgl": true,
+      "referenz": "Ps 141,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm141,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -131,7 +131,7 @@
     },
     {
       "vers_von": 5, "von": 137, "vers_bis": 5, "bis": -1, "typ": "at",
-      "referenz": "vgl. 2. Mo 19,16.18", "vgl": true,
+      "referenz": "2. Mo 19,16.18", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose19,16-18",
       "autor": "KI",
       "status": "inaktiv",
@@ -139,7 +139,7 @@
     },
     {
       "vers_von": 8, "von": 64, "vers_bis": 8, "bis": 118, "typ": "at",
-      "referenz": "vgl. Jer 51,25", "vgl": true,
+      "referenz": "Jer 51,25", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jeremia51,25",
       "autor": "KI",
       "status": "inaktiv",
@@ -147,7 +147,7 @@
     },
     {
       "vers_von": 10, "von": 43, "vers_bis": 10, "bis": 114, "typ": "at",
-      "referenz": "vgl. Jes 14,12", "vgl": true,
+      "referenz": "Jes 14,12", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja14,12",
       "autor": "KI",
       "status": "inaktiv",
@@ -155,7 +155,7 @@
     },
     {
       "vers_von": 11, "von": 141, "vers_bis": 11, "bis": -1, "typ": "at",
-      "referenz": "vgl. 2. Mo 15,23", "vgl": true,
+      "referenz": "2. Mo 15,23", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose15,23",
       "autor": "KI",
       "status": "inaktiv",
@@ -163,7 +163,7 @@
     },
     {
       "vers_von": 13, "von": 104, "vers_bis": 13, "bis": 144, "typ": "at",
-      "referenz": "vgl. Jes 5,8-22", "vgl": true,
+      "referenz": "Jes 5,8-22", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja5,8-22",
       "autor": "KI",
       "status": "inaktiv",
@@ -171,7 +171,7 @@
     },
     {
       "vers_von": 1, "von": 45, "vers_bis": 1, "bis": 75, "typ": "at",
-      "referenz": "vgl. Lk 1,10", "vgl": true,
+      "referenz": "Lk 1,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Lukas1,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -179,7 +179,7 @@
     },
     {
       "vers_von": 3, "von": 36, "vers_bis": 3, "bis": 68, "typ": "at",
-      "referenz": "vgl. 1. Kön 7,50", "vgl": true,
+      "referenz": "1. Kön 7,50", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Koenige7,50",
       "autor": "KI",
       "status": "inaktiv",
@@ -198,7 +198,7 @@
     },
     {
       "vers_von": 12, "von": 43, "vers_bis": 12, "bis": 73, "typ": "at",
-      "referenz": "vgl. Sach 13,8-9", "vgl": true,
+      "referenz": "Sach 13,8-9", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Sacharja13,8-9",
       "autor": "KI",
       "status": "inaktiv",

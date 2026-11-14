@@ -22,7 +22,7 @@
     },
     {
       "vers_von": 1, "von": 120, "vers_bis": 1, "bis": -1, "typ": "at",
-      "referenz": "vgl. Hes 9,4", "vgl": true,
+      "referenz": "Hes 9,4", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel9,4",
       "autor": "KI",
       "status": "inaktiv",
@@ -30,7 +30,7 @@
     },
     {
       "vers_von": 2, "von": 42, "vers_bis": 2, "bis": 72, "typ": "at",
-      "referenz": "vgl. Hes 43,2", "vgl": true,
+      "referenz": "Hes 43,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel43,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -38,7 +38,7 @@
     },
     {
       "vers_von": 3, "von": 0, "vers_bis": 3, "bis": 25, "typ": "at",
-      "referenz": "vgl. Ps 98,1", "vgl": true,
+      "referenz": "Ps 98,1", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm98,1",
       "autor": "KI",
       "status": "inaktiv",
@@ -81,7 +81,7 @@
     },
     {
       "vers_von": 6, "von": 100, "vers_bis": 6, "bis": 154, "typ": "at",
-      "referenz": "vgl. Dan 7,14", "vgl": true,
+      "referenz": "Dan 7,14", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,14",
       "autor": "KI",
       "status": "inaktiv",
@@ -127,7 +127,7 @@
     },
     {
       "vers_von": 10, "von": 115, "vers_bis": 10, "bis": 137, "typ": "at",
-      "referenz": "vgl. 1. Mo 19,24", "vgl": true,
+      "referenz": "1. Mo 19,24", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose19,24",
       "autor": "KI",
       "status": "inaktiv",
@@ -143,7 +143,7 @@
     },
     {
       "vers_von": 13, "von": 159, "vers_bis": 13, "bis": 197, "typ": "at",
-      "referenz": "vgl. Dan 12,13", "vgl": true,
+      "referenz": "Dan 12,13", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel12,13",
       "autor": "KI",
       "status": "inaktiv",
@@ -159,7 +159,7 @@
     },
     {
       "vers_von": 14, "von": 111, "vers_bis": 14, "bis": 143, "typ": "at",
-      "referenz": "vgl. Ps 21,4", "vgl": true,
+      "referenz": "Ps 21,4", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm21,4",
       "autor": "KI",
       "status": "inaktiv",
@@ -177,7 +177,7 @@
     },
     {
       "vers_von": 18, "von": 155, "vers_bis": 18, "bis": -1, "typ": "at",
-      "referenz": "vgl. Joel 4,13", "vgl": true,
+      "referenz": "Joel 4,13", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Joel4,13",
       "autor": "KI",
       "status": "inaktiv",
@@ -197,7 +197,7 @@
     },
     {
       "vers_von": 20, "von": 57, "vers_bis": 20, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 34,3", "vgl": true,
+      "referenz": "Jes 34,3", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja34,3",
       "autor": "KI",
       "status": "inaktiv",

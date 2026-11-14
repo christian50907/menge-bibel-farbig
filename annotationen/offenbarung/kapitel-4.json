@@ -71,7 +71,7 @@
     },
     {
       "vers_von": 1, "von": 44, "vers_bis": 1, "bis": 73, "typ": "at",
-      "referenz": "vgl. Hes 1,1",
+      "referenz": "Hes 1,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel1,1",
       "autor": "KI",
@@ -80,7 +80,7 @@
     },
     {
       "vers_von": 1, "von": 211, "vers_bis": 1, "bis": 236, "typ": "at",
-      "referenz": "vgl. Dan 2,29",
+      "referenz": "Dan 2,29",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel2,29",
       "autor": "KI",
@@ -89,7 +89,7 @@
     },
     {
       "vers_von": 1, "von": 259, "vers_bis": 1, "bis": -1, "typ": "at",
-      "referenz": "vgl. Hes 3,12",
+      "referenz": "Hes 3,12",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel3,12",
       "autor": "KI",
@@ -98,7 +98,7 @@
     },
     {
       "vers_von": 2, "von": 11, "vers_bis": 2, "bis": -1, "typ": "at",
-      "referenz": "vgl. 1. Kön 22,19",
+      "referenz": "1. Kön 22,19",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.K%C3%B6nige22,19",
       "autor": "KI",
@@ -107,7 +107,7 @@
     },
     {
       "vers_von": 3, "von": 87, "vers_bis": 3, "bis": 101, "typ": "at",
-      "referenz": "vgl. 1. Mo 9,13",
+      "referenz": "1. Mo 9,13",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose9,13",
       "autor": "KI",
@@ -127,7 +127,7 @@
     },
     {
       "vers_von": 4, "von": 44, "vers_bis": 4, "bis": 65, "typ": "at",
-      "referenz": "vgl. Dan 7,9",
+      "referenz": "Dan 7,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,9",
       "autor": "KI",
@@ -147,7 +147,7 @@
     },
     {
       "vers_von": 6, "von": 30, "vers_bis": 6, "bis": 66, "typ": "at",
-      "referenz": "vgl. 2. Mo 24,10",
+      "referenz": "2. Mo 24,10",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose24,10",
       "autor": "KI",
@@ -156,7 +156,7 @@
     },
     {
       "vers_von": 8, "von": 207, "vers_bis": 8, "bis": -1, "typ": "at",
-      "referenz": "vgl. 2. Mo 3,14",
+      "referenz": "2. Mo 3,14",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose3,14",
       "autor": "KI",
@@ -165,7 +165,7 @@
     },
     {
       "vers_von": 9, "von": 115, "vers_bis": 9, "bis": -1, "typ": "at",
-      "referenz": "vgl. Dan 4,31",
+      "referenz": "Dan 4,31",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel4,31",
       "autor": "KI",
@@ -174,7 +174,7 @@
     },
     {
       "vers_von": 11, "von": 89, "vers_bis": 11, "bis": -1, "typ": "at",
-      "referenz": "vgl. Neh 9,6",
+      "referenz": "Neh 9,6",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Nehemia9,6",
       "autor": "KI",

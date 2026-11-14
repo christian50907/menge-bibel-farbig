@@ -126,7 +126,7 @@
     },
     {
       "vers_von": 2, "von": 84, "vers_bis": 2, "bis": 101, "typ": "at",
-      "referenz": "vgl. Ps 45,5-6",
+      "referenz": "Ps 45,5-6",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm45,5-6",
       "autor": "KI",
@@ -135,7 +135,7 @@
     },
     {
       "vers_von": 4, "von": 193, "vers_bis": 4, "bis": 225, "typ": "at",
-      "referenz": "vgl. Hes 38,21",
+      "referenz": "Hes 38,21",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel38,21",
       "autor": "KI",
@@ -144,7 +144,7 @@
     },
     {
       "vers_von": 8, "von": 80, "vers_bis": 8, "bis": 139, "typ": "at",
-      "referenz": "vgl. Hos 13,14",
+      "referenz": "Hos 13,14",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hosea13,14",
       "autor": "KI",
@@ -153,7 +153,7 @@
     },
     {
       "vers_von": 11, "von": 31, "vers_bis": 11, "bis": 48, "typ": "at",
-      "referenz": "vgl. Sach 3,4",
+      "referenz": "Sach 3,4",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Sacharja3,4",
       "autor": "KI",
@@ -162,7 +162,7 @@
     },
     {
       "vers_von": 14, "von": 69, "vers_bis": 14, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 54,10",
+      "referenz": "Jes 54,10",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja54,10",
       "autor": "KI",

@@ -1,0 +1,261 @@
+{
+  "buch": "Offenbarung",
+  "kapitel": 22,
+  "titel": "Lebensstrom und Lebensbäume · Schluß des Buches",
+  "abschnitte": [
+    { "id": "lebensstrom", "vers_von": 1, "vers_bis": 5, "titel": "Der Lebensstrom, die Lebensbäume, die volle Gottesgemeinschaft und das ewige Lichtreich" },
+    { "id": "verheissung", "vers_von": 6, "vers_bis": 9, "titel": "Verheißung Christi und Bezeugung des Johannes; nicht dem Geschöpf, sondern nur Gott gebührt die Anbetung" },
+    { "id": "mahnung", "vers_von": 10, "vers_bis": 15, "titel": "Weisung und Mahnung des Engels und Rede Jesu" },
+    { "id": "schlusswort", "vers_von": 16, "vers_bis": 21, "titel": "Jesu Schlußwort; Bezeugung des prophetischen Geistes und der Gemeinde; des Johannes Weihespruch für sein Buch; Versicherung, Sehnsuchtsruf und Abschiedsgruß" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 21, "vers_bis": 1, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 47,1-9", "url": "https://www.bibleserver.com/MENG/Hesekiel47,1-9" },
+        { "label": "Sach 14,8", "url": "https://www.bibleserver.com/MENG/Sacharja14,8" },
+        { "label": "1. Mo 2,10", "url": "https://www.bibleserver.com/MENG/1.Mose2,10" }
+      ],
+      "begruendung": "Hesekiel sah Wasser unter der Tempelschwelle hervorfließen und zum Strom anwachsen: »alles, wohin der Fluß kommt, wird Leben gewinnen« (Hes 47,1.9). Nach Sach 14,8 wird »lebendiges Wasser von Jerusalem ausgehen«. Schon in Eden entsprang ein Strom (1. Mo 2,10). Hier quillt er aus dem Thron – einen Tempel gibt es nicht mehr (21,22)."
+    },
+    {
+      "vers_von": 2, "von": 0, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Hes 47,12", "url": "https://www.bibleserver.com/MENG/Hesekiel47,12" },
+        { "label": "1. Mo 2,9", "url": "https://www.bibleserver.com/MENG/1.Mose2,9" }
+      ],
+      "begruendung": "Fast wörtlich Hes 47,12: Am Fluss wachsen »auf beiden Seiten« Bäume, »alle Monate werden sie reife Früchte tragen«, »ihre Blätter zu Heilzwecken«. Hier dienen sie den Völkern. Zugleich ist es der Baum des Lebens aus Eden (1. Mo 2,9; vgl. Offb 2,7): Das verlorene Paradies kehrt wieder."
+    },
+    {
+      "vers_von": 3, "von": 18, "vers_bis": 3, "bis": 56, "typ": "at",
+      "vgl": false,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Sach 14,11", "url": "https://www.bibleserver.com/MENG/Sacharja14,11" },
+        { "label": "1. Mo 3,17", "url": "https://www.bibleserver.com/MENG/1.Mose3,17" }
+      ],
+      "begruendung": "Nach Sach 14,11 wird Jerusalem bewohnt, »ohne daß fortan ein Bannfluch verhängt wird«. »Bann« ist das von Gott zur Vernichtung Verfluchte. Nach den Paradiesbildern (V1-2) klingt an: Auch der Fluch seit dem Sündenfall (1. Mo 3,17) ist aufgehoben."
+    },
+    {
+      "vers_von": 3, "von": 123, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "2. Mo 33,20", "url": "https://www.bibleserver.com/MENG/2.Mose33,20" },
+        { "label": "Ps 17,15", "url": "https://www.bibleserver.com/MENG/Psalm17,15" },
+        { "label": "2. Mo 28,36-38", "url": "https://www.bibleserver.com/MENG/2.Mose28,36-38" },
+        { "label": "4. Mo 6,25.27", "url": "https://www.bibleserver.com/MENG/4.Mose6,25.27" }
+      ],
+      "begruendung": "Zu Mose sagt Gott: »Mein Angesicht kannst du nicht schauen; denn kein Mensch, der mich schaut, bleibt am Leben« (2. Mo 33,20) – erhofft wird es in den Psalmen (Ps 17,15). Ein Goldblatt mit dem Gottesnamen – »Dem HERRN geweiht« – trug nur der Hohepriester auf der Stirn (2. Mo 28,36-38). Jetzt dienen alle wie Priester im Allerheiligsten (vgl. 21,16). Angesicht, Name und Licht (V5) vereint schon der Priestersegen: »Der HERR lasse sein Angesicht leuchten über dir« – so wird Gottes Name auf Israel gelegt (4. Mo 6,25.27)."
+    },
+    {
+      "vers_von": 5, "von": 0, "vers_bis": 5, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 60,19-20", "url": "https://www.bibleserver.com/MENG/Jesaja60,19-20" },
+        { "label": "Sach 14,7", "url": "https://www.bibleserver.com/MENG/Sacharja14,7" }
+      ],
+      "begruendung": "Licht ohne Sonne, keine Nacht: Wiederholung von 21,23.25 (Jes 60,19-20; Sach 14,7), dort aktiv."
+    },
+    {
+      "vers_von": 5, "von": 107, "vers_bis": 5, "bis": 140, "typ": "at",
+      "referenz": "4. Mo 6,25", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose6,25",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Priestersegen (4. Mo 6,25.27): im Tooltip zu V3-4 aktiv."
+    },
+    {
+      "vers_von": 5, "von": 146, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ewige Herrschaft der Heiligen (Dan 7,18.27): Wiederholung von 3,21 (Dan 7,27), dort aktiv; vgl. 5,10; 20,4.6."
+    },
+    {
+      "vers_von": 6, "von": 23, "vers_bis": 6, "bis": 66, "typ": "at",
+      "referenz": "2. Sam 7,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bekräftigungsformel: Wiederholung von 19,9 und 21,5 (2. Sam 7,28, dort inaktiv)."
+    },
+    {
+      "vers_von": 6, "von": 82, "vers_bis": 6, "bis": 111, "typ": "at",
+      "referenz": "4. Mo 16,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose16,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nachgebildet nach hebr. »Gott der Geister alles Fleisches« (4. Mo 16,22; 27,16; Menge: »Herr über Leben und Tod alles Fleisches«) – nur Anklang, ohne Vorwissen verständlich."
+    },
+    {
+      "vers_von": 6, "von": 113, "vers_bis": 6, "bis": 168, "typ": "at",
+      "referenz": "Am 3,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos3,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Seinen Knechten anzeigen«: Wiederholung von 10,7 (Am 3,7), dort aktiv."
+    },
+    {
+      "vers_von": 6, "von": 170, "vers_bis": 6, "bis": 197, "typ": "at",
+      "referenz": "Dan 2,28-29", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,28-29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,1 (Dan 2,28-29), dort aktiv – der Schluss nimmt den Buchanfang wörtlich auf."
+    },
+    { "vers_von": 7, "von": 0, "vers_bis": 7, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 8, "von": 101, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 20,3-5", "url": "https://www.bibleserver.com/MENG/2.Mose20,3-5" },
+        { "label": "5. Mo 6,13", "url": "https://www.bibleserver.com/MENG/5.Mose6,13" }
+      ],
+      "begruendung": "Anbetungsverbot: Wiederholung von 19,10 (2. Mo 20,3-5; 5. Mo 6,13, dort inaktiv)."
+    },
+    {
+      "vers_von": 10, "von": 19, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Dan 12,4", "url": "https://www.bibleserver.com/MENG/Daniel12,4" },
+        { "label": "Dan 8,26", "url": "https://www.bibleserver.com/MENG/Daniel8,26" }
+      ],
+      "begruendung": "Wiederholung von 10,4 (Dan 12,4; 8,26), dort aktiv und mit Verweis auf diese Stelle; die Umkehrung des Versiegelungsbefehls steht im Tooltip zu V11."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Dan 12,4", "url": "https://www.bibleserver.com/MENG/Daniel12,4" },
+        { "label": "Dan 12,10", "url": "https://www.bibleserver.com/MENG/Daniel12,10" },
+        { "label": "Hes 3,27", "url": "https://www.bibleserver.com/MENG/Hesekiel3,27" }
+      ],
+      "begruendung": "Daniel sollte »das Buch bis zur Endzeit« versiegeln (Dan 12,4; vgl. 12,9) – hier nicht, denn die Zeit ist nahe (V10). Gleich darauf heißt es bei Daniel: »Viele werden … gereinigt und geläutert werden, aber die Gottlosen werden gottlos handeln« (Dan 12,10). Kein Freibrief zum Bösen: Die Zeit zur Umkehr läuft ab, jeder bleibt, wofür er sich entschieden hat. Ähnlich Hes 3,27: »wer es lassen will, der mag es lassen«."
+    },
+    { "vers_von": 12, "von": 0, "vers_bis": 15, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 12, "von": 8, "vers_bis": 12, "bis": 44, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Jes 40,10", "url": "https://www.bibleserver.com/MENG/Jesaja40,10" },
+        { "label": "Jes 62,11", "url": "https://www.bibleserver.com/MENG/Jesaja62,11" }
+      ],
+      "begruendung": "Bei Jesaja kommt Gott selbst: »sehet, sein Lohn kommt mit ihm« (Jes 40,10; 62,11). Hier sagt es Christus von sich – er tritt an Gottes Stelle (vgl. V13)."
+    },
+    {
+      "vers_von": 12, "von": 46, "vers_bis": 12, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jer 17,10", "url": "https://www.bibleserver.com/MENG/Jeremia17,10" },
+        { "label": "Ps 62,13", "url": "https://www.bibleserver.com/MENG/Psalm62,13" }
+      ],
+      "begruendung": "Gericht nach den Werken: Wiederholung von 2,23 (Jer 17,10), dort aktiv; vgl. 20,12-13."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 13, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 44,6", "url": "https://www.bibleserver.com/MENG/Jesaja44,6" },
+        { "label": "Jes 48,12", "url": "https://www.bibleserver.com/MENG/Jesaja48,12" }
+      ],
+      "begruendung": "Wiederholung von 1,8.17 (Jes 41,4; 44,6; 48,12), dort aktiv; vgl. 21,6. Gottes Selbstbezeichnung spricht hier Christus (wie 1,17)."
+    },
+    {
+      "vers_von": 14, "von": 23, "vers_bis": 14, "bis": 43, "typ": "at",
+      "referenz": "2. Mo 19,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Kleider waschen: Wiederholung von 7,14 (2. Mo 19,10; Dan 12,1.10), dort aktiv."
+    },
+    {
+      "vers_von": 14, "von": 55, "vers_bis": 14, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "1. Mo 3,22-24", "url": "https://www.bibleserver.com/MENG/1.Mose3,22-24" }
+      ],
+      "begruendung": "Zugang zum Baum des Lebens: Wiederholung von 2,7 (1. Mo 2,9; 3,22-24), dort aktiv; s. V2. Statt der Cherube, die den Zugang bewachten (1. Mo 3,24), stehen die Tore offen (21,25)."
+    },
+    {
+      "vers_von": 15, "von": 0, "vers_bis": 15, "bis": 22, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "Ps 22,17", "url": "https://www.bibleserver.com/MENG/Psalm22,17" },
+        { "label": "5. Mo 23,19", "url": "https://www.bibleserver.com/MENG/5.Mose23,19" }
+      ],
+      "begruendung": "»Hunde« sind kein Tierbild: Streunende Hunde galten als unrein, das Wort war Schimpfwort für Gottlose (Ps 22,17: »Hunde umgeben mich … eine Rotte von Übeltätern«). 5. Mo 23,19 nennt den Lohn männlicher Kultprostitution »Hundegeld«. »Draußen« heißt: außerhalb der Stadt (vgl. 21,27)."
+    },
+    {
+      "vers_von": 15, "von": 27, "vers_bis": 15, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "2. Mo 20,13-15", "url": "https://www.bibleserver.com/MENG/2.Mose20,13-15" },
+        { "label": "5. Mo 18,10", "url": "https://www.bibleserver.com/MENG/5.Mose18,10" }
+      ],
+      "begruendung": "Lasterliste: Wiederholung von 9,21 und 21,8 (2. Mo 20,13-15; 5. Mo 18,10), in 9,21 aktiv."
+    },
+    { "vers_von": 16, "von": 0, "vers_bis": 16, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 16, "von": 86, "vers_bis": 16, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "inaktiv",
+      "urls": [
+        { "label": "Jes 11,1.10", "url": "https://www.bibleserver.com/MENG/Jesaja11,1.10" },
+        { "label": "4. Mo 24,17", "url": "https://www.bibleserver.com/MENG/4.Mose24,17" }
+      ],
+      "begruendung": "Wurzelsproß Davids: Wiederholung von 5,5 (Jes 11,1.10); Morgenstern: Wiederholung von 2,28 (4. Mo 24,17) – beide dort aktiv, 2,28 mit Verweis auf diese Stelle."
+    },
+    {
+      "vers_von": 17, "von": 84, "vers_bis": 17, "bis": -1, "typ": "at",
+      "referenz": "Jes 55,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja55,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wasser umsonst für Durstige: Wiederholung von 21,6 (Jes 55,1), dort aktiv; Wasser des Lebens s. V1."
+    },
+    {
+      "vers_von": 18, "von": 79, "vers_bis": 19, "bis": -1, "typ": "at",
+      "vgl": true,
+      "autor": "KI",
+      "status": "aktiv",
+      "urls": [
+        { "label": "5. Mo 4,2", "url": "https://www.bibleserver.com/MENG/5.Mose4,2" },
+        { "label": "5. Mo 13,1", "url": "https://www.bibleserver.com/MENG/5.Mose13,1" },
+        { "label": "5. Mo 29,19", "url": "https://www.bibleserver.com/MENG/5.Mose29,19" }
+      ],
+      "begruendung": "Wie im Gesetz: »Ihr sollt … nichts hinzufügen und nichts davon wegnehmen« (5. Mo 4,2; 13,1). Wer den Bund missachtet, auf den kommen »alle Flüche, die in diesem Buch aufgezeichnet stehen« (5. Mo 29,19). Die Schutzformel der Tora gilt hier für die Offenbarung."
+    },
+    { "vers_von": 20, "von": 38, "vers_bis": 20, "bis": 59, "typ": "jesus" }
+  ]
+}
