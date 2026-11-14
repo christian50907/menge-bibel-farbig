@@ -211,7 +211,7 @@
     },
     {
       "vers_von": 2, "von": 144, "vers_bis": 2, "bis": 203, "typ": "at",
-      "referenz": "vgl. 5. Mo 21,23", "vgl": true,
+      "referenz": "5. Mo 21,23", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose21,23",
       "autor": "KI",
       "status": "inaktiv",
@@ -219,7 +219,7 @@
     },
     {
       "vers_von": 3, "von": 22, "vers_bis": 3, "bis": 66, "typ": "at",
-      "referenz": "vgl. 4. Mo 20,13", "vgl": true,
+      "referenz": "4. Mo 20,13", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose20,13",
       "autor": "KI",
       "status": "inaktiv",
@@ -227,7 +227,7 @@
     },
     {
       "vers_von": 10, "von": 115, "vers_bis": 10, "bis": 160, "typ": "at",
-      "referenz": "vgl. 3. Mo 19,2", "vgl": true,
+      "referenz": "3. Mo 19,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose19,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -235,7 +235,7 @@
     },
     {
       "vers_von": 11, "von": 170, "vers_bis": 11, "bis": 209, "typ": "at",
-      "referenz": "vgl. Jes 32,17", "vgl": true,
+      "referenz": "Jes 32,17", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja32,17",
       "autor": "KI",
       "status": "inaktiv",
@@ -243,7 +243,7 @@
     },
     {
       "vers_von": 14, "von": 0, "vers_bis": 14, "bis": 46, "typ": "at",
-      "referenz": "vgl. Ps 34,15", "vgl": true,
+      "referenz": "Ps 34,15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm34,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -251,7 +251,7 @@
     },
     {
       "vers_von": 22, "von": 115, "vers_bis": 22, "bis": 145, "typ": "at",
-      "referenz": "vgl. Dan 7,10", "vgl": true,
+      "referenz": "Dan 7,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Daniel7,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -259,7 +259,7 @@
     },
     {
       "vers_von": 23, "von": 69, "vers_bis": 23, "bis": 96, "typ": "at",
-      "referenz": "vgl. 1. Mo 18,25", "vgl": true,
+      "referenz": "1. Mo 18,25", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose18,25",
       "autor": "KI",
       "status": "inaktiv",
@@ -275,7 +275,7 @@
     },
     {
       "vers_von": 24, "von": 48, "vers_bis": 24, "bis": 73, "typ": "at",
-      "referenz": "vgl. 2. Mo 24,8", "vgl": true,
+      "referenz": "2. Mo 24,8", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
       "autor": "KI",
       "status": "inaktiv",
@@ -283,7 +283,7 @@
     },
     {
       "vers_von": 25, "von": 127, "vers_bis": 25, "bis": 159, "typ": "at",
-      "referenz": "vgl. 2. Mo 20,19", "vgl": true,
+      "referenz": "2. Mo 20,19", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose20,19",
       "autor": "KI",
       "status": "inaktiv",
@@ -299,7 +299,7 @@
     },
     {
       "vers_von": 16, "von": 16, "vers_bis": 16, "bis": 56, "typ": "at",
-      "referenz": "vgl. 1. Mo 26,34-35", "vgl": true,
+      "referenz": "1. Mo 26,34-35", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose26,34-35",
       "autor": "KI",
       "status": "inaktiv",
@@ -307,7 +307,7 @@
     },
     {
       "vers_von": 27, "von": 33, "vers_bis": 27, "bis": 54, "typ": "at",
-      "referenz": "vgl. Ps 102,27", "vgl": true,
+      "referenz": "Ps 102,27", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm102,27",
       "autor": "KI",
       "status": "inaktiv",

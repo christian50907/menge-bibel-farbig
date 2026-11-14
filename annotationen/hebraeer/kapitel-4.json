@@ -84,7 +84,7 @@
     },
     {
       "vers_von": 1, "von": 11, "vers_bis": 1, "bis": 49, "typ": "at",
-      "referenz": "vgl. 5. Mo 12,9",
+      "referenz": "5. Mo 12,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose12,9",
       "autor": "KI",
@@ -93,7 +93,7 @@
     },
     {
       "vers_von": 2, "von": 5, "vers_bis": 2, "bis": 65, "typ": "at",
-      "referenz": "vgl. 4. Mo 13,27",
+      "referenz": "4. Mo 13,27",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose13,27",
       "autor": "KI",
@@ -102,7 +102,7 @@
     },
     {
       "vers_von": 10, "von": 71, "vers_bis": 10, "bis": 141, "typ": "at",
-      "referenz": "vgl. 1. Mo 2,2",
+      "referenz": "1. Mo 2,2",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose2,2",
       "autor": "KI",
@@ -111,7 +111,7 @@
     },
     {
       "vers_von": 11, "von": 72, "vers_bis": 11, "bis": 98, "typ": "at",
-      "referenz": "vgl. 4. Mo 14,29",
+      "referenz": "4. Mo 14,29",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose14,29",
       "autor": "KI",
@@ -120,7 +120,7 @@
     },
     {
       "vers_von": 13, "von": 74, "vers_bis": 13, "bis": 130, "typ": "at",
-      "referenz": "vgl. Ps 139,1-4",
+      "referenz": "Ps 139,1-4",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm139,1-4",
       "autor": "KI",
@@ -129,7 +129,7 @@
     },
     {
       "vers_von": 14, "von": 11, "vers_bis": 14, "bis": 86, "typ": "at",
-      "referenz": "vgl. 3. Mo 16,12-15",
+      "referenz": "3. Mo 16,12-15",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose16,12-15",
       "autor": "KI",

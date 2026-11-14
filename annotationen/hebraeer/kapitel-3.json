@@ -48,7 +48,7 @@
     },
     {
       "vers_von": 1, "von": 89, "vers_bis": 1, "bis": 100, "typ": "at",
-      "referenz": "vgl. 2. Mo 3,10",
+      "referenz": "2. Mo 3,10",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose3,10",
       "autor": "KI",
@@ -57,7 +57,7 @@
     },
     {
       "vers_von": 2, "von": 23, "vers_bis": 2, "bis": 45, "typ": "at",
-      "referenz": "vgl. 1. Sam 12,6",
+      "referenz": "1. Sam 12,6",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Samuel12,6",
       "autor": "KI",
@@ -66,7 +66,7 @@
     },
     {
       "vers_von": 3, "von": 94, "vers_bis": 3, "bis": 131, "typ": "at",
-      "referenz": "vgl. Sach 6,12-13",
+      "referenz": "Sach 6,12-13",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Sacharja6,12-13",
       "autor": "KI",
@@ -84,7 +84,7 @@
     },
     {
       "vers_von": 5, "von": 107, "vers_bis": 5, "bis": 181, "typ": "at",
-      "referenz": "vgl. 5. Mo 18,15-18",
+      "referenz": "5. Mo 18,15-18",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose18,15-18",
       "autor": "KI",
@@ -93,7 +93,7 @@
     },
     {
       "vers_von": 6, "von": 32, "vers_bis": 6, "bis": 63, "typ": "at",
-      "referenz": "vgl. 1. Chr 17,14",
+      "referenz": "1. Chr 17,14",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Chronik17,14",
       "autor": "KI",
@@ -102,7 +102,7 @@
     },
     {
       "vers_von": 7, "von": 19, "vers_bis": 7, "bis": 48, "typ": "at",
-      "referenz": "vgl. 2. Sam 23,2",
+      "referenz": "2. Sam 23,2",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Samuel23,2",
       "autor": "KI",
@@ -111,7 +111,7 @@
     },
     {
       "vers_von": 12, "von": 83, "vers_bis": 12, "bis": 92, "typ": "at",
-      "referenz": "vgl. 4. Mo 14,9",
+      "referenz": "4. Mo 14,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose14,9",
       "autor": "KI",
@@ -120,7 +120,7 @@
     },
     {
       "vers_von": 12, "von": 97, "vers_bis": 12, "bis": 116, "typ": "at",
-      "referenz": "vgl. 5. Mo 5,26",
+      "referenz": "5. Mo 5,26",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose5,26",
       "autor": "KI",
@@ -138,7 +138,7 @@
     },
     {
       "vers_von": 14, "von": 5, "vers_bis": 14, "bis": 21, "typ": "at",
-      "referenz": "vgl. Ps 45,8",
+      "referenz": "Ps 45,8",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm45,8",
       "autor": "KI",
@@ -147,7 +147,7 @@
     },
     {
       "vers_von": 18, "von": 25, "vers_bis": 18, "bis": 92, "typ": "at",
-      "referenz": "vgl. 4. Mo 14,21-23",
+      "referenz": "4. Mo 14,21-23",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose14,21-23",
       "autor": "KI",
@@ -156,7 +156,7 @@
     },
     {
       "vers_von": 19, "von": 61, "vers_bis": 19, "bis": 87, "typ": "at",
-      "referenz": "vgl. Ps 106,24-26",
+      "referenz": "Ps 106,24-26",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm106,24-26",
       "autor": "KI",

@@ -361,7 +361,7 @@
     },
     {
       "vers_von": 6, "von": 136, "vers_bis": 6, "bis": 183, "typ": "at",
-      "referenz": "vgl. 5. Mo 4,29", "vgl": true,
+      "referenz": "5. Mo 4,29", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose4,29",
       "autor": "KI",
       "status": "inaktiv",
@@ -369,7 +369,7 @@
     },
     {
       "vers_von": 10, "von": 20, "vers_bis": 10, "bis": 64, "typ": "at",
-      "referenz": "vgl. Ps 87,1", "vgl": true,
+      "referenz": "Ps 87,1", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm87,1",
       "autor": "KI",
       "status": "inaktiv",
@@ -377,7 +377,7 @@
     },
     {
       "vers_von": 33, "von": 35, "vers_bis": 33, "bis": 93, "typ": "at",
-      "referenz": "vgl. 2. Sam 8,1-15", "vgl": true,
+      "referenz": "2. Sam 8,1-15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Samuel8,1-15",
       "autor": "KI",
       "status": "inaktiv",
@@ -385,7 +385,7 @@
     },
     {
       "vers_von": 34, "von": 43, "vers_bis": 34, "bis": 114, "typ": "at",
-      "referenz": "vgl. Ri 16,28", "vgl": true,
+      "referenz": "Ri 16,28", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Richter16,28",
       "autor": "KI",
       "status": "inaktiv",
@@ -393,7 +393,7 @@
     },
     {
       "vers_von": 27, "von": 71, "vers_bis": 27, "bis": -1, "typ": "at",
-      "referenz": "vgl. 4. Mo 12,8", "vgl": true,
+      "referenz": "4. Mo 12,8", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose12,8",
       "autor": "KI",
       "status": "inaktiv",
@@ -401,7 +401,7 @@
     },
     {
       "vers_von": 33, "von": 95, "vers_bis": 33, "bis": 131, "typ": "at",
-      "referenz": "vgl. Jos 21,45", "vgl": true,
+      "referenz": "Jos 21,45", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Josua21,45",
       "autor": "KI",
       "status": "inaktiv",
@@ -409,7 +409,7 @@
     },
     {
       "vers_von": 36, "von": 20, "vers_bis": 36, "bis": 73, "typ": "at",
-      "referenz": "vgl. Jer 20,2", "vgl": true,
+      "referenz": "Jer 20,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jeremia20,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -417,7 +417,7 @@
     },
     {
       "vers_von": 38, "von": 42, "vers_bis": 38, "bis": -1, "typ": "at",
-      "referenz": "vgl. 1. Makk 2,28-31", "vgl": true,
+      "referenz": "1. Makk 2,28-31", "vgl": true,
       "url": "https://www.bibleserver.com/LUT/1.Makkabaeer2,28-31",
       "autor": "KI",
       "status": "inaktiv",
