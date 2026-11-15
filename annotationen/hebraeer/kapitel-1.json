@@ -74,7 +74,7 @@
     },
     {
       "vers_von": 1, "von": 13, "vers_bis": 1, "bis": 100, "typ": "at",
-      "referenz": "vgl. allgemein die Propheten",
+      "referenz": "allgemein die Propheten",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG",
       "autor": "KI",
@@ -83,7 +83,7 @@
     },
     {
       "vers_von": 2, "von": 51, "vers_bis": 2, "bis": -1, "typ": "at",
-      "referenz": "vgl. Ps 2,8",
+      "referenz": "Ps 2,8",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm2,8",
       "autor": "KI",
@@ -92,7 +92,7 @@
     },
     {
       "vers_von": 3, "von": 11, "vers_bis": 3, "bis": 61, "typ": "at",
-      "referenz": "vgl. Weish 7,25-26",
+      "referenz": "Weish 7,25-26",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG",
       "autor": "KI",
@@ -101,7 +101,7 @@
     },
     {
       "vers_von": 3, "von": 193, "vers_bis": 3, "bis": -1, "typ": "at",
-      "referenz": "vgl. Ps 110,1",
+      "referenz": "Ps 110,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm110,1",
       "autor": "KI",

@@ -136,7 +136,7 @@
     },
     {
       "vers_von": 4, "von": 82, "vers_bis": 4, "bis": -1, "typ": "at",
-      "referenz": "vgl. 2. Mo 20,14", "vgl": true,
+      "referenz": "2. Mo 20,14", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose20,14",
       "autor": "KI",
       "status": "inaktiv",
@@ -144,7 +144,7 @@
     },
     {
       "vers_von": 5, "von": 165, "vers_bis": 5, "bis": 185, "typ": "at",
-      "referenz": "vgl. 1. Mo 28,15", "vgl": true,
+      "referenz": "1. Mo 28,15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose28,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -152,7 +152,7 @@
     },
     {
       "vers_von": 6, "von": 101, "vers_bis": 6, "bis": -1, "typ": "at",
-      "referenz": "vgl. Ps 56,12", "vgl": true,
+      "referenz": "Ps 56,12", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm56,12",
       "autor": "KI",
       "status": "inaktiv",
@@ -160,7 +160,7 @@
     },
     {
       "vers_von": 8, "von": 19, "vers_bis": 8, "bis": 45, "typ": "at",
-      "referenz": "vgl. Ps 102,28", "vgl": true,
+      "referenz": "Ps 102,28", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm102,28",
       "autor": "KI",
       "status": "inaktiv",
@@ -168,7 +168,7 @@
     },
     {
       "vers_von": 9, "von": 126, "vers_bis": 9, "bis": 145, "typ": "at",
-      "referenz": "vgl. 3. Mo 11", "vgl": true,
+      "referenz": "3. Mo 11", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose11",
       "autor": "KI",
       "status": "inaktiv",
@@ -176,7 +176,7 @@
     },
     {
       "vers_von": 13, "von": 56, "vers_bis": 13, "bis": -1, "typ": "at",
-      "referenz": "vgl. Ps 89,51-52", "vgl": true,
+      "referenz": "Ps 89,51-52", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm89,51-52",
       "autor": "KI",
       "status": "inaktiv",
@@ -184,7 +184,7 @@
     },
     {
       "vers_von": 14, "von": 20, "vers_bis": 14, "bis": -1, "typ": "at",
-      "referenz": "vgl. Mi 2,10", "vgl": true,
+      "referenz": "Mi 2,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Micha2,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -192,7 +192,7 @@
     },
     {
       "vers_von": 16, "von": 46, "vers_bis": 16, "bis": 93, "typ": "at",
-      "referenz": "vgl. Hos 6,6", "vgl": true,
+      "referenz": "Hos 6,6", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hosea6,6",
       "autor": "KI",
       "status": "inaktiv",
@@ -200,7 +200,7 @@
     },
     {
       "vers_von": 20, "von": 32, "vers_bis": 20, "bis": 60, "typ": "at",
-      "referenz": "vgl. Hes 34,23-25", "vgl": true,
+      "referenz": "Hes 34,23-25", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Hesekiel34,23-25",
       "autor": "KI",
       "status": "inaktiv",
@@ -208,7 +208,7 @@
     },
     {
       "vers_von": 20, "von": 120, "vers_bis": 20, "bis": 146, "typ": "at",
-      "referenz": "vgl. 2. Mo 24,8", "vgl": true,
+      "referenz": "2. Mo 24,8", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
       "autor": "KI",
       "status": "inaktiv",

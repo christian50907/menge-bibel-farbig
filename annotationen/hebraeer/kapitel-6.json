@@ -72,7 +72,7 @@
     },
     {
       "vers_von": 1, "von": 178, "vers_bis": 1, "bis": 194, "typ": "at",
-      "referenz": "vgl. allgemein",
+      "referenz": "allgemein",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG",
       "autor": "KI",
@@ -81,7 +81,7 @@
     },
     {
       "vers_von": 4, "von": 72, "vers_bis": 4, "bis": 108, "typ": "at",
-      "referenz": "vgl. Ps 34,9",
+      "referenz": "Ps 34,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm34,9",
       "autor": "KI",
@@ -90,7 +90,7 @@
     },
     {
       "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 73, "typ": "at",
-      "referenz": "vgl. 4. Mo 14,40-42",
+      "referenz": "4. Mo 14,40-42",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose14,40-42",
       "autor": "KI",
@@ -99,7 +99,7 @@
     },
     {
       "vers_von": 6, "von": 0, "vers_bis": 6, "bis": 73, "typ": "at",
-      "referenz": "vgl. 4. Mo 15,30-31",
+      "referenz": "4. Mo 15,30-31",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose15,30-31",
       "autor": "KI",
@@ -108,7 +108,7 @@
     },
     {
       "vers_von": 7, "von": 20, "vers_bis": 7, "bis": 78, "typ": "at",
-      "referenz": "vgl. 5. Mo 11,11",
+      "referenz": "5. Mo 11,11",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose11,11",
       "autor": "KI",
@@ -117,7 +117,7 @@
     },
     {
       "vers_von": 10, "von": 5, "vers_bis": 10, "bis": 29, "typ": "at",
-      "referenz": "vgl. 5. Mo 32,4",
+      "referenz": "5. Mo 32,4",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose32,4",
       "autor": "KI",
@@ -126,7 +126,7 @@
     },
     {
       "vers_von": 15, "von": 20, "vers_bis": 15, "bis": -1, "typ": "at",
-      "referenz": "vgl. 1. Mo 21,5",
+      "referenz": "1. Mo 21,5",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose21,5",
       "autor": "KI",
@@ -135,7 +135,7 @@
     },
     {
       "vers_von": 16, "von": 51, "vers_bis": 16, "bis": -1, "typ": "at",
-      "referenz": "vgl. 2. Mo 22,10",
+      "referenz": "2. Mo 22,10",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose22,10",
       "autor": "KI",
@@ -155,7 +155,7 @@
     },
     {
       "vers_von": 18, "von": 131, "vers_bis": 18, "bis": 174, "typ": "at",
-      "referenz": "vgl. 4. Mo 35,11",
+      "referenz": "4. Mo 35,11",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose35,11",
       "autor": "KI",
@@ -164,7 +164,7 @@
     },
     {
       "vers_von": 19, "von": 95, "vers_bis": 19, "bis": -1, "typ": "at",
-      "referenz": "vgl. 3. Mo 16,2",
+      "referenz": "3. Mo 16,2",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose16,2",
       "autor": "KI",

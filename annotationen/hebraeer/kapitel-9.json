@@ -177,7 +177,7 @@
     },
     {
       "vers_von": 1, "von": 39, "vers_bis": 1, "bis": 69, "typ": "at",
-      "referenz": "vgl. allgemein",
+      "referenz": "allgemein",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose25",
       "autor": "KI",
@@ -186,7 +186,7 @@
     },
     {
       "vers_von": 6, "von": 45, "vers_bis": 6, "bis": 165, "typ": "at",
-      "referenz": "vgl. 2. Mo 30,7-8",
+      "referenz": "2. Mo 30,7-8",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose30,7-8",
       "autor": "KI",
@@ -195,7 +195,7 @@
     },
     {
       "vers_von": 8, "von": 48, "vers_bis": 8, "bis": 107, "typ": "at",
-      "referenz": "vgl. 3. Mo 16,2",
+      "referenz": "3. Mo 16,2",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose16,2",
       "autor": "KI",
@@ -204,7 +204,7 @@
     },
     {
       "vers_von": 9, "von": 75, "vers_bis": 9, "bis": 102, "typ": "at",
-      "referenz": "vgl. 3. Mo 2,1",
+      "referenz": "3. Mo 2,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose2,1",
       "autor": "KI",
@@ -213,7 +213,7 @@
     },
     {
       "vers_von": 11, "von": 118, "vers_bis": 11, "bis": 150, "typ": "at",
-      "referenz": "vgl. 2. Mo 25,8-9",
+      "referenz": "2. Mo 25,8-9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose25,8-9",
       "autor": "KI",
@@ -222,7 +222,7 @@
     },
     {
       "vers_von": 12, "von": 19, "vers_bis": 12, "bis": 52, "typ": "at",
-      "referenz": "vgl. 3. Mo 16,3",
+      "referenz": "3. Mo 16,3",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose16,3",
       "autor": "KI",
@@ -231,7 +231,7 @@
     },
     {
       "vers_von": 12, "von": 158, "vers_bis": 12, "bis": 183, "typ": "at",
-      "referenz": "vgl. allgemein",
+      "referenz": "allgemein",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose16,34",
       "autor": "KI",
@@ -240,7 +240,7 @@
     },
     {
       "vers_von": 14, "von": 124, "vers_bis": 14, "bis": 164, "typ": "at",
-      "referenz": "vgl. 4. Mo 19,11-13",
+      "referenz": "4. Mo 19,11-13",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose19,11-13",
       "autor": "KI",
@@ -249,7 +249,7 @@
     },
     {
       "vers_von": 15, "von": 38, "vers_bis": 15, "bis": 64, "typ": "at",
-      "referenz": "vgl. Jer 31,31",
+      "referenz": "Jer 31,31",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jeremia31,31",
       "autor": "KI",
@@ -258,7 +258,7 @@
     },
     {
       "vers_von": 15, "von": 200, "vers_bis": 15, "bis": 235, "typ": "at",
-      "referenz": "vgl. 1. Mo 22,16-17",
+      "referenz": "1. Mo 22,16-17",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose22,16-17",
       "autor": "KI",
@@ -267,7 +267,7 @@
     },
     {
       "vers_von": 16, "von": 13, "vers_bis": 16, "bis": 34, "typ": "at",
-      "referenz": "vgl. allgemein",
+      "referenz": "allgemein",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
       "autor": "KI",
@@ -276,7 +276,7 @@
     },
     {
       "vers_von": 18, "von": 33, "vers_bis": 18, "bis": 59, "typ": "at",
-      "referenz": "vgl. 1. Kön 8,63",
+      "referenz": "1. Kön 8,63",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Koenige8,63",
       "autor": "KI",
@@ -285,7 +285,7 @@
     },
     {
       "vers_von": 21, "von": 10, "vers_bis": 21, "bis": 58, "typ": "at",
-      "referenz": "vgl. 4. Mo 19,18",
+      "referenz": "4. Mo 19,18",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose19,18",
       "autor": "KI",
@@ -294,7 +294,7 @@
     },
     {
       "vers_von": 23, "von": 20, "vers_bis": 23, "bis": 78, "typ": "at",
-      "referenz": "vgl. 2. Mo 25,40",
+      "referenz": "2. Mo 25,40",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose25,40",
       "autor": "KI",
@@ -303,7 +303,7 @@
     },
     {
       "vers_von": 24, "von": 205, "vers_bis": 24, "bis": 243, "typ": "at",
-      "referenz": "vgl. 2. Mo 28,29",
+      "referenz": "2. Mo 28,29",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose28,29",
       "autor": "KI",
@@ -312,7 +312,7 @@
     },
     {
       "vers_von": 25, "von": 113, "vers_bis": 25, "bis": 169, "typ": "at",
-      "referenz": "vgl. 3. Mo 16,34",
+      "referenz": "3. Mo 16,34",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose16,34",
       "autor": "KI",
@@ -321,7 +321,7 @@
     },
     {
       "vers_von": 26, "von": 18, "vers_bis": 26, "bis": 43, "typ": "at",
-      "referenz": "vgl. allgemein",
+      "referenz": "allgemein",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose1,1",
       "autor": "KI",
@@ -330,7 +330,7 @@
     },
     {
       "vers_von": 27, "von": 41, "vers_bis": 27, "bis": 83, "typ": "at",
-      "referenz": "vgl. 1. Mo 3,19",
+      "referenz": "1. Mo 3,19",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/1.Mose3,19",
       "autor": "KI",
@@ -339,7 +339,7 @@
     },
     {
       "vers_von": 28, "von": 165, "vers_bis": 28, "bis": 190, "typ": "at",
-      "referenz": "vgl. Jes 25,9",
+      "referenz": "Jes 25,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja25,9",
       "autor": "KI",

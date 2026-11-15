@@ -173,7 +173,7 @@
     },
     {
       "vers_von": 1, "von": 37, "vers_bis": 1, "bis": 88, "typ": "at",
-      "referenz": "vgl. 3. Mo 16,34", "vgl": true,
+      "referenz": "3. Mo 16,34", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose16,34",
       "autor": "KI",
       "status": "inaktiv",
@@ -181,7 +181,7 @@
     },
     {
       "vers_von": 3, "von": 37, "vers_bis": 3, "bis": 80, "typ": "at",
-      "referenz": "vgl. 4. Mo 5,15", "vgl": true,
+      "referenz": "4. Mo 5,15", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose5,15",
       "autor": "KI",
       "status": "inaktiv",
@@ -197,7 +197,7 @@
     },
     {
       "vers_von": 11, "von": 30, "vers_bis": 11, "bis": 41, "typ": "at",
-      "referenz": "vgl. 2. Mo 29,38-42", "vgl": true,
+      "referenz": "2. Mo 29,38-42", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose29,38-42",
       "autor": "KI",
       "status": "inaktiv",
@@ -213,7 +213,7 @@
     },
     {
       "vers_von": 15, "von": 25, "vers_bis": 15, "bis": 55, "typ": "at",
-      "referenz": "vgl. 2. Sam 23,2", "vgl": true,
+      "referenz": "2. Sam 23,2", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Samuel23,2",
       "autor": "KI",
       "status": "inaktiv",
@@ -221,7 +221,7 @@
     },
     {
       "vers_von": 20, "von": 44, "vers_bis": 20, "bis": 100, "typ": "at",
-      "referenz": "vgl. 2. Mo 26,33", "vgl": true,
+      "referenz": "2. Mo 26,33", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose26,33",
       "autor": "KI",
       "status": "inaktiv",
@@ -229,7 +229,7 @@
     },
     {
       "vers_von": 21, "von": 11, "vers_bis": 21, "bis": 76, "typ": "at",
-      "referenz": "vgl. 3. Mo 21,10", "vgl": true,
+      "referenz": "3. Mo 21,10", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose21,10",
       "autor": "KI",
       "status": "inaktiv",
@@ -237,7 +237,7 @@
     },
     {
       "vers_von": 23, "von": 70, "vers_bis": 23, "bis": -1, "typ": "at",
-      "referenz": "vgl. 5. Mo 7,9", "vgl": true,
+      "referenz": "5. Mo 7,9", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose7,9",
       "autor": "KI",
       "status": "inaktiv",
@@ -245,7 +245,7 @@
     },
     {
       "vers_von": 29, "von": 111, "vers_bis": 29, "bis": 130, "typ": "at",
-      "referenz": "vgl. 2. Mo 24,8", "vgl": true,
+      "referenz": "2. Mo 24,8", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
       "autor": "KI",
       "status": "inaktiv",
@@ -253,7 +253,7 @@
     },
     {
       "vers_von": 39, "von": 22, "vers_bis": 39, "bis": 43, "typ": "at",
-      "referenz": "vgl. Hab 2,4", "vgl": true,
+      "referenz": "Hab 2,4", "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Habakuk2,4",
       "autor": "KI",
       "status": "inaktiv",

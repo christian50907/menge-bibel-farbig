@@ -91,7 +91,7 @@
     },
     {
       "vers_von": 2, "von": 88, "vers_bis": 2, "bis": 159, "typ": "at",
-      "referenz": "vgl. 5. Mo 17,6",
+      "referenz": "5. Mo 17,6",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose17,6",
       "autor": "KI",
@@ -100,7 +100,7 @@
     },
     {
       "vers_von": 4, "von": 48, "vers_bis": 4, "bis": 72, "typ": "at",
-      "referenz": "vgl. 5. Mo 4,34",
+      "referenz": "5. Mo 4,34",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose4,34",
       "autor": "KI",
@@ -109,7 +109,7 @@
     },
     {
       "vers_von": 5, "von": 25, "vers_bis": 5, "bis": 44, "typ": "at",
-      "referenz": "vgl. allgemein",
+      "referenz": "allgemein",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG",
       "autor": "KI",
@@ -118,7 +118,7 @@
     },
     {
       "vers_von": 8, "von": 71, "vers_bis": 8, "bis": 98, "typ": "at",
-      "referenz": "vgl. Ps 8,7",
+      "referenz": "Ps 8,7",
       "vgl": false,
       "url": "https://www.bibleserver.com/MENG/Psalm8,7",
       "autor": "KI",
@@ -127,7 +127,7 @@
     },
     {
       "vers_von": 9, "von": 25, "vers_bis": 9, "bis": 167, "typ": "at",
-      "referenz": "vgl. Ps 8,6",
+      "referenz": "Ps 8,6",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm8,6",
       "autor": "KI",
@@ -136,7 +136,7 @@
     },
     {
       "vers_von": 10, "von": 155, "vers_bis": 10, "bis": 202, "typ": "at",
-      "referenz": "vgl. 2. Mo 29,9",
+      "referenz": "2. Mo 29,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose29,9",
       "autor": "KI",
@@ -156,7 +156,7 @@
     },
     {
       "vers_von": 16, "von": 80, "vers_bis": 16, "bis": -1, "typ": "at",
-      "referenz": "vgl. Jes 41,8-9",
+      "referenz": "Jes 41,8-9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja41,8-9",
       "autor": "KI",

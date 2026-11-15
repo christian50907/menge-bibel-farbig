@@ -85,7 +85,7 @@
     },
     {
       "vers_von": 1, "von": 113, "vers_bis": 1, "bis": 173, "typ": "at",
-      "referenz": "vgl. 3. Mo 2,1",
+      "referenz": "3. Mo 2,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose2,1",
       "autor": "KI",
@@ -94,7 +94,7 @@
     },
     {
       "vers_von": 5, "von": 26, "vers_bis": 5, "bis": 88, "typ": "at",
-      "referenz": "vgl. 2. Chr 26,16-21",
+      "referenz": "2. Chr 26,16-21",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Chronik26,16-21",
       "autor": "KI",
@@ -103,7 +103,7 @@
     },
     {
       "vers_von": 7, "von": 68, "vers_bis": 7, "bis": 98, "typ": "at",
-      "referenz": "vgl. Ps 116,8",
+      "referenz": "Ps 116,8",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm116,8",
       "autor": "KI",
@@ -112,7 +112,7 @@
     },
     {
       "vers_von": 8, "von": 36, "vers_bis": 8, "bis": 73, "typ": "at",
-      "referenz": "vgl. Jes 50,5",
+      "referenz": "Jes 50,5",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja50,5",
       "autor": "KI",
@@ -121,7 +121,7 @@
     },
     {
       "vers_von": 9, "von": 82, "vers_bis": 9, "bis": 106, "typ": "at",
-      "referenz": "vgl. Jes 45,17",
+      "referenz": "Jes 45,17",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja45,17",
       "autor": "KI",
@@ -139,7 +139,7 @@
     },
     {
       "vers_von": 12, "von": 132, "vers_bis": 12, "bis": 164, "typ": "at",
-      "referenz": "vgl. 5. Mo 33,9",
+      "referenz": "5. Mo 33,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose33,9",
       "autor": "KI",
@@ -148,7 +148,7 @@
     },
     {
       "vers_von": 12, "von": 198, "vers_bis": 12, "bis": 224, "typ": "at",
-      "referenz": "vgl. Jes 28,9",
+      "referenz": "Jes 28,9",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Jesaja28,9",
       "autor": "KI",

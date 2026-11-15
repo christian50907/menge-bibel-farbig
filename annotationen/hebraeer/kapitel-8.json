@@ -60,7 +60,7 @@
     },
     {
       "vers_von": 1, "von": 124, "vers_bis": 1, "bis": 174, "typ": "at",
-      "referenz": "vgl. Ps 110,1",
+      "referenz": "Ps 110,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm110,1",
       "autor": "KI",
@@ -69,7 +69,7 @@
     },
     {
       "vers_von": 3, "von": 52, "vers_bis": 3, "bis": 79, "typ": "at",
-      "referenz": "vgl. 3. Mo 2,1",
+      "referenz": "3. Mo 2,1",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/3.Mose2,1",
       "autor": "KI",
@@ -78,7 +78,7 @@
     },
     {
       "vers_von": 4, "von": 74, "vers_bis": 4, "bis": -1, "typ": "at",
-      "referenz": "vgl. 4. Mo 3,10",
+      "referenz": "4. Mo 3,10",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/4.Mose3,10",
       "autor": "KI",
@@ -87,7 +87,7 @@
     },
     {
       "vers_von": 5, "von": 42, "vers_bis": 5, "bis": 104, "typ": "at",
-      "referenz": "vgl. allgemein",
+      "referenz": "allgemein",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG",
       "autor": "KI",
@@ -96,7 +96,7 @@
     },
     {
       "vers_von": 6, "von": 79, "vers_bis": 6, "bis": 108, "typ": "at",
-      "referenz": "vgl. 5. Mo 5,5",
+      "referenz": "5. Mo 5,5",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/5.Mose5,5",
       "autor": "KI",
@@ -105,7 +105,7 @@
     },
     {
       "vers_von": 7, "von": 13, "vers_bis": 7, "bis": 31, "typ": "at",
-      "referenz": "vgl. 2. Mo 24,8",
+      "referenz": "2. Mo 24,8",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/2.Mose24,8",
       "autor": "KI",
@@ -123,7 +123,7 @@
     },
     {
       "vers_von": 13, "von": 69, "vers_bis": 13, "bis": 77, "typ": "at",
-      "referenz": "vgl. Ps 102,27",
+      "referenz": "Ps 102,27",
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm102,27",
       "autor": "KI",
