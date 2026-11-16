@@ -272,20 +272,16 @@ function renderAbsatz(absatz, alleMarkierungen) {
       const autor = m.autor ? ` <span class="at-tooltip-autor">(${m.autor})</span>` : '';
       const begruendung = m.begruendung
         ? `<span class="at-tooltip-text">${m.begruendung}${autor}</span>` : '';
-      if (m.urls) {
-        for (const u of m.urls) {
-          if (begruendung) {
-            link += ` <span class="at-tooltip-wrap"><a href="${u.url}" target="_blank">(${u.label})</a>${begruendung}</span>`;
-          } else {
-            link += ` <a href="${u.url}" target="_blank">(${u.label})</a>`;
-          }
-        }
-      } else if (m.url && m.referenz) {
-        const label = m.vgl ? `vgl. ${m.referenz}` : m.referenz;
+      // Einzelne Stelle = Liste mit einem Eintrag. »vgl.« steht nie in den Daten:
+      // vgl am Link gilt für diesen Link, sonst gilt vgl der Annotation.
+      const links = m.urls ?? (m.url && m.referenz ? [{ label: m.referenz, url: m.url }] : []);
+      for (const u of links) {
+        const vgl = u.vgl ?? m.vgl;
+        const label = vgl ? `vgl. ${u.label}` : u.label;
         if (begruendung) {
-          link = ` <span class="at-tooltip-wrap"><a href="${m.url}" target="_blank">(${label})</a>${begruendung}</span>`;
+          link += ` <span class="at-tooltip-wrap"><a href="${u.url}" target="_blank">(${label})</a>${begruendung}</span>`;
         } else {
-          link = ` <a href="${m.url}" target="_blank">(${label})</a>`;
+          link += ` <a href="${u.url}" target="_blank">(${label})</a>`;
         }
       }
     }
