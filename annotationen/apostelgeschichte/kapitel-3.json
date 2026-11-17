@@ -1,0 +1,219 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 3,
+  "titel": "Heilung eines Lahmgeborenen · Tempelrede des Petrus",
+  "abschnitte": [
+    { "id": "lahmenheilung", "vers_von": 1, "vers_bis": 11, "titel": "Heilung eines Lahmgeborenen durch Petrus und Johannes" },
+    { "id": "tempelrede", "vers_von": 12, "vers_bis": 26, "titel": "Tempelrede (Bußpredigt des Petrus nach der Lahmenheilung)" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 55, "vers_bis": 1, "bis": 93, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 29,38-39", "url": "https://www.bibleserver.com/MENG/2.Mose29,38-39" },
+        { "label": "Ps 141,2", "url": "https://www.bibleserver.com/MENG/Psalm141,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die neunte Stunde ist nach jüdischer Zählung etwa 15 Uhr. Das Gesetz schreibt ein tägliches Lammopfer »gegen Abend« vor; im Tempel wurde es am Nachmittag dargebracht, begleitet vom gemeinsamen Gebet – daher »Gebetsstunde«."
+    },
+    {
+      "vers_von": 2, "von": 43, "vers_bis": 2, "bis": 76, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 21,18", "url": "https://www.bibleserver.com/MENG/3.Mose21,18" },
+        { "label": "2. Sam 5,8", "url": "https://www.bibleserver.com/MENG/2.Samuel5,8" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Lahmheit von Geburt: Hintergrund 3. Mo 21,18 / 2. Sam 5,8 ist in V8 behandelt; das Heilungsbild trägt die aktive Annotation in V8 (Jes 35,6)."
+    },
+    {
+      "vers_von": 2, "von": 168, "vers_bis": 2, "bis": 213, "typ": "at",
+      "referenz": "5. Mo 15,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose15,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Almosen als Frömmigkeitspflicht waren allgemein bekannt; kein spezifischer Textbezug, für das Verständnis nicht nötig."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 8, "bis": 40, "typ": "at",
+      "referenz": "Jes 35,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja kündigt für die Heilszeit an: »dann wird der Lahme springen wie ein Hirsch«. Das Springen des Geheilten ist darum mehr als Freude – es zeigt, dass die verheißene Heilszeit angebrochen ist."
+    },
+    {
+      "vers_von": 8, "von": 41, "vers_bis": 8, "bis": 77, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Sam 5,8", "url": "https://www.bibleserver.com/MENG/2.Samuel5,8" },
+        { "label": "3. Mo 21,18", "url": "https://www.bibleserver.com/MENG/3.Mose21,18" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Ausschluss Lahmer vom Heiligtum gilt nach 3. Mo 21,18 nur für Priester; 2. Sam 5,8 ist ein Sprichwort. Der Text stellt keinen Bezug her – nur evokativ."
+    },
+    {
+      "vers_von": 11, "von": 85, "vers_bis": 11, "bis": 118, "typ": "at",
+      "referenz": "1. Kön 6,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige6,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Name der Halle geht auf eine spätere Überlieferung zurück, nicht auf einen AT-Text; bloße Ortsangabe."
+    },
+    {
+      "vers_von": 12, "von": 165, "vers_bis": 12, "bis": 223, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 41,16", "url": "https://www.bibleserver.com/MENG/1.Mose41,16" },
+        { "label": "Dan 2,30", "url": "https://www.bibleserver.com/MENG/Daniel2,30" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Motivparallele (Josef, Daniel weisen eigene Kraft von sich) ohne Wortanklang; nur evokativ."
+    },
+    {
+      "vers_von": 13, "von": 6, "vers_bis": 13, "bis": 66, "typ": "at",
+      "referenz": "2. Mo 3,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mit diesen Worten stellte Gott sich Mose am brennenden Dornbusch vor, als er Israel aus Ägypten befreien wollte. Petrus beruft sich auf denselben Gott: Der Befreier Israels selbst steht hinter der Heilung im Namen Jesu."
+    },
+    {
+      "vers_von": 13, "von": 68, "vers_bis": 13, "bis": 104, "typ": "at",
+      "referenz": "Jes 52,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Knecht« ist hier kein Diensttitel, sondern verweist auf den Gottesknecht bei Jesaja, der leidet und von Gott erhöht wird. Die griechische Übersetzung (LXX) sagt von ihm, er werde »verherrlicht« – genau das Wort dieses Verses."
+    },
+    {
+      "vers_von": 14, "von": 12, "vers_bis": 14, "bis": 38, "typ": "at",
+      "referenz": "Jes 53,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja verhilft der Gottesknecht »als Gerechter« den Vielen zur Gerechtigkeit, indem er ihre Verschuldungen auf sich lädt. »Der Gerechte« wird so zum Titel für Jesus als diesen leidenden Knecht."
+    },
+    {
+      "vers_von": 15, "von": 8, "vers_bis": 15, "bis": 30, "typ": "at",
+      "referenz": "Ps 36,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm36,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Titel ohne erkennbare AT-Vorlage; die Fußnote bietet nur eine Übersetzungsvariante. Ps 36,10 (Quelle des Lebens) wäre nur inhaltliche Nähe."
+    },
+    {
+      "vers_von": 17, "von": 31, "vers_bis": 17, "bis": 70, "typ": "at",
+      "referenz": "4. Mo 15,27-30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,27-30",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gesetz unterscheidet unabsichtliche Verfehlungen, für die Sühne und Vergebung möglich sind, von vorsätzlichen, für die es keine Sühne gibt. Mit dem Wort »Unwissenheit« öffnet Petrus seinen Hörern den Weg zur Vergebung."
+    },
+    {
+      "vers_von": 18, "von": 81, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "Jes 53,5-8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,5-8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sammelaussage über alle Propheten, keine bestimmte Stelle; der leidende Gottesknecht ist in V13–14 annotiert."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 33, "typ": "at",
+      "referenz": "Hes 18,30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel18,30",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bußruf ist allgemeine Prophetensprache ohne bestimmte AT-Vorlage."
+    },
+    {
+      "vers_von": 19, "von": 35, "vers_bis": 19, "bis": 68, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 43,25", "url": "https://www.bibleserver.com/MENG/Jesaja43,25" },
+        { "label": "Ps 51,3", "url": "https://www.bibleserver.com/MENG/Psalm51,3" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Bild der getilgten Schuld steht nur im Griechischen (»ausgelöscht«); im Menge-Text (»vergeben«) nicht erkennbar, nicht load-bearing."
+    },
+    {
+      "vers_von": 20, "von": 8, "vers_bis": 20, "bis": 29, "typ": "at",
+      "referenz": "Jes 32,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja32,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Kein AT-Ausdruck mit dieser Formulierung; inhaltliche Nähe zu Heilszeit-Verheißungen zu allgemein."
+    },
+    {
+      "vers_von": 21, "von": 43, "vers_bis": 21, "bis": 95, "typ": "at",
+      "referenz": "Mal 3,23-24", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,23-24",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Wiederherstellung« ist ein Erwartungswort: Maleachi kündigt den wiederkommenden Elia an, der die Herzen wieder zuwendet – die griechische Übersetzung (LXX) sagt dafür »wiederherstellen«. Gemeint ist, dass Gott am Ende alles verwirklicht, was die Propheten verheißen haben."
+    },
+    {
+      "vers_von": 22, "von": 20, "vers_bis": 23, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "5. Mo 18,15-19", "url": "https://www.bibleserver.com/MENG/5.Mose18,15-19" },
+        { "label": "3. Mo 23,29", "url": "https://www.bibleserver.com/MENG/3.Mose23,29" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose kündigt einen Propheten wie sich selbst an; zur Zeit Jesu erwartete man ihn für die Endzeit. Statt »zur Rechenschaft ziehen« (5. Mo 18,19) setzt das Zitat die Strafformel des Gesetzes (3. Mo 23,29): Wer nicht hört, wird »ausgerottet«, verliert also seinen Platz im Volk Gottes."
+    },
+    {
+      "vers_von": 24, "von": 48, "vers_bis": 24, "bis": 61, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 3,1", "url": "https://www.bibleserver.com/MENG/1.Samuel3,1" },
+        { "label": "1. Sam 3,20", "url": "https://www.bibleserver.com/MENG/1.Samuel3,20" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vor Samuel waren Offenbarungen des HERRN in Israel selten; dann erkannte ganz Israel ihn als Propheten des HERRN an. Darum gilt er als Anfang der Prophetenreihe nach Mose."
+    },
+    {
+      "vers_von": 25, "von": 0, "vers_bis": 25, "bis": 32, "typ": "at",
+      "referenz": "1. Kön 20,35", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige20,35",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Im AT meint »Prophetensöhne« Prophetenjünger; hier steht die Wendung im Sinn von Erben der Verheißung – kein Bezug auf jene Stellen."
+    },
+    {
+      "vers_von": 25, "von": 37, "vers_bis": 25, "bis": 99, "typ": "at",
+      "referenz": "1. Mo 17,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose17,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1. Mo 17,7 (Kap. 2,39 inaktiv); der Inhalt wird vom aktiven Zitat im selben Vers getragen."
+    },
+    {
+      "vers_von": 25, "von": 140, "vers_bis": 25, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "1. Mo 22,18", "url": "https://www.bibleserver.com/MENG/1.Mose22,18" },
+        { "label": "1. Mo 12,3", "url": "https://www.bibleserver.com/MENG/1.Mose12,3" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Zitat verbindet zwei Fassungen der Abrahamsverheißung: »Nachkommenschaft« aus 1. Mo 22,18, »alle Geschlechter der Erde« aus 1. Mo 12,3. Der Segen Abrahams war von Anfang an für alle Völker bestimmt – er kommt durch seinen Nachkommen."
+    },
+    {
+      "vers_von": 26, "von": 16, "vers_bis": 26, "bis": 54, "typ": "at",
+      "referenz": "Jes 52,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: der Knecht ist in V13 annotiert, »erstehen lassen« greift den Propheten wie Mose aus V22 auf."
+    }
+  ]
+}
