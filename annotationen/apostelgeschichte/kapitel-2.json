@@ -1,0 +1,273 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 2,
+  "titel": "Das Pfingstwunder · Die Pfingstrede des Petrus · Das Leben der ersten Gemeinde",
+  "abschnitte": [
+    { "id": "pfingstwunder", "vers_von": 1, "vers_bis": 13, "titel": "Das Pfingstwunder: die Ausgießung des heiligen Geistes und sein gewaltiges Zeugnis von den großen Taten Gottes" },
+    { "id": "pfingstrede", "vers_von": 14, "vers_bis": 36, "titel": "Die Pfingstrede des Petrus" },
+    { "id": "wirkung", "vers_von": 37, "vers_bis": 41, "titel": "Wirkung der Rede; erster Seelsorgerdienst des Petrus; Gründung der ersten Gemeinde" },
+    { "id": "gemeinde", "vers_von": 42, "vers_bis": 47, "titel": "Das Leben der Gläubigen in der ersten Gemeinde" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 9, "vers_bis": 1, "bis": 34, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 23,15-16", "url": "https://www.bibleserver.com/MENG/3.Mose23,15-16" },
+        { "label": "5. Mo 16,9-10", "url": "https://www.bibleserver.com/MENG/5.Mose16,9-10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Pfingsten (griech. »der Fünfzigste«) ist das jüdische Wochenfest, hebräisch Schawuot (»Wochen«): Fünfzig Tage nach dem Passa brachte man Gott die Erstlinge der Weizenernte dar. Als eines der drei Wallfahrtsfeste füllte es Jerusalem mit Juden aus aller Welt."
+    },
+    {
+      "vers_von": 2, "von": 22, "vers_bis": 2, "bis": 89, "typ": "at",
+      "referenz": "Hes 37,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel37,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hes 37,9 nur evokativ; keine Formulierungsentsprechung (im Griechischen steht hier pnoē, nicht pneuma). Der Bezug Wind/Geist ergibt sich aus V4 selbst."
+    },
+    {
+      "vers_von": 2, "von": 95, "vers_bis": 2, "bis": 118, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Chr 7,1", "url": "https://www.bibleserver.com/MENG/2.Chronik7,1" },
+        { "label": "1. Kön 8,10-11", "url": "https://www.bibleserver.com/MENG/1.Koenige8,10-11" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Anklang an die Tempelweihe (Feuer vom Himmel, Gottes Herrlichkeit erfüllt das Haus) ist Deutung, kein erkennbarer Bezug; die Theophanie trägt der Sinai-Eintrag in V3."
+    },
+    {
+      "vers_von": 3, "von": 24, "vers_bis": 3, "bis": 44, "typ": "at",
+      "referenz": "2. Mo 19,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose19,18",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Feuer ist im AT das Zeichen, dass Gott selbst erscheint: Am Sinai fuhr der HERR im Feuer auf den Berg herab – im dritten Monat nach dem Auszug, zur Zeit des Wochenfests. Dort hielt das Volk Abstand; hier lässt sich das Feuer auf jeden Einzelnen nieder."
+    },
+    {
+      "vers_von": 4, "von": 60, "vers_bis": 4, "bis": 86, "typ": "at",
+      "referenz": "Jes 28,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja28,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jes 28,11 (fremde Zungen) wird erst in 1. Kor 14,21 aufgegriffen; hier keine erkennbare Anspielung."
+    },
+    {
+      "vers_von": 5, "von": 67, "vers_bis": 5, "bis": 101, "typ": "at",
+      "referenz": "5. Mo 16,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose16,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Wochenfest als Wallfahrtsfest ist durch den Eintrag in V1 abgedeckt."
+    },
+    {
+      "vers_von": 6, "von": 74, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 11,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose11,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Für »in Bestürzung geraten« steht im Griechischen dasselbe Verb, mit dem die griechische Übersetzung (LXX) die Sprachverwirrung in Babel beschreibt. Dort trennten die Sprachen die Menschen; hier versteht jeder in seiner eigenen Sprache dieselbe Botschaft."
+    },
+    {
+      "vers_von": 9, "von": 0, "vers_bis": 11, "bis": 51, "typ": "at",
+      "referenz": "1. Mo 10,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose10,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Völkerliste wird oft mit der Völkertafel 1. Mo 10 verbunden; Namen und Reihenfolge entsprechen ihr nicht. Bezug nur durch Gelehrsamkeit konstruiert."
+    },
+    {
+      "vers_von": 11, "von": 86, "vers_bis": 11, "bis": 109, "typ": "at",
+      "referenz": "5. Mo 11,2-3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose11,2-3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Lobformel für Gottes Heilstaten; keine erkennbare Einzelvorlage."
+    },
+    {
+      "vers_von": 17, "von": 0, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "Joel 3,1-2", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1-2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Joel verheißt den Geist für »alles Fleisch« – nicht mehr nur für Propheten und Könige, sondern für Junge und Alte, Männer, Frauen und Knechte. Statt Joels »danach« steht hier »in den letzten Tagen«: Die Rede stellt Pfingsten als Beginn der Endzeit dar."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "Joel 3,3-4", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Joel3,3-4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Finstere Sonne und blutroter Mond sind keine Astronomie, sondern prophetische Bildsprache für den »Tag des HERRN«, an dem Gott Gericht hält. Wo Joel diesen Tag »furchtbar« nennt, sagt die griechische Übersetzung (LXX) »herrlich«."
+    },
+    {
+      "vers_von": 21, "von": 0, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "Joel 3,5", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Joel3,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Joel steht »der HERR« für den Gottesnamen JHWH. Die Rede bezieht das Wort auf Jesus: V36 nennt ihn »Herrn«, V38 tauft »auf den Namen Jesu Christi«. Rettung hängt am Anrufen dieses Namens."
+    },
+    {
+      "vers_von": 22, "von": 106, "vers_bis": 22, "bis": 136, "typ": "at",
+      "referenz": "5. Mo 34,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose34,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zeichen und Wunder« ist eine geläufige Wendung (Auszug unter Mose); keine bestimmte Stelle erkennbar aufgegriffen."
+    },
+    {
+      "vers_von": 23, "von": 114, "vers_bis": 23, "bis": 144, "typ": "at",
+      "referenz": "Jes 53,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Gesetzlose« meint hier die Heiden (Römer); das Wortecho auf Jes 53,12 besteht nur in der LXX und wäre beim Lesen nicht erkannt worden."
+    },
+    {
+      "vers_von": 24, "von": 39, "vers_bis": 24, "bis": 64, "typ": "at",
+      "referenz": "Ps 18,5-6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm18,5-6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Wo Menge in Ps 18,6 »Netze des Totenreichs« übersetzt, steht ein hebräisches Wort, das »Stricke« wie »Wehen« bedeuten kann; die griechische Übersetzung (LXX) wählt »Wehen«. Gott löst die Fesseln des Todes, wie er den Psalmbeter aus Todesnot rettet."
+    },
+    {
+      "vers_von": 25, "von": 33, "vers_bis": 28, "bis": -1, "typ": "at",
+      "referenz": "Ps 16,8-11", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm16,8-11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Argument hängt am griechischen Wortlaut (LXX): Wo Menge in Ps 16,10 nach dem Hebräischen »Vernichtung« übersetzt, steht dort »Verwesung«. Davids Grab kannte jeder (V29) – sein Leib ist verwest; also spricht der Psalm von einem anderen."
+    },
+    {
+      "vers_von": 29, "von": 75, "vers_bis": 29, "bis": -1, "typ": "at",
+      "referenz": "1. Kön 2,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige2,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Text nennt Davids Begräbnis und Grab selbst; die Pointe trägt der Eintrag zu Ps 16 (V25-28)."
+    },
+    {
+      "vers_von": 30, "von": 39, "vers_bis": 30, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 89,4-5", "url": "https://www.bibleserver.com/MENG/Psalm89,4-5" },
+        { "label": "Ps 132,11", "url": "https://www.bibleserver.com/MENG/Psalm132,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott schwor David, sein Thron werde für alle Zeiten bestehen und ein leiblicher Nachkomme werde darauf sitzen. Aus diesem Eid stammt die Erwartung, der Messias sei ein Sohn Davids."
+    },
+    {
+      "vers_von": 31, "von": 82, "vers_bis": 31, "bis": -1, "typ": "at",
+      "referenz": "Ps 16,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm16,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von Ps 16,10 aus V27, hier als Auslegung."
+    },
+    {
+      "vers_von": 33, "von": 15, "vers_bis": 33, "bis": 45, "typ": "at",
+      "referenz": "Ps 118,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Erhöhung »durch die Rechte Gottes« bereitet Ps 110,1 in V34 vor; Ps 118,16 klingt nur in der LXX an. Eigener Eintrag nicht nötig."
+    },
+    {
+      "vers_von": 33, "von": 61, "vers_bis": 33, "bis": 115, "typ": "at",
+      "referenz": "Ps 68,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm68,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Verbindung Auffahren – Gabe – Wochenfest ist erst in späterer Targum-Deutung belegt; der Wortlaut ruft den Psalm nicht auf."
+    },
+    {
+      "vers_von": 34, "von": 77, "vers_bis": 35, "bis": -1, "typ": "at",
+      "referenz": "Ps 110,1", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Hebräischen spricht JHWH (»der HERR«) zu Davids »Herrn« – David nennt also einen anderen über sich Herrn. Der Platz zur Rechten ist der Ehrenplatz neben dem Thron, Zeichen geteilter Herrschaft."
+    },
+    {
+      "vers_von": 36, "von": 73, "vers_bis": 36, "bis": 99, "typ": "at",
+      "referenz": "Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Herr« greift Ps 110,1 auf, »Christus« die Davidsverheißung (V30); Ps 2 wird erst in Apg 4,25-26 ausdrücklich zitiert."
+    },
+    {
+      "vers_von": 39, "von": 5, "vers_bis": 39, "bis": 47, "typ": "at",
+      "referenz": "1. Mo 17,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose17,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Euch und euren Kindern« erinnert an den Abrahamsbund, die Verheißung ist aber der Geist aus Joel; der Abrahamsbezug wird erst in Apg 3,25 explizit."
+    },
+    {
+      "vers_von": 39, "von": 52, "vers_bis": 39, "bis": 129, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 57,19", "url": "https://www.bibleserver.com/MENG/Jesaja57,19" },
+        { "label": "Joel 3,5", "url": "https://www.bibleserver.com/MENG/Joel3,5" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Schluss nimmt das Ende des Joelworts auf, das V21 nicht mehr zitiert: Gerettet wird jeder, »den der HERR beruft«. Die »Fernen« erinnern an Jesajas »Frieden den Fernen und den Nahen«; ob Juden in der Ferne oder schon Heiden gemeint sind, bleibt offen."
+    },
+    {
+      "vers_von": 40, "von": 97, "vers_bis": 40, "bis": 129, "typ": "at",
+      "referenz": "5. Mo 32,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das »verkehrte Geschlecht« stammt aus dem Lied des Mose: So heißt dort Israel, das sich trotz aller Wohltaten Gottes von ihm abwandte. Die Rede stellt die Zuhörer in diese Reihe – und ruft sie heraus."
+    },
+    {
+      "vers_von": 41, "von": 75, "vers_bis": 41, "bis": 98, "typ": "at",
+      "referenz": "2. Mo 32,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose32,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Gegenüberstellung mit den 3000 Toten beim goldenen Kalb ist spätere Auslegung; der Text markiert die Zahl nicht als Bezug."
+    },
+    {
+      "vers_von": 43, "von": 45, "vers_bis": 43, "bis": 69, "typ": "at",
+      "referenz": "5. Mo 4,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dasselbe Exodus-Motiv wie V22 (»Zeichen und Wunder«), dort schon inaktiv; keine neue Dimension."
+    },
+    {
+      "vers_von": 44, "von": 48, "vers_bis": 44, "bis": 70, "typ": "at",
+      "referenz": "5. Mo 15,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose15,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Gütergemeinschaft greift 5. Mo 15,4 erst in Apg 4,34 deutlich auf; dort annotieren."
+    },
+    {
+      "vers_von": 45, "von": 50, "vers_bis": 45, "bis": 126, "typ": "at",
+      "referenz": "5. Mo 15,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose15,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dasselbe Motiv wie V44; deutlich erst in Apg 4,34."
+    },
+    {
+      "vers_von": 47, "von": 96, "vers_bis": 47, "bis": 123, "typ": "at",
+      "referenz": "Joel 3,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Greift »wird gerettet werden« aus dem Joel-Zitat (V21) wieder auf; Wiederholung im Kapitel."
+    }
+  ]
+}
