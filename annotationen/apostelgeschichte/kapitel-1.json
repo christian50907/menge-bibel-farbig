@@ -1,0 +1,208 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 1,
+  "titel": "Die Apostelgeschichte",
+  "abschnitte": [
+    { "id": "himmelfahrt", "vers_von": 1, "vers_bis": 14, "titel": "Jesu letzte Anordnungen und seine Verheißung an die Jünger; Himmelfahrt" },
+    { "id": "ersatzwahl", "vers_von": 15, "vers_bis": 26, "titel": "Ersatzwahl eines Apostels (des Matthias) an Stelle des Verräters Judas Iskariot" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 63, "vers_bis": 2, "bis": 87, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 51,13", "url": "https://www.bibleserver.com/MENG/Psalm51,13" },
+        { "label": "Jes 63,10-11", "url": "https://www.bibleserver.com/MENG/Jesaja63,10-11" }
+      ],
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "»Heiliger Geist« ist im AT ein seltener Ausdruck: Nur Ps 51,13 und Jes 63,10-11 sprechen von Gottes »heiligem Geist« – seiner Gegenwart bei seinem Volk seit dem Auszug unter Mose. Jesus handelt durch eben diesen Geist."
+    },
+    {
+      "vers_von": 3, "von": 100, "vers_bis": 3, "bis": 117, "typ": "at",
+      "referenz": "2. Mo 24,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vierzig als runde Zeitspanne ist im AT verbreitet (Mose am Sinai, Elia, Wüstenzeit); keine bestimmte Stelle erkennbar aufgegriffen."
+    },
+    {
+      "vers_von": 3, "von": 153, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "Dan 2,44", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,44",
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "Das »Reich Gottes« knüpft an Daniel an: Der Gott des Himmels wird selbst ein Reich errichten, das alle Weltreiche ablöst und ewig besteht. Darum fragen die Jünger in V6 folgerichtig nach dem Königtum für Israel."
+    },
+    {
+      "vers_von": 4, "von": 104, "vers_bis": 4, "bis": 145, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Joel 3,1", "url": "https://www.bibleserver.com/MENG/Joel3,1" },
+        { "label": "Hes 36,27", "url": "https://www.bibleserver.com/MENG/Hesekiel36,27" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Verheißung des Vaters« meint keine neue Zusage: Die Propheten kündigten an, Gott werde seinen Geist über alle Menschen ausgießen (Joel) und in das Innere seines Volkes legen (Hesekiel) – eine bekannte Hoffnung für die Endzeit."
+    },
+    { "vers_von": 4, "von": 158, "vers_bis": 4, "bis": 167, "typ": "jesus" },
+    { "vers_von": 4, "von": 196, "vers_bis": 5, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 6, "von": 45, "vers_bis": 6, "bis": 117, "typ": "at",
+      "referenz": "Am 9,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos9,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Frage ist keine politische Naivität: Die Propheten verhießen, Gott werde das zerfallene Königtum Davids wieder aufrichten. Wer den Geist der Endzeit erwartet (V4–5), rechnet folgerichtig auch mit der Wiederherstellung Israels."
+    },
+    { "vers_von": 7, "von": 21, "vers_bis": 8, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 7, "von": 46, "vers_bis": 7, "bis": 148, "typ": "at",
+      "referenz": "Dan 2,21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,21",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Zeiten und Fristen« ist der Wortlaut der griechischen Übersetzung von Dan 2,21 (Menge: »Zeiten und Verhältnisse«): Gott allein lenkt die Zeiten und setzt Könige ein und ab. Die Frage nach dem Königtum wird an diese Hoheit Gottes verwiesen."
+    },
+    {
+      "vers_von": 8, "von": 35, "vers_bis": 8, "bis": 72, "typ": "at",
+      "referenz": "Jes 32,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja32,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "LXX-Wortlaut nahezu gleich (der Geist »kommt auf euch«), sachlich aber durch die Geistverheißung bei V4 (Joel 3,1; Hes 36,27) abgedeckt."
+    },
+    {
+      "vers_von": 8, "von": 78, "vers_bis": 8, "bis": 178, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 43,10", "url": "https://www.bibleserver.com/MENG/Jesaja43,10" },
+        { "label": "Jes 49,6", "url": "https://www.bibleserver.com/MENG/Jesaja49,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Jesaja ist Israel Gottes Zeuge; der Gottesknecht soll die Stämme Jakobs wiederherstellen und zugleich Gottes Heil »bis ans Ende der Erde« tragen. So antwortet V8 auf V6: Israels Wiederherstellung schließt die Völker ein."
+    },
+    {
+      "vers_von": 9, "von": 58, "vers_bis": 9, "bis": 81, "typ": "at",
+      "referenz": "Dan 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "In Daniels Vision kommt der Menschensohn »mit den Wolken des Himmels« zu Gott und empfängt die Herrschaft. Die Wolke, die Jesus aufnimmt, und die Ankündigung seiner Wiederkunft »in derselben Weise« (V11) greifen dieses Bild auf."
+    },
+    {
+      "vers_von": 10, "von": 4, "vers_bis": 10, "bis": 75, "typ": "at",
+      "referenz": "2. Kön 2,10-11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige2,10-11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Elia wurde vor den Augen Elisas zum Himmel entrückt; nur wenn Elisa dies mit ansah, sollte er Elias Geist empfangen. Die griechische Übersetzung (LXX) gebraucht dafür dasselbe Verb wie V2 (»aufgenommen«). Auch hier folgt auf das Hinschauen der Jünger die Gabe des Geistes."
+    },
+    {
+      "vers_von": 12, "von": 19, "vers_bis": 12, "bis": 46, "typ": "at",
+      "referenz": "Sach 14,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja14,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Ölberg ist mehr als eine Ortsangabe: Nach Sacharja tritt der Herr an seinem Tag mit den Füßen auf den Ölberg. Die Ankündigung der Wiederkunft (V11) fällt genau an diesem Ort."
+    },
+    {
+      "vers_von": 12, "von": 81, "vers_bis": 12, "bis": 109, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 16,29", "url": "https://www.bibleserver.com/MENG/2.Mose16,29" },
+        { "label": "4. Mo 35,5", "url": "https://www.bibleserver.com/MENG/4.Mose35,5" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Sabbat sollte niemand seine Wohnung verlassen (2. Mo 16,29). Die jüdische Auslegung begrenzte den erlaubten Weg auf 2000 Ellen – das Maß aus 4. Mo 35,5 –, also rund 1 km. Die Angabe beziffert nur die Entfernung; ein Sabbat ist nicht gemeint."
+    },
+    {
+      "vers_von": 13, "von": 252, "vers_bis": 13, "bis": 269, "typ": "at",
+      "referenz": "4. Mo 25,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose25,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Beiname erinnert an den Eifer des Pinhas, ist hier aber nur Name und Zuordnung; nicht load-bearing."
+    },
+    {
+      "vers_von": 16, "von": 15, "vers_bis": 16, "bis": 135, "typ": "at",
+      "referenz": "Ps 41,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm41,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 41 klagt über den Verrat durch den engsten Vertrauten, der mit dem Beter Brot aß. Der Text bezieht Davids Erfahrung auf Judas – einen aus dem Kreis der Zwölf (V17)."
+    },
+    {
+      "vers_von": 18, "von": 68, "vers_bis": 18, "bis": 136, "typ": "at",
+      "referenz": "2. Sam 17,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel17,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ahitophel, der Verräter Davids, erhängte sich; diese Parallele gehört zu Mt 27,5. Apg schildert einen anderen Tod ohne erkennbaren AT-Bezug."
+    },
+    {
+      "vers_von": 19, "von": 106, "vers_bis": 19, "bis": 140, "typ": "at",
+      "referenz": "Sach 11,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja11,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Mt 27,9-10 deutet den Blutacker mit dem Prophetenwort von den dreißig Silberstücken; Apg 1 greift diesen Bezug nicht auf, sondern begründet mit den Psalmen in V20."
+    },
+    {
+      "vers_von": 20, "von": 37, "vers_bis": 20, "bis": 99, "typ": "at",
+      "referenz": "Ps 69,26", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm69,26",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 69 ist das Klagelied des unschuldig Verfolgten; der Fluch trifft seine Feinde. Im Psalm steht die Mehrzahl (»Ihre Behausung«) – das Zitat bezieht das Wort in der Einzahl auf Judas und seinen verödeten Acker (V18–19)."
+    },
+    {
+      "vers_von": 20, "von": 113, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "Ps 109,8", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm109,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 109 klagt über einen Gegner, der Liebe mit Hass vergilt; sein Amt soll ein anderer erhalten. Das Zitat begründet die Nachwahl: Die Stelle des Judas darf nicht leer bleiben."
+    },
+    {
+      "vers_von": 21, "von": 128, "vers_bis": 21, "bis": 152, "typ": "at",
+      "referenz": "4. Mo 27,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose27,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ein- und ausgehen« ist eine geläufige hebräische Wendung für das ganze Wirken eines Menschen; kein bestimmter Textverweis."
+    },
+    {
+      "vers_von": 24, "von": 46, "vers_bis": 24, "bis": 76, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 8,39", "url": "https://www.bibleserver.com/MENG/1.Koenige8,39" },
+        { "label": "1. Sam 16,7", "url": "https://www.bibleserver.com/MENG/1.Samuel16,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott allein kennt das Herz aller Menschen (1. Kön 8,39). Bei der Wahl Davids unter seinen Brüdern sah er nicht auf das Äußere, sondern auf das Herz (1. Sam 16,7). So wird auch diese Wahl dem Herzenskenner überlassen."
+    },
+    {
+      "vers_von": 26, "von": 8, "vers_bis": 26, "bis": 63, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Spr 16,33", "url": "https://www.bibleserver.com/MENG/Sprueche16,33" },
+        { "label": "1. Chr 24,5", "url": "https://www.bibleserver.com/MENG/1.Chronik24,5" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Los ist hier kein Zufall: Im AT galt die Entscheidung des Loses als Entscheidung Gottes (Spr 16,33). Auch die Dienstabteilungen der Priester wurden durch Lose zugeteilt (1. Chr 24,5)."
+    },
+    {
+      "vers_von": 26, "von": 77, "vers_bis": 26, "bis": 104, "typ": "at",
+      "referenz": "1. Mo 49,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose49,28",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Warum muss Judas überhaupt ersetzt werden? Die Zwölfzahl der Apostel entspricht den zwölf Stämmen Israels. Mit Matthias ist der Kreis wieder vollständig – ein Zeichen für das wiederhergestellte Gottesvolk (V6)."
+    }
+  ]
+}

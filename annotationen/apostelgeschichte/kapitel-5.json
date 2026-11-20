@@ -1,0 +1,257 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 5,
+  "titel": "Ananias und Sapphira · Verhaftung und Befreiung der Apostel · Gamaliels Rat",
+  "abschnitte": [
+    { "id": "ananias-sapphira", "vers_von": 1, "vers_bis": 11, "titel": "Ein Beispiel der ernsten Gemeindezucht: Ananias und Sapphira" },
+    { "id": "wundertaten", "vers_von": 12, "vers_bis": 16, "titel": "Wundertaten (besonders Krankenheilungen) der Apostel; weiteres Wachsen der Gemeinde" },
+    { "id": "verhaftung", "vers_von": 17, "vers_bis": 26, "titel": "Die Verhaftung; Befreiung durch einen Engel" },
+    { "id": "zeugnis", "vers_von": 27, "vers_bis": 33, "titel": "Der Apostel mutiges Zeugnis von der Auferstehung Christi" },
+    { "id": "gamaliel", "vers_von": 34, "vers_bis": 39, "titel": "Gamaliels Fürsprache und Rat" },
+    { "id": "ausgang", "vers_von": 40, "vers_bis": 42, "titel": "Ausgang und Folgen des Vorkommnisses" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 0, "vers_bis": 2, "bis": 79, "typ": "at",
+      "referenz": "Jos 7,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua7,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das griechische Wort für »behielt zurück« ist selten. Die griechische Übersetzung des AT (LXX) gebraucht es für Achan, der sich heimlich etwas vom Gott geweihten Beutegut aneignete. Wie beim Einzug ins Land steht die Untreue gleich am Anfang."
+    },
+    {
+      "vers_von": 3, "von": 27, "vers_bis": 3, "bis": 67, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Chr 21,1", "url": "https://www.bibleserver.com/MENG/1.Chronik21,1" },
+        { "label": "Hiob 1,9", "url": "https://www.bibleserver.com/MENG/Hiob1,9" }
+      ],
+      "autor": "Mensch",
+      "status": "aktiv",
+      "begruendung": "»Satan« heißt hebräisch »Widersacher, Ankläger«. Im AT verführt er David zur Volkszählung, die Gott missfällt, und verdächtigt den frommen Hiob vor Gott. Hier treibt er Ananias dazu, Gott zu belügen."
+    },
+    {
+      "vers_von": 4, "von": 214, "vers_bis": 4, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 16,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose16,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Satzbau ähnlich (»Euer Murren ist nicht gegen uns gerichtet, sondern gegen den HERRN«), aber nur evokativ; die Aussage ist ohne AT-Hintergrund verständlich."
+    },
+    {
+      "vers_von": 5, "von": 31, "vers_bis": 5, "bis": 70, "typ": "at",
+      "referenz": "3. Mo 10,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose10,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Plötzlicher Tod als Gericht am Anfang (Nadab und Abihu) nur evokativ; das Anfangs-Motiv trägt bereits der Achan-Bezug in V2."
+    },
+    {
+      "vers_von": 6, "von": 38, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 10,1-5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose10,1-5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hinaustragen der Leiche ist üblicher Bestattungsbrauch; Nadab-und-Abihu-Parallele nur evokativ, Anfangsmotiv trägt schon V2 (Jos 7,1)."
+    },
+    {
+      "vers_von": 9, "von": 63, "vers_bis": 9, "bis": 95, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 6,16", "url": "https://www.bibleserver.com/MENG/5.Mose6,16" },
+        { "label": "2. Mo 17,7", "url": "https://www.bibleserver.com/MENG/2.Mose17,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Den Herrn versuchen« ist eine feste AT-Wendung: In Massa stellte Israel Gott auf die Probe, ob er wirklich in ihrer Mitte sei, und das Gesetz verbietet es ausdrücklich. Das Ehepaar testet, ob Gottes Geist den Betrug bemerkt."
+    },
+    {
+      "vers_von": 11, "von": 25, "vers_bis": 11, "bis": 48, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 9,10", "url": "https://www.bibleserver.com/MENG/5.Mose9,10" },
+        { "label": "5. Mo 18,16", "url": "https://www.bibleserver.com/MENG/5.Mose18,16" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "ekklesia hier erstmals, Bezug zur Sinai-Versammlung (qahal) aber erst in 7,38 ausdrücklich; dort aktiv annotieren."
+    },
+    {
+      "vers_von": 12, "von": 43, "vers_bis": 12, "bis": 67, "typ": "at",
+      "referenz": "5. Mo 4,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zeichen und Wunder« schon 2,22/2,43/4,30 inaktiv."
+    },
+    {
+      "vers_von": 12, "von": 129, "vers_bis": 12, "bis": 149, "typ": "at",
+      "referenz": "1. Kön 6,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige6,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 3,11."
+    },
+    {
+      "vers_von": 15, "von": 123, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "2. Kön 13,21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige13,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Keine AT-Vorlage für Heilung durch den Schatten; Elisa-Parallelen nur lose."
+    },
+    {
+      "vers_von": 16, "von": 115, "vers_bis": 16, "bis": 145, "typ": "at",
+      "referenz": "Sach 13,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sacharja13,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Unreine Geister« ist geläufige Sprache der Evangelien; kein Bezug auf eine bestimmte AT-Stelle."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 69, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 34,8", "url": "https://www.bibleserver.com/MENG/Psalm34,8" },
+        { "label": "Dan 3,28", "url": "https://www.bibleserver.com/MENG/Daniel3,28" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der »Engel des Herrn« ist im AT Gottes Bote, der die Seinen rettet. So rettete Gott durch seinen Engel die Freunde Daniels, die das Gebot des Königs übertreten hatten – wie hier die Apostel, die trotz Verbot weiter lehren."
+    },
+    {
+      "vers_von": 20, "von": 62, "vers_bis": 20, "bis": 84, "typ": "at",
+      "referenz": "5. Mo 32,47", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,47",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Wort als Leben nur thematisch verwandt; keine erkennbare Formulierungsvorlage."
+    },
+    {
+      "vers_von": 21, "von": 183, "vers_bis": 21, "bis": 224, "typ": "at",
+      "referenz": "2. Mo 12,21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "LXX-Wendung (2. Mo 12,21), aber nur feierliche Gremienbezeichnung; nicht load-bearing."
+    },
+    {
+      "vers_von": 26, "von": 127, "vers_bis": 26, "bis": 156, "typ": "at",
+      "referenz": "2. Mo 17,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose17,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Furcht vor Steinigung durch das Volk wie bei Mose, nur evokativ. Die Steinigung als Strafe besser bei Stephanus (Kap. 7) erklären."
+    },
+    {
+      "vers_von": 28, "von": 43, "vers_bis": 28, "bis": 82, "typ": "at",
+      "referenz": "5. Mo 18,20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 4,7/4,17–18."
+    },
+    {
+      "vers_von": 28, "von": 149, "vers_bis": 28, "bis": -1, "typ": "at",
+      "referenz": "Jer 26,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia26,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Blut auf jemanden bringen« heißt, ihn an einem Tod schuldig zu machen, den Gott ahndet. Mit dieser Wendung warnte Jeremia vor Gericht seine Ankläger. Der Hohe Rat fürchtet, als schuldig am Tod Jesu dazustehen."
+    },
+    {
+      "vers_von": 29, "von": 49, "vers_bis": 29, "bis": -1, "typ": "at",
+      "referenz": "Dan 3,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel3,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 4,19, dort ebenfalls inaktiv. Das Daniel-3-Motiv ist in V19 (Dan 3,28) aktiv aufgegriffen."
+    },
+    {
+      "vers_von": 30, "von": 0, "vers_bis": 30, "bis": 22, "typ": "at",
+      "referenz": "2. Mo 3,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 3,13."
+    },
+    {
+      "vers_von": 30, "von": 45, "vers_bis": 30, "bis": 69, "typ": "at",
+      "referenz": "5. Mo 21,22-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose21,22-23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gesetz erklärt einen an den Baum (»Holz«) Gehängten für von Gott verflucht. Die Wortwahl erinnert daran, dass die Kreuzigung Jesus vor jüdischen Augen als Verfluchten erscheinen ließ – und Gott hat gerade ihn auferweckt."
+    },
+    {
+      "vers_von": 31, "von": 16, "vers_bis": 31, "bis": 70, "typ": "at",
+      "referenz": "Ps 118,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 2,33 (Erhöhung durch die Rechte Gottes); Ps 110,1 ist in 2,34 annotiert."
+    },
+    {
+      "vers_von": 31, "von": 72, "vers_bis": 31, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 18,30", "url": "https://www.bibleserver.com/MENG/Hesekiel18,30" },
+        { "label": "Jes 43,25", "url": "https://www.bibleserver.com/MENG/Jesaja43,25" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 3,19."
+    },
+    {
+      "vers_von": 32, "von": 0, "vers_bis": 32, "bis": 35, "typ": "at",
+      "referenz": "Jes 43,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zeugenmotiv schon 1,8 aktiv."
+    },
+    {
+      "vers_von": 37, "von": 35, "vers_bis": 37, "bis": 57, "typ": "at",
+      "referenz": "2. Sam 24,1-10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel24,1-10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Römische Steuererfassung, Zeitgeschichte; kein AT-Bezug."
+    },
+    {
+      "vers_von": 38, "von": 85, "vers_bis": 39, "bis": 154, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Spr 19,21", "url": "https://www.bibleserver.com/MENG/Sprueche19,21" },
+        { "label": "2. Chr 13,12", "url": "https://www.bibleserver.com/MENG/2.Chronik13,12" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gamaliels Abwägung ist aus sich verständlich; Spr 19,21 und 2. Chr 13,12 sind nur thematisch verwandt, »Widersacher Gottes« hat keine LXX-Vorlage im Wortlaut."
+    },
+    {
+      "vers_von": 40, "von": 46, "vers_bis": 40, "bis": 53, "typ": "at",
+      "referenz": "5. Mo 25,2-3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose25,2-3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gemeint ist wohl die Prügelstrafe des jüdischen Gerichts nach dem Gesetz: höchstens vierzig Schläge, in der Praxis 39, um die Grenze nicht zu überschreiten. Die Apostel werden damit förmlich als Gesetzesübertreter bestraft."
+    },
+    {
+      "vers_von": 41, "von": 55, "vers_bis": 41, "bis": 134, "typ": "at",
+      "referenz": "Ps 69,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm69,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Um deinetwillen trage ich Schmach« ähnlich, aber nur evokativ; die Freude im Leiden knüpft an Jesusworte an, nicht an eine AT-Stelle."
+    },
+    {
+      "vers_von": 42, "von": 77, "vers_bis": 42, "bis": 129, "typ": "at",
+      "referenz": "Jes 52,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Heilsbotschaft verkündigen« ist geläufiges urchristliches Vokabular; hier kein erkennbarer Rückgriff auf Jes 52,7."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 6,
+  "titel": "Wahl der sieben Armenpfleger · Anklage gegen Stephanus",
+  "abschnitte": [
+    { "id": "armenpfleger", "vers_von": 1, "vers_bis": 7, "titel": "Trennung des Predigtamtes und der Armenpflege; Wahl und Einsetzung der sieben Armenpfleger" },
+    { "id": "stephanus-anklage", "vers_von": 8, "vers_bis": 15, "titel": "Die öffentliche Wirksamkeit des Stephanus zieht ihm eine Anklage zu" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 65, "vers_bis": 1, "bis": 86, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 16,7-8", "url": "https://www.bibleserver.com/MENG/2.Mose16,7-8" },
+        { "label": "4. Mo 11,1", "url": "https://www.bibleserver.com/MENG/4.Mose11,1" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Wüstenmurren klingt im Wort nur an; hier geht es um einen Streit innerhalb der Gemeinde, nicht um Murren gegen Gott."
+    },
+    {
+      "vers_von": 1, "von": 127, "vers_bis": 1, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 14,29", "url": "https://www.bibleserver.com/MENG/5.Mose14,29" },
+        { "label": "5. Mo 24,19", "url": "https://www.bibleserver.com/MENG/5.Mose24,19" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Witwen hatten meist keinen Ernährer. Das Gesetz stellt sie mit Waisen und Fremdlingen unter Gottes Schutz: Sie sollen vom Zehnten und von der Nachlese der Ernte mitessen. Ihre Versorgung war darum eine Pflicht vor Gott, keine freiwillige Wohltat."
+    },
+    {
+      "vers_von": 2, "von": 17, "vers_bis": 2, "bis": 26, "typ": "at",
+      "referenz": "1. Mo 49,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose49,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 1,26 (Zwölfzahl als Bild der Stämme Israels)."
+    },
+    {
+      "vers_von": 3, "von": 30, "vers_bis": 3, "bis": 112, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 1,9-13", "url": "https://www.bibleserver.com/MENG/5.Mose1,9-13" },
+        { "label": "4. Mo 11,17", "url": "https://www.bibleserver.com/MENG/4.Mose11,17" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Auch Mose konnte die Last des Volkes nicht allein tragen. Das Volk benannte weise, bewährte Männer aus seinen Stämmen, Mose setzte sie ein, und Gott gab Ältesten von seinem Geist. Die Apostel folgen demselben Muster: Auswahl durch die Gemeinde, Einsetzung durch die Leitung."
+    },
+    {
+      "vers_von": 5, "von": 84, "vers_bis": 5, "bis": 129, "typ": "at",
+      "referenz": "4. Mo 27,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose27,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Josua-Parallele schon in V6 aktiv; »voll Geistes« ist geläufige Sprache der Apostelgeschichte."
+    },
+    {
+      "vers_von": 5, "von": 203, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 12,48", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,48",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Proselyt ist eine nachbiblische Einrichtung; die Menge-Fußnote erklärt den Begriff bereits. Die AT-Grundlage (beschnittener Fremdling) ist für das Verständnis nicht tragend."
+    },
+    {
+      "vers_von": 6, "von": 75, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 27,18-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose27,18-23",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Durch das Auflegen der Hände setzte Mose Josua vor dem ganzen Volk in sein Amt ein und übertrug ihm einen Teil seiner Vollmacht. Die Geste ist hier kein allgemeiner Segen, sondern eine öffentliche Beauftragung: Die Sieben werden in ein Amt eingesetzt."
+    },
+    {
+      "vers_von": 7, "von": 0, "vers_bis": 7, "bis": 109, "typ": "at",
+      "referenz": "2. Mo 1,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose1,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Mehrungsformel klingt an, ist aber eine wiederkehrende Summarienformel der Apostelgeschichte (12,24; 19,20); 2. Mo 1,7 wird in 7,17 ausdrücklich aufgegriffen."
+    },
+    {
+      "vers_von": 7, "von": 111, "vers_bis": 7, "bis": 147, "typ": "at",
+      "referenz": "1. Chr 24,1-19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Chronik24,1-19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die 24 Priesterabteilungen erklären die große Zahl der Priester, aber der Vers spielt auf keine AT-Stelle an; Hintergrundwissen ohne Textbezug."
+    },
+    {
+      "vers_von": 8, "von": 58, "vers_bis": 8, "bis": 82, "typ": "at",
+      "referenz": "5. Mo 4,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geläufige Formel, im Buch bereits mehrfach geprüft (2,43; 5,12) und als zu allgemein eingestuft."
+    },
+    {
+      "vers_von": 11, "von": 14, "vers_bis": 11, "bis": 58, "typ": "at",
+      "referenz": "1. Kön 21,10-13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige21,10-13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Als Naboth seinen Weinberg nicht an König Ahab abtreten wollte, ließ Königin Isebel Männer bestellen, die bezeugten, er habe »Gott und den König gelästert«; daraufhin wurde er vor der Stadt gesteinigt. Gegen Stephanus beginnt dasselbe Verfahren: angestiftete Zeugen und ein doppelter Lästerungsvorwurf."
+    },
+    {
+      "vers_von": 11, "von": 75, "vers_bis": 11, "bis": 112, "typ": "at",
+      "referenz": "3. Mo 24,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose24,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gotteslästerung war nach dem Gesetz ein Verbrechen, auf das der Tod durch Steinigung stand – vollzogen von der ganzen Gemeinde. Die Anklage zielt also von Anfang an auf das Leben des Stephanus."
+    },
+    {
+      "vers_von": 12, "von": 37, "vers_bis": 12, "bis": 74, "typ": "at",
+      "referenz": "4. Mo 11,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose11,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 4,5 (Älteste und Schriftgelehrte des Hohen Rates); dort bereits geprüft."
+    },
+    {
+      "vers_von": 13, "von": 16, "vers_bis": 13, "bis": 30, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 17,6-7", "url": "https://www.bibleserver.com/MENG/5.Mose17,6-7" },
+        { "label": "5. Mo 19,18-19", "url": "https://www.bibleserver.com/MENG/5.Mose19,18-19" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein Todesurteil erforderte mindestens zwei Zeugen; sie mussten bei der Hinrichtung als Erste Hand anlegen. Wer falsch aussagte, sollte selbst die Strafe erleiden, die er dem anderen zugedacht hatte – in einem solchen Prozess also den Tod."
+    },
+    {
+      "vers_von": 13, "von": 88, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "Jer 26,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia26,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tempelvorwurf und Jer 26 sind schon in V14 aktiv annotiert."
+    },
+    {
+      "vers_von": 14, "von": 31, "vers_bis": 14, "bis": 84, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 26,6", "url": "https://www.bibleserver.com/MENG/Jeremia26,6" },
+        { "label": "Jer 26,11", "url": "https://www.bibleserver.com/MENG/Jeremia26,11" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Schon Jeremia kündigte an, Gott werde mit dem Tempel verfahren wie mit dem zerstörten Heiligtum in Silo. Priester und Propheten forderten daraufhin seinen Tod. Ein Wort gegen den Tempel galt als todeswürdig – Stephanus gerät in dieselbe Lage wie die verfolgten Propheten."
+    },
+    {
+      "vers_von": 14, "von": 89, "vers_bis": 14, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 4,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,1-2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeiner Hinweis auf das mosaische Gesetz ohne Bezug auf eine bestimmte Stelle; der Gegensatz zu Mose ist schon in V11 annotiert."
+    },
+    {
+      "vers_von": 15, "von": 89, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 34,29-30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose34,29-30",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Als Mose vom Sinai herabkam, strahlte sein Gesicht von der Begegnung mit Gott. Stephanus ist angeklagt, gegen Mose zu reden – doch sein Gesicht erscheint verklärt wie einst das des Mose. Sein Anblick widerspricht damit der Anklage."
+    }
+  ]
+}

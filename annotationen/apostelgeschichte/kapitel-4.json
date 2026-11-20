@@ -1,0 +1,197 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 4,
+  "titel": "Petrus und Johannes vor dem Hohen Rat · Gebet der Gemeinde · Gütergemeinschaft",
+  "abschnitte": [
+    { "id": "hoher-rat", "vers_von": 1, "vers_bis": 22, "titel": "Das Einschreiten der jüdischen Behörde: Petrus und Johannes im Gefängnis und vor dem Hohen Rat; ihre Freilassung" },
+    { "id": "gebet-gemeinde", "vers_von": 23, "vers_bis": 31, "titel": "Rückkehr der Apostel; Dank- und Bittgebet der Gemeinde" },
+    { "id": "guetergemeinschaft", "vers_von": 32, "vers_bis": 37, "titel": "Die Gütergemeinschaft" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 61, "vers_bis": 1, "bis": 80, "typ": "at",
+      "referenz": "Jer 20,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia20,1-2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Festnahme durch den Tempelhauptmann wie bei Jeremia, nur evokativ. In der Begründung zu V20 aufgegriffen."
+    },
+    {
+      "vers_von": 2, "von": 80, "vers_bis": 2, "bis": 130, "typ": "at",
+      "referenz": "Dan 12,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Auferstehung wiederholt (Kap. 2). Die Ablehnung durch die Sadduzäer ist ein Lehrstreit ohne Bezug auf eine bestimmte AT-Stelle."
+    },
+    {
+      "vers_von": 5, "von": 40, "vers_bis": 5, "bis": 91, "typ": "at",
+      "referenz": "4. Mo 11,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose11,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Herleitung des Hohen Rates von den 70 Ältesten neben Mose ist spätere Tradition; der Text greift sie nicht auf."
+    },
+    {
+      "vers_von": 7, "von": 44, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 18,20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Frage nach Kraft und Namen ist eine allgemeine Verhörfrage ohne Formulierungsbezug; eine Prüfung als falscher Prophet gibt der Text nicht her (vgl. V16)."
+    },
+    {
+      "vers_von": 11, "von": 19, "vers_bis": 11, "bis": 89, "typ": "at",
+      "referenz": "Ps 118,22", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm118,22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 118 gehörte zu den Festpsalmen, die zum Passa gesungen wurden. Der verworfene Stein, den Gott zum tragenden Eckstein macht, steht für den Abgelehnten, den Gott einsetzt. Mit »von euch« macht Petrus die Ratsherren selbst zu den Bauleuten des Psalms."
+    },
+    {
+      "vers_von": 12, "von": 4, "vers_bis": 12, "bis": 155, "typ": "at",
+      "referenz": "Jes 43,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im AT ist Rettung allein an Gott gebunden: »außer mir gibt es keinen Retter«. Diesen Ausschließlichkeitsanspruch spricht Petrus dem Namen Jesu zu – vor dem Rat, der Jesus verurteilt hatte."
+    },
+    {
+      "vers_von": 17, "von": 114, "vers_bis": 17, "bis": 185, "typ": "at",
+      "referenz": "5. Mo 18,19-20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,19-20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»In einem Namen reden« ist in der griechischen Übersetzung (LXX) eine allgemeine Formel (auch 2. Mo 5,23; Jer 14,14; Jer 20,9). Ein Rückbezug auf 3,22-23 (Prophet wie Mose) ist möglich, aber nur erschlossen; der Rat begründet das Verbot selbst mit der Ausbreitung der Kunde."
+    },
+    {
+      "vers_von": 18, "von": 43, "vers_bis": 18, "bis": 143, "typ": "at",
+      "referenz": "Am 7,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Amos7,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Verbot der Verkündigung, strukturell wie Am 7,13, ohne Formulierungsbezug. Durch V20 abgedeckt."
+    },
+    {
+      "vers_von": 19, "von": 76, "vers_bis": 19, "bis": 133, "typ": "at",
+      "referenz": "Dan 3,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel3,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott mehr gehorchen als Menschen: Motivverwandtschaft mit den drei Männern in Dan 3, aber kein Wortlaut-Bezug."
+    },
+    {
+      "vers_von": 20, "von": 0, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "Jer 20,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia20,9",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Nicht-schweigen-Können ist ein Prophetenmotiv: Jeremia, vom Oberaufseher des Tempels festgesetzt, will nicht mehr in Gottes Namen reden und vermag es nicht. Wie er stehen die Apostel unter einem Auftrag, den kein Verbot aufhebt."
+    },
+    {
+      "vers_von": 22, "von": 5, "vers_bis": 22, "bis": 40, "typ": "at",
+      "referenz": "4. Mo 14,33", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose14,33",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vierzig Jahre als Altersangabe; kein Bezug auf die Wüstenzeit oder eine andere Stelle erkennbar."
+    },
+    {
+      "vers_von": 24, "von": 103, "vers_bis": 24, "bis": 184, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "2. Mo 20,11", "url": "https://www.bibleserver.com/MENG/2.Mose20,11" },
+        { "label": "Ps 146,6", "url": "https://www.bibleserver.com/MENG/Psalm146,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Gemeinde betet mit der festen Formel, mit der das AT Gott als Schöpfer bekennt. In Ps 146 steht sie neben der Mahnung, sich nicht auf Fürsten zu verlassen, die nicht helfen können. Gegen die Drohung des Rates beruft sich die Gemeinde auf den Schöpfer."
+    },
+    {
+      "vers_von": 25, "von": 98, "vers_bis": 26, "bis": -1, "typ": "at",
+      "referenz": "Ps 2,1-2", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,1-2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 2 ist ein Königspsalm: Völker und Herrscher lehnen sich gegen Gott und seinen gesalbten König auf. »Gesalbter« heißt hebräisch Messias, griechisch Christus. V27 deutet den Psalm auf die Passion und zählt dabei auch Israel zu den aufbegehrenden Völkern."
+    },
+    {
+      "vers_von": 27, "von": 36, "vers_bis": 27, "bis": 188, "typ": "at",
+      "referenz": "Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Deutung von Ps 2,1-2 auf Herodes, Pilatus, Heiden und Israel – in der Begründung zu V25–26 erklärt. »Knecht« bereits in Kap. 3,13 (Jes 52,13)."
+    },
+    {
+      "vers_von": 28, "von": 22, "vers_bis": 28, "bis": 76, "typ": "at",
+      "referenz": "Jes 46,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja46,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Rede vom Ratschluss Gottes; kein bestimmter Textverweis."
+    },
+    {
+      "vers_von": 29, "von": 17, "vers_bis": 29, "bis": 46, "typ": "at",
+      "referenz": "Jes 37,16-17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja37,16-17",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gebet folgt dem Muster des Königs Hiskia: Als der Assyrer Sanherib Jerusalem bedrohte, rief Hiskia Gott als Schöpfer von Himmel und Erde an und bat ihn, die Schmähworte des Feindes anzusehen. Gott rettete daraufhin die Stadt."
+    },
+    {
+      "vers_von": 30, "von": 0, "vers_bis": 30, "bis": 68, "typ": "at",
+      "referenz": "2. Mo 3,20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Exodus-Sprache (ausgestreckte Hand, Zeichen und Wunder), aber geläufige Wendung; »Zeichen und Wunder« in Kap. 2 bereits inaktiv."
+    },
+    {
+      "vers_von": 31, "von": 27, "vers_bis": 31, "bis": 70, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 18,7-8", "url": "https://www.bibleserver.com/MENG/Psalm18,7-8" },
+        { "label": "Jes 6,4", "url": "https://www.bibleserver.com/MENG/Jesaja6,4" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Beben eines Ortes zeigt im AT, dass Gott selbst gegenwärtig ist. In Ps 18 hört Gott den Notschrei des Bedrängten, und die Erde wankt. Bei Jesajas Berufung erbeben die Schwellen des Tempels. Gemeint ist kein Naturereignis, sondern Gottes Antwort auf das Gebet."
+    },
+    {
+      "vers_von": 32, "von": 46, "vers_bis": 32, "bis": 69, "typ": "at",
+      "referenz": "1. Chr 12,39", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Chronik12,39",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geläufige Redewendung für Einmütigkeit; kein bestimmter Textverweis."
+    },
+    {
+      "vers_von": 34, "von": 5, "vers_bis": 34, "bis": 48, "typ": "at",
+      "referenz": "5. Mo 15,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose15,4",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gesetz sagt, im verheißenen Land solle es eigentlich keine Armen geben. Die griechische Übersetzung (LXX) gebraucht dafür dasselbe Wort wie dieser Vers (»Notleidender«). Die Gemeinde lebt, was dem Gottesvolk zugedacht war."
+    },
+    {
+      "vers_von": 35, "von": 62, "vers_bis": 35, "bis": 103, "typ": "at",
+      "referenz": "2. Mo 16,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose16,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zuteilung nach Bedarf erinnert an das Manna (2. Mo 16,18), nur evokativ. Durch V34 abgedeckt."
+    },
+    {
+      "vers_von": 36, "von": 127, "vers_bis": 36, "bis": 170, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "4. Mo 18,20", "url": "https://www.bibleserver.com/MENG/4.Mose18,20" },
+        { "label": "5. Mo 10,9", "url": "https://www.bibleserver.com/MENG/5.Mose10,9" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Leviten erhielten bei der Landverteilung kein Stammesgebiet: Gott selbst sollte ihr Erbteil sein. Privatbesitz war ihnen dennoch möglich, ein Acker aber nicht selbstverständlich – umso bemerkenswerter, dass gerade ein Levit ihn hergibt."
+    }
+  ]
+}

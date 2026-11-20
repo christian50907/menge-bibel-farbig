@@ -1,0 +1,527 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 7,
+  "titel": "Verteidigungsrede des Stephanus · Der Märtyrertod des Stephanus",
+  "abschnitte": [
+    { "id": "erzvaeter", "vers_von": 1, "vers_bis": 16, "titel": "Die Zeit der Erzväter" },
+    { "id": "mose", "vers_von": 17, "vers_bis": 43, "titel": "Die mosaische Zeit" },
+    { "id": "stiftshuette-tempel", "vers_von": 44, "vers_bis": 50, "titel": "Die Zeit der Stiftshütte und des Tempelbaus" },
+    { "id": "anklage", "vers_von": 51, "vers_bis": 53, "titel": "Schluß der Rede; Anklage des Volkes" },
+    { "id": "maertyrertod", "vers_von": 54, "vers_bis": 60, "titel": "Der Märtyrertod des Stephanus" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 64, "vers_bis": 2, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 29,3", "url": "https://www.bibleserver.com/MENG/Psalm29,3", "vgl": false },
+        { "label": "1. Mo 15,7", "url": "https://www.bibleserver.com/MENG/1.Mose15,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Gott der Herrlichkeit« ist ein Gottestitel aus Ps 29,3. Er erscheint Abraham schon in Mesopotamien, außerhalb des Landes. Nach 1. Mo 12,1 scheint der Ruf erst in Haran zu ergehen; doch nach 1. Mo 15,7 führte Gott Abraham schon aus Ur heraus."
+    },
+    {
+      "vers_von": 3, "von": 15, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 12,1", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/1.Mose12,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gottes erster Ruf an Abraham, mit dem die Geschichte Israels beginnt: Er soll Heimat und Verwandtschaft verlassen und in ein Land ziehen, das Gott ihm erst noch zeigen wird."
+    },
+    {
+      "vers_von": 4, "von": 105, "vers_bis": 4, "bis": 132, "typ": "at",
+      "referenz": "1. Mo 11,32", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose11,32",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Chronologische Spannung zu 1. Mo 11,26.32; nur durch Nachrechnen erkennbar, für das Textverständnis nicht nötig."
+    },
+    {
+      "vers_von": 5, "von": 44, "vers_bis": 5, "bis": 70, "typ": "at",
+      "referenz": "5. Mo 2,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose2,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Wendung »nicht einen Fuß breit« klingt an 5. Mo 2,5 an, ohne dass der Zusammenhang dort etwas beiträgt. Der Gedanke (Verheißung ohne Besitz) ist aus dem Vers selbst verständlich."
+    },
+    {
+      "vers_von": 5, "von": 72, "vers_bis": 5, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 17,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose17,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Landverheißung an den kinderlosen Abraham; selbsterklärend, das Verheißungsmotiv tragen V6–7."
+    },
+    {
+      "vers_von": 6, "von": 31, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "1. Mo 15,13-14", "url": "https://www.bibleserver.com/MENG/1.Mose15,13-14" },
+        { "label": "2. Mo 3,12", "url": "https://www.bibleserver.com/MENG/2.Mose3,12", "vgl": true }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gottes Ankündigung an Abraham: Knechtschaft in der Fremde, Gericht über die Unterdrücker, Auszug. Der Schluss kommt aus 2. Mo 3,12, wo Gott am Sinai »an diesem Berge« sagt; hier steht »an dieser Stätte« — das Wort der Anklage für den Tempel."
+    },
+    {
+      "vers_von": 8, "von": 18, "vers_bis": 8, "bis": 115, "typ": "at",
+      "referenz": "1. Mo 17,10-12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose17,10-12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Beschneidung ist das Bundeszeichen, das Gott Abraham gab: Jeder männliche Nachkomme sollte am achten Tag nach der Geburt beschnitten werden. Der Bund mit Gott bestand damit lange vor Land, Gesetz und Tempel."
+    },
+    {
+      "vers_von": 8, "von": 171, "vers_bis": 8, "bis": 189, "typ": "at",
+      "referenz": "1. Mo 49,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose49,28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die zwölf Stämme sind bereits in Apg 1,26 annotiert; Wiederholung."
+    },
+    {
+      "vers_von": 9, "von": 0, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 37,11", "url": "https://www.bibleserver.com/MENG/1.Mose37,11" },
+        { "label": "1. Mo 39,2", "url": "https://www.bibleserver.com/MENG/1.Mose39,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Josephs Brüder waren eifersüchtig und verkauften ihn als Sklaven; doch Gott war mit ihm, wie 1. Mo 39,2 betont. Damit beginnt ein Muster, das die Rede durchzieht: Der von seinen Brüdern Verworfene ist der, durch den Gott rettet."
+    },
+    {
+      "vers_von": 10, "von": 51, "vers_bis": 10, "bis": 96, "typ": "at",
+      "referenz": "1. Mo 41,37-43", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose41,37-43",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung der Josephsgeschichte; ohne AT-Hintergrund verständlich."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 22, "typ": "at",
+      "referenz": "1. Mo 41,54", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose41,54",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung (Hungersnot, Reisen nach Ägypten, V11–13); ohne AT-Hintergrund verständlich."
+    },
+    {
+      "vers_von": 13, "von": 0, "vers_bis": 13, "bis": 63, "typ": "at",
+      "referenz": "1. Mo 45,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose45,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung; das Muster »erst beim zweiten Mal erkannt« hat keine AT-Formel als Grundlage."
+    },
+    {
+      "vers_von": 14, "von": 91, "vers_bis": 14, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 46,27", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose46,27",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die hebräische Bibel zählt 70 Personen, die mit Jakob nach Ägypten kamen; so auch Menge in 1. Mo 46,27. Die griechische Übersetzung (LXX), der die Rede folgt, nennt 75, weil sie weitere Nachkommen Josephs mitzählt."
+    },
+    {
+      "vers_von": 16, "von": 37, "vers_bis": 16, "bis": 139, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Mo 23,16-19", "url": "https://www.bibleserver.com/MENG/1.Mose23,16-19" },
+        { "label": "1. Mo 33,19", "url": "https://www.bibleserver.com/MENG/1.Mose33,19" },
+        { "label": "Jos 24,32", "url": "https://www.bibleserver.com/MENG/Josua24,32" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Genesis kennt zwei Grabkäufe: Abraham erwarb die Höhle Machpela bei Hebron, Jakob ein Feld bei Sichem von den Söhnen Hemors, wo später Josephs Gebeine ruhten (Jos 24,32). Die Rede fasst beide Käufe in einem Satz zusammen."
+    },
+    {
+      "vers_von": 17, "von": 81, "vers_bis": 17, "bis": 140, "typ": "at",
+      "referenz": "2. Mo 1,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose1,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung; schon in Apg 6,7 als inaktiv geprüft."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 1,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose1,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Fast wörtliche Nacherzählung, aber ohne AT-Hintergrund verständlich."
+    },
+    {
+      "vers_von": 19, "von": 72, "vers_bis": 19, "bis": 124, "typ": "at",
+      "referenz": "2. Mo 1,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose1,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung des Tötungsbefehls; aus dem Vers selbst verständlich."
+    },
+    {
+      "vers_von": 20, "von": 42, "vers_bis": 20, "bis": 69, "typ": "at",
+      "referenz": "2. Mo 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung von Moses Geburt und Aussetzung (V20–21); ohne AT-Hintergrund verständlich."
+    },
+    {
+      "vers_von": 21, "von": 39, "vers_bis": 21, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 2,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Reine Nacherzählung von 2. Mo 2,10, aus sich heraus verständlich."
+    },
+    {
+      "vers_von": 22, "von": 19, "vers_bis": 22, "bis": 61, "typ": "at",
+      "referenz": "2. Mo 2,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Moses ägyptische Bildung ist jüdische Überlieferung, keine AT-Aussage; »gewaltig in Worten« steht sogar in Spannung zu 2. Mo 4,10. Kein AT-Bezug, den der Leser braucht."
+    },
+    {
+      "vers_von": 22, "von": 66, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 4,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose4,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Steht in Spannung zu 2. Mo 4,10 (Mose unbeholfen im Reden), folgt jüdischer Mose-Tradition; für das Verständnis nicht nötig."
+    },
+    {
+      "vers_von": 23, "von": 12, "vers_bis": 23, "bis": 35, "typ": "at",
+      "referenz": "5. Mo 34,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose34,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Einteilung von Moses 120 Jahren in drei mal 40 (V23, V30, V36) ist Überlieferung; das AT nennt nur 80 Jahre beim Auszug und 120 beim Tod. Für das Verständnis nicht nötig."
+    },
+    {
+      "vers_von": 24, "von": 123, "vers_bis": 24, "bis": 152, "typ": "at",
+      "referenz": "2. Mo 2,11-13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,11-13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung (V24–26); aus dem Text selbst verständlich."
+    },
+    {
+      "vers_von": 26, "von": 161, "vers_bis": 26, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 2,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Frei wiedergegebenes 2. Mo 2,13; doppelt sich mit dem aktiven Eintrag V27–28."
+    },
+    {
+      "vers_von": 27, "von": 80, "vers_bis": 28, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 2,14", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Abfuhr, die Mose von einem Israeliten erhielt, als er einen Streit schlichten wollte. Der Satz wird zum Leitwort der Rede: Israel verweigert dem von Gott gesandten Retter die Anerkennung — wie zuvor die Brüder Joseph."
+    },
+    {
+      "vers_von": 29, "von": 52, "vers_bis": 29, "bis": 87, "typ": "at",
+      "referenz": "2. Mo 2,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung der Flucht nach Midian; ohne AT-Hintergrund verständlich."
+    },
+    {
+      "vers_von": 30, "von": 66, "vers_bis": 30, "bis": 142, "typ": "at",
+      "referenz": "2. Mo 3,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,1-2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bekannte Dornbusch-Szene, fast wörtlich nacherzählt; die Pointe (heiliger Ort in der Wüste) trägt die Annotation zu V33."
+    },
+    {
+      "vers_von": 32, "von": 0, "vers_bis": 32, "bis": 70, "typ": "at",
+      "referenz": "2. Mo 3,6", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mit diesen Worten stellte Gott sich Mose am Dornbusch vor: als der Gott, der seit Generationen mit den Vätern ist."
+    },
+    {
+      "vers_von": 33, "von": 28, "vers_bis": 33, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 3,5", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Schuhe ausziehen ist die Geste der Ehrfurcht auf heiligem Boden. Das griechische Wort für »Stätte« ist dasselbe wie in der Anklage gegen die »heilige Stätte« (6,13): Hier ist ein Ort in der Wüste heilig, weit weg vom Tempel."
+    },
+    {
+      "vers_von": 34, "von": 0, "vers_bis": 34, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "2. Mo 3,7-10", "url": "https://www.bibleserver.com/MENG/2.Mose3,7-10" },
+        { "label": "2. Mo 2,24", "url": "https://www.bibleserver.com/MENG/2.Mose2,24", "vgl": true }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gottes Auftrag am Dornbusch: Er hat das Elend seines Volkes gesehen und sendet Mose als Retter. Was Mose zuvor auf eigene Faust versucht hatte, geschieht nun in Gottes Auftrag."
+    },
+    {
+      "vers_von": 35, "von": 56, "vers_bis": 35, "bis": 116, "typ": "at",
+      "referenz": "2. Mo 2,14", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose2,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung des Zitats aus V27."
+    },
+    {
+      "vers_von": 36, "von": 69, "vers_bis": 36, "bis": 160, "typ": "at",
+      "referenz": "5. Mo 4,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Wunder und Zeichen« schon in Apg 2,43 und 5,12 als inaktiv geprüft; die 40 Wüstenjahre sind allgemein bekannt."
+    },
+    {
+      "vers_von": 37, "von": 54, "vers_bis": 37, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 18,15", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/5.Mose18,15",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose kündigt einen Propheten an, den Gott wie ihn aus dem Volk erwecken wird. Die Rede stellt Jesus damit in die Linie des abgelehnten Mose: Wer ihn verwirft, verwirft den, den Mose selbst angekündigt hat."
+    },
+    {
+      "vers_von": 38, "von": 19, "vers_bis": 38, "bis": 140, "typ": "at",
+      "referenz": "5. Mo 9,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose9,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Gemeindeversammlung« (5. Mo 9,10) schon in Apg 5,11 inaktiv; der Engel am Sinai wird bei V53 erklärt."
+    },
+    {
+      "vers_von": 38, "von": 184, "vers_bis": 38, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 18,5", "url": "https://www.bibleserver.com/MENG/3.Mose18,5" },
+        { "label": "5. Mo 32,47", "url": "https://www.bibleserver.com/MENG/5.Mose32,47" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gesetz als Lebenswort nur thematisch verwandt, keine Formulierungsvorlage; das Gesetzesthema trägt V53."
+    },
+    {
+      "vers_von": 39, "von": 89, "vers_bis": 39, "bis": -1, "typ": "at",
+      "referenz": "4. Mo 14,3-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose14,3-4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Murren in der Wüste klingt an; der Satz ist ohne die Stelle verständlich."
+    },
+    {
+      "vers_von": 40, "von": 21, "vers_bis": 40, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 32,1", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/2.Mose32,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Forderung des Volkes an Aaron, während Mose auf dem Sinai war. Sie eröffnet die Geschichte vom goldenen Kalb: Kaum ist der Retter außer Sicht, verlangt Israel nach Göttern, die man sehen und vorantragen kann."
+    },
+    {
+      "vers_von": 41, "von": 0, "vers_bis": 41, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 32,4-6", "url": "https://www.bibleserver.com/MENG/2.Mose32,4-6" },
+        { "label": "Jes 2,8", "url": "https://www.bibleserver.com/MENG/Jesaja2,8" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das »Stierbild« ist das goldene Kalb, dem Israel am Sinai opferte und ein Fest feierte. Die Propheten nennen Götzen verächtlich das Machwerk menschlicher Hände (Jes 2,8)."
+    },
+    {
+      "vers_von": 42, "von": 60, "vers_bis": 42, "bis": 95, "typ": "at",
+      "referenz": "5. Mo 4,19", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,19",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der Sternkult wird durch das folgende Amos-Zitat erklärt; eigene Annotation nicht nötig."
+    },
+    {
+      "vers_von": 42, "von": 142, "vers_bis": 43, "bis": 219, "typ": "at",
+      "referenz": "Am 5,25-27", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Amos5,25-27",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Amos wirft Israel Sterndienst vor und droht die Verbannung »über Damaskus hinaus« an, also nach Assyrien; die Rede setzt »Babylon« ein, das spätere Exil Judas. »Zelt des Moloch« und »Rephan« folgen der griechischen Übersetzung (LXX); Menge übersetzt den hebräischen Text (Sakkuth, Kewan). »Buch der Propheten«: die Rolle der zwölf kleinen Propheten."
+    },
+    {
+      "vers_von": 44, "von": 1, "vers_bis": 44, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 25,40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose25,40",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die »Hütte des Zeugnisses« ist das heilige Zelt der Wüstenzeit; Mose ließ es nach dem Musterbild bauen, das Gott ihm auf dem Berg zeigte. Im Griechischen steht hier dasselbe Wort wie beim »Zelt des Moloch« (V. 43): Dem Götzenzelt steht das von Gott angeordnete Zelt gegenüber."
+    },
+    {
+      "vers_von": 45, "von": 62, "vers_bis": 45, "bis": 73, "typ": "at",
+      "referenz": "Jos 3,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua3,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung der Landnahme; ohne AT-Hintergrund verständlich."
+    },
+    {
+      "vers_von": 46, "von": 56, "vers_bis": 46, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 132,5", "url": "https://www.bibleserver.com/MENG/Psalm132,5" },
+        { "label": "2. Sam 7,2", "url": "https://www.bibleserver.com/MENG/2.Samuel7,2" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Wendung stammt aus Ps 132,5: David gelobt, nicht zu ruhen, bis er »eine Wohnung für Jakobs mächtigen Gott« findet. Das griechische Wort für »Wohnung« ist vom Wort für Zelt abgeleitet; erst Salomo baut in V. 47 ein »Haus«."
+    },
+    {
+      "vers_von": 47, "von": 0, "vers_bis": 47, "bis": -1, "typ": "at",
+      "referenz": "2. Sam 7,5-7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,5-7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Als David einen Tempel bauen wollte, ließ Gott ihm durch Nathan sagen, er habe nie in einem Haus gewohnt, sondern sei im Zelt mitgezogen, und nie ein Haus verlangt. Das »Aber« stellt Salomos Bau in diese Spannung."
+    },
+    {
+      "vers_von": 48, "von": 29, "vers_bis": 48, "bis": 79, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 8,27", "url": "https://www.bibleserver.com/MENG/1.Koenige8,27" },
+        { "label": "3. Mo 26,1", "url": "https://www.bibleserver.com/MENG/3.Mose26,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Schon Salomo bekennt bei der Tempelweihe, dass aller Himmel Himmel Gott nicht fassen können, wieviel weniger sein Haus. »Von Menschenhand gemacht« ist in der griechischen Bibel (LXX) ein Wort für Götzenbilder (3. Mo 26,1); es erinnert an die »Werke ihrer Hände« beim Stierbild (V. 41)."
+    },
+    {
+      "vers_von": 49, "von": 0, "vers_bis": 50, "bis": 52, "typ": "at",
+      "referenz": "Jes 66,1-2", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja66,1-2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Gott selbst weist durch Jesaja den Gedanken zurück, man könne ihm ein Haus bauen: Himmel und Erde sind sein Thron und Fußschemel, und er hat alles geschaffen. Damit antwortet die Rede auf den Vorwurf, Stephanus rede gegen die heilige Stätte."
+    },
+    {
+      "vers_von": 51, "von": 1, "vers_bis": 51, "bis": 59, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 33,5", "url": "https://www.bibleserver.com/MENG/2.Mose33,5" },
+        { "label": "5. Mo 10,16", "url": "https://www.bibleserver.com/MENG/5.Mose10,16" },
+        { "label": "Jer 6,10", "url": "https://www.bibleserver.com/MENG/Jeremia6,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Halsstarrig« nennt Gott Israel nach dem goldenen Kalb. »Unbeschnitten an Herz und Ohren« stammt aus Mose und Jeremia: Wer äußerlich beschnitten ist, kann innerlich für Gott verschlossen sein. Die Rede wendet das Bundeszeichen gegen die Ankläger."
+    },
+    {
+      "vers_von": 51, "von": 60, "vers_bis": 51, "bis": 104, "typ": "at",
+      "referenz": "Jes 63,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja63,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Jes 63,10 ist bereits in Apg 1,2 annotiert; Wiederholung."
+    },
+    {
+      "vers_von": 52, "von": 0, "vers_bis": 52, "bis": 64, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Neh 9,26", "url": "https://www.bibleserver.com/MENG/Nehemia9,26" },
+        { "label": "2. Chr 36,16", "url": "https://www.bibleserver.com/MENG/2.Chronik36,16" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Dass Israel seine Propheten verhöhnte und tötete, bekennt das AT selbst, etwa im Bußgebet bei Nehemia und am Ende der Chronik. Die Rede stellt die Tötung Jesu in diese Reihe."
+    },
+    {
+      "vers_von": 52, "von": 107, "vers_bis": 52, "bis": 131, "typ": "at",
+      "referenz": "Jes 53,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der Gerechte« ist bereits in Apg 3,14 annotiert; Wiederholung."
+    },
+    {
+      "vers_von": 53, "von": 0, "vers_bis": 53, "bis": 54, "typ": "at",
+      "referenz": "5. Mo 33,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose33,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Sinai nennt das AT keine Engel als Vermittler. Doch 5. Mo 33,2 erwähnt »heilige Zehntausend-Scharen« beim Kommen Gottes, und die griechische Übersetzung (LXX) spricht dort von Engeln an seiner Rechten. Darauf stützt sich die jüdische Überlieferung, das Gesetz sei durch Engel übermittelt worden."
+    },
+    {
+      "vers_von": 54, "von": 65, "vers_bis": 54, "bis": -1, "typ": "at",
+      "referenz": "Ps 37,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm37,12",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Zähneknirschen ist im AT die Gebärde des Frevlers gegen den Gerechten: Er »knirscht mit den Zähnen gegen ihn«. Die Ankläger nehmen damit die Rolle ein, die die Psalmen den Feinden des Gerechten zuschreiben."
+    },
+    {
+      "vers_von": 55, "von": 63, "vers_bis": 55, "bis": -1, "typ": "at",
+      "referenz": "Ps 110,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm110,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ps 110,1 ist bereits in Apg 2,34-35 annotiert; das Stehen zur Rechten wird bei V56 erklärt."
+    },
+    {
+      "vers_von": 56, "von": 24, "vers_bis": 56, "bis": 43, "typ": "at",
+      "referenz": "Hes 1,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel1,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Der geöffnete Himmel ist ein verbreitetes Visionsmotiv; kein bestimmter Textbezug nötig."
+    },
+    {
+      "vers_von": 56, "von": 48, "vers_bis": 56, "bis": 91, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 7,13", "url": "https://www.bibleserver.com/MENG/Daniel7,13" },
+        { "label": "Ps 110,1", "url": "https://www.bibleserver.com/MENG/Psalm110,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Menschensohn« greift Daniels Vision von Einem auf, »der wie eines Menschen Sohn aussah« und vor Gottes Thron gebracht wird. Ps 110,1 setzt den Messias zur Rechten Gottes; dass er hier steht statt sitzt, ist ungewöhnlich und wird als Eintreten für Stephanus oder als Empfang gedeutet."
+    },
+    {
+      "vers_von": 57, "von": 36, "vers_bis": 57, "bis": 61, "typ": "at",
+      "referenz": "3. Mo 24,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose24,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ohrenzuhalten als Reaktion auf vermeintliche Lästerung hat keine AT-Vorlage; die Lästerungsvorschrift ist in Apg 6,11 annotiert."
+    },
+    {
+      "vers_von": 58, "von": 0, "vers_bis": 58, "bis": 102, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 24,14", "url": "https://www.bibleserver.com/MENG/3.Mose24,14" },
+        { "label": "5. Mo 17,7", "url": "https://www.bibleserver.com/MENG/5.Mose17,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Gesetz schreibt vor, einen Gotteslästerer außerhalb des Lagers zu steinigen, und die Zeugen müssen die ersten Steine werfen. Dafür legen sie ihre Obergewänder ab."
+    },
+    {
+      "vers_von": 59, "von": 63, "vers_bis": 59, "bis": 85, "typ": "at",
+      "referenz": "Ps 31,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm31,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Psalmvers »In deine Hand befehl’ ich meinen Geist« wurde später Teil des jüdischen Nachtgebets; Jesus betete ihn am Kreuz. Stephanus richtet die Bitte nicht an Gott, sondern an Jesus."
+    },
+    {
+      "vers_von": 60, "von": 61, "vers_bis": 60, "bis": 101, "typ": "at",
+      "referenz": "2. Chr 24,20-22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Chronik24,20-22",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Priester Sacharja wurde im Tempelhof gesteinigt und rief sterbend: »Der HERR möge es sehen und wird es rächen!« Stephanus stirbt denselben Tod, bittet aber um Vergebung für seine Mörder."
+    }
+  ]
+}
