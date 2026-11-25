@@ -91,13 +91,13 @@
       "begruendung": "Thematische Nähe zur Erbe-Einsetzung in Ps 2,8 und zur Schöpfungsmittlerschaft der Weisheit (Spr 8,22-31), aber ohne wörtliche Formulierungsvorlage, die ein jüdischer Leser des 1. Jahrhunderts konkret erkannt hätte. Ps 2 ist über die Annotation zu V5 bereits abgedeckt."
     },
     {
-      "vers_von": 3, "von": 11, "vers_bis": 3, "bis": 61, "typ": "at",
+      "vers_von": 3, "von": 15, "vers_bis": 3, "bis": 75, "typ": "at",
       "referenz": "Weish 7,25-26",
       "vgl": true,
-      "url": "https://www.bibleserver.com/MENG",
+      "url": "https://www.bibleserver.com/EU/Weisheit7,25-26",
       "autor": "KI",
       "status": "inaktiv",
-      "begruendung": "Die Formulierung entspricht Weish 7,25-26, doch die Weisheit Salomos gehört nicht zum protestantischen Kanon, den die Menge-Bibel übersetzt — keine kanonische AT-Stelle verfügbar, auf die verlinkt werden könnte."
+      "begruendung": "Griech. apaugasma (»Abglanz«) steht in der griechischen Bibel sonst nur in Weish 7,26. Ein einzelnes gemeinsames Wort trägt keinen Verweis auf ein apokryphes Buch — der Begriff kann auch unabhängig davon gewählt sein."
     },
     {
       "vers_von": 3, "von": 193, "vers_bis": 3, "bis": -1, "typ": "at",
@@ -105,8 +105,8 @@
       "vgl": true,
       "url": "https://www.bibleserver.com/MENG/Psalm110,1",
       "autor": "KI",
-      "status": "inaktiv",
-      "begruendung": "Proleptische Vorwegnahme desselben Ps 110,1-Motivs, das in V13 explizit mit Guillemets zitiert und dort bereits aktiv annotiert ist — Intra-Kapitel-Redundanz, hier keine eigene wörtliche Zitatform."
+      "status": "aktiv",
+      "begruendung": "Der Platz zur Rechten Gottes stammt aus Ps 110,1: Dort fordert Gott den König auf, sich neben ihn zu setzen. Hebr 1,3 sagt dies vom Sohn, nachdem er die Reinigung von den Sünden vollbracht hat. V13 zitiert den Psalmvers dann ausdrücklich."
     }
   ]
 }
