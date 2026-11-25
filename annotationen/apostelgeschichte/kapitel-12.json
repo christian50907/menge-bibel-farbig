@@ -1,0 +1,204 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 12,
+  "titel": "Tod des Jakobus · Wunderbare Rettung des Petrus · Untergang des Herodes",
+  "abschnitte": [
+    { "id": "jakobus-petrus", "vers_von": 1, "vers_bis": 5, "titel": "Tod des Jakobus, Verhaftung des Petrus" },
+    { "id": "rettung-petrus", "vers_von": 6, "vers_bis": 17, "titel": "Wunderbare Rettung des Petrus" },
+    { "id": "herodes", "vers_von": 18, "vers_bis": 23, "titel": "Zorn des Herodes; sein Untergang in Cäsarea durch ein Gottesgericht" },
+    { "id": "wachstum", "vers_von": 24, "vers_bis": 25, "titel": "Schluß des ersten Teils der Apostelgeschichte; äußeres und inneres Wachstum der Gemeinde" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 45, "vers_bis": 2, "bis": 71, "typ": "at",
+      "referenz": "Jer 26,23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia26,23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bloße Parallele (König tötet Gottesboten mit dem Schwert), kein erkennbarer Bezug; das Motiv der Prophetenmorde ist bereits in 7,52 aktiv."
+    },
+    {
+      "vers_von": 3, "von": 109, "vers_bis": 3, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 23,5-6", "url": "https://www.bibleserver.com/MENG/3.Mose23,5-6" },
+        { "label": "2. Mo 12,17", "url": "https://www.bibleserver.com/MENG/2.Mose12,17" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Auf das Passah folgte das siebentägige Fest der ungesäuerten Brote, das an den Auszug aus Ägypten erinnerte. Während der Festwoche hält Herodes den Prozess zurück – die Befreiung des Petrus fällt damit in die Woche, in der Israel seine eigene Befreiung feierte."
+    },
+    {
+      "vers_von": 4, "von": 141, "vers_bis": 4, "bis": 156, "typ": "at",
+      "referenz": "2. Mo 12,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Mit dem Fest der ungesäuerten Brote in V3 abgedeckt; »Passah« steht hier für die ganze Festwoche."
+    },
+    {
+      "vers_von": 6, "von": 64, "vers_bis": 6, "bis": 97, "typ": "at",
+      "referenz": "2. Mo 12,42", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,42",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Passa-Nacht als Nacht des Wachens; der Passa-Rahmen ist durch V3 und V8 bereits getragen."
+    },
+    {
+      "vers_von": 7, "von": 22, "vers_bis": 7, "bis": 41, "typ": "at",
+      "referenz": "Ps 34,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm34,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 5,19 (der Engel des Herrn als Retter der Seinen, Befreiung aus dem Gefängnis)."
+    },
+    {
+      "vers_von": 7, "von": 81, "vers_bis": 7, "bis": 177, "typ": "at",
+      "referenz": "1. Kön 19,5-7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige19,5-7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Elia-Parallele (der Engel weckt den Schlafenden: »Steh auf«), nur evokativ, nicht tragend."
+    },
+    {
+      "vers_von": 7, "von": 178, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 107,14", "url": "https://www.bibleserver.com/MENG/Psalm107,14" },
+        { "label": "Ps 146,7", "url": "https://www.bibleserver.com/MENG/Psalm146,7" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Fesselbruch nur thematisch; konsistent mit V10 (inaktiv) und 5,19 (aktiv)."
+    },
+    {
+      "vers_von": 8, "von": 31, "vers_bis": 8, "bis": 77, "typ": "at",
+      "referenz": "2. Mo 12,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Beim ersten Passah sollte Israel mit gegürteten Hüften und Schuhen an den Füßen essen – bereit zum sofortigen Aufbruch. In der Passahwoche erhält Petrus dieselbe Anweisung: Seine Befreiung erinnert so an einen kleinen Auszug aus der Gefangenschaft."
+    },
+    {
+      "vers_von": 9, "von": 133, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "Ps 126,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm126,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nur evokativ: Ps 126,1 spricht vom Wenden des Mißgeschicks Zions wie im Traum, nicht von Gefangenen; kein erkennbarer Aufgriff."
+    },
+    {
+      "vers_von": 10, "von": 83, "vers_bis": 10, "bis": 167, "typ": "at",
+      "referenz": "Ps 107,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm107,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gott zerbricht eherne Türen und eiserne Riegel – evokatives Bild, das der Text nicht ausdrücklich aufgreift."
+    },
+    {
+      "vers_von": 10, "von": 245, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ri 6,21", "url": "https://www.bibleserver.com/MENG/Richter6,21" },
+        { "label": "Ri 13,20", "url": "https://www.bibleserver.com/MENG/Richter13,20" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Erzählmotiv (der Engel entschwindet) ohne Formulierungsbezug; evokativ."
+    },
+    {
+      "vers_von": 11, "von": 67, "vers_bis": 11, "bis": 191, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Dan 3,28", "url": "https://www.bibleserver.com/MENG/Daniel3,28" },
+        { "label": "2. Mo 18,10", "url": "https://www.bibleserver.com/MENG/2.Mose18,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Petrus spricht fast wie Nebukadnezar über Daniels Freunde: Gott hat »seinen Engel gesandt und seine Knechte errettet«. Und wie Jethro Gott pries, der Israel aus der Hand des Pharao rettete (so die griechische Bibel), entkommt Petrus der Hand des Herodes."
+    },
+    {
+      "vers_von": 16, "von": 15, "vers_bis": 16, "bis": 40, "typ": "at",
+      "referenz": "1. Mo 48,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose48,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Vorstellung eines persönlichen Schutzengels; im AT nur angedeutet, ausgeformt erst in späterer jüdischer Überlieferung – keine Formulierungsvorlage."
+    },
+    {
+      "vers_von": 17, "von": 98, "vers_bis": 17, "bis": 151, "typ": "at",
+      "referenz": "2. Mo 20,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose20,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Exodus-Bekenntnisformel (herausgeführt) klingt nur an; der Exodus-Rahmen ist bereits durch V3, V8 und V11 getragen."
+    },
+    {
+      "vers_von": 19, "von": 117, "vers_bis": 19, "bis": 152, "typ": "at",
+      "referenz": "1. Kön 20,39", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige20,39",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wächter haften mit dem Leben für Gefangene; Hintergrund ist römisches Haftungsrecht, der AT-Beleg ist nicht tragend."
+    },
+    {
+      "vers_von": 20, "von": 224, "vers_bis": 20, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 5,25", "url": "https://www.bibleserver.com/MENG/1.Koenige5,25" },
+        { "label": "Hes 27,17", "url": "https://www.bibleserver.com/MENG/Hesekiel27,17" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Tyrus bezog schon zu Salomos Zeit Weizen aus Israel; der Satz ist aber aus sich verständlich, der Hintergrund nicht tragend."
+    },
+    {
+      "vers_von": 21, "von": 26, "vers_bis": 21, "bis": 63, "typ": "at",
+      "referenz": "Hes 28,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel28,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gewand-Detail ohne eigenen Erkenntniswert; der Hochmut des Herrschers wird in V22/V23 erklärt."
+    },
+    {
+      "vers_von": 22, "von": 28, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "Hes 28,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel28,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hesekiel kündigt dem Fürsten von Tyrus das Gericht an, weil er sagt: »Ein Gott bin ich«, »während du doch nur ein Mensch bist und kein Gott«. Hier wird Herodes ausgerechnet vor den Gesandten aus Tyrus und Sidon als Gott ausgerufen – und er weist es nicht zurück."
+    },
+    {
+      "vers_von": 23, "von": 3, "vers_bis": 23, "bis": 48, "typ": "at",
+      "referenz": "2. Kön 19,35", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige19,35",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im AT schlug der Engel des HERRN in einer Nacht das Heer Sanheribs, des Assyrerkönigs, der Gott gelästert und Jerusalem bedroht hatte. Ein Engel des Herrn, der eben noch Petrus befreite, vollstreckt nun das Gericht am Verfolger."
+    },
+    {
+      "vers_von": 23, "von": 49, "vers_bis": 23, "bis": 107, "typ": "at",
+      "referenz": "Dan 4,27-28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel4,27-28",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Strukturparallele zum Hochmut Nebukadnezars ohne Formulierungsvorlage; das Motiv tragen schon Hes 28,2 (V22) und Jes 14,11-14 (V23)."
+    },
+    {
+      "vers_von": 23, "von": 109, "vers_bis": 23, "bis": 133, "typ": "at",
+      "referenz": "Jes 14,11-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja14,11-14",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jesaja verspottet den König von Babel, der sich dem Höchsten gleichmachen wollte: Maden werden sein Lager, Würmer seine Decke. Der Wurmfraß kennzeichnet Herodes' Ende als das schändliche Ende eines Herrschers, der sich an Gottes Stelle setzt."
+    },
+    {
+      "vers_von": 24, "von": 0, "vers_bis": 24, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 1,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose1,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 6,7 (Wachstumsformel)."
+    }
+  ]
+}
