@@ -1,0 +1,280 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 9,
+  "titel": "Bekehrung des Saulus · Saulus in Damaskus und Jerusalem · Äneas und Tabitha",
+  "abschnitte": [
+    { "id": "damaskus-weg", "vers_von": 1, "vers_bis": 9, "titel": "Das Erlebnis des Saulus auf dem Weg nach Damaskus" },
+    { "id": "ananias", "vers_von": 10, "vers_bis": 19, "titel": "Heilung und Taufe des Saulus durch Ananias" },
+    { "id": "damaskus-flucht", "vers_von": 20, "vers_bis": 25, "titel": "Die Wirksamkeit des Paulus in Damaskus und seine Flucht" },
+    { "id": "jerusalem", "vers_von": 26, "vers_bis": 30, "titel": "Paulus zum erstenmal als Christ in Jerusalem" },
+    { "id": "aeneas", "vers_von": 31, "vers_bis": 35, "titel": "Heilung des gelähmten Äneas in Lydda" },
+    { "id": "tabitha", "vers_von": 36, "vers_bis": 43, "titel": "Auferweckung der Tabitha in Joppe" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 1, "von": 28, "vers_bis": 1, "bis": 83, "typ": "at",
+      "referenz": "Ps 27,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm27,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Gewalttat schnauben« ist nur eine Bildparallele, kein erkennbarer Bezug."
+    },
+    {
+      "vers_von": 2, "von": 23, "vers_bis": 2, "bis": 43, "typ": "at",
+      "referenz": "1. Makk 15,21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Makkabaeer15,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Auslieferungsschreiben an den Hohenpriester (Apokryphen) — nur rechtsgeschichtlicher Hintergrund, kein Schriftbezug."
+    },
+    {
+      "vers_von": 2, "von": 74, "vers_bis": 2, "bis": 98, "typ": "at",
+      "referenz": "Jes 40,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja40,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Griechisch steht »des Weges« (Anknüpfung an Jes 40,3); in Menges »neue Lehre« ist das nicht sichtbar."
+    },
+    {
+      "vers_von": 3, "von": 76, "vers_bis": 4, "bis": 43, "typ": "at",
+      "referenz": "Hes 1,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel1,28",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Lichtglanz, Niederfallen, eine Stimme hören — genau so beschreibt Hesekiel seine Berufung: Er sieht die Herrlichkeit des HERRN als strahlendes Licht, wirft sich nieder und hört die Stimme eines Redenden. Der Text stellt die Begegnung damit als Gotteserscheinung dar, nicht als Naturereignis."
+    },
+    { "vers_von": 4, "von": 61, "vers_bis": 4, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 4, "von": 61, "vers_bis": 4, "bis": 73, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 3,4", "url": "https://www.bibleserver.com/MENG/2.Mose3,4" },
+        { "label": "1. Sam 3,10", "url": "https://www.bibleserver.com/MENG/1.Samuel3,10" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der doppelte Namensruf ist im AT die Form, in der Gott einen Menschen beruft: »Mose, Mose!« am Dornbusch, »Samuel! Samuel!« im Heiligtum. Wer so angeredet wird, steht vor seiner Berufung — hier ausgerechnet der Verfolger."
+    },
+    {
+      "vers_von": 4, "von": 74, "vers_bis": 4, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 24,15", "url": "https://www.bibleserver.com/MENG/1.Samuel24,15" },
+        { "label": "1. Sam 26,18", "url": "https://www.bibleserver.com/MENG/1.Samuel26,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Name ruft König Saul wach, der David nachjagte, obwohl Gott David schon zum König gesalbt hatte. David stellte ihn zur Rede: »Wen verfolgst du?« Jetzt stellt Jesus einen Saul zur Rede – und nennt sich selbst den Verfolgten."
+    },
+    {
+      "vers_von": 5, "von": 11, "vers_bis": 5, "bis": 31, "typ": "at",
+      "referenz": "2. Mo 3,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose3,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Teil der schon markierten Erscheinungsszene; die Frage nach dem Namen am Dornbusch ist anders formuliert."
+    },
+    { "vers_von": 5, "von": 50, "vers_bis": 6, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 6, "von": 5, "vers_bis": 6, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 3,22", "url": "https://www.bibleserver.com/MENG/Hesekiel3,22" },
+        { "label": "Hes 2,1", "url": "https://www.bibleserver.com/MENG/Hesekiel2,1" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Hesekiels Berufungsmuster ist schon durch V3–4 (Hes 1,28) abgedeckt; Hes 2,1 bei 26,16 prüfen."
+    },
+    {
+      "vers_von": 7, "von": 73, "vers_bis": 7, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 4,12", "url": "https://www.bibleserver.com/MENG/5.Mose4,12" },
+        { "label": "Dan 10,7", "url": "https://www.bibleserver.com/MENG/Daniel10,7" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Am Sinai vernahm Israel den Schall der Worte, sah aber keine Gestalt; bei Daniels Vision sahen die Begleiter nichts und erschraken nur. Beide Muster kehren wieder: Die Begleiter bezeugen, dass etwas geschah — die Offenbarung selbst gilt allein Saulus."
+    },
+    {
+      "vers_von": 8, "von": 103, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "2. Kön 6,18-20", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Koenige6,18-20",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Blindheit und Geführtwerden erinnern an die geblendeten Aramäer, die Elisa nach Samaria führt — nur evokativ, der Text greift die Stelle nicht auf."
+    },
+    {
+      "vers_von": 9, "von": 11, "vers_bis": 9, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 34,28", "url": "https://www.bibleserver.com/MENG/2.Mose34,28" },
+        { "label": "1. Sam 30,12", "url": "https://www.bibleserver.com/MENG/1.Samuel30,12" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeine Fasten-Formel, keine bestimmte AT-Vorlage."
+    },
+    { "vers_von": 10, "von": 91, "vers_bis": 10, "bis": 101, "typ": "jesus" },
+    {
+      "vers_von": 10, "von": 120, "vers_bis": 10, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 3,4", "url": "https://www.bibleserver.com/MENG/1.Samuel3,4" },
+        { "label": "Jes 6,8", "url": "https://www.bibleserver.com/MENG/Jesaja6,8" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Hier bin ich« ist im AT die Antwort der Berufenen — Samuel im Heiligtum, Jesaja vor dem Thron Gottes (»Hier bin ich, sende mich!«). Ananias stellt sich damit als Bote zur Verfügung, noch bevor er den Auftrag kennt."
+    },
+    { "vers_von": 11, "von": 20, "vers_bis": 12, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 12, "von": 82, "vers_bis": 12, "bis": 104, "typ": "at",
+      "referenz": "4. Mo 27,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose27,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Handauflegung bereits zu 6,6 annotiert; hier Heilungsgeste ohne eigenen AT-Bezug (ebenso 9,17)."
+    },
+    {
+      "vers_von": 13, "von": 101, "vers_bis": 13, "bis": 116, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 19,6", "url": "https://www.bibleserver.com/MENG/2.Mose19,6" },
+        { "label": "Dan 7,18", "url": "https://www.bibleserver.com/MENG/Daniel7,18" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Heilig« heißt im AT das Volk, das Gott für sich ausgesondert hat; bei Daniel sind »die Heiligen des Höchsten« die Gemeinde, die das Reich erhält. Hier erstmals im Buch für die Jesus-Gläubigen — gemeint ist Gottes Eigentum, nicht moralische Vollkommenheit."
+    },
+    {
+      "vers_von": 14, "von": 81, "vers_bis": 14, "bis": 105, "typ": "at",
+      "referenz": "Joel 3,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Den Namen anrufen — Wiederholung des Joel-Zitats aus 2,21; ebenso »die Bekenner dieses Namens« in 9,21."
+    },
+    { "vers_von": 15, "von": 35, "vers_bis": 16, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 15, "von": 51, "vers_bis": 15, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 1,5", "url": "https://www.bibleserver.com/MENG/Jeremia1,5" },
+        { "label": "Jes 49,6", "url": "https://www.bibleserver.com/MENG/Jesaja49,6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Auftrag folgt dem Muster prophetischer Berufungen: Jeremia wird »zum Propheten für die Völker« bestimmt, der Gottesknecht zum »Licht der Heidenvölker«. Saulus erhält damit einen Prophetenauftrag, der über Israel hinausreicht."
+    },
+    {
+      "vers_von": 18, "von": 3, "vers_bis": 18, "bis": 53, "typ": "at",
+      "referenz": "Tob 11,12-13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Tobit11,12-13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bildparallele zu Tobits Heilung (Apokryphen), nicht tragend."
+    },
+    {
+      "vers_von": 20, "von": 76, "vers_bis": 20, "bis": 91, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 2,7", "url": "https://www.bibleserver.com/MENG/Psalm2,7" },
+        { "label": "2. Sam 7,14", "url": "https://www.bibleserver.com/MENG/2.Samuel7,14" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Sohn Gottes« ist im AT ein Königstitel: Gott sagt zum gesalbten König »Mein Sohn bist du« und verheißt dem Nachkommen Davids, ihm Vater zu sein. Die Synagogenpredigt verkündet Jesus damit als den verheißenen König aus Davids Haus."
+    },
+    {
+      "vers_von": 21, "von": 60, "vers_bis": 21, "bis": 87, "typ": "at",
+      "referenz": "1. Sam 10,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel10,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Staunen über einen verwandelten Saul wie in 1. Sam 10,11, aber ohne Wortbezug; die Saul-Verbindung trägt V4."
+    },
+    {
+      "vers_von": 22, "von": 133, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Messiastitel; Wiederholung, vgl. 2,36."
+    },
+    {
+      "vers_von": 24, "von": 61, "vers_bis": 25, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 19,11-12", "url": "https://www.bibleserver.com/MENG/1.Samuel19,11-12" },
+        { "label": "Jos 2,15", "url": "https://www.bibleserver.com/MENG/Josua2,15" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bewachung und Hinablassen über die Mauer erinnern an Davids Flucht vor König Saul und an die Kundschafter bei Rahab — nur evokativ, der Text greift keine der Stellen auf."
+    },
+    {
+      "vers_von": 31, "von": 109, "vers_bis": 31, "bis": 132, "typ": "at",
+      "referenz": "Spr 1,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Sprueche1,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Furcht des Herrn« ist allgemeine Frömmigkeitssprache ohne Verweis auf eine bestimmte Stelle."
+    },
+    {
+      "vers_von": 34, "von": 66, "vers_bis": 34, "bis": 107, "typ": "at",
+      "referenz": "Jes 35,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Heilung eines Gelähmten; Jes 35,6 bereits zu 3,8 annotiert."
+    },
+    {
+      "vers_von": 35, "von": 33, "vers_bis": 35, "bis": 55, "typ": "at",
+      "referenz": "Jes 35,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Saron hier nur geographisch (Küstenebene); die prophetischen Saron-Stellen werden nicht aufgerufen."
+    },
+    {
+      "vers_von": 36, "von": 0, "vers_bis": 36, "bis": 8, "typ": "at",
+      "referenz": "Jona 1,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jona1,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Joppe hier nur Ortsangabe; der Jona-Gegensatz (Flucht vor dem Heidenauftrag) trägt erst in Kap. 10 — dort prüfen."
+    },
+    {
+      "vers_von": 37, "von": 96, "vers_bis": 37, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Kön 17,19", "url": "https://www.bibleserver.com/MENG/1.Koenige17,19" },
+        { "label": "2. Kön 4,10", "url": "https://www.bibleserver.com/MENG/2.Koenige4,10" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das Obergemach der Elia-/Elisa-Erzählungen ist durch den Eintrag V40–41 abgedeckt."
+    },
+    {
+      "vers_von": 40, "von": 0, "vers_bis": 41, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Kön 4,33-35", "url": "https://www.bibleserver.com/MENG/2.Koenige4,33-35" },
+        { "label": "1. Kön 17,19-23", "url": "https://www.bibleserver.com/MENG/1.Koenige17,19-23" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Ablauf folgt den Totenerweckungen durch Elisa und Elia: Elisa schließt sich mit dem Toten ein und betet, das Kind schlägt die Augen auf; Elia bringt den Knaben aus dem Obergemach und übergibt ihn lebend der Witwe. Petrus handelt in der Linie dieser Propheten."
+    },
+    {
+      "vers_von": 43, "von": 45, "vers_bis": 43, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 11,39-40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,39-40",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein Gerber verarbeitet Häute toter Tiere – und wer ein totes Tier berührt, ist nach dem Gesetz unrein. Das Gewerbe galt als anrüchig. Gerade hier wohnt Petrus, unmittelbar bevor im nächsten Kapitel die Frage nach rein und unrein gestellt wird."
+    }
+  ]
+}

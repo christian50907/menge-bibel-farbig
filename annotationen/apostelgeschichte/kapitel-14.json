@@ -1,0 +1,150 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 14,
+  "titel": "Aufenthalt in Ikonium, Lystra und Derbe · Rückkehr nach Antiochia",
+  "abschnitte": [
+    { "id": "ikonium", "vers_von": 1, "vers_bis": 7, "titel": "Wirksamkeit der Apostel in Ikonium" },
+    { "id": "lystra", "vers_von": 8, "vers_bis": 20, "titel": "Heilung eines Lahmgeborenen und Steinigung des Paulus in Lystra; die beiden Apostel entweichen nach Derbe" },
+    { "id": "rueckkehr", "vers_von": 21, "vers_bis": 28, "titel": "Die Apostel in Derbe; Bestärkung der gegründeten Gemeinden; Rückkehr nach Antiochia in Syrien" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 3, "von": 168, "vers_bis": 3, "bis": 186, "typ": "at",
+      "referenz": "5. Mo 4,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geläufige Doppelformel, im Buch bereits mehrfach als inaktiv geführt."
+    },
+    {
+      "vers_von": 8, "von": 74, "vers_bis": 8, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 21,18", "url": "https://www.bibleserver.com/MENG/3.Mose21,18" },
+        { "label": "2. Sam 5,8",  "url": "https://www.bibleserver.com/MENG/2.Samuel5,8" }
+      ],
+      "begruendung": "Lahmgeborener wie 3,2 (dort inaktiv); die Heilszeit-Deutung (Jes 35,6) ist bei 3,8 aktiv und bei 14,10 inaktiv geführt. Keine neue AT-Dimension."
+    },
+    {
+      "vers_von": 10, "von": 34, "vers_bis": 10, "bis": 76, "typ": "at",
+      "referenz": "Hes 2,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel2,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Anklang an Hes 2,1 (»tritt auf deine Füße«), dort Berufungsbefehl, hier Heilungswort. Geläufige Wendung, wie bei 9,6 inaktiv."
+    },
+    {
+      "vers_von": 10, "von": 77, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "Jes 35,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja35,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Das springende Aufstehen des Lahmen ist bei 3,8 mit Jes 35,6 annotiert; die Lystra-Heilung ist bewusst parallel erzählt."
+    },
+    {
+      "vers_von": 14, "von": 51, "vers_bis": 14, "bis": 77, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Kön 18,37", "url": "https://www.bibleserver.com/MENG/2.Koenige18,37" },
+        { "label": "2. Kön 19,1",  "url": "https://www.bibleserver.com/MENG/2.Koenige19,1" }
+      ],
+      "begruendung": "Kleiderzerreißen ist im AT Zeichen der Trauer, aber auch die Antwort auf Lästerung: So reagieren Hiskias Beamte und Hiskia selbst auf die Hohnrede gegen den lebendigen Gott. Die Apostel werten ihre Verehrung als Götter als Lästerung."
+    },
+    {
+      "vers_von": 15, "von": 46, "vers_bis": 15, "bis": 98, "typ": "at",
+      "referenz": "Hes 28,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel28,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gegenstück zu 12,22 (Hes 28,2 dort aktiv): Herodes nimmt die Vergötterung an, die Apostel weisen sie ab. Keine eigene AT-Vorlage; wie 10,26."
+    },
+    {
+      "vers_von": 15, "von": 155, "vers_bis": 15, "bis": 203, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 10,10", "url": "https://www.bibleserver.com/MENG/Jeremia10,10" },
+        { "label": "Jer 10,15", "url": "https://www.bibleserver.com/MENG/Jeremia10,15" }
+      ],
+      "begruendung": "Menges »Verkehrtheiten« steht für griech. »Nichtiges« – in der griechischen Übersetzung des AT ein Wort für die Götzen. Jeremia stellt die Götzen, die »nichts als Wahn« sind, dem HERRN gegenüber, der »der lebendige Gott« ist."
+    },
+    {
+      "vers_von": 15, "von": 213, "vers_bis": 15, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": false,
+      "urls": [
+        { "label": "2. Mo 20,11", "url": "https://www.bibleserver.com/MENG/2.Mose20,11" },
+        { "label": "Ps 146,6",    "url": "https://www.bibleserver.com/MENG/Psalm146,6" }
+      ],
+      "begruendung": "Die feste AT-Formel für Gott als Schöpfer von Himmel, Erde und Meer. Anders als in der Synagogenpredigt (13,16-41) beginnt die Predigt vor Heiden ohne Schriftkenntnis nicht bei der Geschichte Israels, sondern beim Schöpfer aller Dinge."
+    },
+    {
+      "vers_von": 16, "von": 33, "vers_bis": 16, "bis": 81, "typ": "at",
+      "referenz": "Mi 4,5", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Micha4,5",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Inhaltlich verwandt (»alle Völker ein jedes im Namen seines Gottes«), aber kein erkennbarer Wortlautbezug; nicht load-bearing."
+    },
+    {
+      "vers_von": 17, "von": 58, "vers_bis": 17, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Jer 14,22",    "url": "https://www.bibleserver.com/MENG/Jeremia14,22" },
+        { "label": "Ps 104,14-15", "url": "https://www.bibleserver.com/MENG/Psalm104,14-15" }
+      ],
+      "begruendung": "Regen und Fruchtbarkeit schrieb man Zeus zu, dessen Tempel vor Lystra stand (V. 13). Jeremia fragt, ob es unter den nichtigen Götzen der Heiden Regenspender gebe – nein, der HERR tut dies alles. Ps 104 preist ihn für Brot und den Wein, »der des Menschen Herz erfreut«."
+    },
+    {
+      "vers_von": 19, "von": 99, "vers_bis": 19, "bis": 156, "typ": "at",
+      "referenz": "3. Mo 24,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose24,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Steinigung außerhalb der Stadt ist bei 7,58 annotiert; hier zudem kein Rechtsverfahren, sondern Lynchjustiz."
+    },
+    {
+      "vers_von": 22, "von": 116, "vers_bis": 22, "bis": -1, "typ": "at",
+      "referenz": "Dan 7,21-22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,21-22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bedrängnis der Heiligen vor dem Empfang des Reiches ist ein apokalyptisches Motiv, die Formulierung greift aber keine bestimmte Stelle auf; Reich Gottes bei 1,3 annotiert."
+    },
+    {
+      "vers_von": 23, "von": 38, "vers_bis": 23, "bis": 45, "typ": "at",
+      "referenz": "4. Mo 11,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose11,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Älteste als Gemeindeleitung waren aus der Synagoge selbstverständlich; im Buch bereits mehrfach inaktiv."
+    },
+    {
+      "vers_von": 23, "von": 50, "vers_bis": 23, "bis": 97, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Esra 8,21-23", "url": "https://www.bibleserver.com/MENG/Esra8,21-23" },
+        { "label": "Ps 31,6",      "url": "https://www.bibleserver.com/MENG/Psalm31,6" }
+      ],
+      "begruendung": "Allgemeine Frömmigkeitssprache. Fasten bei 13,2 schon inaktiv, Ps 31,6 bei 7,59 in anderem Sinn aktiv."
+    },
+    {
+      "vers_von": 27, "von": 141, "vers_bis": 27, "bis": -1, "typ": "at",
+      "referenz": "Hos 2,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea2,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Bild der geöffneten Tür ohne AT-Vorlage. Hos 2,17 (»Pforte der Hoffnung«) ist nur evokativ."
+    }
+  ]
+}

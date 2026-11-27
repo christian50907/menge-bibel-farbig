@@ -1,0 +1,321 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 10,
+  "titel": "Petrus und der heidnische Hauptmann Kornelius",
+  "abschnitte": [
+    { "id": "kornelius-gesicht", "vers_von": 1, "vers_bis": 8, "titel": "Das Gesicht des Kornelius in Cäsarea" },
+    { "id": "petrus-gesicht", "vers_von": 9, "vers_bis": 23, "titel": "Gesicht des Petrus in Joppe; Eintreffen der Boten des Kornelius bei Petrus" },
+    { "id": "kornelius-haus", "vers_von": 24, "vers_bis": 48, "titel": "Petrus im Hause des Kornelius" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 7, "vers_bis": 2, "bis": 31, "typ": "at",
+      "referenz": "Ps 115,9-11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm115,9-11",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Gottesfürchtig« bezeichnet Nichtjuden, die den Gott Israels verehrten, ohne durch Beschneidung zum Judentum überzutreten. Ps 115 nennt neben Israel und dem Haus Aaron eigens »die ihr fürchtet den HERRN«. Kornelius bleibt also ein Heide – darauf baut das ganze Kapitel."
+    },
+    {
+      "vers_von": 2, "von": 32, "vers_bis": 2, "bis": 55, "typ": "at",
+      "referenz": "Jos 24,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua24,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das ganze Haus als Glaubensgemeinschaft ist nur ein Anklang; der fromme Lebenswandel ist über »gottesfürchtig« abgedeckt."
+    },
+    {
+      "vers_von": 3, "von": 47, "vers_bis": 3, "bis": 72, "typ": "at",
+      "referenz": "2. Mo 29,38-39", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose29,38-39",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 3,1 (neunte Stunde als Gebetsstunde)."
+    },
+    {
+      "vers_von": 4, "von": 97, "vers_bis": 4, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 2,2",  "url": "https://www.bibleserver.com/MENG/3.Mose2,2" },
+        { "label": "Ps 141,2",   "url": "https://www.bibleserver.com/MENG/Psalm141,2" }
+      ],
+      "begruendung": "Im Griechischen steht Opfersprache: »Gedächtnis« nennt die griechische Übersetzung von 3. Mo 2,2 den Teil des Speisopfers, der auf dem Altar in Rauch aufgeht (Menge: »Duftopfer«); Ps 141,2 vergleicht Gebet mit Räucherwerk. Gebete und Almosen des Heiden gelten wie ein Opfer, das Gott annimmt."
+    },
+    {
+      "vers_von": 5, "von": 20, "vers_bis": 5, "bis": 30, "typ": "at",
+      "referenz": "Jona 1,3", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jona1,3",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Joppe ist der Hafen, von dem Jona vor seinem Auftrag an die Heiden floh. Der Gegensatz zu Petrus liegt nahe, wird im Text aber nicht aufgegriffen – nur Ortsbezug."
+    },
+    {
+      "vers_von": 6, "von": 17, "vers_bis": 6, "bis": 39, "typ": "at",
+      "referenz": "3. Mo 11,39-40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,39-40",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 9,43 (Gerber und Unreinheit)."
+    },
+    {
+      "vers_von": 9, "von": 98, "vers_bis": 9, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Ps 55,18", "url": "https://www.bibleserver.com/MENG/Psalm55,18" },
+        { "label": "Dan 6,11", "url": "https://www.bibleserver.com/MENG/Daniel6,11" }
+      ],
+      "begruendung": "Neben den Gebetsstunden am Tempel kannte die jüdische Frömmigkeit ein Gebet dreimal am Tag, auch mittags (Ps 55,18); Daniel betete dreimal täglich in seinem Obergemach. Das flache Dach war dafür ein ruhiger Ort."
+    },
+    {
+      "vers_von": 10, "von": 89, "vers_bis": 10, "bis": 117, "typ": "at",
+      "referenz": "1. Mo 15,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose15,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nur Wortanklang an die griechische Übersetzung (LXX: »ekstasis« für Abrams Tiefschlaf); nicht tragend."
+    },
+    {
+      "vers_von": 11, "von": 7, "vers_bis": 11, "bis": 30, "typ": "at",
+      "referenz": "Hes 1,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel1,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 7,56 (geöffneter Himmel als Visionsmotiv)."
+    },
+    {
+      "vers_von": 11, "von": 97, "vers_bis": 11, "bis": 116, "typ": "at",
+      "referenz": "Jes 11,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja11,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Vier Enden der Erde« als Bild für die ganze Welt – hier nur Bildsprache ohne Bezug in der Formulierung."
+    },
+    {
+      "vers_von": 12, "von": 20, "vers_bis": 12, "bis": 95, "typ": "at",
+      "referenz": "3. Mo 11,46-47", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,46-47",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Vierfüßer, Kriechtiere und Vögel sind genau die Gruppen, die das Speisegesetz in rein und unrein scheidet. Im Tuch liegen sie ungeschieden beisammen – ein frommer Jude durfte nicht einfach zugreifen."
+    },
+    {
+      "vers_von": 13, "von": 49, "vers_bis": 13, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 12,15.21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose12,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Schwacher Wortanklang an die Erlaubnis zum Schlachten daheim; die Speisegebote sind über V12 und V14 abgedeckt."
+    },
+    {
+      "vers_von": 14, "von": 24, "vers_bis": 14, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 4,14", "url": "https://www.bibleserver.com/MENG/Hesekiel4,14" },
+        { "label": "Dan 1,8",  "url": "https://www.bibleserver.com/MENG/Daniel1,8" }
+      ],
+      "begruendung": "Petrus antwortet fast wie Hesekiel, als Gott ihm unreine Speise auferlegte: Noch nie sei Unreines in seinen Mund gekommen. Die Speisegebote zu halten war Zeichen der Treue zu Gott – so auch bei Daniel am Hof des Königs."
+    },
+    {
+      "vers_von": 15, "von": 43, "vers_bis": 15, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 20,24-26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose20,24-26",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Gesetz begründet Gott die Speisegebote selbst: Israel soll reine und unreine Tiere unterscheiden, weil er es »von den übrigen Völkern abgesondert« hat. Hebt Gott die Unterscheidung bei den Tieren auf, steht auch die Trennung von den Völkern in Frage."
+    },
+    {
+      "vers_von": 19, "von": 79, "vers_bis": 19, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 18,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose18,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Drei Männer als Gäste – nur Bildanklang an Abraham, kein Bezug in der Formulierung."
+    },
+    {
+      "vers_von": 25, "von": 86, "vers_bis": 25, "bis": 110, "typ": "at",
+      "referenz": "Dan 2,46", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel2,46",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nebukadnezar fällt vor Daniel nieder – nur Motivparallele; die Abwehr des Petrus braucht keinen AT-Hintergrund."
+    },
+    {
+      "vers_von": 26, "von": 52, "vers_bis": 26, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Keine AT-Vorlage im Wortlaut; die Abwehr der Verehrung erklärt sich aus dem Text selbst."
+    },
+    {
+      "vers_von": 28, "von": 28, "vers_bis": 28, "bis": 160, "typ": "at",
+      "referenz": "3. Mo 20,24-26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose20,24-26",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein ausdrückliches Verbot, Nichtjuden zu besuchen, steht nicht im AT. Die Tradition leitete es aus der Absonderung Israels von den Völkern ab – aus Sorge, sich an ihren Speisen und in ihren Häusern zu verunreinigen. Petrus wendet die Vision nun auf Menschen an."
+    },
+    {
+      "vers_von": 30, "von": 132, "vers_bis": 30, "bis": 168, "typ": "at",
+      "referenz": "Dan 10,5-6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel10,5-6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Übliches Bild einer Engelerscheinung; der Engel ist schon durch V3 erkennbar."
+    },
+    {
+      "vers_von": 31, "von": 23, "vers_bis": 31, "bis": -1, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "3. Mo 2,2",  "url": "https://www.bibleserver.com/MENG/3.Mose2,2" },
+        { "label": "Ps 141,2",   "url": "https://www.bibleserver.com/MENG/Psalm141,2" }
+      ],
+      "begruendung": "Doppelung zu V4 (Gebet und Almosen als Gedenkopfer)."
+    },
+    {
+      "vers_von": 32, "von": 97, "vers_bis": 32, "bis": 125, "typ": "at",
+      "referenz": "3. Mo 11,39-40", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,39-40",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 9,43 und V6."
+    },
+    {
+      "vers_von": 34, "von": 0, "vers_bis": 34, "bis": 26, "typ": "at",
+      "referenz": "Jes 53,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja53,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gleiche Redeformel wie 8,35 (dort inaktiv)."
+    },
+    {
+      "vers_von": 34, "von": 68, "vers_bis": 34, "bis": 101, "typ": "at",
+      "autor": "KI",
+      "status": "aktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 16,7", "url": "https://www.bibleserver.com/MENG/1.Samuel16,7" },
+        { "label": "5. Mo 10,17", "url": "https://www.bibleserver.com/MENG/5.Mose10,17", "vgl": false }
+      ],
+      "begruendung": "»Die Person ansehen« heißt: nach Herkunft und Rang urteilen, wie ein bestechlicher Richter. Gott tut das nicht (5. Mo 10,17); er sieht auf das Herz statt auf das Äußere (1. Sam 16,7). Petrus erkennt: Das gilt auch gegenüber Nichtjuden."
+    },
+    {
+      "vers_von": 35, "von": 0, "vers_bis": 35, "bis": -1, "typ": "at",
+      "referenz": "Jes 56,6-7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja56,6-7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Angenehm« ist im Griechischen das Wort für ein Opfer, das Gott annimmt. Jes 56 verheißt, dass die Opfer von Fremden, die sich dem HERRN anschließen, auf seinem Altar wohlgefällig sind – sein Haus soll ein Bethaus für alle Völker heißen."
+    },
+    {
+      "vers_von": 36, "von": 10, "vers_bis": 36, "bis": 153, "typ": "at",
+      "referenz": "Jes 52,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 52,7 kündigt den Freudenboten an, der Gottes Königsherrschaft meldet; die griechische Übersetzung spricht dort von der frohen Botschaft des Friedens (Menge: »Glück«). Petrus fasst das Evangelium als Erfüllung dieser Ankündigung an Israel."
+    },
+    {
+      "vers_von": 36, "von": 155, "vers_bis": 36, "bis": -1, "typ": "at",
+      "referenz": "Ps 145,9", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm145,9",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Universalität ohne erkennbare AT-Formulierung als Vorlage."
+    },
+    {
+      "vers_von": 38, "von": 8, "vers_bis": 38, "bis": 80, "typ": "at",
+      "referenz": "Jes 61,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja61,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 61,1 spricht von dem, auf dem Gottes Geist ruht, weil der HERR ihn gesalbt hat, frohe Botschaft zu bringen. »Messias« und »Christus« bedeuten »Gesalbter«: Die Salbung mit Geist kennzeichnet Jesus als den angekündigten Gesalbten."
+    },
+    {
+      "vers_von": 38, "von": 187, "vers_bis": 38, "bis": -1, "typ": "at",
+      "referenz": "1. Mo 39,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose39,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 7,9; zudem sehr verbreitete Beistandsformel."
+    },
+    {
+      "vers_von": 39, "von": 120, "vers_bis": 39, "bis": 137, "typ": "at",
+      "referenz": "5. Mo 21,22-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose21,22-23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 5,30 (griechisch »ans Holz gehängt«)."
+    },
+    {
+      "vers_von": 40, "von": 18, "vers_bis": 40, "bis": 44, "typ": "at",
+      "referenz": "Hos 6,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea6,2",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hosea erwartet, dass Gott sein Volk »am dritten Tage« wieder aufrichtet. Die Formel gilt schon im ältesten Bekenntnis als schriftgemäß (1. Kor 15,4): Die Auferweckung Jesu wird als Erfüllung dieser Hoffnung verstanden."
+    },
+    {
+      "vers_von": 41, "von": 120, "vers_bis": 41, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 24,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose24,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nur Anklang; der Vers zielt auf den Beweis der leiblichen Auferstehung."
+    },
+    {
+      "vers_von": 42, "von": 100, "vers_bis": 42, "bis": 129, "typ": "at",
+      "referenz": "Dan 7,13-14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel7,13-14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Richteramt des Menschensohns; Dan 7 bereits in 1,9 und 7,56 annotiert – Wiederholung."
+    },
+    {
+      "vers_von": 43, "von": 0, "vers_bis": 43, "bis": 127, "typ": "at",
+      "referenz": "Jer 31,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Sammelverweis auf »alle Propheten« ohne bestimmte Stelle; Vergebungsverheißungen bereits in 3,18–19 als inaktiv geführt."
+    },
+    {
+      "vers_von": 44, "von": 44, "vers_bis": 44, "bis": 75, "typ": "at",
+      "referenz": "Joel 3,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 2,17 (Ausgießung des Geistes)."
+    },
+    {
+      "vers_von": 45, "von": 115, "vers_bis": 45, "bis": 180, "typ": "at",
+      "referenz": "Joel 3,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 2,17 (Ausgießung des Geistes auf alles Fleisch); die Ausweitung auf Heiden ist Gegenstand der Erzählung selbst."
+    },
+    {
+      "vers_von": 46, "von": 20, "vers_bis": 46, "bis": 53, "typ": "at",
+      "referenz": "4. Mo 11,25-29", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose11,25-29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geist auch außerhalb des erwarteten Kreises (Eldad und Medad) – nur strukturelle Parallele ohne Anklang im Wortlaut; Zungenreden schon in 2,4 inaktiv."
+    },
+    {
+      "vers_von": 47, "von": 88, "vers_bis": 47, "bis": 107, "typ": "at",
+      "referenz": "5. Mo 23,2-4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose23,2-4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gleiche Frage nach einem Taufhindernis wie in 8,36 (inaktiv)."
+    }
+  ]
+}

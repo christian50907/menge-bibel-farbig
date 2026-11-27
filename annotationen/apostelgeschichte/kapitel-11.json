@@ -1,0 +1,221 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 11,
+  "titel": "Petrus rechtfertigt die Heidentaufe · Die Gemeinde in Antiochia",
+  "abschnitte": [
+    { "id": "petrus-rechtfertigung", "vers_von": 1, "vers_bis": 18, "titel": "Petrus rechtfertigt in Jerusalem die Heidentaufe" },
+    { "id": "gemeinde-antiochia", "vers_von": 19, "vers_bis": 30, "titel": "Gründung der ersten heidenchristlichen Gemeinde zu Antiochia in Syrien; deren Hilfeleistung für die notleidenden Christen in Judäa" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 3, "von": 21, "vers_bis": 3, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 20,24-26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose20,24-26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,28 (Absonderung von den Völkern, Einkehr bei Heiden); die Speisefrage ist über 10,14 abgedeckt."
+    },
+    {
+      "vers_von": 5, "von": 57, "vers_bis": 5, "bis": 83, "typ": "at",
+      "referenz": "1. Mo 15,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose15,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,10 (Wortanklang an die griechische Übersetzung, nicht tragend)."
+    },
+    {
+      "vers_von": 5, "von": 155, "vers_bis": 5, "bis": 174, "typ": "at",
+      "referenz": "Jes 11,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja11,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,11 — nur Bildsprache."
+    },
+    {
+      "vers_von": 6, "von": 71, "vers_bis": 6, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 11,46-47", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose11,46-47",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,12 — Petrus erzählt das Gesicht nach."
+    },
+    {
+      "vers_von": 7, "von": 75, "vers_bis": 7, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 12,15.21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose12,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,13; der Konflikt um die Speisegebote ist über 10,12 (3. Mo 11) abgedeckt."
+    },
+    {
+      "vers_von": 8, "von": 22, "vers_bis": 8, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hes 4,14", "url": "https://www.bibleserver.com/MENG/Hesekiel4,14" },
+        { "label": "Dan 1,8",  "url": "https://www.bibleserver.com/MENG/Daniel1,8" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,14."
+    },
+    {
+      "vers_von": 9, "von": 5, "vers_bis": 9, "bis": 55, "typ": "at",
+      "referenz": "5. Mo 4,36", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,36",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Nacherzählung; Stimme vom Himmel und Sinai-Motiv schon 9,7 aktiv."
+    },
+    {
+      "vers_von": 9, "von": 57, "vers_bis": 9, "bis": -1, "typ": "at",
+      "referenz": "3. Mo 20,24-26", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/3.Mose20,24-26",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,15."
+    },
+    {
+      "vers_von": 11, "von": 60, "vers_bis": 11, "bis": 71, "typ": "at",
+      "referenz": "1. Mo 18,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose18,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,19 — nur Bildanklang."
+    },
+    {
+      "vers_von": 12, "von": 65, "vers_bis": 12, "bis": 118, "typ": "at",
+      "referenz": "5. Mo 19,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose19,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die sechs Brüder fungieren als Zeugen vor der Gemeinde; die Zeugenregel ist aber nicht aufgegriffen, nur der Sachverhalt erinnert daran."
+    },
+    {
+      "vers_von": 14, "von": 42, "vers_bis": 14, "bis": 87, "typ": "at",
+      "referenz": "Jos 24,15", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua24,15",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,2 (das ganze Haus) — nur Anklang."
+    },
+    {
+      "vers_von": 15, "von": 34, "vers_bis": 15, "bis": 64, "typ": "at",
+      "referenz": "Joel 3,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,44 bzw. 2,17 (Geistausgießung)."
+    },
+    { "vers_von": 16, "von": 53, "vers_bis": 16, "bis": -1, "typ": "jesus" },
+    {
+      "vers_von": 17, "von": 131, "vers_bis": 17, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Hiob 9,12", "url": "https://www.bibleserver.com/MENG/Hiob9,12" },
+        { "label": "Dan 4,32",  "url": "https://www.bibleserver.com/MENG/Daniel4,32" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Allgemeiner Gedanke, Gott nicht hindern zu können; der Rückbezug liegt in 10,47 und 5,39, nicht im AT."
+    },
+    {
+      "vers_von": 18, "von": 107, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "Hes 18,32", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hesekiel18,32",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Umkehr, die zum Leben führt, ist Hes 18 vertraut (vgl. 3,19; 5,31 inaktiv); die Pointe — auch für Heiden — erklärt der Text selbst."
+    },
+    {
+      "vers_von": 19, "von": 106, "vers_bis": 19, "bis": 122, "typ": "at",
+      "referenz": "5. Mo 28,64", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose28,64",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 8,1."
+    },
+    {
+      "vers_von": 20, "von": 149, "vers_bis": 20, "bis": 202, "typ": "at",
+      "referenz": "Jes 52,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja52,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geläufiges Verkündigungsvokabular; Jes 52,7 schon 10,36 aktiv, 5,42 inaktiv."
+    },
+    {
+      "vers_von": 21, "von": 4, "vers_bis": 21, "bis": 36, "typ": "at",
+      "referenz": "Esra 7,28", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Esra7,28",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Die Hand des Herrn« ist im AT das Bild für Gottes tatkräftiges Eingreifen: Wo sie über jemandem waltet, gelingt sein Vorhaben – so bei Esras Heimkehr nach Jerusalem. Der Erfolg der namenlosen Prediger unter den Griechen wird damit Gott selbst zugeschrieben."
+    },
+    {
+      "vers_von": 23, "von": 97, "vers_bis": 23, "bis": 140, "typ": "at",
+      "referenz": "Jos 23,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua23,8",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dem Herrn anhangen ist geläufige Frömmigkeitssprache; kein erkennbarer Bezug auf eine bestimmte Stelle."
+    },
+    {
+      "vers_von": 24, "von": 37, "vers_bis": 24, "bis": 79, "typ": "at",
+      "referenz": "4. Mo 27,18", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose27,18",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 6,5 (voll Glaubens und heiligen Geistes)."
+    },
+    {
+      "vers_von": 26, "von": 246, "vers_bis": 26, "bis": 266, "typ": "at",
+      "referenz": "Ps 2,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Christus« = der Gesalbte ist bereits zu 2,36 und 9,22 geprüft; der Name selbst ist eine Prägung der Umwelt, kein AT-Bezug."
+    },
+    {
+      "vers_von": 27, "von": 15, "vers_bis": 27, "bis": 65, "typ": "at",
+      "referenz": "Joel 3,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Joel3,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Propheten in der Gemeinde; Joel 3,1 schon 2,17-18 aktiv."
+    },
+    {
+      "vers_von": 28, "von": 43, "vers_bis": 28, "bis": 78, "typ": "at",
+      "referenz": "4. Mo 11,25-29", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose11,25-29",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung (2,17 aktiv, 10,46 inaktiv); nur strukturelle Parallele."
+    },
+    {
+      "vers_von": 28, "von": 80, "vers_bis": 28, "bis": 143, "typ": "at",
+      "autor": "KI",
+      "status": "inaktiv",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Kön 8,1",     "url": "https://www.bibleserver.com/MENG/2.Koenige8,1" },
+        { "label": "1. Mo 41,56-57", "url": "https://www.bibleserver.com/MENG/1.Mose41,56-57" }
+      ],
+      "begruendung": "Prophet kündigt Hungersnot an wie Elisa (2. Kön 8,1); Vorsorge erinnert an Joseph (vgl. 7,11 inaktiv). Beides nur strukturell, kein Anklang im Wortlaut."
+    },
+    {
+      "vers_von": 29, "von": 27, "vers_bis": 29, "bis": 78, "typ": "at",
+      "referenz": "5. Mo 16,17", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose16,17",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Geben nach Vermögen klingt an 5. Mo 16,17 an (dort Festgaben); allgemeine Wendung, kein Bezug."
+    },
+    {
+      "vers_von": 30, "von": 122, "vers_bis": 30, "bis": 149, "typ": "at",
+      "referenz": "4. Mo 11,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose11,16",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Älteste als Leitungsamt sind seit 4,5 und 6,12 geläufig; erstmals Gemeindeälteste, aber ohne eigenen AT-Bezug im Text."
+    }
+  ]
+}

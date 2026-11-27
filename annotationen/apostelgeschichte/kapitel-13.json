@@ -1,0 +1,376 @@
+{
+  "buch": "Apostelgeschichte",
+  "kapitel": 13,
+  "titel": "Bekehrungstätigkeit des Paulus und seiner Genossen",
+  "abschnitte": [
+    { "id": "cypern", "vers_von": 1, "vers_bis": 12, "titel": "Einsegnung, Aussendung und Abreise der beiden Apostel; ihre Wirksamkeit in Cypern" },
+    { "id": "antiochia", "vers_von": 13, "vers_bis": 41, "titel": "Weiterreise nach Kleinasien und Aufenthalt im pisidischen Antiochia" },
+    { "id": "erfolg", "vers_von": 42, "vers_bis": 52, "titel": "Verschiedener Erfolg der Rede" }
+  ],
+  "markierungen": [
+    {
+      "vers_von": 2, "von": 18, "vers_bis": 2, "bis": 61, "typ": "at",
+      "referenz": "4. Mo 8,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose8,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Das griechische Verb für »Gottesdienst halten« ist in der LXX Wort für den Priester- und Levitendienst; nur kultische Färbung, nicht load-bearing."
+    },
+    {
+      "vers_von": 2, "von": 88, "vers_bis": 2, "bis": 142, "typ": "at",
+      "referenz": "4. Mo 8,14", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose8,14",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Aussondern« erinnert an die Aussonderung der Leviten, ist hier aber zu allgemein — kein erkennbarer Bezug auf eine bestimmte Stelle."
+    },
+    {
+      "vers_von": 3, "von": 29, "vers_bis": 3, "bis": 55, "typ": "at",
+      "referenz": "4. Mo 27,18-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose27,18-23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Handauflegung als Beauftragung bereits in 6,6 annotiert."
+    },
+    {
+      "vers_von": 6, "von": 83, "vers_bis": 6, "bis": 146, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "5. Mo 18,10-11", "url": "https://www.bibleserver.com/MENG/5.Mose18,10-11" },
+        { "label": "5. Mo 13,2-6", "url": "https://www.bibleserver.com/MENG/5.Mose13,2-6" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Für einen Juden doppelt verboten: Das Gesetz untersagt jede Zauberei und Wahrsagerei und bedroht den falschen Propheten, der vom Gott Israels wegführt, mit dem Tod. Ein jüdischer Magier im Gefolge eines Heiden verkörpert genau den Abfall, vor dem die Tora warnt."
+    },
+    {
+      "vers_von": 8, "von": 0, "vers_bis": 8, "bis": -1, "typ": "at",
+      "referenz": "2. Mo 7,11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose7,11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Ein Zauberer, der am Hof eines Herrschers Gottes Boten entgegentritt, erinnert an die Magier des Pharao; der Text greift diese Szene aber nicht erkennbar auf — nur evokativ."
+    },
+    {
+      "vers_von": 10, "von": 96, "vers_bis": 10, "bis": -1, "typ": "at",
+      "referenz": "Hos 14,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Hosea14,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Hosea schließt sein Buch mit dem Satz »Gerade sind die Wege des HERRN«: Die Gerechten gehen auf ihnen, die Gottlosen kommen darauf zu Fall. Wer als »Feind aller Gerechtigkeit« Gottes gerade Wege verbiegen will, stellt sich auf die Seite der Gottlosen."
+    },
+    {
+      "vers_von": 11, "von": 0, "vers_bis": 11, "bis": 45, "typ": "at",
+      "referenz": "1. Sam 5,6", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Samuel5,6",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Hand des Herrn« für Gottes strafendes Eingreifen ist geläufige AT-Sprache; das Strafwunder deckt der Eintrag 5. Mo 28,28-29 im selben Vers ab."
+    },
+    {
+      "vers_von": 11, "von": 116, "vers_bis": 11, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 28,28-29", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose28,28-29",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Strafwunder entspricht dem Fluch über den Israeliten, der Gottes Bund bricht: Er wird mit Blindheit geschlagen und muss umhertappen, »wie der Blinde im Finstern tappt«. Der jüdische Falschprophet erfährt, was die Tora dem Abtrünnigen androht — allerdings nur »eine Zeitlang«."
+    },
+    {
+      "vers_von": 15, "von": 0, "vers_bis": 15, "bis": 58, "typ": "at",
+      "referenz": "Neh 8,8", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Nehemia8,8",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Im Synagogengottesdienst las man am Sabbat aus den fünf Büchern Mose, dann aus den Propheten; darauf folgte eine Auslegung. Als Urbild gilt Esras Lesung: abschnittweise vorlesen und den Sinn klarmachen. Einen festen Prediger gab es nicht, darum konnte man auch einen Gast bitten."
+    },
+    {
+      "vers_von": 16, "von": 87, "vers_bis": 16, "bis": 113, "typ": "at",
+      "referenz": "Ps 115,9-11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm115,9-11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: »Gottesfürchtige« als Bezeichnung für Heiden, die sich zum Gott Israels halten, bereits in 10,2 annotiert."
+    },
+    {
+      "vers_von": 17, "von": 30, "vers_bis": 17, "bis": 59, "typ": "at",
+      "referenz": "5. Mo 4,37", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose4,37",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Erwählung der Väter ohne eigenen AT-Bezug verständlich; der Exodus-Eintrag im selben Vers trägt."
+    },
+    {
+      "vers_von": 17, "von": 158, "vers_bis": 17, "bis": 199, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "2. Mo 6,6", "url": "https://www.bibleserver.com/MENG/2.Mose6,6" },
+        { "label": "5. Mo 5,15", "url": "https://www.bibleserver.com/MENG/5.Mose5,15" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Mit hoch erhobenem Arm« ist die feste Formel, mit der das AT den Auszug aus Ägypten beschreibt — Gottes Arm als Bild seiner sichtbar eingreifenden Macht. Der Rückblick beginnt beim Grundbekenntnis Israels: Gott hat sein Volk befreit."
+    },
+    {
+      "vers_von": 18, "von": 0, "vers_bis": 18, "bis": -1, "typ": "at",
+      "referenz": "5. Mo 1,31", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose1,31",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Mose erinnert Israel: In der Wüste hat Gott euch getragen, »wie ein Vater seinen Sohn trägt«. Das seltene griechische Verb steht hier wie in der LXX dort; beide Male schwanken die Handschriften zwischen ›pflegend tragen‹ und ›geduldig ertragen‹. Beides passt: Gott trug sein Volk trotz dessen ständigen Murrens."
+    },
+    {
+      "vers_von": 19, "von": 0, "vers_bis": 19, "bis": 44, "typ": "at",
+      "referenz": "5. Mo 7,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose7,1",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Die Zahl ist genau: Das AT zählt sieben Völker Kanaans auf — Hethiter, Girgasiter, Amoriter, Kanaanäer, Pherissiter, Hewiter, Jebusiter —, die Israel an Zahl und Stärke überlegen waren. Die Landnahme erscheint so als Gottes Tat, nicht als Israels Leistung."
+    },
+    {
+      "vers_von": 19, "von": 45, "vers_bis": 19, "bis": 84, "typ": "at",
+      "referenz": "Jos 14,1-2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Josua14,1-2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Landgabe vom Eintrag »sieben Völker« im selben Vers abgedeckt."
+    },
+    {
+      "vers_von": 20, "von": 0, "vers_bis": 20, "bis": 51, "typ": "at",
+      "referenz": "1. Mo 15,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Mose15,13",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Zahl ist eine Summe (etwa 400 Jahre Ägypten, 40 Jahre Wüste, Landnahme), kein Bezug auf eine einzelne Stelle; 1. Mo 15,13 bereits in 7,6 annotiert."
+    },
+    {
+      "vers_von": 20, "von": 52, "vers_bis": 20, "bis": -1, "typ": "at",
+      "referenz": "Ri 2,16", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Richter2,16",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "»Richter« meint hier keine Gerichtsbeamten, sondern von Gott erweckte Retter und Anführer wie Gideon oder Simson, die Israel in Notzeiten von seinen Feinden befreiten. Samuel ist der letzte von ihnen und zugleich Prophet."
+    },
+    {
+      "vers_von": 21, "von": 0, "vers_bis": 21, "bis": -1, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 8,5-7", "url": "https://www.bibleserver.com/MENG/1.Samuel8,5-7" },
+        { "label": "1. Sam 9,1-2", "url": "https://www.bibleserver.com/MENG/1.Samuel9,1-2" },
+        { "label": "1. Sam 13,1", "url": "https://www.bibleserver.com/MENG/1.Samuel13,1" }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Das Volk verlangte einen König, »wie es bei allen anderen Völkern der Fall ist«. Gott sah darin die Ablehnung seiner eigenen Königsherrschaft, gab ihnen aber Saul. Wie lange Saul regierte, ist in 1. Sam 13,1 nur lückenhaft überliefert; die vierzig Jahre stammen aus außerbiblischer jüdischer Überlieferung."
+    },
+    {
+      "vers_von": 22, "von": 0, "vers_bis": 22, "bis": 56, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "1. Sam 15,23", "url": "https://www.bibleserver.com/MENG/1.Samuel15,23" },
+        { "label": "1. Sam 16,13", "url": "https://www.bibleserver.com/MENG/1.Samuel16,13" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Verwerfung Sauls und Erhebung Davids im Mischzitat-Eintrag desselben Verses enthalten."
+    },
+    {
+      "vers_von": 22, "von": 100, "vers_bis": 22, "bis": -1, "typ": "at",
+      "vgl": false,
+      "urls": [
+        { "label": "Ps 89,21", "url": "https://www.bibleserver.com/MENG/Psalm89,21" },
+        { "label": "1. Sam 13,14", "url": "https://www.bibleserver.com/MENG/1.Samuel13,14" },
+        { "label": "Jes 44,28", "url": "https://www.bibleserver.com/MENG/Jesaja44,28", "vgl": true }
+      ],
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ein Mischzitat aus drei Stellen: Gott hat David gefunden (Ps 89,21), den »Mann nach seinem Herzen« (1. Sam 13,14, gesagt bei Sauls Verwerfung), der all seinen Willen ausführt (Jes 44,28, dort über Cyrus). Das Zitat führt auf V23 hin: Aus Davids Nachkommen kommt der Retter."
+    },
+    {
+      "vers_von": 23, "von": 14, "vers_bis": 23, "bis": 126, "typ": "at",
+      "referenz": "2. Sam 7,12", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Samuel7,12",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung: Die Verheißung eines Nachkommen Davids wurde bereits in 2,30 annotiert."
+    },
+    {
+      "vers_von": 25, "von": 128, "vers_bis": 25, "bis": 146, "typ": "at",
+      "referenz": "Mal 3,1", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Maleachi3,1",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Der nach mir kommt« nur allgemein messianisch, keine tragende Vorlage."
+    },
+    {
+      "vers_von": 26, "von": 67, "vers_bis": 26, "bis": 88, "typ": "at",
+      "referenz": "Ps 115,9-11", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Psalm115,9-11",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 10,2 und 13,16."
+    },
+    {
+      "vers_von": 27, "von": 52, "vers_bis": 27, "bis": 91, "typ": "at",
+      "referenz": "4. Mo 15,27-30", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,27-30",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Unwissenheits-Motiv bei 3,17 schon aktiv annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 28, "von": 16, "vers_bis": 28, "bis": 55, "typ": "at",
+      "referenz": "5. Mo 21,22", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose21,22",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wortanklang an 5. Mo 21,22 (»todeswürdig«); 5. Mo 21,22-23 ist bei 5,30 schon aktiv, die Fortsetzung bei 13,29 inaktiv. Wiederholung."
+    },
+    {
+      "vers_von": 29, "von": 84, "vers_bis": 29, "bis": 148, "typ": "at",
+      "referenz": "5. Mo 21,22-23", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose21,22-23",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Die Abnahme vom Holz folgt 5. Mo 21,23; die Stelle ist bereits in 5,30 annotiert — Wiederholung."
+    },
+    {
+      "vers_von": 31, "von": 114, "vers_bis": 31, "bis": 162, "typ": "at",
+      "referenz": "Jes 43,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jesaja43,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Zeugen-Motiv wie 1,8 und 5,32 — Wiederholung."
+    },
+    {
+      "vers_von": 33, "von": 135, "vers_bis": 33, "bis": -1, "typ": "at",
+      "referenz": "Ps 2,7", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm2,7",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Ps 2 ist ein Krönungspsalm: Am Tag der Thronbesteigung erklärt Gott den König zu seinem »Sohn« — »heute« meint diesen Einsetzungstag. Hier wird der Tag auf die Auferweckung bezogen: Mit ihr setzt Gott Jesus als König ein."
+    },
+    {
+      "vers_von": 34, "von": 141, "vers_bis": 34, "bis": -1, "typ": "at",
+      "referenz": "Jes 55,3", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja55,3",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 55,3 verspricht die bleibenden Gnadenzusagen an David. Die griechische Übersetzung (LXX) nennt sie »die heiligen (Dinge)« — dasselbe Wort wie »dein Heiliger« im folgenden Psalmzitat. Über dieses Stichwort werden beide Stellen verknüpft: Die David-Verheißung gilt dem, der die Verwesung nicht sieht."
+    },
+    {
+      "vers_von": 35, "von": 44, "vers_bis": 35, "bis": -1, "typ": "at",
+      "referenz": "Ps 16,10", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Psalm16,10",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Der Menge-AT-Text sagt »deinen Frommen« und »Vernichtung«; die griechische Übersetzung (LXX) hat »deinen Heiligen« und »Verwesung«. Das Argument folgt in V36-37: David selbst ist verwest — der Satz kann also nicht ihn meinen, sondern nur den Auferweckten."
+    },
+    {
+      "vers_von": 36, "von": 99, "vers_bis": 36, "bis": 170, "typ": "at",
+      "referenz": "1. Kön 2,10", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/1.Koenige2,10",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Zu den Vätern versammelt« ist die übliche AT-Wendung für Sterben; Davids Tod und Grab bereits in 2,29 behandelt — kein eigener Bezug nötig."
+    },
+    {
+      "vers_von": 38, "von": 78, "vers_bis": 38, "bis": 102, "typ": "at",
+      "referenz": "Jer 31,34", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Jeremia31,34",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 3,19, 5,31 und 10,43."
+    },
+    {
+      "vers_von": 39, "von": 4, "vers_bis": 39, "bis": 93, "typ": "at",
+      "referenz": "4. Mo 15,27-31", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/4.Mose15,27-31",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Dass das Gesetz nicht »von allem« rechtfertigt, wird hier nicht aus einer bestimmten Stelle entwickelt. Die Unterscheidung vorsätzlich/unvorsätzlich (4. Mo 15) steht schon bei 3,17, und auch für Vorsätzliches kennt das Gesetz Sühne (3. Mo 5,20-26; 3. Mo 16,21)."
+    },
+    {
+      "vers_von": 39, "von": 95, "vers_bis": 39, "bis": 149, "typ": "at",
+      "referenz": "Hab 2,4", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Habakuk2,4",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Rechtfertigung aus Glauben ist inhaltlich mit Hab 2,4 und 1. Mo 15,6 verwandt, die Paulus in seinen Briefen zitiert; hier wird aber keine Stelle aufgegriffen."
+    },
+    {
+      "vers_von": 41, "von": 0, "vers_bis": 41, "bis": 171, "typ": "at",
+      "referenz": "Hab 1,5", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Habakuk1,5",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Bei Habakuk kündigt Gott ein unglaubliches Werk an: Er lässt die Babylonier (Chaldäer) als Gericht über sein Volk kommen. Der Menge-AT-Text sagt »Sehet euch um unter den Völkern«; die griechische Übersetzung (LXX) liest »ihr Verächter«. Wer Gottes neues Handeln verachtet, verfällt dem Gericht."
+    },
+    {
+      "vers_von": 43, "von": 99, "vers_bis": 43, "bis": 127, "typ": "at",
+      "referenz": "2. Mo 12,48", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,48",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Proselyten; die AT-Grundlage ist nicht tragend, schon bei 6,5 verworfen."
+    },
+    {
+      "vers_von": 45, "von": 43, "vers_bis": 45, "bis": 76, "typ": "at",
+      "referenz": "5. Mo 32,21", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/5.Mose32,21",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Gottes Ankündigung, Israel durch ein »Nicht-Volk« eifersüchtig zu machen, zitiert Paulus in Röm 10,19; hier ist Eifersucht schlicht Neid auf den Zulauf — kein Textbezug."
+    },
+    {
+      "vers_von": 46, "von": 159, "vers_bis": 46, "bis": 176, "typ": "at",
+      "referenz": "Dan 12,2", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Daniel12,2",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "»Ewiges Leben« steht im AT nur in Dan 12,2, war im 1. Jh. aber ein geläufiger jüdischer Begriff — kein spezifischer Verweis."
+    },
+    {
+      "vers_von": 47, "von": 34, "vers_bis": 47, "bis": 128, "typ": "at",
+      "referenz": "Jes 49,6", "vgl": false,
+      "url": "https://www.bibleserver.com/MENG/Jesaja49,6",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Jes 49,6 gehört zu den Liedern vom Gottesknecht: Es ist zu wenig, nur Israel wiederherzustellen — der Knecht soll Licht für die Heidenvölker sein. Hier beziehen die Boten den Auftrag auf sich: Ihr Gang zu den Heiden ist Gehorsam gegenüber der Schrift, kein Bruch mit Israel."
+    },
+    {
+      "vers_von": 48, "von": 86, "vers_bis": 48, "bis": 129, "typ": "at",
+      "vgl": true,
+      "urls": [
+        { "label": "Jes 4,3", "url": "https://www.bibleserver.com/MENG/Jesaja4,3" },
+        { "label": "Dan 12,1-2", "url": "https://www.bibleserver.com/MENG/Daniel12,1-2" }
+      ],
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Anklang an die »zum Leben Eingeschriebenen«; »verordnet« ohne AT-Vorlage."
+    },
+    {
+      "vers_von": 49, "von": 0, "vers_bis": 49, "bis": 43, "typ": "at",
+      "referenz": "2. Mo 1,7", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose1,7",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung der Wachstumsformel von 6,7 und 12,24."
+    },
+    {
+      "vers_von": 50, "von": 45, "vers_bis": 50, "bis": 74, "typ": "at",
+      "referenz": "2. Mo 12,48", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/2.Mose12,48",
+      "autor": "KI",
+      "status": "inaktiv",
+      "begruendung": "Wiederholung von 13,43 und 6,5."
+    },
+    {
+      "vers_von": 51, "von": 0, "vers_bis": 51, "bis": 70, "typ": "at",
+      "referenz": "Neh 5,13", "vgl": true,
+      "url": "https://www.bibleserver.com/MENG/Nehemia5,13",
+      "autor": "KI",
+      "status": "aktiv",
+      "begruendung": "Heidnisches Land galt im Judentum als unrein, schon sein Staub. Die Geste gilt den Verfolgern aus V50: Die Boten sagen sich von ihnen los wie von heidnischem Gebiet. Neh 5,13 kennt das Ausschütteln als öffentliches Zeichen, das Gottes Urteil herbeiruft."
+    }
+  ]
+}
